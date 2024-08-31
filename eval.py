@@ -1,8 +1,13 @@
 from HF_model import HF_Model 
 # import torch 
 import os 
+import torch
 import pandas as pd
 from tqdm import tqdm
+
+os.environ["TOKENIZERS_PARALLELISM"] = "false"
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+BATCH_SIZE = 16
 
 def get_model_list(path: str = "model/hf_path.txt"):
     
@@ -17,15 +22,14 @@ def get_data_list(path: str = "data"):
 
 def extract_name(model_path: str, data_path: str):
     model_name = model_path.split("/")[-1]
-    data_name = data_path.split("/")[-1]
+    data_name = data_path.split("/")[-1][:-4]
     return model_name + "+" + data_name
 
 def main():
-    # model_list = get_model_list()
-    model_list = ["Qwen/Qwen2-0.5B"]
+    model_list = get_model_list()
     data_list = get_data_list()
     for model_path in tqdm(model_list):
-        model = HF_Model(model_path)
+        model = HF_Model(model_path, device=DEVICE, batch_size=BATCH_SIZE)
         for data_path in tqdm(data_list):
             log_path = "logger" + "/" + extract_name(model_path, data_path)
             os.makedirs(log_path, exist_ok=True)

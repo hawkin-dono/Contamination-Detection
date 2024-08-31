@@ -2,47 +2,71 @@ from typing import Any, Dict, Tuple
 
 import torch
 import pandas as pd 
-from torchmetrics import MaxMetric, MeanMetric
-from torchmetrics.classification.accuracy import Accuracy
-# Use a pipeline as a high-level helper
-from transformers import pipeline
+from transformers import AutoTokenizer, AutoModelForCausalLM
 from rouge_score import rouge_scorer 
+from csv_dataset import CSV_Dataset
+from tqdm import tqdm
 
 class HF_Model():  
     def __init__(
         self,
         net: str, #huggingface model name
+        device = "cpu",
+        batch_size = 16,
     ) -> None:
         super().__init__()
-
-
-        self.net = pipeline("text-generation", model=net)
-        # loss function
+        self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B", padding_side= 'left')
+        self.model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2-0.5B")
+        self.model.to(device)
+        self.device = device
+        self.batch_size = batch_size
         self.rouge = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
 
-    def forward(self, x: str) -> str:
-        messages = [
-            {"role": "user", "content": x},
-        ]
-        return self.net(messages)[0]["generated_text"]
-
-
-    def predict_single_sample(
-        self, batch: Tuple[str, str]
-    ) -> Tuple[float, str, str]:
+    def predict_batch(self, batch):
+        def stop_generation(outputs, scores):
+            generated_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
+            if generated_text.endswith("\n") and generated_text[-20:].lower().find("answer") == -1:
+                return True
+            return False
         x, y = batch
-        answer = self.forward(x)
-        rouge = self.rouge.score(answer, y)["rougeL"].fmeasure
+        with torch.no_grad():
+            inputs = self.tokenizer(x, return_tensors="pt", padding= True).to(self.device)
+            generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id, stopping_criteria=[stop_generation])
+            answer = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
+            
+        rouge = []
+        for i in range(len(answer)):
+            answer[i] = answer[i][len(x[i]):]
+            rouge.append(self.rouge.score(answer[i], y[i])["rougeL"].fmeasure)
+        
         return answer, y, rouge
 
     def predict_dataframe(self, ds: pd.DataFrame) -> pd.DataFrame:
-        results = []
-        for _, row in ds.iterrows():
-            results.append(self.predict_single_sample(row["Question"], row["Label"]))
-        df = pd.DataFrame(
-            results, columns=["rouge", "answer", "y"]
-        )
-        score = df["rouge"].mean()
+        dataset = CSV_Dataset(ds)
+        data_loader = torch.utils.data.DataLoader(
+            dataset, batch_size= self.batch_size, shuffle=False, num_workers= 4)
+        
+        answer, label, rouge = [], [], []
+        
+        for batch in tqdm(data_loader):
+            tmp1, tmp2, tmp3 = (self.predict_batch(batch))
+            answer.extend(tmp1)
+            label.extend(tmp2)
+            rouge.extend(tmp3)
+        df = pd.DataFrame({"Question": ds.Question, "Answer": answer, "Label": label, "rouge_score": rouge})
+        score = df["rouge_score"].mean()
         
         return df, score
+    
+
+if __name__ == "__main__":
+    data_path = "data/mmlu_masked_wrong_answer.csv"
+    df = pd.read_csv(data_path)[:100]
+    
+    model = HF_Model("Qwen/Qwen2-0.5B", "cuda:0")
+    res, score = model.predict_dataframe(df)
+    res.to_csv("result.csv")
+    
+    with open("score.txt", "w") as f:
+        f.write(str(score))
     
