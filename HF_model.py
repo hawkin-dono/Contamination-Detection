@@ -15,8 +15,8 @@ class HF_Model():
         batch_size = 16,
     ) -> None:
         super().__init__()
-        self.tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B", padding_side= 'left')
-        self.model = AutoModelForCausalLM.from_pretrained("Qwen/Qwen2-0.5B")
+        self.tokenizer = AutoTokenizer.from_pretrained(net, padding_side= 'left')
+        self.model = AutoModelForCausalLM.from_pretrained(net)
         self.model.to(device)
         self.device = device
         self.batch_size = batch_size
