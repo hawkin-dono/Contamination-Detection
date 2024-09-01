@@ -1,0 +1,160 @@
+,Question,Answer,Label,rouge_score
+0,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
+Lựa chọn: 
+A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
+B: Mặc kệ vì không liên quan đến mình.
+C: Cùng với A đánh B cho vui.
+D: []
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết. 
+",Chạy đi chỗ khác chơi.,0.35714285714285715
+1,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Trên đường đi học về em nhìn thấy một thanh niên đi xe máy phóng nhanh vượt ẩu gây tai nạn khiến 1 em học sinh bị ngã gãy tay. Trong tình huống đó em sẽ làm gì?
+Lựa chọn: 
+A: []
+B: Nhờ sự giúp đỡ của người lớn, đưa em bé đó đến bệnh viện và gọi điện cho gia đình của em đó.
+C: Đèo em bé đó đến gặp công an.
+D: Đạp thật nhanh về nhà.
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+A: Đưa em bé đó đến bệnh viện và gọi điện cho gia đình của em đó. 
+",Lờ đi chỗ khác và coi như không biết.,0.12121212121212123
+2,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Câu thành ngữ: Gió chiều nào theo chiều ấy nói về người như thế nào?
+Lựa chọn: 
+A: []
+B: Không trung thực.
+C: Không chín chắn.
+D: Không có ý thức.
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+A: **Gió chiều nào theo chiều ấy nói về người như thế nào?** 
+",Không tôn trọng lẽ phải.,0.20689655172413793
+3,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Em rèn tính liêm khiết trong học tập là:
+Lựa chọn: 
+A: Nhiệt tình giúp đỡ mọi người mà không tính toán, không vụ lợi
+B: Làm giàu bằng chính sức lực, tài năng của mình
+C: []
+D: Tất cả đáp án trên
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C: **Làm giàu bằng chính sức lực, tài năng của mình** 
+",Nhặt được của rơi trả lại cho người bị mất,0.3157894736842105
+4,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Không hám danh, hám lợi, không nhỏ nhen, ích kỉ được gọi là?
+Lựa chọn: 
+A: Liêm khiết.
+B: []
+C: Lẽ phải.
+D: Khiêm tốn.
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+B: Liêm khiết. 
+ 
+",Công bằng.,0.2
+5,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Vào lúc 12h đêm nhà hàng xóm vẫn bật nhạc hát karaoke. Trong tình huống này em sẽ làm gì?
+Lựa chọn: 
+A: Mặc kệ.
+B: Sang đánh nhà hàng xóm.
+C: []
+D: Sang nhà hàng xóm khuyên họ tắt máy vì đêm đã khuya nên để mọi người ngủ.
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+Sang nhà hàng xóm khuyên họ tắt máy vì đêm đã khuya nên để mọi người ngủ. 
+",Sang chửi nhà hàng xóm.,0.375
+6,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Những hành vi nào sau đây thể hiện không tôn trọng người khác:
+Lựa chọn: 
+A: Đi nhẹ, nói khẽ trong bệnh viện
+B: Châm chọc, chế giễu người khuyết tật.
+C: []
+D: Tự nhận lỗi về mình
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C: **Châm chọc, chế giễu người khuyết tật.** 
+",Biết lắng nghe ý kiến của mọi người.,0.28571428571428575
+7,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Một vài câu ca dao, tục ngữ nói về sự tôn trọng người khác:
+Lựa chọn: 
+A: []
+B: Lời nói không mất tiền mua
+Lựa lời mà nói cho vừa lòng nhau
+C: Cười người hôm trước, hôm sau người cười
+D: Tất cả các ý trên
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+D: Tất cả các ý trên 
+ 
+ 
+","Khó mà biết lẽ biết lời
+Biết ăn biết ở hơn người giàu sang
+
+",0.2
+8,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Câu tục ngữ: Nói lời phải giữ lấy lời, đừng như con bướm đậu rồi lại bay nói đến điều gì
+Lựa chọn: 
+A: Lòng chung thủy.
+B: Lòng trung thành.
+C: Giữ chữ tín.
+D: []
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C: Giữ chữ tín. 
+ 
+",Lòng vị tha.,0.0
+9,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Coi trọng lòng tin của mọi người đối với mình, biết trọng lời hứa và tin tưởng nhau được gọi là?
+Lựa chọn: 
+A: []
+B: Công bằng.
+C: Lẽ phải.
+D: Giữ chữ tín.
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+D: Giữ chữ tín. 
+ 
+",Liêm khiết.,0.2

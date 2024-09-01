@@ -1,0 +1,167 @@
+,Question,Answer,Label,rouge_score
+0,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Một nền kinh tế trong trạng thái toàn dụng nhân công có nghĩa là:
+Lựa chọn: 
+A. Không còn lạm phát nhưng có thể còn thất nghiệp
+[]
+C. Không còn thất nghiệp và không còn lạm phát
+D. Vẫn còn một tỷ lệ lạm phát và tỷ lệ thất nghiệp nhất định
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+A. 
+ 
+ 
+ 
+",B. Không còn thất nghiệp nhưng có thể còn lạm phát,0.0
+1,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Trong cơ chế tỷ giá hối đoái cố định, muốn triệt tiêu lượng dư cung ngoại tệ, NHTƯ  phải:
+Lựa chọn: 
+A. Dùng ngoại tệ để mua nội tệ
+B. Dùng nội tệ để mua ngoại tệ
+[]
+D. Các lựa chọn đều sai
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+B 
+ 
+ 
+ 
+ 
+",C. Không can thiệp vào thị trường ngoại hối,0.0
+2,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Tỷ  giá thay đổi sẽ ảnh hưởng đến
+Lựa chọn: 
+A. Cán cân thương mại
+[]
+C. Sản lượng quốc gia
+D. Các lựa chọn đều đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+[] **C. Sản lượng quốc gia** 
+",B. Cán cân thanh toán,0.35294117647058826
+3,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Theo lý thuyết của Keynes, những chính sách nào sau đây thích hợp nhất nhằm giảm tỷ lệ  thất nghiệp:
+Lựa chọn: 
+A. Giảm thuế và gia tăng số mua hàng hóa của chính phủ
+B. Tăng thuế và giảm số mua hàng hóa của chính phủ
+C. Tăng thuế thu nhập và tăng số mua hàng hóa của chính phủ
+[]
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+A. Giảm thuế và gia tăng số mua hàng hóa của chính phủ 
+","D. Phá giá, giảm thuế và giảm số mua hàng hóa của chính phủ",0.75
+4,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Chính sách nào của chính phủ sẽ làm kinh tế tăng trưởng nhiều nhất
+Lựa chọn: 
+A. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và giảm thâm hụt
+B. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+[]
+D. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+**B. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt** 
+","C. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và giảm thâm hụt",0.8135593220338982
+5,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Nếu những người cho vay và đi vay thống nhất về một mức lãi suất danh nghĩa nào đó và lạm phát trong thực tế lại thấp hơn so với mức mà họ kỳ vọng thì:
+Lựa chọn: 
+A. Người đi vay sẽ được lợi và người cho vay bị thiệt
+[]
+C. Cả người đi vay và người cho vay đều không được lợi vì lãi suất danh nghĩa được cố định theo hợp đồng
+D. Các lựa chọn đều không đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C. Cả người đi vay và người cho vay đều không được lợi vì lãi suất danh nghĩa được cố định theo hợp đồng 
+",B. Người cho vay được lợi và người đi vay bị thiệt,0.40816326530612246
+6,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Hàm số tiêu dùng: C = 20 + 0,9 Y (Y:thu nhập). Tiết kiệm S ở mức thu nhập  khả dụng 100 là:
+Lựa chọn: 
+A. S = 10
+B. S = 0
+[]
+D. Không thể tính được
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+[] **B** 
+ 
+ 
+",C. S = -10,0.0
+7,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Tác động “hất ra” (hay còn gọi là tác động lấn át) của chính sách tài chính là do:
+Lựa chọn: 
+[]
+B. Tăng chi tiêu của chính phủ làm tăng lãi suất, dẫn tới giảm đầu tư, làm giảm hiệu lực kích thích tổng cầu
+C. Giảm chi tiêu của chính phủ làm tăng lãi suất, dẫn tới giảm đầu tư, làm giảm hiệu lực kích thích tổng cầu
+D. Giảm chi tiêu của chính phủ, làm giảm lãi suất, dẫn tới tăng đầu tư, làm tăng hiệu lực kích thích tổng cầu
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C. 
+Giảm chi tiêu của chính phủ làm tăng lãi suất, dẫn tới giảm đầu tư, làm giảm hiệu lực kích thích tổng cầu 
+","A. Tăng chi tiêu của chính phủ làm giảm lãi suất, dẫn tới tăng đầu tư, làm tăng hiệu lực kích thích tổng cầu",0.7816091954022988
+8,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Theo lý thuyết xác định sản lượng (được minh họa bằng đồ thị có đường 450), nếu tổng chi tiêu kế hoạch (tổng cầu dự kiến) lớn hơn GDP thực (hoặc sản lượng) thì:
+Lựa chọn: 
+[]
+B. Các doanh nghiệp sẽ tăng hoặc giảm sản lượng tuỳ theo tình hình tồn kho thực tế là ít hơn hay nhiều hơn mức tồn kho dự kiến
+C. Các doanh nghiệp sẽ không thay đổi sản lượng vì tồn kho thực tế đã bằng mức tồn kho dự kiến
+D. Các doanh nghiệp sẽ tăng sản lượng để bổ sung tồn kho cho đủ mức tồn kho dự kiến
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+D. 
+ 
+ 
+ 
+",A. Các doanh nghiệp sẽ giảm sản lượng để giải phóng thặng dư tồn kho so với mức tồn kho dự kiến,0.05555555555555555
+9,"<bos><start_of_turn>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Mở rộng tiền tệ (hoặc nới lỏng tiền tệ):
+Lựa chọn: 
+[]
+B. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách tăng lãi suất chiết khấu, tăng tỷ lệ dự trữ bắt buộc, hoặc bán ra chứng khoán nhà nước
+C. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách hạ lãi suất chiết khấu, giảm tỷ lệ dự trữ bắt buộc, hoặc mua các chứng khoán nhà nước
+D. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách phát hành trái phiếu chính phủ
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.<end_of_turn>
+<start_of_turn>model
+",".
+model
+C. 
+ 
+ 
+ 
+","A. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách giảm thuế, tăng trợ cấp xã hội, hoặc tăng chi tiêu ngân sách",0.04347826086956522
