@@ -36,8 +36,8 @@ def extract_name(model_path: str, data_path: str):
     return model_name + "+" + data_name
 
 def main():
-    # model_list = get_model_list(search_key_word= "google/gemma-2-2b-it")
-    model_list = get_model_list()
+    model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
+    # model_list = get_model_list()
     data_list = get_data_list()
     
     print(model_list)
@@ -49,7 +49,7 @@ def main():
             log_path = "logger" + "/" + extract_name(model_path, data_path)
             os.makedirs(log_path, exist_ok=True)
             # df = pd.read_csv(data_path)[:10]
-            df = pd.read_csv(data_path)
+            df = pd.read_csv(data_path).sample(600)
             res, score = model.predict_dataframe(df)
             res.to_csv(log_path + "/result.csv")
             with open(log_path + "/score.txt", "w") as f:

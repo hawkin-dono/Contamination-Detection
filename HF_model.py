@@ -126,34 +126,36 @@ class HF_Model():
     
 
 if __name__ == "__main__":
-    def test_single_sample(model_name: str, device: str):
-        model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
-        x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
-Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
-Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
+    # def test_single_sample(model_name: str, device: str):
+        # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
+    model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
+                    model_library="LlamaForCausalLM")
+    x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
 Lựa chọn: 
 A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
 B: Mặc kệ vì không liên quan đến mình.
-C: Cùng với A đánh B cho vui.
-D: []
+C: []
+D: Chạy đi chỗ khác chơi.
 Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
 """
-        x = model.apply_chat_template_sample(x)
-        y = "Chạy đi chỗ khác chơi."
-        answer, y, rouge = model.predict_batch(([x], [y]))
-        print(answer)
-        print(rouge)
-    def test_dataframe():
-        data_path = "data/domain_masked_wrong_answer.csv"
-        df = pd.read_csv(data_path)[:10]
+    x = model.apply_chat_template_sample(x)
+    print(x)
+    y = "Chạy đi chỗ khác chơi."
+    answer, y, rouge = model.predict_batch(([x], [y]))
+    print(answer)
+    print(rouge)
+    # def test_dataframe():
+    #     data_path = "data/domain_masked_wrong_answer.csv"
+    #     df = pd.read_csv(data_path)[:10]
         
-        model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:0", apply_chat_template=True, quantized=True,
-                        model_library="LlamaForCausalLM")
-        res, score = model.predict_dataframe(df)
-        res.to_csv("result.csv")
+    #     model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:0", apply_chat_template=True, quantized=True,
+    #                     model_library="LlamaForCausalLM")
+    #     res, score = model.predict_dataframe(df)
+    #     res.to_csv("result.csv")
         
-        with open("score.txt", "w") as f:
-            f.write(str(score))
+    #     with open("score.txt", "w") as f:
+    #         f.write(str(score))
         
-    test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
+    # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
     # test_dataframe()        
