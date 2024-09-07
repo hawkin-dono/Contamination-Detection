@@ -50,7 +50,7 @@ def main():
             os.makedirs(log_path, exist_ok=True)
             # df = pd.read_csv(data_path)[:10]
             df = pd.read_csv(data_path).sample(600)
-            res, score = model.predict_dataframe(df)
+            res, score = model.predict_dataframe(df, size= None, type= "mask_half_question")
             res.to_csv(log_path + "/result.csv")
             with open(log_path + "/score.txt", "w") as f:
                 f.write(str(score))

@@ -6,6 +6,7 @@ from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig
 from rouge_score import rouge_scorer 
 from csv_dataset import CSV_Dataset
 from tqdm import tqdm
+from prompt_format import Prompt_format
 
 import os
 os.environ["HF_TOKEN"] = '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'
@@ -14,7 +15,7 @@ class HF_Model():
         self,
         model_name: str, #huggingface model name
         device = "cpu",
-        batch_size = 16,
+        batch_size = 4,
         quantized: bool = False,
         apply_chat_template = False ,
         model_library: str = "AutoModelForCausalLM"  
@@ -74,40 +75,70 @@ class HF_Model():
             raise ValueError("model_library must be one of the following: AutoModelForCausalLM, LlamaForCausalLM, Phi3ForCausalLM")
         return model
         
-    def apply_chat_template_sample(self, s: str):
+    def apply_chat_template_sample(self, question: str, fed_prompt: str):
         
-        messages = [{"role": "user", "content": s}]
+        messages = [
+            {"role": "user", "content": question},
+            {"role": "assistant", "content": fed_prompt}
+        ]
         prompt = self.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
         return prompt
 
+    def extract_answer(self, question, response, fed_prompt):
+        if not fed_prompt:
+            finding_part = question.split(".")[-2]
+            index = response.find(finding_part)
+            answer = response[index + len(finding_part):]
+            return answer
+        else:
+            idx = question.find(fed_prompt)
+            question = question[idx + len(fed_prompt):]
+            idx = question.find(fed_prompt)
+            answer = question[idx + len(fed_prompt):]
+            
+            return answer
+            
+        
     def predict_batch(self, batch):
         def stop_generation(outputs, scores):
             generated_text = self.tokenizer.decode(outputs[0], skip_special_tokens=True)
             if generated_text.endswith("\n") and generated_text[-20:].lower().find("answer") == -1:
                 return True
             return False
-        x, y = batch
-        # print(x)
+        x, y, fed_prompt = batch
         with torch.no_grad():
             inputs = self.tokenizer(x, return_tensors="pt", padding= True, ).to(self.device)
             # generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id, stopping_criteria=[stop_generation])
             generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id)
-            answer = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
+            response = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
             
         rouge = []
-        # print(answer)
-        for i in range(len(answer)):
-            finding_part = x[i].split(".")[-2]
-            index = answer[i].find(finding_part)
-            answer[i] = answer[i][index + len(finding_part):]
+        answer = ["" for i in range(len(x))]
+        for i in range(len(response)):
+            answer[i] = self.extract_answer(x[i], response[i], fed_prompt[i])
             rouge.append(self.rouge.score(answer[i], y[i])["rougeL"].fmeasure)
-        # print(answer)
         
         return answer, y, rouge
 
-    def predict_dataframe(self, ds: pd.DataFrame) -> pd.DataFrame:
+    def predict_dataframe(self, data_path: str, size: int= None, type: str = None) -> pd.DataFrame:
+        """
+        predict on a 
+        
+        Inputs:
+            data_path: str: path to the data
+            size: int: number of samples to predict
+            type: str: type of the data: "mask_wrong_answer", "mask_half_question", "shuffle_true_answer"
+        Outputs:
+            df: pd.DataFrame: dataframe with 4 columns: Question, Answer, Label, rouge_score
+        """
+        prompt_formator = Prompt_format(data_path)
+        ds: pd.DataFrame = prompt_formator.format(type)
+        if size is not None:
+            ds = ds.sample(size)
         if self.apply_chat_template == True: 
-            ds.Question = ds.Question.apply(self.apply_chat_template_sample)
+            for _, row in ds.iterrows():
+                row["Quesiton"] = self.apply_chat_template_sample(row["Question"], row["Fed_prompt"])
+        
         dataset = CSV_Dataset(ds)
         data_loader = torch.utils.data.DataLoader(
             dataset, batch_size= self.batch_size, shuffle=False, num_workers= 4)
@@ -126,36 +157,35 @@ class HF_Model():
     
 
 if __name__ == "__main__":
-    # def test_single_sample(model_name: str, device: str):
+    def test_single_sample(model_name: str, device: str):
         # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
-    model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
-                    model_library="LlamaForCausalLM")
-    x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
-### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
-Lựa chọn: 
-A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
-B: Mặc kệ vì không liên quan đến mình.
-C: []
-D: Chạy đi chỗ khác chơi.
-Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
-"""
-    x = model.apply_chat_template_sample(x)
-    print(x)
-    y = "Chạy đi chỗ khác chơi."
-    answer, y, rouge = model.predict_batch(([x], [y]))
-    print(answer)
-    print(rouge)
-    # def test_dataframe():
-    #     data_path = "data/domain_masked_wrong_answer.csv"
-    #     df = pd.read_csv(data_path)[:10]
+        model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
+                        model_library="LlamaForCausalLM")
+        x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+    ### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
+    Lựa chọn: 
+    A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
+    B: Mặc kệ vì không liên quan đến mình.
+    C: []
+    D: Chạy đi chỗ khác chơi.
+    Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+    """
+        x = model.apply_chat_template_sample(x)
+        print(x)
+        y = "Chạy đi chỗ khác chơi."
+        answer, y, rouge = model.predict_batch(([x], [y]))
+        print(answer)
+        print(rouge)
+    def test_dataframe():
+        data_path = "data/domain.csv"
         
-    #     model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:0", apply_chat_template=True, quantized=True,
-    #                     model_library="LlamaForCausalLM")
-    #     res, score = model.predict_dataframe(df)
-    #     res.to_csv("result.csv")
+        model = HF_Model(model_name="Qwen/Qwen2-0.5B", device="cuda:0", apply_chat_template=True, quantized=True,
+                        model_library="AutoModelForCausalLM")
+        res, score = model.predict_dataframe(data_path, type= "mask_half_question", size= 10)
+        res.to_csv("result.csv")
         
-    #     with open("score.txt", "w") as f:
-    #         f.write(str(score))
+        with open("score.txt", "w") as f:
+            f.write(str(score))
         
     # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
-    # test_dataframe()        
+    test_dataframe()        
