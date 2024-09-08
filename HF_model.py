@@ -3,10 +3,10 @@ from typing import Any, Dict, Tuple
 import torch
 import pandas as pd 
 from transformers import AutoTokenizer, AutoModelForCausalLM, BitsAndBytesConfig, LlamaForCausalLM, Phi3ForCausalLM
-from rouge_score import rouge_scorer 
 from csv_dataset import CSV_Dataset
 from tqdm import tqdm
 from prompt_format import Prompt_format
+from rouge_scorer import Rougescore
 
 import os
 os.environ["HF_TOKEN"] = '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'
@@ -29,8 +29,8 @@ class HF_Model():
             
         self.device = device
         self.batch_size = batch_size
-        self.rouge = rouge_scorer.RougeScorer(['rougeL'], use_stemmer=True)
         self.apply_chat_template = apply_chat_template
+        self.rouge_scorer = Rougescore(self.tokenizer)
         
     def load_model(self, model_name: str, model_library: str, quantized: bool = False):
         access_token = "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"
@@ -81,8 +81,10 @@ class HF_Model():
             {"role": "user", "content": question},
             {"role": "assistant", "content": fed_prompt}
         ]
-        prompt = self.tokenizer.apply_chat_template(messages, tokenize=False, add_generation_prompt=True)
-        return prompt
+        inputs = self.tokenizer.apply_chat_template(messages, tokenize=True, continue_final_message=True)[:-2]
+        inputs = self.tokenizer.decode(inputs)
+        
+        return inputs
 
     def extract_answer(self, question, response, fed_prompt):
         if not fed_prompt:
@@ -91,11 +93,10 @@ class HF_Model():
             answer = response[index + len(finding_part):]
             return answer
         else:
-            idx = question.find(fed_prompt)
-            question = question[idx + len(fed_prompt):]
-            idx = question.find(fed_prompt)
-            answer = question[idx + len(fed_prompt):]
-            
+            idx = response.find(fed_prompt)
+            response = response[idx + len(fed_prompt):]
+            idx = response.find(fed_prompt)
+            answer = response[idx + len(fed_prompt):]
             return answer
             
         
@@ -105,39 +106,43 @@ class HF_Model():
             if generated_text.endswith("\n") and generated_text[-20:].lower().find("answer") == -1:
                 return True
             return False
+        
         x, y, fed_prompt = batch
+        if self.apply_chat_template == True: 
+            if fed_prompt is None:
+                fed_prompt = ["" for i in range(len(x))]
+            input = [self.apply_chat_template_sample(x[i], fed_prompt[i]) for i in range(len(x))]
+            
         with torch.no_grad():
-            inputs = self.tokenizer(x, return_tensors="pt", padding= True, ).to(self.device)
+            inputs = self.tokenizer(input, return_tensors= "pt", padding= True, truncation= True).to(self.device)
             # generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id, stopping_criteria=[stop_generation])
-            generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id)
+            generate_ids = self.model.generate(**inputs, max_new_tokens= 100, pad_token_id=self.tokenizer.eos_token_id)
             response = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
             
         rouge = []
-        answer = ["" for i in range(len(x))]
+        answer = response
         for i in range(len(response)):
             answer[i] = self.extract_answer(x[i], response[i], fed_prompt[i])
-            rouge.append(self.rouge.score(answer[i], y[i])["rougeL"].fmeasure)
+            rouge.append(self.rouge_scorer.compute(answer[i], y[i]))
         
         return answer, y, rouge
 
-    def predict_dataframe(self, data_path: str, size: int= None, type: str = None) -> pd.DataFrame:
+    def predict_dataframe(self, data_path: str, size: int= None, process_type: str = None) -> pd.DataFrame:
         """
-        predict on a 
+        predict on a dataframe with 3 columns: Question, Answer, Fed_prompt
         
         Inputs:
             data_path: str: path to the data
             size: int: number of samples to predict
-            type: str: type of the data: "mask_wrong_answer", "mask_half_question", "shuffle_true_answer"
+            process_type: str: process_type of the data: "mask_wrong_answer", "mask_half_question", "shuffle_true_answer"
         Outputs:
             df: pd.DataFrame: dataframe with 4 columns: Question, Answer, Label, rouge_score
         """
         prompt_formator = Prompt_format(data_path)
-        ds: pd.DataFrame = prompt_formator.format(type)
+        ds: pd.DataFrame = prompt_formator.format(process_type= process_type)
         if size is not None:
             ds = ds.sample(size)
-        if self.apply_chat_template == True: 
-            for _, row in ds.iterrows():
-                row["Quesiton"] = self.apply_chat_template_sample(row["Question"], row["Fed_prompt"])
+            ds.reset_index(inplace=True)
         
         dataset = CSV_Dataset(ds)
         data_loader = torch.utils.data.DataLoader(
@@ -179,13 +184,63 @@ if __name__ == "__main__":
     def test_dataframe():
         data_path = "data/domain.csv"
         
-        model = HF_Model(model_name="Qwen/Qwen2-0.5B", device="cuda:0", apply_chat_template=True, quantized=True,
+        model = HF_Model(model_name="Qwen/Qwen2-0.5B", device="cuda:1", apply_chat_template=True, quantized=True,
                         model_library="AutoModelForCausalLM")
-        res, score = model.predict_dataframe(data_path, type= "mask_half_question", size= 10)
+        res, score = model.predict_dataframe(data_path, process_type= "mask_half_question", size= 10)
         res.to_csv("result.csv")
         
         with open("score.txt", "w") as f:
             f.write(str(score))
         
+    def test_apply_chat_template():
+        tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B")
+        question = """Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong [MASKED]
+### Lựa chọn:
+A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết. 
+B: Mặc kệ vì không liên quan đến mình.
+C: Cùng với A đánh B cho vui. 
+D: Chạy đi chỗ khác chơi."""
+        fed_prompt= "Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong"
+        messages = [
+            {"role": "user", "content": question},
+            {"role": "assistant", "content": fed_prompt}
+        ]
+        inputs = tokenizer.apply_chat_template(messages, tokenize=False, continue_final_message=True)
+        print(inputs)
+    def test_extract_answer():
+        response = """system
+You are a helpful assistant
+user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Hai cốc thủy tinh chồng lên nhau bị khít lại. [MASKED]
+### Lựa chọn:
+A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
+B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên
+C: Ngâm cả hau cốc vào nước nóng 
+D: Ngâm cả hai cốc vào nước lạnh
+assistant
+Hai cốc thủy tinh chồng lên nhau bị khít lại. Bạn có thể chọn một trong các lựa chọn sau:
+
+A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
+
+B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên. 
+
+C: Ngâm cả hai cốc vào nước nóng. 
+
+D: Ngâm cả hai cốc vào nước lạnh. 
+
+Vì vậy, bạn có thể chọn A hoặc B. Bạn có thể"""
+        fed_prompt = "Hai cốc thủy tinh chồng lên nhau bị khít lại."
+        
+        idx = response.find(fed_prompt)
+        response = response[idx + len(fed_prompt):]
+        idx = response.find(fed_prompt)
+        answer = response[idx + len(fed_prompt):]
+        print(answer)
+    
+    # test_apply_chat_template()    
     # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
-    test_dataframe()        
+    test_dataframe() 
+    # test_extract_answer()
+       

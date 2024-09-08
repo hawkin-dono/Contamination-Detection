@@ -10,24 +10,24 @@ class Prompt_format():
             self.lang = "en"
         else: 
             self.lang = "vi"
+        self.df = pd.read_csv(data_path)
             
-    def format(self, type = None, prompt_prefix= None, prompt_suffix= None, save_path= None):   
+    def format(self, process_type = None, prompt_prefix= None, prompt_suffix= None, save_path= None):   
         """
-        format question with given type : "mask_wrong_answer", "mask_half_question", "shuffle_true_answer" 
+        format question with given process_type : "mask_wrong_answer", "mask_half_question", "shuffle_true_answer" 
         return a dataframe with 2 column: Question and Label
         """
-        df = pd.read_csv(self.data_path)
-        if type == "mask_wrong_answer":
-            return self.mask_wrong_answer(df, prompt_prefix, prompt_suffix, save_path)
-        elif type == "mask_half_question":
-            return self.mask_half_question(df, prompt_prefix, prompt_suffix, save_path)
-        elif type == "shuffle_true_answer":
-            return self.shuffle_true_answer(df, prompt_prefix, prompt_suffix, save_path)
+        if process_type == "mask_wrong_answer":
+            return self.mask_wrong_answer(prompt_prefix, prompt_suffix, save_path)
+        elif process_type == "mask_half_question":
+            return self.mask_half_question(prompt_prefix, prompt_suffix, save_path)
+        elif process_type == "shuffle_true_answer":
+            return self.shuffle_true_answer(prompt_prefix, prompt_suffix, save_path)
         else: 
-            raise ValueError("Type is not valid")
-    def mask_wrong_answer(self, df: pd.DataFrame, prompt_prefix= None, prompt_suffix= None, save_path= None):
+            raise ValueError("process_type is not valid")
+    def mask_wrong_answer(self, prompt_prefix= None, prompt_suffix= None, save_path= None):
         pass
-    def mask_half_question(self, df: pd.DataFrame, prompt_prefix= None, prompt_suffix= None, save_path= None):
+    def mask_half_question(self, prompt_prefix= None, prompt_suffix= None, save_path= None):
         """
         mask half question
         """
@@ -58,10 +58,10 @@ D: {}
             else: 
                 prompt_prefix = "Fill in the <MASKED> part in the following sentence to complete a multiple choice question:"
         if not prompt_suffix: prompt_suffix = ""
-        df = df.loc[df["Question"].apply(lambda x: len(x.split()) > 8)]
+        self.df = self.df.loc[self.df["Question"].apply(lambda x: len(x.split()) > 8)]
         
         res = [] 
-        for i, row in df.iterrows():
+        for i, row in self.df.iterrows():
             res.append(mask(row))
         res = pd.DataFrame(res, columns= ["Question", "Label", "Fed_prompt"])
         if save_path:
