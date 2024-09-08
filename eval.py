@@ -36,7 +36,8 @@ def extract_name(model_path: str, data_path: str):
     return model_name + "+" + data_name
 
 def main():
-    model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
+    # model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
+    model_list = get_model_list()
     data_list = get_data_list()
     
     print(model_list)
