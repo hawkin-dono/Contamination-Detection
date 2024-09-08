@@ -140,7 +140,7 @@ class HF_Model():
         """
         prompt_formator = Prompt_format(data_path)
         ds: pd.DataFrame = prompt_formator.format(process_type= process_type)
-        if size is not None:
+        if size is not None and size < len(ds):
             ds = ds.sample(size)
             ds.reset_index(inplace=True)
         
