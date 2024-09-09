@@ -10,6 +10,25 @@ os.environ["HF_TOKEN"] = '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'
 DIR = Path(__file__).parent.resolve()
 DATA_ROOT = f'{DIR}/logger'
 
+def modded_ROUGE_L(preds, target, tokenizer, normalizer):
+    preds = tokenizer(normalizer(preds))
+    target = tokenizer(normalizer(target))
+    m = len(preds)
+    n = len(target)
+    dp = [[0 for _ in range(n+1)] for _ in range(m+1)]
+    for i in range(1, m+1):
+        for j in range(1, n+1):
+            if preds[i-1] == target[j-1]:
+                dp[i][j] = dp[i-1][j-1] + 1
+            else:
+                dp[i][j] = max(dp[i-1][j], dp[i][j-1])
+    lcs = dp[m][n]
+    precision = lcs / m
+    recall = lcs / n
+    f1 = 2 * precision * recall / (precision + recall)
+    return f1 
+
+
 def normalizer(text):
     text = re.sub(r"[^a-z0-9àáạảãâầấậẩẫăằắặẳẵèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹđ]+", " ", text.lower())
     text = text.strip(" ")
@@ -39,6 +58,7 @@ def run(path, model_name):
 
     return df["check_score"].mean()
 
+
 def get_model_path(data_path): 
     model = data_path.split('+')[0]
     model_list = pd.read_csv(f'{DIR}/model/hf_model.csv')
@@ -48,17 +68,26 @@ def get_model_path(data_path):
             model = m
     return model
 
+
 def eval_score(data):
     data_path = f'{DATA_ROOT}/{data}'
     model_path = get_model_path(data)
     run(data_path, model_path)
+
 
 def main():
     all_data = os.listdir(DATA_ROOT)
     # for data in tqdm(all_data):
         # print(data)
         # eval_score(data)
-    eval_score('gemma-2-2b-it+domain_masked_wrong_answer')
+    # eval_score('gemma-2-2b-it+domain_masked_wrong_answer')
+    a = """. model A: **Đưa em bé đó đến bệnh viện và gọi điện cho gia đình của em đó.** 
+    """
+    b = """Lờ đi chỗ khác và coi như không biết."""
+    model = 'google/gemma-2-2b-it'
+    tokenizer = AutoTokenizer.from_pretrained(model)
+    print(modded_ROUGE_L(a, b, tokenizer.tokenize, normalizer))
+
 
 if __name__ == "__main__":
     main()

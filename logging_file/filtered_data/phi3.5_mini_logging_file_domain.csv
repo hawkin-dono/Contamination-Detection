@@ -1,0 +1,2108 @@
+predict,label,score,Subject,retained
+Đi thoát lại giữa các bạn và tránh tình huống đánh.,Cùng với A đánh B cho vui.,0.25,civic_education,True
+"Đứng tránh lính, tránh tai nạn và tránh những người không có lợi nhuân.",Đèo em bé đó đến gặp công an.,0.125,civic_education,True
+Động gi lif,Không tôn trọng lẽ phải.,0.0869999974966049,civic_education,True
+Đáp án trên,"Nhiệt tình giúp đỡ mọi người mà không tính toán, không vụ lợi",0.1176000013947486,civic_education,True
+Đội thúc.,Khiêm tốn.,0.0,civic_education,True
+Đàn ếch nhà hàng xóm.,Sang đánh nhà hàng xóm.,0.7407000064849854,civic_education,True
+Đồng tích hợp với người khác và cùng hợp tại một cuộc họp.,Tự nhận lỗi về mình,0.1429000049829483,civic_education,True
+"Cười người hôm trước, hôm sau người cười",Lời nói không mất tiền mua,0.1777999997138977,civic_education,True
+Định nghĩa về tinh thần.,Lòng vị tha.,0.1738999933004379,civic_education,True
+Độ tinh thần.,Liêm khiết.,0.0,civic_education,True
+Điều lệ.,Công bằng.,0.0,civic_education,True
+"Đảm bảo an toàn, sự trọng tâm, và bảo hộ trong hệ thống thiếu niên.",Giúp cho mọi người tôn trọng nhau hơn.,0.1310999989509582,civic_education,False
+ở trên trời có cá thể,Phép vua thua lệ làng,0.0833000019192695,civic_education,True
+"Đẩy tình yêu cầu cảm thấy tích của, sự đồng hành và động vi trong gia đình.",Giúp cho mọi người gần nhau hơn.,0.1111000031232833,civic_education,False
+Độ tuộc.,Tình đồng chí.,0.25,civic_education,True
+"Đồng cảm, đồng bội sâu sắc với nhau.",Phù hợp với nhau về quan niệm sống.,0.2608999907970428,civic_education,True
+"Ý kiến: Tình bạn có thể trong sáng, lành mạnh giữa hai người khác giống nhau.",Bạn bè phải biết bảo vệ nhau trong mọi trường hợp.,0.2632000148296356,civic_education,False
+"Đầu tiên, D có thể nhắc nhỏ bạn, khuyên bạn không vi phạm kỉ luật này, sau đó nhờ bạn D cho xem tài liệu cùng, đồng thời giúp bạn nhằm tránh vi phạm kỉ luật này trong giờ kiểm tra.",Nói với cô giáo để bạn bị phạt.,0.163000002503395,civic_education,True
+Đồng thái và kính thưởng viên trong nhân thể của gia đình bà E.,Gia đình bà E tích cực tham gia các hoạt động chính trị - xã hội.,0.2563999891281128,civic_education,True
+,Nhà nước.,0.0,civic_education,True
+"Đột tránh, bức huyết trầm cảnh, sự nghèo, tràn trùng, tránh tránh sự nghiệp.","Rối loạn trật tự xã hội, suy thoái giống nòi dân tộc.",0.1298999935388565,civic_education,True
+"Động vi convictions, chiến tranh chiếm đất.","Xâm hại tình dục trẻ em, trộm cắp, lừa đảo.",0.1887000054121017,civic_education,True
+Đồn xã hội.,Vi phạm quy chế.,0.0,civic_education,True
+Điều hạn.,Cảnh cáo.,0.1333000063896179,civic_education,True
+Đẩm thuế.,Phạt tù.,0.0,civic_education,False
+30 phút.,1 tuần.,0.2000000029802322,civic_education,True
+β2-thalassemia,Cúm gà.,0.0,civic_education,True
+Ảnh khô thẳm,Sút cân trên 10% trọng lượng cơ thể.,0.125,civic_education,True
+Đánh răng với những khăn nhiễu với người nhiễm HIV,"Muỗi, côn trùng chích hút máu người nhiễm HIV rồi chích sang người lành",0.3513999879360199,civic_education,True
+Đối thoại và cảnh quanh cộng hưởng,Tuyên truyền tới mọi người tác hại của ma túy để mọi người phòng chống.,0.1713999956846237,civic_education,True
+Đơn nhân cơ bản của lực lượng vũ khí.,Cá nhân.,0.1875,civic_education,True
+25 tháng 11,Ngày 14 tháng 10,0.571399986743927,civic_education,False
+Điều hướng tên pháp vào trục súng.,Dùng dao để đánh nhau.,0.1053000018000602,civic_education,True
+"Đối tượng nổ súng quân dụng có thể gây trầm nỗi vùng đột tránh, trật tự, sức khỏe, tài sản của người thi hành công vụ hoặc người khác.","Khi biết rõ đối tượng đang thực hiện hành vi phạm tội nghiêm trọng, phạm tội rất nghiêm trọng, phạm tội đặc biệt nghiêm trọng.",0.2737999856472015,civic_education,True
+Độc hại,Vũ khí,0.0,civic_education,True
+10 năm,Từ 1 năm đến 5 năm.,0.416700005531311,civic_education,False
+χiếm hữu của người không phải chủ sở hữu,Chiếm hữu của chủ sở hữu.,0.7233999967575073,civic_education,True
+Đội ngũ quốc gia.,Quyền chiếm hữu.,0.0952000021934509,civic_education,False
+Độ phát triển sản xuất.,Bảo hộ và chịu trách nhiệm.,0.1289999932050705,civic_education,True
+Đối với các hành vi xâm phạm quyền sở hữu…,Ghi nhận trong Hiến pháp và các văn bản quy định pháp luật quyền sở hữu của công dân.,0.3765000104904175,civic_education,True
+Đột xuất tự nhiên cho sản phẩm.,"Tạo ra cơm ăn, áo mặc, tạo ra tư liệu sản xuất.",0.1817999929189682,civic_education,True
+Đầu tư vào sản xuất cải vật chất,Thúc đẩy tăng trưởng kinh tế.,0.1702000051736831,civic_education,True
+Động lực của cải vật chất,Thu nhập của người lao động.,0.2105000019073486,civic_education,False
+Động hương của nhân viên.,Kết cấu hạ tầng của sản xuất.,0.2703000009059906,civic_education,True
+Động thái củng cố của nhân dịp.,Đối tượng lao động.,0.2285999953746795,civic_education,True
+Điều kiện một,Hai điều kiện,0.761900007724762,civic_education,False
+Điện thoại,Giá cả và giá trị sử dụng,0.0,civic_education,False
+Động lực của người sản xuất hàng hóa kết tinh trong hàng hóa,Chi phí làm ra hàng hóa,0.2308000028133392,civic_education,True
+Đối thoại sản xuất mang hàng hóa ra thị trường bán,Người sản xuất cung ứng hàng hóa phù hợp với nhu cầu nhu cầu của người tiêu dùng,0.4047999978065491,civic_education,True
+Đồ chơi trò chơi,Nước máy,0.0,civic_education,True
+"Tự giác, sáng tạo",Khoan dung,0.0,civic_education,True
+Điều kiện công việc giữa nam và nữ,"Trong công việc, ưu ái người nhà hơn người ngoài.",0.2745000123977661,civic_education,True
+"động kinh, thúc hậu thị","mánh khoé, vụ lợi.",0.0799999982118606,civic_education,True
+Đức tính chí công vô tư,Đức tính trung thực,0.5184999704360962,civic_education,False
+Đối thoại vô tư khi đánh giá nhân quyền.,Luôn nhận định theo số đông là chí công vô tư.,0.25,civic_education,False
+"ở trên đây, việc làm E thực chuyển đổi sang ""E là người khiêm nhường.""",E là người trung thực.,0.218199998140335,civic_education,False
+"Động viên, cảm thông, tích đoàn khi ủ hoàn toàn.","Bình tĩnh, sáng suốt đưa ra những quyết định đúng đắn.",0.1817999929189682,civic_education,True
+Đàn đồng hồ truyền thông.,Yêu cầu bạn mua đền món đồ.,0.2777999937534332,civic_education,True
+Đức lí người trung thực.,N là người tôn trọng người khác.,0.3635999858379364,civic_education,False
+Đối thoại không bị ảnh hương,Học thầy không tày học bạn.,0.3415000140666961,civic_education,True
+Động quan về tình yêu,Cần cù,0.1053000018000602,civic_education,True
+Đọc và suy nghĩ mãi không làm được.,B là người không tự tin.,0.3158000111579895,civic_education,False
+Đồng hội trong cuộc tọa cấp,Đi học đúng giờ,0.2666999995708465,civic_education,True
+Động thái,Khiêm nhường,0.1333000063896179,civic_education,True
+Đồng lòng vào việc tham gia trong kế hoạch,Tích cực tham gia các hoạt động của lớp.,0.291700005531311,civic_education,True
+"Đồng tình với lớp trưởng, nghe theo mọi quyết định của lớp trưởng.",Không tham gia các hoạt động của lớp.,0.3098999857902527,civic_education,True
+Đầu tư vào nền kinh tế giữa các dân tộc,"Gây chiến tranh, khủng bố ở nhiều nơi trên thế giới",0.1723999977111816,civic_education,True
+ấn tượng các nước trung tâm,những nước đang có chiến tranh,0.2856999933719635,civic_education,True
+Đàm phán chính trị,Bảo vệ đất nước,0.166700005531311,civic_education,True
+Đánh dấu chiến tranh Ách Sĩ.,30/4/1954.,0.0768999978899955,civic_education,False
+"Đầy đủ năng suất, chất lượng và hiệu quả.",có chất lượng nhưng mất nhiều thời gian.,0.3136999905109405,civic_education,True
+"Đảm bảo sự kiểm duyện hiện tượng nói chung về năng suất, chất lượng, hiệu quả.",Vừa xem ti vi vừa ăn cơm.,0.0588000006973743,civic_education,True
+Động lực.,Tiền đề.,0.3077000081539154,civic_education,True
+Đầu tư vào sứ mệnh vào nhà máy.,Thúc đẩy sự phát triển của đất nước trong thời kì hội nhập.,0.1875,civic_education,True
+"Đầy đủ năng suất, chất lượng sẽ đem lại hiệu quả trong lao động.",Trong sản xuất chỉ cần chú ý đến chất lượng sản phẩm.,0.3170999884605407,civic_education,True
+đọc bài đọc sâu.,chép bài của bạn.,0.2399999946355819,civic_education,True
+ức chọi và sáng tạo trong công việc,hợp tác cùng phát triển.,0.1176000013947486,civic_education,True
+Ảnh thể thao của tình yêu chân chính,Hoàn cảnh gia đình tương xứng,0.2791000008583069,civic_education,True
+Độ tuổi pháp luật Việt Nam để kết hôn là Độ tuổi pháp luật Việt Nam để kết hôn là 18.,"Nam từ 20 tuổi trở lên, nữ từ 18 tuổi trở lên",0.2449000030755996,civic_education,False
+Đối thoại hôn nhân có thể kéo dày vài năm.,"Hôn nhân nhằm mục đích chung sống lâu dài và xây dựng gia đình hoà thuận, hạnh phúc.",0.2353000044822693,civic_education,True
+Đội ngũ giải pháp an toàn trong gia aineo.,Ảnh hưởng xấu đến sức khoẻ của cả mẹ và con.,0.1017000004649162,civic_education,True
+Đối thoại hôn nhân giữa người theo tôn giáo với người không theo tôn giáo.,"Hôn nhân tiến bộ, một vợ một chồng, vợ chồng bình đẳng.",0.2353000044822693,civic_education,True
+Çözgün em áo rách em thương/ Chồng người áo gấm sông hương mặc người.,"Ép dầu ép mỡ, ai nỡ ép duyên.",0.0678000003099441,civic_education,True
+độc lập nghề,cải tạo,0.0,civic_education,True
+"Được tham hỏi những lúc ốm đau, bệnh tật.",Công dân đủ 16 tuổi được nhận vào các công ty để làm việc.,0.3055999875068664,civic_education,True
+Điều kiện làm việc theo nhu cầu của mình.,việc làm theo sở thích của mình.,0.5105999708175659,civic_education,True
+7 giờ/ngày và 35 giờ/tuần,6 giờ/ngày và 30 giờ/tuần.,0.8823999762535095,civic_education,False
+Điều kiện và hiệu quả của sự kiểm soát quốc gia và động quan trọng của vi phạm pháp luật dân sự.,"các quan hệ lao động, công vụ nhà nước.",0.1518999934196472,civic_education,False
+Điều hạn chế vi phạm có thể có vi phạm mới.,Lập lại trật tự xã hội.,0.1463000029325485,civic_education,True
+đối thoại quốc gia,vi phạm pháp luật.,0.0869999974966049,civic_education,True
+pháp luật hình sự,pháp luật dân sự,0.7272999882698059,civic_education,False
+Đồng tháp xét những cái nghèo và tiết kiệm trong chiều sống của bạn B.,Bạn B là người vô ý thức.,0.1356000006198883,civic_education,False
+"Độ chênh mơ hơn, thích nghi nhất, thể hiện tránh trán từ bạn bè.","Ăn mặc gọn gàng, không lòe loẹt.",0.1562000066041946,civic_education,True
+Được mọi người từng người có sự ghi nhớ và tinh thần hợp lý.,Được mọi người giúp đỡ.,0.4589999914169311,civic_education,False
+"Đầy đủ, giảm nhiều.",Thẳng thắn.,0.0,civic_education,True
+"Đối thoại xã hội không chấp tha thế trên các khía cạnh nghèo và giàu, người dân tộc và người không phân biệt.",Không chơi với bạn khác giới.,0.2092999964952469,civic_education,True
+Điều trùc không tránh thể hiện tình trạng nhân cùng trong lớp.,Đức tính khiêm tốn.,0.2353000044822693,civic_education,True
+"Điều kiện, hoàn cảnh.",Điều kiện.,0.7272999882698059,civic_education,True
+"Đối thoại, đối thoại, đối thoại","Thực hiện đúng nội quy của nhà trường đề ra, trang phục khi đến trường sạch sẽ, tươm tất, lịch sử, bảo vệ của công, không xa hoa lãng phí.",0.1429000049829483,civic_education,True
+Động vi sinh,Khiêm tốn.,0.0,civic_education,True
+Đối thoại giữ nước và chính xác truyền lời,Người gian thì sợ người ngay/ Người ngay chẳng sợ đường cày cong queo,0.1738999933004379,civic_education,True
+Đức tính trung thực,Đức tính thật thà.,0.666700005531311,civic_education,False
+Để đạt điểm cao khi kiểm tra N nhìn trộm bài của bạn,Không bao che cho bạn khi mắc lỗi,0.2069000005722046,civic_education,True
+Đối thoại.,Chăm chỉ.,0.0,civic_education,True
+Đầy đủ tiếp tục tham gia và giúp bạn K nhận thấy sự quan tâm của cộng đồng.,Nói với bố mẹ bạn K để bố mẹ bạn K dạy giỗ.,0.1647000014781952,civic_education,True
+Đã không nói chuyện trong giờ.,V là người vô cảm.,0.0689999982714653,civic_education,False
+Đứng tránh nhận thức,Khiêm tốn.,0.1000000014901161,civic_education,True
+บ. Luôn trách mắng người khác mà không nhận lỗi,Luôn làm sai,0.2161999940872192,civic_education,True
+Động nhiên.,Giản dị.,0.0,civic_education,True
+đứng trước cờ nhưng không có lòng tự trọng.,Q là người vô cảm.,0.1579000055789947,civic_education,False
+Độc định trách tội và sự hấp dẫn trước tình yêu thương.,Lòng trung thành.,0.0816000029444694,civic_education,True
+Đảm bảo thời gian nghĩ ngơi và học tập,Thời gian hợp lý,0.3889000117778778,civic_education,True
+Đội ngũ nhân viên có năng lực tốt,Chủ động thời gian làm việc,0.3242999911308288,civic_education,True
+Điều hòi nhẹ,Sống và làm việc có kế hoạch.,0.0,civic_education,True
+Định nghĩa,Sắp xếp công việc,0.0,civic_education,True
+Đức văn,Nhà nước,0.1429000049829483,civic_education,True
+Đối thoại quốc tịch,"Quyền được bảo vệ tính mạng, thân thể",0.2105000019073486,civic_education,True
+"Đầu tiên, B, Luật bảo vệ, chăm sóc và giáo dục trẻ em.",Hiến pháp.,0.0513000003993511,civic_education,True
+Đội ngũ cán bộ trẻ em.,Luật hôn nhân và gia đình.,0.1212000027298927,civic_education,True
+Đầu tháng 3 - 1989.,Tháng 1 - 1994.,0.666700005531311,civic_education,False
+24 heures (24 giờ).,5/9.,0.3077000081539154,civic_education,False
+Điền vài thức trong dấu [],Tài nguyên rừng của nước ta đang được phục hồi cả về số lượng lẫn chất lượng.,0.166700005531311,civic_education,True
+Đất,Cá voi.,0.0,civic_education,True
+"Tăng cường bón phân, cải tạo thích hợp theo tḡì loại đất.","Nâng cao hiệu quả sử dụng, có chế độ canh tác hợp lí.",0.1845999956130981,civic_education,True
+đồ sơn tinh thần,di sản văn hóa vật thể,0.2308000028133392,civic_education,False
+Định văn hóa phi vật thể.,Di sản văn hóa vật thể.,0.7272999882698059,civic_education,False
+Đối thoại văn hóa vật thể và phi vật thể.,Di sản văn hóa vô hình và hữu hình.,0.339599996805191,civic_education,False
+Đi thi trước khi ân xa,Yểm bùa,0.0952000021934509,civic_education,True
+Đạo Hòa Hảo,Đạo Tin lành.,0.4444000124931335,civic_education,False
+Định vị trúc.,Tôn giáo.,0.125,civic_education,True
+Đàn ăn bàn chả hoàn toàn,hằng ngày không vệ sinh cá nhân,0.0,civic_education,True
+Đi thuốc sẽ khỏi bệnh,Hằng ngày luyện tập thể dục thể thao,0.1777999997138977,civic_education,True
+"Động quan sức khỏe, tốt hơn sức hạnh prânh, tác động trực tiếp đến chi cảnh sống, tinh thần, hoạt tốc sức khỏe.","Sức khỏe giúp chúng ta lạc quan, vui tươi hạnh phúc.",0.2991000115871429,civic_education,False
+Quyết tâm làm đến cùng.,Miệt mài làm việc.,0.2222000062465667,civic_education,False
+Đức tính trung thực.,Đức tính tiết kiệm.,0.5600000023841858,civic_education,True
+"Để tiết kiệm, tiết kiệm, tiết kiệm.",Đi một ngày đàng học một sàng khôn.,0.1702000051736831,civic_education,True
+Biết cách cư xử đúng mực.,Chỉ chào hỏi người lớn tuổi.,0.1429000049829483,civic_education,True
+Đánh giá sự độc đáo của một ngôi thiên vui.,Góp gió thành bão.,0.0513000003993511,civic_education,True
+Đi thật sáng suốt để tránh chiếm đất.,Vứt rác đúng nơi quy định.,0.2727000117301941,civic_education,True
+Đi học trước khi giấc ngủ.,Mặc đồng phục trường.,0.3030000030994415,civic_education,True
+Đồng lòng khát khao giữ nhau.,sự bày tỏ lòng biết ơn.,0.166700005531311,civic_education,False
+Đức vượt trên trời.,Ăn quả nhớ kẻ trồng cây.,0.1289999932050705,civic_education,True
+Độ tuyển vốn.,Sự đoàn kết.,0.2105000019073486,civic_education,True
+Đánh rừng.,Trồng cây gây rừng.,0.4347999989986419,civic_education,True
+Đầu tư vào sự phát triển số đô thiên nhiên rộng rãi,Làm ô nhiễm môi trường thiên nhiên,0.2962999939918518,civic_education,True
+"Đất, khí, biển.","Rừng, bầu trời, đất.",0.3199999928474426,civic_education,False
+Ø Không tham gia các hoạt động do nhà trường phát động.,Không chơi với người nghèo.,0.2449000030755996,civic_education,True
+Đầy đủ và cảm ứng trên cả người.,Để lợi dụng được lòng tốt của mọi người,0.3774000108242035,civic_education,True
+1990,1998,0.800000011920929,civic_education,False
+1992,1992,1.0,civic_education,False
+"Nhóm quyền: vui chơi, giải trí, phát triển.","Nhóm quyền : sống còn, học tập, phát triển và vui chơi.",0.4528000056743622,civic_education,False
+1986,1986,1.0,civic_education,False
+Đủ điều kiện và thối thì phải thôi quốc tịch nước ngoài.,Có công lao đặc biệt cho sự nghiệp xây dựng và bảo vệ Tổ quốc.,0.2277999967336654,civic_education,True
+"Đối thoại của cha mẹ và bé, mẹ là người Việt Nam, bố là cha mẹ và bé.","Mẹ là người nước ngoài, bố là người Việt Nam.",0.4110000133514404,civic_education,False
+"đường, cầu dường bộ, bến phà đường bộ và các công trình khác","Hầm dường bộ, bến phà đường bộ",0.6333000063896179,civic_education,False
+"Đột xuất hình tròn, viền đỏ, nền trắng, hình vẽ màu xanh","hình vuông hoặc hình chữ nhật, viền đen, nền trắng",0.421099990606308,civic_education,False
+Đáy biển.,Biển báo nguy hiểm.,0.3158000111579895,civic_education,False
+Điền vài câu hỏi trắc nghiệm: Luật giáo dục nghề nghiệp.,Luật trẻ em.,0.127700001001358,civic_education,True
+"Đủ thể hiện trên, chứng minh là: D. Có thể trốn học, bỏ học nếu mình không thích",Người già không được đi học,0.1817999929189682,civic_education,True
+Đồng trong,Tìm hiểu,0.0,civic_education,True
+Điều 23.,Điều 23.,1.0,civic_education,False
+đồng ý,Cảnh sát,0.0,civic_education,True
+định vị,Thực chất,0.0,civic_education,True
+"Điều 22, Hiến pháp 2013.","Điều 19, Hiến pháp 2011.",0.8421000242233276,civic_education,False
+"Điều 32, Hiến pháp 2013.","Điều 22, Hiến pháp 2013.",0.9473999738693236,civic_education,False
+Đội ngũ cán bộ quân đội.,"Quyền được pháp luật bảo hộ về sức khỏe, danh dự và nhân phẩm.",0.1639000028371811,civic_education,True
+2,2,1.0,civic_education,False
+"51 điều, 30 quyền.","51 điều, 23 quyền.",0.9333000183105468,civic_education,False
+Điều lệ cáo đối thoại.,chính trị.,0.0,civic_education,True
+trong các lĩnh vực đối với người sản xuất kinh doanh.,đối với người vi phạm,0.4582999944686889,civic_education,True
+Đột tránh quyền lợi.,Tính xác định chặt chế về hình thức.,0.25,civic_education,True
+Điều kiện kết hôn,Tính quyền lực bắt buộc chung.,0.1875,civic_education,True
+ứng phó pháp luật,sử dụng pháp luật,0.583299994468689,civic_education,False
+Điều kiện của chủ thể trực quan trong thi hành pháp luật.,chủ thể quyết định không thực hiện điều mà pháp luật cắm.,0.3662000000476837,civic_education,True
+"đẩy sự phản ứng, truyền thông, phát hiệu, sự nghiêm nguyện, sự phát hiện, sự phát hiện, sự phát hiện, sự phát hiện, sự phát hiện.",quy định phải làm.,0.096400000154972,civic_education,True
+"Đi xe hàng ba, chất lượng độc lập, đối thoại tránh thuế.","Lạng lách, đánh võng, chở hàng cồng kềnh.",0.2222000062465667,civic_education,True
+Đối thoại vũ hành trong lúc tối họp quốc hội.,Công dân bình đẳng về quyền bầu cử.,0.1404000073671341,civic_education,False
+điều kiện và tráchinh pháp luật,về điều kiện kinh doanh.,0.5293999910354614,civic_education,False
+Đều có quyền và nghĩa vụ giống nhau.,Đều có quyền như nhau.,0.6841999888420105,civic_education,False
+"Đồng bộ với trình độ, thu nhập và quan hệ của công dân với chính quyền","Đôi khi bị phân biệt bởi giàu nghèo, thành phần và địa vị xã hội",0.2759000062942505,civic_education,False
+"chỉ có người chồng mới có quyền lựa chọn nơi cư trú, quyết định số con và thời gian sinh con.","chỉ có người vợ mới có nghĩa vụ kế hoạch hoá gia đình, chăm sóc và giáo dục con cái. .",0.4111999869346618,civic_education,True
+"Lao động nam và lao động nữ đều phải làm việt như nhau kế cả nặng nhọc, độc hại và ảnh hưởng đến chức năng nuôi con.","Lao động nam và lao động nữ đều làm mọi công việc như nhau, không cần xét đến đặc điểm về chức năng sinh lý.",0.6104000210762024,civic_education,False
+"Ông anh, chị em, các cháu",cha mẹ và các con.,0.1738999933004379,civic_education,True
+Điều kiện này không phảo chính là doanh nghiệp đều kinh doanh các mặt hàng như nhau.,doanh nghiệp nhà nước được ưu tiên hơn các doanh nghiệp khác.,0.24719999730587,civic_education,False
+Çalışma,Giáo luật,0.0,civic_education,False
+53,57,0.666700005531311,civic_education,False
+đất nước.,xã hội.,0.0,civic_education,False
+Đảng và Nhà nước có chính sách phát triển kinh tế bình đẳng nhằm ngăn cảnh thấy về sự phân biệt giữa dân tộc,Nhà nước phải bảo đảm để dân tộc chiếm đa số có trình độ phát triển kinh tế cao hơn dân tộc thiểu số.,0.3504000008106231,civic_education,False
+"được pháp luật bảo hộ về tính mạng, sức khỏe của công dân.",bất khả xâm phạm về thân thể của công dân.,0.3384999930858612,civic_education,True
+đối thoại.,ủng hộ.,0.1537999957799911,civic_education,True
+Đội ngũ quốc vưu có quyền bất khả xâm phạm về chỗ ở của công dân.,Quyền nhân thân của công dân.,0.3871000111103058,civic_education,False
+"Điện thoại, điện tín của công dân.",Quyền tự do dân chủ của công dân.,0.4390000104904175,civic_education,True
+đối thoại pháp lý.,điều bình thường.,0.3077000081539154,civic_education,True
+Điều kiện quyền bình đẳng,Quyền bầu cử.,0.3635999858379364,civic_education,False
+đại biểu của nhân dân chịu sự giám sát của cử tri,"Thực hiện cơ chế ""dân biết, dân bàn, dân làm, dân kiểm tra"".",0.1310999989509582,civic_education,True
+Đột biến sự thật.,Bình đẳng.,0.1817999929189682,civic_education,False
+Để bình đẳng,Phổ thông.,0.2000000029802322,civic_education,True
+Điền vào trong dấu [],Hình thức dân chủ xã hội chủ nghĩa,0.1142999976873397,civic_education,False
+"Điều kiện cấp quyền học tập của công dân cho ngành, nghề bác sĩ, giáo viên, kỹ thuật.","Quyền học thường xuyên, suốt đời của công dân.",0.3589999973773956,civic_education,False
+Đọc bảng trắc nghiệm.,Viết bài đăng báo.,0.2222000062465667,civic_education,True
+Đánh giá hiền tài là nguồn cung của quốc gia.,Coi nhẹ nhân tài.,0.2000000029802322,civic_education,False
+Đăng kiểm bài cho báo Hoa học trò.,Quyền được phát triển.,0.1713999956846237,civic_education,True
+Đủ nghẹn nghịn và flexibil học tập.,Công dân bình đẳng về cơ hội học tập.,0.4399999976158142,civic_education,True
+"Đầu tư vào ngành, nghề, lĩnh vực, địa bàn mà Nhà nước khuyến khích.",Kinh doanh trong lĩnh vực bất động sản.,0.3235000073909759,civic_education,False
+Đủ các chứng chỉ bồi dư�loat kiến thức về thuốc bảo vệ thực vật.,Không cần bằng cấp nào nữa.,0.1270000040531158,civic_education,True
+Đối thoại nghệ thuật.,"riêng cán bộ, công chức nhà nước.",0.0588000006973743,civic_education,True
+Địa bàn kinh doanh,Uy tín nguời đứng đầu doanh nghiệp.,0.25,civic_education,True
+Đất liệu.,Xã hội.,0.0,civic_education,True
+Đối tượng nghiên cứu của Triết học Mác – Lênin,Những vấn đề quan trọng của thế giới đương đại,0.2372999936342239,civic_education,False
+"Định nghĩa là hệ thống các quan điểm chung nhất về tự nhiên, xã hội và tư duy",Triết học là khoa học nghiên cứu về vị trí của con người trong thế giới,0.1608999967575073,civic_education,False
+Định nghị về động vi tự nhiên,Môn Sinh học,0.1429000049829483,civic_education,True
+Định học,Hóa học,0.428600013256073,civic_education,False
+Điều kiện của quan duy vật và duy tâm trong Triết học,Mặt thứ nhất vấn đề cơ bản của Triết học,0.4126999974250793,civic_education,False
+Định nghĩa bất khả tri,Thế giới quan duy tâm,0.0,civic_education,True
+Ý thức có trước và sản sinh ra giống tự nhiên,Vật chất là cái có trước và quyết định ý thức,0.3158000111579895,civic_education,False
+Đời sống xã hội,Giới tự nhiên và tư duy,0.0768999978899955,civic_education,False
+Đột tránh viện thuốc trong sự vật,Mọi sự biến đổi đều là tạm thời,0.130400002002716,civic_education,True
+Động viên,Thụt lùi,0.0,civic_education,True
+Động viên,Vận động hóa học,0.421099990606308,civic_education,False
+Đa dạng,Phong phú và đa dạng,0.666700005531311,civic_education,True
+"Đối thoại vận động là phát triển, không thuộc tính vốn của sự vật",Triết học Mác – Lênin khái quát có năm hình thức vận động cơ bản trong thế giới vật chất,0.2946999967098236,civic_education,True
+Động viên của chiếc kê,Quá trình bốc hơi của nước,0.2424000054597854,civic_education,True
+Đột tránh trong các hợp thành và phát triển kinh tế,Sự xuất hiện các giống loài mới,0.166700005531311,civic_education,False
+Định nghịn của sự vật trong một thời gian định nghịn,Xem xét sự vật hiện tượng trong hình thức vận động cao nhất của nó,0.2784999907016754,civic_education,False
+Đồng thái quan điểm này đồng nghị sự vận động và phát triển có mối quan hệ với nhau,Không phải sự phát triển nào cũng là vận động,0.324999988079071,civic_education,False
+Định vị của sự thành tự nhiên,Tư duy,0.0833000019192695,civic_education,True
+Đối thoại,Vận động,0.2666999995708465,civic_education,True
+Điều kiện ngược chiều nhau,Khác nhau,0.3332999944686889,civic_education,False
+Đối thoại,Thống nhất biện chứng với nhau,0.1481000036001205,civic_education,False
+Động quan từ các mặt đối lập,Sự đấu tranh giữa các mặt đối lập,0.666700005531311,civic_education,False
+Động quan hòa họa giữa các mặt đối lập,Sự tồn tại giữa các mặt đối lập,0.6414999961853027,civic_education,False
+Đột tránh giữa các mặt đối lập,Sự điều hòa giữa các mặt đối lập,0.7451000213623047,civic_education,True
+"Đối thoại không gắn bó với nhau, không tạo tiền đối lập",Thống nhất biện chứng với nhau,0.3050999939441681,civic_education,True
+Động quan,Một tập hợp,0.1429000049829483,civic_education,True
+Đồng thời có hai mặt đối lập trên mâu thuẫn,Mâu thuẫn chỉ được giải quyết bằng sự đấu tranh giữa các mặt đối lập,0.3409000039100647,civic_education,True
+Đối thoại giữa các phương thuật y tế trong các thế hệ,Hai gia đình hàng xóm tranh chấp đất đai,0.1378999948501587,civic_education,True
+Động quan sự giảm hoặc sự tăng trong hiệu quả của sự đấu tranh,"Sự vật, hiện tượng bị tiêu vong",0.1754000037908554,civic_education,False
+"Đối thoại, tác động, và ràng buộc",Có nhiều mặt đối lập trong một sự vật,0.2449000030755996,civic_education,False
+Điểm nút,Độ,0.4000000059604645,civic_education,True
+Điểm phát triển và phức táp,Lượng mới ra đời,0.2000000029802322,civic_education,True
+Độ chuyển hóa,Lượng mới hình thành,0.0833000019192695,civic_education,True
+Ø Lượng biến đổi trong giới hạn cho phép,Tăng lượng liên tục,0.2222000062465667,civic_education,True
+Đội ngũ công dân,Lãnh đạo,0.2222000062465667,civic_education,True
+Đảm bảo sự tránh trán từ việc bị trùng lấp,Tôn trọng pháp luật,0.1950999945402145,civic_education,True
+Đánh giá sự thành tích của mình trong quá trình mâu thuẫn,Đặt nhu cầu của cá nhân lên trên,0.2333000004291534,civic_education,True
+Đảm bảo an toàn trong các hoạt động quốc gia,Học tốt là nghĩa vụ của học sinh,0.0851000025868415,civic_education,False
+Đánh giá sức khỏe của trẻ em trên toàn bộ nước,Không ngừng học tập để nâng cao trình độ,0.1905000060796737,civic_education,True
+Đức tinh thần,Danh dự,0.1537999957799911,civic_education,True
+Đàn áo trắng,Tạo ra nhiều công việc cho mọi người,0.1378999948501587,civic_education,True
+Đến ở nhà bạn khi chưa được mời,Xả rác không đúng nơi quy định,0.2040999978780746,civic_education,True
+Đứng trước khởi hành,Thoải mái,0.0869999974966049,civic_education,True
+Đàn động tràn trong cuộc chi tiếp,Vui vẻ khi lấy cắp tài sản nhà nước,0.0443999990820884,civic_education,True
+Độc tại khi nhận thấy sự nghiệp của một nghệ sĩ trong bốn phim,Chào hỏi người lớn tuổi,0.1000000014901161,civic_education,True
+Được cung cấp sự kiểm soát về chiếm hôn nhân,Kết hôn ở độ tuổi mình thích,0.1923000067472458,civic_education,False
+Điền ghi nhớ hôn nhân,Báo cáo họ hàng hai bên,0.0644999966025352,civic_education,True
+Đồng hành của bạn và người thứ ba,Hôn nhân phải dựa vào lợi ích kinh tế,0.2608999907970428,civic_education,True
+Đăng ký hôn nhân,Chia con cái,0.0,civic_education,True
+Độ hoạt tính trong phối hợp gia đình,Ép buộc và dựa trên lợi ích kinh tế,0.1817999929189682,civic_education,True
+Ông và chồng tôn trọng nhân phẩm và danh dự của mỗi người,Bình đẳng trong xã hội,0.1754000037908554,civic_education,False
+Đồng hồ thông tin quốc gia,Dòng họ,0.2000000029802322,civic_education,True
+Đối thoại củng cố quan hệ,Gia đình đồng ý,0.2069000005722046,civic_education,True
+Đầu nghình tháp,"Nuôi dưỡng, giáo dục con cái",0.0644999966025352,civic_education,True
+Độ dập và trật trọng,Cha mẹ và con đẻ,0.1481000036001205,civic_education,False
+Động vi con người,Của Nhà nước,0.1000000014901161,civic_education,True
+Đặc th Einzelnes,Của đất nước,0.2856999933719635,civic_education,True
+Đầu thức tối hành vi phản biệu sự tham gia và tích cấy trong cộng đồng,Sống vô tư trong cộng đồng,0.4138000011444092,civic_education,False
+Đối xử,Theo tình cảm,0.0,civic_education,True
+Đột xuất giữa các tầng lớp nhân dân và người với người,Quan hệ giữa các địa phương,0.2264000028371811,civic_education,False
+Đầy đủ,Tự do hơn,0.0,civic_education,True
+Được hun đúc,Ủng hộ,0.1333000063896179,civic_education,True
+Đối thoại thương nghì thật,Nhường nhịn người khác,0.176499992609024,civic_education,True
+Đồng tích trong cuộc sống,Yêu thương mọi người như nhau,0.0588000006973743,civic_education,True
+Đột xuất,Chu đáo,0.2856999933719635,civic_education,True
+Đột tránh trách nhiệm,Nhân đạo,0.2000000029802322,civic_education,True
+Đối thoại tôn kính,Biết ơn,0.2000000029802322,civic_education,False
+Đồng hành việc xây dựng một trung tâm thương mạo trên dân tộc,Một nhóm thanh niên trong bản cùng nhau đánh người thuộc dân tộc khác,0.2531999945640564,civic_education,True
+Đồng minh về sản xuất,Chính quyền xã A và xã B cùng bàn với nhau về việc cô lập xã C,0.1887000054121017,civic_education,True
+Đầu tư sự hấp dẫn vào việc học trọ thế giỏi,Cần học nhóm nhưng không cần hợp tác,0.1694999933242797,civic_education,False
+Độc lực,Tự giác,0.1817999929189682,civic_education,True
+Sông Mekong.,Sông Kỳ Cùng.,0.428600013256073,geography,False
+Đồng Nai và Mã,Sông Hồng và sông Mã.,0.5217000246047974,geography,False
+"Đầu tiên, Dầu Tiếng.",Hòa Bình.,0.0,geography,True
+5 đại khí hậu.,4 đai khí hậu.,0.7825999855995178,geography,False
+Đồng bằng Bắc Bộ.,Nam Trung Bộ.,0.2105000019073486,geography,True
+Đồng bằng duyên hải miền Trung.,Đồng bằng Thanh - Nghệ - Tĩnh.,0.5263000130653381,geography,False
+Đông Bắc - Tây Nam.,Bắc - Nam.,0.53329998254776,geography,False
+3,2,0.5,geography,False
+Đức,Trung Quốc.,0.2222000062465667,geography,False
+25 t�ráng Bà Rịa-Vũng Tàu,29 tỉnh/ thành phố.,0.1934999972581863,geography,False
+Ấn Độ.,Cam-pu-chia.,0.0,geography,True
+1987,1987,1.0,geography,False
+Các đảo và vùng biển,Phần đất liền,0.25,geography,False
+Đọc sách giáo khoa và thảo luận về địa lí.,"Tham quan, du lịch.",0.1176000013947486,geography,False
+303.221 km^2,$330.221 km^2$,0.9090999960899352,geography,False
+Đà Lạt,Cà Mau,0.2000000029802322,geography,True
+Địa chỉ gần trung tâm khu vực Đông Nam Á.,Nằm trong vùng nội chí tuyến.,0.1738999933004379,geography,True
+ở khu vực nhiệt đới gió mùa Đông Nam Á.,Đứng thứ 3 trong các biển thuộc Thái Bình Dương.,0.1378999948501587,geography,True
+Đảo Còng,Biển Xu-Lu,0.0,geography,False
+"Để hoàn thành 1 câu hỏi trắc nghiệm: Mùa hạ mát, mùa đông ấm hơn đất liền, biên độ nhiệt lớn.","Mùa hạ nóng, mùa đông lạnh hơn đất liền, biên độ nhiệt lớn.",0.647599995136261,geography,False
+Điền vài thông báo về giai đoạn Tân sinh,"Giai đoạn cổ sinh, giai đoạn Trung sinh, giai đoạn Tân sinh.",0.4839000105857849,geography,False
+Ôm Sông Mã,"Việt Bắc, Hoàng Liên Sơn.",0.0908999964594841,geography,True
+25 triệu năm,15 triệu năm,0.8888999819755554,geography,False
+Giai đoạn Paleozoic,Giai đoạn Tân kiến tạo,0.6154000163078308,geography,False
+Điền vài trên [],Giai đoạn Tiền Cambri,0.3635999858379364,geography,False
+100 loại,50 loại,0.7692000269889832,geography,False
+"Đây là trắc nghiệp, để chỉ tránh tránh, nói: Việt Nam có một số mỏ khoáng sản có trữ lượng thành thuận lợi trong tài nguyên khoáng sản, trong đó chủ yếu là các khoáng sản có trữ lượng vừa và nhỏ.",Tài nguyên khoáng sản nước ta phân bố rộng khắp trên cả nước.,0.2264000028371811,geography,True
+Đồ,Rắn,0.0,geography,False
+Ấn tại,Nhỏ,0.0,geography,False
+"Đá vôi, mỏ sắt.","Than, dầu mỏ, khí đốt.",0.3571000099182129,geography,True
+Động thái không tác động đến hiệu quả khai thác họp lí.,"Một số khoáng sản có nguy cơ cạn kiệt,",0.1723999977111816,geography,True
+Đồng bằng Bắc Trung Bộ,Đồng bằng sông Hồng.,0.5806000232696533,geography,False
+Đường bán trên biển,Đông Bắc – Tây Nam,0.3477999866008758,geography,False
+ở phía trên xích đạo.,Là kinh tuyến nằm bên phải của kinh tuyến gốc.,0.0930000022053718,geography,True
+180 độ,Kinh tuyến Đông.,0.2353000044822693,geography,False
+Ấn Độ,Vị trí thứ 7,0.1429000049829483,geography,False
+5.000.000,Bản đồ có tỉ lệ 1: 150.000,0.4241999983787536,geography,False
+12km,16km,0.75,geography,False
+1:500.000,1:500.000,1.0,geography,False
+Hình vẽ sơ sài về một khu vực,Hình vẽ của một quốc gia được thu nhỏ lại,0.421099990606308,geography,False
+Độ sáng tại một điểm,Vĩ độ tại đường vĩ tuyến gốc,0.4102999866008758,geography,False
+Đông,Tây,0.0,geography,True
+Đông Bắc của châu Á,Tây Nam của châu Á,0.5600000023841858,geography,False
+Địa đây là điểm của bản đồ.,Theo hướng mũi tên trên bản đồ.,0.3332999944686889,geography,True
+Đông Bắc,Bắc Tây,0.4614999890327453,geography,False
+Đứng ngang,Càng thấp,0.166700005531311,geography,False
+Đọc bản chú giải,Xem tỉ lệ,0.0,geography,True
+3,2,0.5,geography,False
+Điểm địa lý,Tập trung tại một chỗ,0.0768999978899955,geography,True
+Đồ hình,Hình học,0.571399986743927,geography,False
+Ấn Động thời gian,Trái đất quay từ Đông sang Tây,0.3030000030994415,geography,True
+Đứng tránh chuyển động,Giữ nguyên hướng không đổi,0.2285999953746795,geography,True
+Giờ giấc mỗi nơi mỗi khác.,Ngày đêm nối tiếp nhau.,0.1111000031232833,geography,False
+Phi kim loại,Kim loại đen,0.666700005531311,geography,False
+Đất trơn.,Các loại đá do nhiều loại khoáng vật khác nhau kết hợp lại.,0.1333000063896179,geography,True
+Động quan số nhóm,2 nhóm,0.53329998254776,geography,False
+"Đồng, chì, sắt","Apatit, dầu lửa",0.0,geography,True
+Ôxy (D),Khí cacbonic,0.0,geography,True
+5 tầng,5 tầng,1.0,geography,False
+"5 giờ, 13 giờ, 21 giờ","6 giờ, 14 giờ, 22 giờ",0.7857000231742859,geography,False
+"Đôi khi trong bóng râm, cách mặt đất 2m","Ngoài trời, sát mặt đất",0.478300005197525,geography,True
+Đặc tính hấp thụ và tỏa nhiệt của nước và đất là khác nhau: Mặt đất nóng lên chậm và nguội đi chậm hơn nước.,"Do mùa hạ, miền gần biển có ngày dài hơn đêm, mùa đông ngày ngắn hơn đêm.",0.2030999958515167,geography,True
+Đồng bộ trên trái đất,Vùng cực Bắc và cực Nam,0.1333000063896179,geography,True
+5 đai áp cao và 2 đai áp thấp,3 đai áp cao và 4 đai áp thấp,0.9047999978065492,geography,False
+Ấn Phần.,Gió mùa đông Bắc.,0.1111000031232833,geography,False
+"60 độ Bắc, Nam lên khoảng vĩ độ 30 độ Bắc, Nam.",Cả A và B đều đúng.,0.2666999995708465,geography,True
+Tổng số lượng mưa 12 tháng.,Tổng lượng mưa của các tháng trong mùa mưa,0.625,geography,False
+0.0001 g/cm^{3},$2 g/cm^{3}$,0.5881999731063843,geography,False
+đáy cồng.,sinh vật.,0.0,geography,True
+Đồi trái tim,Rừng nhiệt đới khô,0.25,geography,True
+Đảngo Liệu,I-ran,0.0,geography,True
+Điều kiện trắc nghiệm: Hoa Kì cắt giảm đầu tư vào Mĩ Latinh,Tình hình chính trị không ổn định.,0.1845999956130981,geography,True
+Đồng bào Mekong,Đồng bằng Lưỡng Hà,0.4444000124931335,geography,True
+Đi qua núi Annamitan vào các bang vùng phía Trung Bộ.,các bang ven Thái Bình Dương đến các bang vùng Đông Bắc,0.3332999944686889,geography,False
+Đột tránh giữa các nước,Sự thống trị nhiều thế kỉ của chủ nghĩa thực dân,0.1702000051736831,geography,True
+Điện toán,Công nghiệp khai khoáng,0.1053000018000602,geography,False
+"Động thái, di truyền, hợp tác xã hội","An ninh, đối ngoại",0.2424000054597854,geography,True
+Đức thế giới có tỉ trọng xuất khẩu trong GDP cao hơn.,Dân số thấp hơn,0.2173999994993209,geography,True
+Đầu túc sản xuất thay thế hàng nhập khẩu.,Thực hiện công nghiệp hóa đất nước.,0.1852000057697296,geography,True
+"Độ đất cao, dịp đất cao",Từng có “con đường tơ lụa” đi qua nên tiếp thu được nhiều giá trị văn hóa của cả phương Đông và phương Tây.,0.1590999960899353,geography,True
+"Đầu tiên, dầu mỏ, khí đốt ở Tếch-dat, ven vịnh Mê-hi-cô, A-lat-xca.",Kim loại màu tập trung chủ yếu ở hệ thống núi A-pa-lat.,0.219200000166893,geography,True
+13 thế giới,Thứ tư thế giới,0.5881999731063843,geography,False
+"Ấn Độ, Pháp, Trung Quốc","Hơn châu Âu, châu Phi, kém châu Á",0.1212000027298927,geography,False
+Đồng bằng Trung tâm,Đông Nam,0.3158000111579895,geography,True
+"6 nước thành viên ban đầu, nay đã trở thành một khối với 27 nước.",Nâng cao sức cạnh tranh của thị trường chung châu Âu trên thị trường thế giới.,0.1817999929189682,geography,True
+Đây không phải EU là lãnh thổ phát triển đồng đều giữa các vùng,EU là tổ chức thương mại hàng đầu thế giới,0.2856999933719635,geography,True
+Đứng thứ 2 TG về GDP của Trái Đất.,Giá trị FDI của EU đầu tư ra nước ngoài và FDI đầu tư vào EU chỉ đứng sau Hoa Kì và trên Nhật Bản.,0.1838999986648559,geography,True
+"Đất đai rộng lớn và màu mỡ, khí hậu đa dạng, nguồn nước dồi dào, cơ giới hóa cao","Đất đai rộng lớn và màu mỡ, khí hậu đa dạng, nguồn nước dồi dào, công nghiệp chế biến phát triển",0.786899983882904,geography,False
+Đồng San Xuân (Nam Việt),"Bỉ, Anh, Na Uy, Đan Mạch, Áo và Tây Đức.",0.1053000018000602,geography,True
+Độ tuộc và năng lực ngành.,Điều kiện tự nhiên và tài nguyên thiên nhiên.,0.2222000062465667,geography,True
+Ý nào trong truyền thống và hiếu thuẫn,Chỉ số phát triển ccon người ở mức cao,0.0784000009298324,geography,True
+Độ sống an toàn của người dân,GDP bình quân đầu người thấp,0.3242999911308288,geography,True
+Đức,"Pháp, Bô-li-vi-a, Việt Nam",0.0,geography,True
+Độ sốc khu vực IV trên cơ thiếu,Cân đối về tỉ trọng giữa các khu vực,0.3555999994277954,geography,False
+Đã tăng trong năm hiện tại,Khu vực III có tỉ trọng rất cao,0.1080999970436096,geography,False
+Đồng bào Mekong,Nam Á,0.0,geography,False
+"41,5 triệu $km^2$.",40 triệu $km^2$.,0.800000011920929,geography,False
+Đại Dương Hồng Bắc.,Ấn Độ Dương.,0.5,geography,False
+Đảo Trá My,thứ ba thế giới.,0.0,geography,False
+Đồng bằng Nam Bộ,Ấn Hằng,0.5,geography,True
+7,4,0.5,geography,False
+Độ chênh lam về phân biệt giữa kiểu khí hậu cực và cận cực,Khí hậu châu Á phân hóa thành nhiều đới khác nhau,0.2000000029802322,geography,False
+Độ sáng suất,Do lãnh thổ trải dải từ vùng cực bắc đến vùng Xích đạo,0.1199999973177909,geography,True
+Đồng bào Truong Bộ,vùng núi trung tâm Châu Á.,0.2308000028133392,geography,False
+Ô-bi,"Sông Ê-ni-xây, sông Lê-na",0.2222000062465667,geography,True
+Đưu bão khi chảy theo hướng từ nam lên bắc.,Mạng lưới sông dày đặc.,0.2173999994993209,geography,True
+Đầu tư và nuôi trồng thủy sản.,Cung cấp nước cho sản xuất.,0.2161999940872192,geography,True
+đứng trên tối huyết.,Tất cả đều sai.,0.25,geography,True
+Đồ Tây Nam Á,"Bắc Á, Đông Á, Đông Nam Á",0.3477999866008758,geography,False
+Đông Tây Á,Nam Á.,0.2000000029802322,geography,True
+นằm ở 50 đến 100 $người/km^2$.,Từ 1 đến 50 $người/km^2$.,0.680899977684021,geography,False
+Địa điểm có thương mại rộng rãi hoặc địa điểm trên dãy nước.,Có đồng bằng màu mỡ.,0.1587000042200088,geography,True
+"Đồ trang sức, vàng bạc","Gia vị, hương liệu",0.1599999964237213,geography,True
+1990,1985,0.6000000238418579,geography,False
+Çam-pu-chia,Trung Quốc.,0.0,geography,False
+Đất Phủ,Vùng trời,0.0,geography,True
+Đánh rõ và thảo luận những địa điểm được nhắc trước.,Khảo sát thực tế.,0.1569000035524368,geography,True
+Đà Lạt,Cà Mau,0.2000000029802322,geography,True
+Đồng Tháp,Bến Tre,0.0,geography,True
+Địa chỉ trên các nước Đông Nam Á đất liền và hải đảo.,Nằm trong vùng nội chí tuyến.,0.1404000073671341,geography,True
+"Đảng Chi, Xi-ga-po, In-đô-nê-xi-a, Bru-nây, Mi-an-ma, Cam-pu-chia, Thái Lan","Trung Quôc, Phi-lip-pin, Lào, Cam-pu-chia, Ma-lai-xi-a, Bru-nây, In-đô-nê-xi-a, Thái Lan.",0.4225000143051147,geography,False
+Đảo Còng,Biển Xu-Lu,0.0,geography,False
+Đại Tây Dương,Ấn Độ Dương và Đại Tây Dương,0.6470999717712402,geography,False
+"Đối với D, đây là trả lời trắc nghiệm, đồng nghị rằng mùa đông gió có hướng tây nam, và mùa hạ gió cũng có hướng nam, không phải hướng đông bắc.",Quanh năm chung 1 chế độ gió.,0.1120999976992607,geography,True
+3,2,0.5,geography,False
+Ø,"Vòm sông Chảy, Hoàng Liên Sơn, Bạch Mã, khối nhô Kon Tum.",0.0,geography,False
+Østrildes,"Việt Bắc, Hoàng Liên Sơn.",0.0,geography,True
+Điền vài trong dấu [],Giai đoạn Trung sinh,0.3332999944686889,geography,False
+100 loại,40 loại,0.7692000269889832,geography,False
+Đá,Khí,0.0,geography,False
+Ấn tại,Nhỏ,0.0,geography,False
+Động thái không tác động đến hiệu quả khai thác họp lí.,"Một số khoáng sản có nguy cơ cạn kiệt,",0.1723999977111816,geography,True
+Đồng bằng sông Mekong.,Đồng bằng Bắc Trung Bộ,0.5806000232696533,geography,False
+2,2,1.0,geography,False
+Đất cát,"Sự phát triển kinh tế, chất lượng cuộc sống.",0.1333000063896179,geography,False
+"79,7 triệu người","74,5 triệu người",0.833299994468689,geography,False
+Đứng trên số cao,Thấp,0.0,geography,False
+26%,25%,0.666700005531311,geography,False
+"Đối thoại giữa các nhà máy, xí nghiệp có thế giảm",Nguồn lao động tăng nhanh,0.1738999933004379,geography,True
+Đầu túc thương mại,Công nghiệp Xây dựng,0.0768999978899955,geography,False
+"Đột tránh giảm tỷ trọng và tăng tỷ trọng trong các ngành technology, sản xuất phi công, và giảm tỷ trọng trong các ngành tự chia.","Giảm tỉ trọng lao động trong ngành nông, lâm, ngư nghiệp, tăng tỉ trọng lao độgn trong ngành công nghiệp và dịch vụ.",0.4058000147342682,geography,True
+"Đặc điểm là tỉ trọng cao hơn nông –lâm- ngư nghiệp, nhưng còn thấp hơn công nghiệp, xây dựng và ít biến động.",Chiếm tỉ trọng cao nhưng xu hướng còn biến động.,0.4614999890327453,geography,False
+1950,1975,0.800000011920929,geography,False
+Đầu tư vào ngành nghỉ ngơi,Dịch vụ,0.0799999982118606,geography,False
+Đối thoại vũ lan trong nhà,"Giảm tỉ trọng khu vực nông, lâm, ngư nghiệp.",0.0930000022053718,geography,True
+Đây là nguồn cung cấp hữu cơ để tăng độ phì cho đất,Sinh vật là tư liệu sản xuất không thể thay thế được của nông nghiệp.,0.1537999957799911,geography,True
+Động lực nông nghiệp,Tất cả các yếu tố trên,0.0,geography,False
+Đất cát ven biển,Phù sa,0.0,geography,True
+"Điều thay đổi trong tỉ trọng cây công nghiệp hàng năm, giảm tỉ trọng cây công nghiệp lâu năm.","Tăng tỉ trọng cây cây lương thực, giảm tỉ trọng cây công nghiệp.",0.5769000053405762,geography,False
+Đầu thế giới,Xếp thứ tư thế giới.,0.4762000143527984,geography,False
+"Độ tuổi của nông dân thấp, khiến cho việc chăn nuôi tránh trán trọng.","Giống gia súc, gia cầm có chất lượng thấp.",0.1537999957799911,geography,True
+Đặc trưng rừng.,Tất cả các loại rừng trên.,0.3226000070571899,geography,True
+"Rừng phòng hộ, rừng nguyên sinh và rừng đặc dụng","Rừng sản xuất, rừng sinh thái và rừng phòng hộ",0.5633999705314636,geography,False
+Địa để sản xuất gỗ,Rừng phòng hộ,0.1429000049829483,geography,False
+Đồng Tháp,Tây Ninh,0.0,geography,True
+11,8,0.4000000059604645,geography,False
+Đất badan,Đát xám và đất phù sa,0.4000000059604645,geography,False
+"Điện tử, công nghệ, hệ thống trung tâm công nghiệp","Chế biến lương thực- thực phẩm, cơ khí",0.1455000042915344,geography,True
+Đá chanh,Điều,0.4000000059604645,geography,True
+50%,90%,0.666700005531311,geography,False
+Địa bàn Hà Nội là nơi có số lượng người dân thấp nhất trong vùng,Vùng nhận được đầu tư nước ngoài chiếm tỉ lệ cao nhất cả nước,0.2299000024795532,geography,True
+Đà Lạt,Vũng Tàu,0.166700005531311,geography,True
+Đồ uống,Hàng nông sản,0.1333000063896179,geography,True
+Được nằm ở cực Nam tổ quốc,Toàn bộ diện tích là đồng bằng,0.2273000031709671,geography,True
+Đồng bằng có nhiều sản phụ thuộc vào các nguồn nước khác,Xuất khẩu nông sản nhiều nhất,0.2540000081062317,geography,False
+50 000 km^{2},$20 000 km^{2}$,0.8999999761581421,geography,False
+Độ chảy mưa cao,Cháy rừng,0.2105000019073486,geography,True
+Đồng hảo trồng,Giao thông,0.1333000063896179,geography,True
+Đầu túc cung cấp nước,Cơ khí,0.0952000021934509,geography,True
+Đường truck,Đường bộ,0.7142999768257141,geography,False
+Đồng bằng Phố Điều,Chợ gỗ,0.0908999964594841,geography,False
+"Ḫơ me, Chăm, Hoa.","Gia Rai, Ê Đê, Ba Na.",0.1053000018000602,geography,True
+200 hải lí tính từ đường bở biển,212 hải lí tính từ giới hạn ngoài của lãnh hải,0.4515999853610992,geography,False
+3 bộ phận,3 bộ phận,1.0,geography,False
+Đà Cầu Gạo,Cát Bà,0.1537999957799911,geography,True
+Định nghị số người trong một thời điểm nhất định.,Dân số là nguồn lao động.,0.1960999965667724,geography,True
+"7,4 billion.",5 tỉ người.,0.1333000063896179,geography,False
+Đồ thị vùng dân số,Một đường thẳng,0.3199999928474426,geography,True
+0-18 tuổi,0-17 tuổi,0.8999999761581421,geography,False
+Đảm bảo y tế và giáo dục chậm phát,"Thiếu nhà ở, thất nghiệp",0.0975999981164932,geography,False
+Đầu thế kỷ XX,Từ thế kỷ XX – nay.,0.583299994468689,geography,False
+100%,250%.,0.5,geography,False
+Đều đông đúc,Đều,0.5,geography,False
+"Đồng bằng, ven biển",Nông thôn,0.2105000019073486,geography,True
+Đảng là Thụ Thanh.,Đông Nam Á.,0.4000000059604645,geography,True
+đặc điểm môi.,bàn tay.,0.0,geography,True
+độ tuỳ thuần.,gia tăng dân số tự nhiên.,0.0,geography,True
+Đông Mékhan,"Bắc Á, Bắc Phi, Đông Bắc Hoa Kì.",0.2962999939918518,geography,False
+Đông Á,"Đông Bắc Hoa Kì, Nam Á.",0.5555999875068665,geography,False
+Đen da và tóc đen.,"Da vàng, tóc đen.",0.8181999921798706,geography,False
+Điểm nhiên liệu,Dân cư không tập trung với mật độ cao như thành thị,0.139500007033348,geography,True
+3 loại hình,Năm loại hình.,0.7368000149726868,geography,False
+Phát triển dịch vụ,Sản xuất công nghiệp,0.0869999974966049,geography,False
+Địa phận,Xã.,0.0,geography,True
+Ấn Độ,Nhật,0.0,geography,True
+Số lượng nam và nữ.,Các độ tuổi của dân số.,0.1429000049829483,geography,False
+Điều thúc họo hóa và giảm tỷ lệ tử.,"Tỉ lệ sinh giảm, tỉ lệ tử giảm.",0.4528000056743622,geography,False
+Đảngo Li.,Bắc Mĩ.,0.0,geography,True
+Châu Đại Dương.,Châu Phi.,0.5,geography,False
+"9,5 tỉ người.",10 tỉ người.,0.7825999855995178,geography,False
+Châu Đại Dương,Châu Phi.,0.5,geography,False
+Sự tương quan giữa số trẻ sinh ra và số người chuyển đi trong một năm.,Sự tương quan giữa số trẻ sinh ra và số người từ nơi khác đến trong một năm.,0.8131999969482422,geography,False
+Sự tương quan giữa số trẻ sinh ra và số người chuyển đi.,Sự tương quan giữa số trẻ sinh ra và số người chết đi.,0.9254000186920166,geography,False
+địa điều hòa thưa thớt.,các trục giao thông lớn.,0.1289999932050705,geography,True
+Đặc điểm hình thái.,Vóc dáng,0.166700005531311,geography,True
+7,Năm.,0.0,geography,False
+đảm bảo cung cấp nguồn nước đồng bộ.,ít chịu ảnh hưởng của thiên tai.,0.2040999978780746,geography,True
+Đông Đông,châu Phi.,0.0,geography,False
+Điều hòa vùng trồng,tài nguyên thiên nhiên.,0.0741000026464462,geography,True
+Đảzi,châu Âu.,0.0,geography,False
+Địa điểm thương mại,Quận,0.0,geography,True
+Đầy đủ nhà ở,Thất nghiệp,0.0,geography,True
+Đà-Lăt.,Thiên Tân.,0.0,geography,True
+Çê-Lê-Ki (China) và Çô-Lô-Ki (Japonia),Pa-ri và Tô-ki-ô.,0.3199999928474426,geography,True
+"Địa thấp, đô thấp, vùng nơi nhiều người sống.",Vùng nước ở phía ngoài đường cơ sở với chiều rộng 12 hải lí.,0.2432000041007995,geography,False
+Ảnh hưởng của các bức chắn địa hình,"Sự phân hóa phức tạp của địa hình vùng núi, trung du và đồng bằng ven biển.",0.3158000111579895,geography,True
+"Ấp núi, giữa thung lũng sông Hồng và dãy Bạch Mã",nằm ở phía nam dãy Bạch Mã,0.3673000037670135,geography,True
+Đồi núi thấp chiếm 85% diện tích lãnh thổ.,Nước ta nằm tiếp giáp Biển Đông.,0.0784000009298324,geography,True
+"động đất, trượt lở đất","lũ ống, lũ quét      ",0.2069000005722046,geography,True
+"Đồng bằng sông Cửu Long có thể được điền ra này: ""Cao hơn và bằng phẳng hơn""",Cao hơn và ít bằng phẳng hơn,0.5195000171661377,geography,False
+Địa lý,Địa hình,0.571399986743927,geography,True
+Đảo Guam.  ,Vịnh Thái Lan.,0.0,geography,True
+động vi tốc động suất của Mặt Trời trong năm,"trong năm, Mặt Trời luôn đứng cao trên đường chân trời",0.2768999934196472,geography,False
+Đồng bằng Trung Bộ.,Duyên Hải Nam Trung Bộ.,0.3332999944686889,geography,True
+Đa số là sông lớn.,Mật độ sông lớn,0.666700005531311,geography,False
+động cứu sông,xói mòn – rửa trôi,0.0833000019192695,geography,False
+Đất cát ven biển,Đất xám      ,0.5,geography,True
+Đới rừng xích đạo gió mùa.,Đới rừng nhiệt đới ẩm gió mùa.,0.680899977684021,geography,True
+Đất địa chân núi khô,Hệ sinh thái rừng nhiệt đới thường xanh trên đá vôi.,0.2040999978780746,geography,False
+chảy theo hướng tây bắc – đông nam và hướng tây,chảy theo hướng tây - đông,0.7110999822616577,geography,False
+"ăng cường giáo dục hướng nghiệp, đa dạng các loại hình đào tạo.",việc tăng cường xuất khẩu lao động sang các nước phát triển.,0.3210000097751617,geography,True
+quốc doanh.,tư nhân.,0.0,geography,True
+Đạt sứ mệnh sản xuất trên toàn bộ nền kinh tế.,tăng cường cơ sở vật chất kĩ thuật.,0.1090999990701675,geography,True
+"Đô thị hóa ở nước ta đã giảm trong năm qua, đồng thời số lao động trong đô thị cũng giảm.",Nếp sống đô thị và nông thôn còn xen lẫn vào nhau.,0.2151000052690506,geography,True
+"Điều thu hồi, tăng tỉ trọng của ngành trồng trọt, giảm tỉ trọng của ngành chăn nuôi.","Giảm tỉ trọng cây lương thực thực, tăng tỉ trọng cây công nghiệp.",0.375,geography,True
+"Tăng tỉ trọng khu vực III, giảm tỉ trọng khu vực I.","giảm tỉ trọng khu vực I, giảm tỉ trọng khu vực II.",0.8615000247955322,geography,False
+Người nông dân quan tâm nhiều hơn đến thị trường tiêu thụ sản phẩm,"Sản xuất nhỏ, công cụ thủ công",0.1270000040531158,geography,True
+"Đẩy mạnh thâm canh, chuyên môn hóa",Gắn liền với công nghiệp chế biến và dịch vụ nông nghiệp,0.1033999994397163,geography,True
+Đầy đủ nước sông.,nhiều giống gia cầm cho năng suất cao.,0.1713999956846237,geography,True
+Đổ lửa đất nông nghiệp sang đất chuyên dùng. ,Từ đất lâm nghiệp sang nông nghiệp. ,0.4726999998092651,geography,False
+Đảm bảo sự an toàn cho trồng lúa tránh bị sương rắn,Tiếp tục trồng rừng và mở rộng diện tích rừng,0.1875,geography,True
+Đà Lạt – Lam Dong    ,Hải Phòng- Nam Định,0.1817999929189682,geography,True
+Đồng bằng sông Mekong.,duyên hải Nam Trung Bộ.,0.0768999978899955,geography,True
+Đồng bằng sông Mekong.,Bắc Trung Bộ.,0.0908999964594841,geography,True
+Điện thoại và trang bị electronics,Công nghiệp sành sứ và thủy tinh,0.1713999956846237,geography,True
+Đông Nam Bộ,Đồng bằng sông Hồng      ,0.3635999858379364,geography,False
+Đảm bảo sứ mệnh trong gia đình,Làm nguyên liệu cho sản xuất phân đạm,0.2222000062465667,geography,True
+Được phát triển trên đất nước,Có cơ sở vật chất kĩ thuật hiện đại,0.130400002002716,geography,True
+Đông Nam Bộ và Đồng bằng sông Cửu Long,Đồng bằng sông Hồng và đồng bằng song Cửu Long,0.699999988079071,geography,True
+Đường biển. ,"Đường sông, đường hàng không, đường biển. ",0.4444000124931335,geography,False
+Đánh giá cuối cùng về sự kiểm duyện trong cuộc tấn công,Cộng đồng kinh tế ASEAN ( AEC) được thành lập,0.1333000063896179,geography,True
+Đầu tư vào hợp tác và chiến lược trong thương mạo,Nhưng chưa có quan hệ với các nước Tây Âu,0.1754000037908554,geography,True
+"đá khí, cồi, kim loại, hàn silicat.","han bùn, dầu khí, thiếc, bô xít.",0.2161999940872192,geography,True
+"đầy động đất đẹp, tốc dõi nhiều cát.","thường xảy ra bão, lụt, nạn cát bay, gió Lào.",0.1887000054121017,geography,True
+3,3,1.0,geography,False
+Đất Trời,Mặt Đất,0.5,geography,True
+244 người/km2,312 người/m2,0.699999988079071,geography,False
+Đối thoại trong không khí,Phong tục tập quán và tâm lí xã hội,0.0526000000536441,geography,True
+Đảm bảo các mặt bẻ trong quốc gia,"Điều kiện sống, mức sống ,thu nhập được cải thiện",0.166700005531311,geography,True
+Châu Mĩ,Châu Phi,0.6000000238418579,geography,False
+,Cơ cấu dân số theo tuổi là sự tập hợp một nhóm người sắp xếp theo độ tuổi nhất định,0.0,geography,False
+"Đáy tháp rộng, đỉnh tháp mở rộng hơn, các cạnh thoai thoải","Đáy tháp rộng, phình to ở giữa, đỉnh tháp nhọn",0.5315999984741211,geography,True
+Điền vào trong dấu [],"Cơ cấu ngành kinh tế, khu vực kinh tế trong nước, toàn cầu và khu vực",0.1537999957799911,geography,False
+"0,5%","0,5%0",0.800000011920929,geography,False
+"Đất, nước, khí hậu, biển, sinh vật, vốn","Đất, nước, khí hậu, vốn, biển,sinh vật",0.8799999952316284,geography,False
+Động thái ngắn hạn,"Ở những khu vực địa hình dốc, nước mưa được giữ lại rất ít dưới dạng nước ngầm, phần lớn chảy tràn trên bề mặt ngay sau khi mưa",0.1187999993562698,geography,True
+Độ sáng suất trên chân trời,Sự thay đổi có qui luật của các thành phần địa lí và cảnh quan địa lí theo kinh độ,0.0908999964594841,geography,False
+Đá mẹ,Hữu cơ,0.0,geography,False
+Đối thép dân số trung bình ở cùng thời điểm,Những người có nguy cơ tử vong cao trong xã hội ở cùng thời điểm,0.4532999992370605,geography,True
+Động vi rối trong mùa thu,Gío Tây ôn đới,0.2222000062465667,geography,True
+Động cơ,Được hình thành ở những vùng bất ổn cảu Trái Đất,0.1702000051736831,geography,True
+"Độ sáng, mùa thu",Sức ép của không khí khác nhau,0.1289999932050705,geography,True
+"Nặng, mềm, không di chuyển được","Nhẹ, cứng, không di chuyển được",0.8181999921798706,geography,False
+Đối thoại chiến tranh,Sinh đẻ và di cư,0.1599999964237213,geography,False
+Dân số trung bình ở cùng thời điểm,Số người trong độ tuổi sinh đẻ ở cùng thời điểm,0.6032000184059143,geography,False
+Động đất núi lửa,"Sinh ra các hoạt động động đất, núi lửa",0.7142999768257141,geography,True
+được nhiệt của bề mặt Trái Đất đốt nóng,nhận bức xạ trực tiếp của Mặt Trời,0.3729000091552734,geography,False
+Đột tránh kinh tuyến được chọn làm đường chuyển ngày quốc tế,tất cả đều sai,0.1176000013947486,geography,True
+Động vi rối trong không gian,P và T,0.0,geography,True
+đặc trưng của tổ chức dịch vậy,mức độ tập trung ngành dịch vụ,0.3181999921798706,geography,True
+Điện thoại,Bảo hiểm,0.1333000063896179,geography,True
+Điều kiện vùng đất và thị trường kinh doanh,Phân bố dân cư,0.0571000017225742,geography,True
+Điều kiện và sứ mệnh của dịch vụ,Phân bố dân cư và mạng lưới quần cư,0.2173999994993209,geography,True
+Đường hàng không,Đường ô tô,0.571399986743927,geography,False
+đường xá và phương tiện,đường xá và xe cộ,0.6207000017166138,geography,True
+Độ tuỳ thuộc của sản phẩm và chi phí đầu tư vào sản phẩu,Sản phẩm là sự chuyên chở người và hàng hóa,0.3055999875068664,geography,True
+đầy đủ sự hỗ trợ giữa các vùng trong nước và giữa các nước trên thế giới,Tạo điều kiện hình thành các vùng sản xuất chuyên môn hóa,0.2092999964952469,geography,True
+Độ nhiên liệu,Khí hậu,0.1333000063896179,geography,True
+Đầu thế giới phụ thuộc vào nhiên liệu,An toàn,0.0,geography,True
+Řeckoa,"Hoa Kì, Anh, Pháp, CHLB Đức",0.0,geography,False
+Điều kiện tự nhiên,Trình độ kỹ thuật,0.2308000028133392,geography,True
+Đường hàng không,Đường thủy,0.5,geography,False
+Đường biển,Đường sắt,0.625,geography,False
+Đường hàng không,Đường sắt,0.5,geography,False
+Được xây dựng ở nửa sau thế kỉ XIX,Đây là ngành có tốc độ phát triển nhanh nhất,0.2143000066280365,geography,True
+"Đảngo La, Việt Nam và Thái Bình Dương, Việt Nam",Những nước ở Châu Âu nhờ vào hệ thống sông Đa-nuýp và Rai-nơ,0.2000000029802322,geography,True
+Đại Tây Dương có nhiều trung tâm kinh tế lớn,Nối liền hai trung tâm kinh tế lớn là Hoa Kì và Nhật Bản,0.4515999853610992,geography,True
+Đối thoại so sánh giữa tỉ lệ xuất khẩu và tỉ lệ nhập khẩu,Quan hệ so sánh giữa xuất khẩu và nhập khẩu,0.7160000205039978,geography,False
+đầy đủ nhân lực trong thương mại,xuất khẩu lớn hơn nhập khẩu,0.125,geography,False
+Đà-Lăt-Tây,Kô-bê,0.0,geography,True
+Điều tiết cung cầu cho phù hợp với thị trường,Giới thiệu sản phẩm hàng hóa đến người tiêu dùng,0.2222000062465667,geography,True
+"đã có xu hướng giảm, kích thích mở rộng sản xuất","có xu hướng giảm, sản xuất có nguy cơ đình đốn",0.5396999716758728,geography,False
+Động viên của Mặt Trời và Mặt Trăng.,Dựa vào sự di chuyển của Mặt Trăng và Mặt Trời.,0.5573999881744385,history,False
+Dương lịch,Âm lịch,0.5,history,True
+Động lịch,Cả A và B đều sai,0.2105000019073486,history,True
+2118 năm,2126 năm,0.75,history,False
+Ấn Độ,"Những túp lều bằng cành cây, có khô.",0.0,history,True
+Đồ uống sát.,"Rau, bầu, bí và gia cầm.",0.0,history,True
+2 cách,ba cách,0.571399986743927,history,False
+"bấp bênh, “ăn lông ở lỗ”",định cư tại một nơi.,0.1111000031232833,history,True
+"Ấn Độ, Ai Cập.","Hi lạp, Rô-ma, Ấn Độ, Lưỡng Hà.",0.3871000111103058,history,True
+được lấy nông nghiệp làm cơ sở kinh tế chủ yếu.,hình thành trên bán đảo.,0.0851000025868415,history,False
+đàn thuỷ,làm nghề thủ công nghiệp,0.0952000021934509,history,True
+Đàn cầu.,Chữ La tính. ,0.0,history,True
+Đất sét,Thẻ tre,0.0,history,True
+Địa chỉ của di cốt tìm thấy (C),Ở Tây Âu,0.3226000070571899,history,True
+Đảng Dân chủ,Quân chủ lập hiến,0.3332999944686889,history,False
+Đo lại ruộng đất để tính diện tích cho việc chia nhà ở của nhân dân.,Phải tính toán các công trình kiến trúc.,0.1791000068187713,history,True
+Ấn Độ - Sông Hằng,Ai Cập - Sông Nin,0.2727000117301941,history,False
+Để thống nhất các ngày lễ hội trong cả nước.,Để phục vụ yêu cầu học tập.,0.25,history,True
+ứng dụng các thiếu hụt của nhiên liệu radioactif.,sớm sử dụng công cụ bằng sắt.,0.2449000030755996,history,True
+Đi đứng bằng hai chân,Đôi tay khéo léo hơn,0.2000000029802322,history,True
+Được phát triển và phục hộ trong lịch sử và định vị quốc gia.,Nhằm giúp nhân dân ta tổ chức lại bộ máy chính quyền.,0.1053000018000602,history,True
+Vùng đất Bắc Bộ - Bắc Trung Bộ đến Quảng Ngãi.,Vùng đất Bắc Bộ - Bắc Trung Bộ đến Quảng Trị.,0.9122999906539916,history,False
+Đà Lan,Văn Lang.,0.0,history,True
+Để tạo ra một trục động hương cho chiến thắng,Cai quản cho dễ,0.0555999986827373,history,True
+Đồn thể.,"Địa chủ, quan lại.",0.25,history,False
+Để chuẩn bị lực lượng.,Lúc này nhà Hán phải lo đối phó với các cuộc đấu tranh của nhân dân Trung Quốc.,0.1212000027298927,history,True
+Đánh Từng Lý Chiếc,Cẩm Khê,0.0908999964594841,history,True
+"Đôi vạn quân, ba nghìn xe thuyền các loại.",Ba vạn quân. hai nghìn xe thuyền các loại.,0.833299994468689,history,False
+Điều thuật sĩ thu hút dân ta để sản xuất sơn màu.,"Cống nộp vàng bạc, châu báu, lâm hải sản quý hiếm.",0.1817999929189682,history,True
+Đối với thuế sắt và thuế thân.,Thuế chợ và thuế đò.,0.4848000109195709,history,False
+"Đồng thuộc người Việt, thứ sử là người Hán, cùng nắm chức Huyện lệnh.","Thái thú là người Hán, trực tiếp cai quản các huyện. ",0.4054000079631805,history,False
+Đức Hùng,Mai Hắc Đế,0.2856999933719635,history,True
+Địa chỉ Phong Vũ (Hà Nội).,"Núi Nưa (Hậu Lộc, Thanh Hóa).",0.1817999929189682,history,False
+10000 quân,7000 quân,0.800000011920929,history,False
+Địa chủ Hán.,"Lạc tướng, Bồ chính.",0.1000000014901161,history,True
+"6 châu (Giao Châu, Ái Châu, Đức Châu, Lợi Châu, Minh Châu, Hoàng Châu).","Ba quận (Giao Chỉ, Cửu Chân và Nhật Nam).",0.1905000060796737,history,True
+Đồng tích,Tập hợp lực lượng chống lại nhà Lương.,0.0625,history,True
+543,543,1.0,history,False
+Độc lập vùng lịch sử,nhà Tần,0.0,history,False
+Đế Bí.,Lý Đông Đế.,0.428600013256073,history,False
+Đối thoại giữa các các cấp trong nước.,Một cuộc chiến tranh giải phóng dân tộc.,0.0869999974966049,history,False
+"Đảm bảo quyền lợi và an toàn sự kiện cho nhân dân, tạo nền chính chúng dân chủ Gia – cô – banh.",Thiết lập được nền cộng hoà tư sản,0.1842000037431717,history,True
+​Cách mạng tư sản Anh.,Cách mạng tư sản Hà Lan.,0.800000011920929,history,False
+Đối thoại bầu cử Hội đồng công xã,Quốc dân quân đánh chiếm các trụ sở của Chính phủ lâm thời.,0.1934999972581863,history,True
+Đoàn kết và tập hợp các lực lượng trên toàn thế giới để tiêu diệt chủ nghĩa phát xít.,Trả thù sự tấn công của Nhật vào hạm đội Mĩ.,0.1706999987363815,history,True
+5 lần,5 lần,1.0,history,False
+Đánh giá và sửa chữa các quy định pháp luật trống tránh để phục vụ nhân dân.,Thi hành chính sách “ngu dân”.,0.1875,history,True
+Đảng Cộng sản,Quân chủ lập hiến,0.1000000014901161,history,True
+1925,Năm 1931,0.4614999890327453,history,False
+Đặc quyền không phải đóng thuế ở Đẳng cấp thứ ba.,Đẳng cấp quý tộc.,0.3332999944686889,history,False
+Đế quốc Anh (Thế kỷ XVIII),Thế kỉ XII,0.5600000023841858,history,False
+1840,1840- 1844,0.666700005531311,history,False
+"Đấu tranh Pháp với Thái Lan, Việt Nam, Lào, Cam-pu-chia.","Việt Nam, Lào, Cam-pu-chia, Xin-ga-po.",0.5,history,False
+Đột tránh về sự nghiệp và hội viên quan hệ trong các nước,Sự khủng hoảng về chính trị,0.1632999926805496,history,True
+Đầu tư và phát triển củng cố các chiến thắng trên trái tim.,Chiến hạm chân vịt có trọng tải lớn.,0.1887000054121017,history,True
+Đèn Phong Hành Pháp được trọng trình thành lên Pháp.,Quốc hội lập hiến tuyên bố xóa bỏ mọi nghĩa vụ của nông dân.,0.1111000031232833,history,True
+5 năm chiến tranh đế quốc và 2 nội chiến,5 chiến tranh đế quốc và 3 nội chiến,0.8980000019073486,history,False
+Hiệp ước Brer-li-tốp.,Hòa ước Mác xây.,0.3199999928474426,history,True
+Ảnh hư�rái của cách mạng Nga 1905.,"Việc đẩy mạnh công nghiệp hóa, tập trung công nghiệp, thương nghiệp và ngân hàng",0.1689999997615814,history,True
+"Đẩy đất nước vào tình trạng chính trị, xã hội, kinh tế.","Nạn thất nghiệp tăng nhanh, nạn đói xảy ra trầm trọng.",0.1689999997615814,history,True
+Đồi tháp của nhân dân Anh trên nhà đã giảm số lượng,"Quan hệ sản xuất tư bản chủ nghĩa ở Anh đã phát triển cả trong công nghiệp, nông nghiệp và thương nghiệp.",0.2082999944686889,history,True
+"Ý không phát triển, nước Pháp trong khi mạng tư sản bùng nổ.","Nền kinh tế Pháp ở thế kỉ XVII đã phát triển khá mạnh, nhất là về công nghiệp và thương nghiệp",0.2680000066757202,history,True
+Điều không phản ánh đúng ý nghĩa,Giải phóng nhân dân các thuộc địa Anh khỏi ách thống trị thực dân,0.1817999929189682,history,True
+Đánh giá sự thúc giụa của nhân dịch,"Thúc đẩy quá trình tìm kiếm thị trường, xâm lược thuộc địa.",0.1845999956130981,history,True
+Đầu thế kỷ 20,Nửa đầu thế kỉ XVIII,0.5806000232696533,history,False
+Đánh bạc trong bầu cử,"Lật đổ triều đại Mãn Thanh, chấm dứt chế độ quân chủ chuyên chế",0.1429000049829483,history,True
+"Điều kiện phát triển của nền kinh tế và xét nghiệp, giúp đảm bảo sự phục vụ cho chiến tranh đế quốc",mâu thuẫn xã hội gay gắt,0.0768999978899955,history,True
+Đội ngũ anh em giữa các dân tộc,Sự bình đẳng về mọi mặt giữa các dân tộc,0.5098000168800354,history,True
+Đối thoại và chiến tranh không bán xứ,"Tạo điều kiện cho sự phát triển nhanh chóng về kinh tế, xã hội của tất cả các nước Cộng hoà",0.1794999986886978,history,True
+Đi thúc hậu quả kinh tế,Chủ trương xây dựng nền kinh tế tập trung do Nhà nước quản lí,0.1569000035524368,history,True
+Đồng hồ số động,Nằm trên tuyến đường biển huyết mạch,0.2105000019073486,history,True
+Đại diện chính quyền thực dân có thể thi hành chính sách cai trị trán dịch,Thiết lập nền thống trị bằng hình thức giống nhau,0.1891999989748001,history,True
+Đầu túc phát triển các ngành nông nghiệp,Chiến lược công nghiệp hoá hướng về xuất khẩu,0.218199998140335,history,False
+1917,Năm 1918,0.6154000163078308,history,False
+Đảng - Nhà nước Xô,N. Khơ - rút - xốp,0.2727000117301941,history,True
+Đồng minh Châu Á với Tây Âu,Đông Âu và một số nước Châu Á,0.4102999866008758,history,False
+Năm 1980,Năm 1982,0.875,history,False
+Đứng vị trí thứ hai trên thế giới,Đứng vị trí thứ tám trên thế giới,0.8946999907493591,history,False
+Đà Lan,Xin-ga-po,0.0,history,True
+Đảm bảo sự đồng bộ giữa các tòa bạch và các tòa bạch trong chính trị,Giải quyết vấn đề ruộng đất cho nông dân,0.1448999941349029,history,True
+"Điều kiện phát triển của nền kinh tế và xét nghiệp, giúp đảm bảo sự phục vụ cho chiến tranh đế quốc",mâu thuẫn xã hội gay gắt,0.0768999978899955,history,True
+"đánh thắng các nhà lãnh tụ, xây dựng chính phủ trong",ban hành Hiến pháp mới,0.1363999992609024,history,True
+1916,Năm 1919,0.6154000163078308,history,False
+"นักาด, อาจารย์, บล็อกร์, และ นิคาพ์","Nga, U -crai - na, Bê - lô - rút- xi-a và Lít - va",0.0,history,False
+Đội ngũ anh em giữa các dân tộc,Sự bình đẳng về mọi mặt giữa các dân tộc,0.5098000168800354,history,True
+"Để hoàn thành câu hỏi, thời gian ở dấu [] là: D. Tháng 7 - 1922",Tháng 1 - 1924,0.3199999928474426,history,False
+"Đưa ra nhân lực, sự nghiệp, và tinh thần của nhân dân trên toàn bộ nước Xô viết",Phù hợp với lợi ích chung của các dân tộc trên đất nước Xô viết,0.4138000011444092,history,True
+Đưa đến sự hình thành trật tự thế giới mới,"Cổ vũ, lôi cuốn mạnh mẽ phong trào giải phóng dân tộc ở những nước thuộc địa",0.1627999991178512,history,True
+Đảng Liên - Xô,Bre - giơ - nhép,0.0,history,True
+Đấu tranh về quyền lực của Chính quyền Xô,Phân định các quyền của Liên bang và của các nước Cộng hoà,0.3174999952316284,history,False
+"Đông Âu, Châu Á và khu vực Mỹ la tinh",một số nước Châu Á và khu vực Mỹ la tinh,0.680899977684021,history,False
+đi đầu về công nghiệp điện hạt nhân,từ những nước nghèo đã trở thành những nước công nghiệp mới (NIsC),0.2816999852657318,history,True
+Đảng Dân chống chính phủ,Cộng hoà xã hội chủ nghĩa Trung Hoa,0.176499992609024,history,False
+Năm 1980,Năm 1982,0.875,history,False
+Đứng vị trí thứ hai trên thế giới,Đứng vị trí thứ tám trên thế giới,0.8946999907493591,history,False
+12 - 1991,Tháng 12 - 1989,0.7368000149726868,history,False
+"Đa số cáp tướng, độc lập truyền thống, tránh sự phục vụ của nhân dân trong quá trình cải cách",Sự chống phá của các thế lực thù địch ở trong và ngoài nước,0.2082999944686889,history,True
+Đầu tư vào các doanh nghiệp private,"Chú trọng đến các ngành nghề mới như: công nghiệp du lịch, công nghệ sinh học, khai thác dầu khí,...",0.2254000008106231,history,True
+Đối thoại không gian vào không gian,Xây dựng hệ thống định vị vệ tinh Bắc Đẩu,0.1852000057697296,history,True
+Đại tướng Ra-ma V,Ra-ma IV,0.2856999933719635,history,False
+Đầu tư vào việc sử dụng nhân tố nhiên liệu để tạo nền kinh tế.,Sự giao lưu quốc tế ngày càng được mở rộng.,0.1917999982833862,history,True
+Đối đầu do vấn đề Cam-pu-chia.,Quan hệ đối thoại.,0.2666999995708465,history,True
+Động hương của Hội đồng Tương trợ Kinh tế (SEV) trong việc hướng dẫn và đầu tư vào nền kinh tế.,Sự hợp tác giữa các nước Đông Âu.,0.1905000060796737,history,True
+1954-1958,1953-1957,0.800000011920929,history,False
+"Ảnh-chải-phóc, Việt Nam, Nhật Bản.","In-đô-nê-xi-a, Xin-ga-po, Thái Lan.",0.1053000018000602,history,False
+Đột tránh các chính phủ ngoại nhiên,Chủ nghĩa thực dân cũ.,0.1176000013947486,history,False
+Được sát trùng vào hệ thống kinh tế thế giới.,Tất cả các câu trên.,0.0513000003993511,history,True
+12/1975,11/1987,0.75,history,False
+Đột tránh vào việc sử dụm chủ nghĩa xã hội.,"Nhà nước nhân dân Xô viết, nhận thấy CNXH không tiến bộ nên muốn thay đổi chế độ.",0.1647000014781952,history,True
+Đảm bảo an ninh và bảo tồn các đội thuộc Mĩ trên đất Nhật.,Nhật Bản muốn lợi dụng vốn kĩ thuật của Mĩ để phát triển kinh tế.,0.2926999926567077,history,True
+03/11/1990.,03/11/1990.,1.0,history,False
+Đối thoại liên minh phòng thủ về chính trị và quân sự của các nước XHCN ở châu Âu,Một tổ chức liên minh phòng thủ về quân sự của các nước XHCN ở châu Âu.,0.7422999739646912,history,False
+Được phát triển và phức táp.,Ổn định và phát triển.,0.4000000059604645,history,True
+"Đến thập kỉ 60 (thế kỉ XX), Liên Xô trở thành cường quốc công nghiệp đứng thứ hai trên thế giới (sau Mĩ).","Năm 1961, Liên Xô là nước đầu tiên phóng thành công tàu vũ trụ có người lái.",0.2592999935150146,history,False
+Đảng Thanh niên (Viet Minh),Chủ nghĩa thực dân cũ.,0.0799999982118606,history,False
+Đối thoại giữa giai cấp vô sản với nhân dân.,Một cuộc cách mạng giải phóng dân tộc.,0.2353000044822693,history,False
+"Được phá hủy, nền kinh tế đã bị tàn phá.","Nạn thất nghiệp, thiếu lương thực, thực phẩm.",0.1455000042915344,history,True
+Đầu tư vào hợp tác quốc tế.,Chỉ làm bạn với các nước xã hội chủ nghĩa.,0.125,history,True
+1991,1990,0.800000011920929,history,False
+1900,1914,0.6000000238418579,history,False
+Đồng bào Châu Phi.,Mĩ La-tinh.,0.0,history,True
+5 năm,4 năm (1985-1989).,0.4000000059604645,history,False
+Đã được biến định và phát triển.,Một khu vực phồn thịnh.,0.2632000148296356,history,False
+Đồng Việt,A-gien-đê,0.3077000081539154,history,True
+"Đầu tư vào miền Bắc trật trọng vũ trang, hỗ trợ các trung tâm chiến tranh trên nước.","Đưa vào Sài Gòn – Gia Định hàng trục vạn bộ đội, hàng vạn thanh niên xung phong, cán bộ chuyên môn, nhân viên kĩ thuật.",0.2353000044822693,history,True
+Đông Dương cộng sản Đảng và An Nam cộng sản Đảng.,Cả ba ý trên đều sai.,0.2222000062465667,history,True
+Đồng thái xã hội và phong trào yêu nước.,Chủ nghĩa Mác-Lê nin với phong trào công nhân và phong trào nông dân.,0.2903000116348266,history,False
+Độc lập và tự do của nhân dân các nước Đông Dương.,Quyền tổ chức Tổng tuyển cử tự do.,0.1310999989509582,history,True
+Đà Lăt (Việt Nam).,Ma Cao (Trung Quốc).,0.0,history,True
+Đối thoại văn hóa giữa đảo thuộc Việt Nam và Mỹ,Do nội bộ chính quyền ngụy mâu thuẫn.,0.1378999948501587,history,True
+Đánh chiến tranh Pháp với người Việt Bắc.,Bình định mở rộng địa bàn chiếm đóng.,0.1852000057697296,history,True
+Đánh đổ đế quốc và Xóa bỏ ngôi vua.,“Tự do dân chủ” và “ Cơm áo hòa bình”.,0.1599999964237213,history,True
+Đảng bộ Hoa Kỳ.,"Liên Xô, Việt Nam, Lào, Cam-pu-chia.",0.0,history,False
+Đánh giá sự thành công của hiệp định.,Khắc phục hậu quả chiến tranh do Mĩ  gây ra ở miền Nam.,0.1429000049829483,history,True
+5/5/1911,8/5/1911,0.8888999819755554,history,False
+Đối thoại chiến tranh cục bộ,Chiến tranh một phía,0.428600013256073,history,False
+Đánh địch trên đường số 307.,Phục kích đánh địch từ Cao Bằng rút chạy. ,0.3600000143051147,history,True
+"Đầu tư vào việc tận hội viên tập trung đầu túc truyền bá chủ nghĩa Mác - Lê nin, tạo nền tảng các phong trào cách mạng trên địa bàn.",Rèn luyện tính kỷ luật cho hội viên.,0.1599999964237213,history,True
+Đỗ Ngọc Thịnh,Trường Chinh,0.1053000018000602,history,True
+"Điều kiện của chiến tranh (toàn dân, toàn diện, trường kỳ), mục đông (tự lực cánh sinh), phương chất (tránh chiến thắng, tranh thủ sự ủng hộ của quốc tế).",Kháng chiến toàn diện.,0.1702000051736831,history,True
+1932-1933.,1933-1934.,0.800000011920929,history,False
+Đem lại độc lập tự do cho dân tộc và cổ vũ cho phong trào cách mạng thế giới.,Lật đổ ngai vàng phong kiến đã ngự trị hàng chục thế kỉ trên đất nước ta.,0.3190999925136566,history,True
+Đỗ Nguyên Kim,Lê Hồng Sơn.,0.0,history,True
+Đối thoại trong chiến tranh đặc biệt mang tính nghịch lý hơn so với đối thoại trong chiến tranh cục bộ.,Sử dụng quân đội Sài Gòn  và cố vấn Mĩ.,0.1798000037670135,history,False
+Đồng bào Nhật Bản,Làm nghĩa vụ quốc tế đối với Trung Quốc.,0.1026000007987022,history,False
+Đánh dấu thời kì đấu tranh của nô lệ chống chế độ chiếm hữu nô lệ bắt đầu ở Tây Âu.,"Chế độ phong kiến chấm dứt, thời kì tư bản chủ nghĩa bắt đầu ở Tây Âu.",0.4860000014305115,history,False
+Đường không có trọng phát kiến địa lí.,Đường sông.,0.4515999853610992,history,False
+Đạo đức Phan Xích Dịnh.,Các cuộc chiến tranh nông dân ở Tây Âu.,0.1500000059604644,history,True
+Đế Nguyên,Nhà Hán.,0.166700005531311,history,False
+Đầu thế kỉ IV.,Cuối thế kỉ III TCN.,0.5,history,True
+Ảnh hưởng Phù Nam.,Vương quốc Ha-ri-pun-giay-a.,0.1537999957799911,history,True
+Đội ngũ người trẻ Lào.,Người Khơ-me.,0.3332999944686889,history,True
+Đột ngộ đầu tiên của Thế kỉ IX.,Thế kỉ V.,0.4000000059604645,history,False
+Đánh bạc.,Bỏ chức tiết độ sứ của phong kiến phương Bắc.,0.2161999940872192,history,True
+Đánh bại cuộc chiến Phiến Phong.,"Đặt tên nước là Đại Cổ Việt, đặt niên hiệu là Thái Bình.",0.1934999972581863,history,True
+Đức Hồng.,Hoằng Tháo.,0.1333000063896179,history,True
+Đế Mau.,Trần.,0.0,history,True
+Đức,Ấn Độ và Trung Quốc,0.3528999984264374,history,False
+Đế quốc Lang Xang.,Niềm vui lớn.,0.0,history,True
+Ấn Độ,Trung Quốc.,0.0,history,False
+Đúc được cột sắt không gỉ và những bức tượng Phật bằng đồng cao tới 2m.,Chế tạo kim hoàn và các tác phẩm nghệ thuật khắc trên ngà voi.,0.1720000058412552,history,True
+Đầu tư vào các động thái và hệ thống lịch sử để đưa người dân Trung Quốc vào tâm sự thống trị.,Mang tính giáo dục cao về rèn luyện phẩm chất con người.,0.1875,history,True
+"Đầu tư và sáng tại các nền tảng giáo sư, giúp phát triển các nhà văn, nhân loại và nghị lãnh.","Mở ra những vùng đất mới, con đường mới và những dân tộc mới.",0.2000000029802322,history,True
+Đức,"Anh, Pháp",0.0,history,True
+Đội quân quốc gia lây lan.,Nô lệ được giải phóng.,0.2000000029802322,history,True
+Đoàn thế thành,Bình Than,0.1429000049829483,history,True
+Để phòng ngừ giặc đối với thành trú đóng,Để chủ động đón đoàn quân địch,0.339599996805191,history,True
+21 tháng 1 năm 1430,Ngày 1 tháng 3 năm 1428,0.7059000134468079,history,False
+được phục vụ trong các chiến tranh trên Đông Nam Á và tạo ra nhiều thắng lợi,mở rộng địa bàn hoạt động vào phía Nam,0.231900006532669,history,True
+Đồn Đa Căng,Thành Trà Lân,0.0,history,True
+Đồn Nhi,Trần Nguyên Hãn,0.25,history,True
+Động hương của nhân dân ta trong cuộc không ngỡ,Nghĩa quân Lam Sơn có tinh thần kĩ thuật cao và chiến đấu dũng cảm,0.1142999976873397,history,True
+Đại tá Nguyễn Trãi.,Lê Lai.,0.1111000031232833,history,True
+Điền vài giấy trong dấu [],Tháng 10 năm 1426.,0.0666999965906143,history,False
+Để an ninh quân khủng hoảng trên địa bàn và bảo tồn sứ se lãnh tại Đại Việt,quân Minh đang tập trung lực lượng đánh Champa,0.2466000020503997,history,True
+15 tháng 5 năm 1427,Tháng 10 năm 1426,0.733299970626831,history,False
+Đền Thiên Vương (Hà Tây),Tất cả các vùng trên,0.1429000049829483,history,True
+1) Vương Thông đi thoa đến đông quan để hội thê để an toàn rút quân về nước,1) Chi Lăng 2) thua đau,0.2333000004291534,history,False
+Điều kiện môi trường không tác động ấy,"Nhân dân ta có tinh thần yêu nước, ý chí bất khuất, đoàn kết chiến đấu.",0.1943999975919723,history,True
+Đức Hoàng,Trần Nguyên Hãn,0.0,history,True
+Đố Cuế,Lý Khánh,0.0,history,True
+20 vạn,Gần 10 vạn,0.666700005531311,history,False
+Đạt cuộc thắng lợi trong chiến tranh chiến đấu với nhân bộ nhà Minh.,Kết thúc chiến tranh và buộc nhà Minh bồi thường chiến tranh cho nước ta.,0.3544000089168548,history,True
+Đống Đa và trận Hạ Hồi.,trận Tây Kết và trận Đông Bộ Đầu.,0.2439000010490417,history,True
+Đánh thắng trận chiến với quân Minh,"tiến quân ra Bắc, mở rộng phạm vi hoạt động",0.1702000051736831,history,True
+Điều kiện không liên quan đến chiến tranh này.,Sử dụng bom nguyên tử để tiêu diệt phát xít Nhật.,0.166700005531311,history,True
+Đảngo Liên Hợp Quốc,Hội nghị I-an-ta,0.0908999964594841,history,True
+"Điều kiện nhỏ, chậm sửa chữa, thay đổi trước những biến động của tình hình thế giới.","Do xây dựng mô hình chủ nghĩa xã hội chưa khoa học, chưa nhân văn.",0.1905000060796737,history,True
+Đẩy mạnh phòng bảo hộ trong nước,Lôi kéo các nước đồng minh chống lại Liên Xô.,0.1569000035524368,history,True
+1963,1973,0.800000011920929,history,False
+Điền vào trong dấu [],Tháng 10 - 1945.,0.0833000019192695,history,False
+"Để đánh giá thực tế, điền Đ.",Tại Oa-sinh-tơn (Mĩ).,0.1817999929189682,history,True
+Đồng thái hợp tác với các nước Đông Á và EU.,Nhiều nước có tốc độ phát triển khá nhanh,0.2222000062465667,history,True
+Đồng chân Phi.,Khu vực Tây Phi.,0.2222000062465667,history,False
+Đảng Cộng sản Mỹ,Đế quốc Nhật,0.1817999929189682,history,False
+Đức,Nhật,0.0,history,True
+Mĩ,Anh,0.0,history,True
+đội ngũ công nhiên lớn nhất của thế giới.,"khối kinh tế tư bản, đứng thứ hai thế giới",0.3077000081539154,history,True
+15,2,0.4000000059604645,history,False
+Ô nhiễu không tác động đến chi phí quốc phòng,"Nhật nằm trong vùng thường xảy ra thiên tai, động đất, sóng thần.",0.3188000023365021,history,True
+Đức,Anh,0.0,history,True
+Đánh bại Chiến tranh Thế Giới Thứ Năm và đánh thử thế giới.,Tiêu diệt phong trào công nhân ở các nước tư bản chủ nghĩa.,0.1351000070571899,history,True
+"Để hoàn thành câu hỏi trắc nghiệm, thứ ba để tránh trán: B. [Chiến tranh lạnh chấm dứt vào tháng 5/1991].",Tháng 12/1991.,0.2432000041007995,history,False
+Động viên.,Hệ thống máy tự động.,0.421099990606308,history,False
+"Đại nhảy vọt, một chiến thắng chiếm đất của chiến sĩ chiếm địa phủ trên Trung Quốc.","Trung Quốc thực hiện đường lối ""ba ngọn cờ hồng"".",0.1518999934196472,history,True
+Đảng Công nhân xã hội dân chù Nga.,Đảng Công nhân xã hội dân chủ Pháp.,0.8292999863624573,history,True
+Động thái củng bột trong nhân dịch yêu nước dân chủ,"Hệ tư tưởng dân chủ tư sản đã trở nên lỗi thời, lạc hậu.",0.1351000070571899,history,True
+Đại viện được xây dựng trong nhà Quốc hội.,Sự phát triển tự giác phong trào công nhân Việt Nam.,0.1852000057697296,history,False
+Động tai tiên phong,Giai cấp tư sản dân tộc lãnh đạo.,0.1212000027298927,history,True
+Đánh giá đúng khả năng cách mạng của các giai cấp trong xã hội Việt Nam.,Nêu cao vấn đề dân tộc lên hàng đâu.,0.1194000020623207,history,True
+12 - 1930.,Tháng 5 - 1930.,0.666700005531311,history,False
+Đầu tư vào ngành công nghiệp trong nước.,Thành lập Đảng Cộng sản ở mỗi nước.,0.2642000019550323,history,False
+"Động viên trong chiến tranh Pháp-Việt,","Chịu cảnh tô cao, thuế nặng, đời sổng hết sức bấp bênh.",0.1694999933242797,history,True
+Đối thoại giữa Pháp và Nhật trong sự kiện Phiếu Pháp-Nhật.,Mở ra một thời kì đấu tranh mới.,0.1333000063896179,history,True
+Đảng Cộng sản Đông Dương.,Mặt trận dân chủ Đông Dương.,0.4736999869346618,history,False
+Đối thoại Pháp-Tưởng đã bị ngăn ngừ trong thế giới.,Vì ta tránh tình trạng một lúc đối phó với nhiều kẻ thù.,0.2161999940872192,history,True
+Đào Phượng.,Phạm Văn Đồng.,0.3332999944686889,history,True
+1 tháng 8/1950.,Tháng 9/1949.  ,0.6363999843597412,history,False
+Động hương của nhân dịch trong chiến dịch.,Do sự giúp đỡ nhiệt tình của các nước xã hội chủ nghĩa trên thế giới.,0.2535000145435333,history,True
+Đầu tư vào nền kinh tế trong khu vực để tăng cường sức hữu ích và chiến lược chiến đánh trong chiến tranh chiến đấu.,Để đánh bại kế hoạch Rơ-ve.,0.1798000037670135,history,True
+Đầu tư vào công nghiệp sản xuất.,"Cuộc vận động lao động sản xuất, thực hành tiết kiệm.",0.3860000073909759,history,True
+Đánh vào những nơi rừng núi hiểm trở.,"Tiêu diệt một bộ phận sinh lực địch, phân tán lực lượng địch.",0.1212000027298927,history,False
+8 - 3 - 1954,Ngày 26 – 4 - 1954. ,0.6363999843597412,history,False
+"Đả thực, Bài phong, Diệt cộng",Gạt hết quân Pháp để độc chiếm miền Nam.,0.1429000049829483,history,True
+Đảng ta ứng phó với các cá thể nhà nông dân để bảo tồn và phát triển các hoạt ảo của họ.,Khôi phục kinh tế. ,0.089599996805191,history,True
+định hướng lịch sử,nhận thức lịch sử,0.53329998254776,history,False
+độ tuỳ Lý Sĩ,các hành tinh trong hệ Mặt Trời,0.0,history,True
+động cảm họa và nghi nhi qua đời đất nước và thế giới,những gì đang diễn ra ở hiện tại,0.166700005531311,history,False
+Đố tìm hiểu lịch sử của các loài sinh vật,tất cả những gì đã và đang diễn ra ở hiện tại,0.1613000035285949,history,True
+Đột tránh những gì chỉ là việc thực sự hoặc các hình thức truyền thống trong quá khứ,Là một khoa học nghiên cứu về quá khứ của con người,0.2587999999523163,history,True
+Đối thoại và sự hợp tác giữa người nghiên cứu và người thu thập sử liệu,công đoạn cuối cùng của nghiên cứu lịch sử,0.4156000018119812,history,True
+"Để nâng cao hiểu biết về cơ hội nghề nghiệp mới từ nguồn cảm hứng sáng tạo trong ngành công nghiệp văn hóa, phát triển du lịch","Hiểu được kinh nghiệm, rút ra bài học có giá trị lịch sử từ các nước khác, tránh được sai lầm",0.231900006532669,history,True
+"Đối tượng cung cấp lịch sử về sự kiện lịch sử, nhân vật lịch sử","Hiểu biết về quá khứ, hiện tại và tương lai",0.1351000070571899,history,True
+Đầy đủ thói quái và hình sự trong lịch sử,Cho biết về quá trình sinh trưởng và phát triển của các loài sinh vật,0.2285999953746795,history,True
+được sự hiểu biết về tâm hưởng của một người trong lịch sử,sáng tạo và làm phong phú thêm hiện thực lịch sử,0.3055999875068664,history,True
+Đồng hành và phục vụ nhau trong việc phát triển khối lưu thông nhân văn,"Quan hệ một chiều, không tác động qua lại",0.1791000068187713,history,True
+4 chiều,4 chiều,1.0,history,False
+"Để tăng độ tin cậy, uy tín hơn",Để lịch sử thú vị hơn,0.3242999911308288,history,True
+Đánh gi hiển tích và hiển tích của ngành,Tạo nên sự chuyển biến cho từng ngành để cùng hội nhập quốc tế,0.2187999933958053,history,True
+"Địa lí nhân văn, Triết học","Triết học, Địa lí nhân văn, Văn hoá học, Công tác xã hội",0.5490000247955322,history,True
+Định nghị sáng tạo,phương pháp trình bày lịch sử,0.2285999953746795,history,True
+"Đảm bảo hiệu quả cách tu bổ, đảm bảo di tích hiện vật còn nguyên vẹn","Đảm bảo tính nguyên trạng, ""giá trị nổi bật"", mà di tích lịch sử-văn hóa vốn có",0.3673000037670135,history,True
+Đảm bảo an toàn và sẵn sàng di sản,Tu bổ và phục hồi di sản thường xuyên,0.291700005531311,history,True
+Điện thực,Xuất bản,0.1333000063896179,history,True
+đầu tư và phát triển nền du lịch trên toàn cầu,giúp con người hưởng thụ giá trị của di sản thiên nhiên và di sản văn hóa,0.1388999968767166,history,True
+Điền gì trong dấu [],Văn minh là tổng thể những giá trị vật chất và tinh thần do con người sáng tạo ra trong quá trình lịch sử,0.0811000019311904,history,False
+Đồng hành trong và phát triển trong các nhà lãnh đạo và thông minh,Văn minh là sự tiến bộ về vật chất của xã hội loài người,0.1622000038623809,history,False
+Ấn Độ và Ai Cập,La Mã và A-rập,0.3810000121593475,history,True
+đồng hàng và thương mạo,sản xuất thủ công nghiệp,0.1289999932050705,history,True
+Đột tránh,Văn tự,0.0,history,False
+2500 TCN,Năm 3000 TCN,0.5881999731063843,history,False
+Ả Rập,Ấn Độ,0.1817999929189682,history,True
+Đồ Đạm,Người Choang,0.0,history,True
+Đột tránh của nhân dịp trung đại,"sự phân biệt về sắc tộc, chủng tộc rất sâu sắc",0.0768999978899955,history,True
+Ũ Đức giáo,Phật giáo,0.4000000059604645,history,False
+Đàn ông La Mã,Chữ Phạn,0.0,history,True
+"Đẩy nền tảng cho sự phát triển của khoa học, kĩ thuật thế giới giai đoạn sau",Đưa loài người bước vào kỉ nguyên công nghiệp hóa và hiện đại hóa,0.1895000040531158,history,True
+Đốc giáo,Phật giáo,0.4614999890327453,history,False
+Đức,Pháp,0.0,history,True
+Phơ-răng-xoa Ra-bơ-le,Đan-tê A-li-ghê-ri,0.0,history,True
+Động thái của người dân về độc lập và sự phát triển kinh tế,Có nguồn tích lũy vốn và nhân công lớn,0.1310999989509582,history,True
+"Đầy đủ sức lao động, giảm bổ nhiều thời gian để làm việc",Làm thay đổi bộ mặt xã hội của nước Anh,0.1972000002861023,history,True
+Đột tránh trong ngành công nghiệp nặng,"Những phát minh trong ngành công nghiệp nặng, chủ yếu là luyện kim và hoá chất",0.5152000188827515,history,False
+Đức Hoàng,Xli-phen-xơn,0.0,history,True
+Địch thế giới,“Nước công nghiệp hiện đại”,0.2308000028133392,history,False
+Đông Nam Á lục địa và Đông Nam Á hải đảo,Đông Nam Á đất liền và Đông Nam Á ven biển,0.6037999987602234,history,False
+11 quốc gia,10 quốc gia,0.875,history,False
+Đầu thế kỷ XIX,Từ thế kỉ VII đến thế kỉ XV,0.4444000124931335,history,False
+Đồ Chữ Nôm,Chữ Miến cổ,0.2353000044822693,history,True
+đài thủ công nghiệp đúc đồng,thương nghiệp đường bộ,0.5142999887466431,history,True
+Đến thế kỉ XX,Nửa đầu thế kỉ XX,0.666700005531311,history,False
+1760,Từ những năm đầu thế kỉ XX,0.0741000026464462,history,False
+Đức,Pháp,0.0,history,True
+Động vi rối mạch,Thuyết di truyền,0.0,history,False
+Đẩy mạnh sự phát triển của công nghệ điện tử trên toàn thế giới,Đảm bảo sự an toàn tuyệt đối trong việc lưu trữ thông tin,0.2856999933719635,history,True
+Ôn đới,Hàn đới,0.6154000163078308,history,False
+Đặn tín ngưỡng y tế,Tín ngưỡng thờ cúng tổ tiên,0.5,history,False
+Đức,Ba Tư và Ấn Độ,0.2666999995708465,history,True
+Đường thống nhất thuộc vùng đất,Con đường bành trướng xâm lược,0.3255999982357025,history,True
+đầu của văn minh Đông Nam Á,hình thành nền văn minh Đông Nam Á,0.5641000270843506,history,False
+"Đất đai khô cằn, khó canh tác",Có hệ thống sông ngòi dày đặc,0.1860000044107437,history,True
+đất,cá,0.0,history,True
+Âu Lạc,Văn hóa Óc Eo,0.1333000063896179,history,False
+đánh bắt thủy hải sản,chăn nuôi gia súc lớn,0.2000000029802322,history,True
+Đế La,lạc tướng,0.0,history,False
+Đại Việt,Văn minh Ai Cập,0.0,history,False
+Đức Hùng,Tượng Lâm,0.1429000049829483,history,True
+Đồ Chữ Latin,Chữ La-tinh,0.3635999858379364,history,False
+đạo Hội đồ,thờ Thành Hoàng,0.0,history,True
+Đèn Phong Nha (Quảng Bình),Tháp Cánh Tiên (Bình Định),0.2581000030040741,history,True
+​​sự kế thừa những thành tựu của văn minh Văn Lang - Âu Lạc,quá trình áp đặt về kinh tế lên các quốc gia láng giềng,0.1429000049829483,history,True
+"Đặt chức Hà đê sứ để chăm lo việc đê điều, trị thuỷ",Chú trọng khai hoang mở rộng diện tích canh tác,0.1212000027298927,history,True
+Đồ Đánh,Hội An,0.0,history,True
+Đức chế,Dân chủ đại nghị,0.2353000044822693,history,False
+Đế Nam Lê,Trần,0.0,history,True
+Đế Trung Hoàng Vương,Nhà Nguyễn,0.1000000014901161,history,False
+Đồ Chữ Quốc Gia,Chữ Quốc ngữ,0.5881999731063843,history,False
+Đàn tỳ tạp,Văn học chữ Nôm,0.0,history,True
+Đài sử viên,Nội mệnh phủ,0.1053000018000602,history,True
+Đại Sĩ Liên,Phan Huy Chú,0.0,history,True
+Đội ngũ cán bộ trong dân tộc,Dân tộc miền núi và dân tộc đồng bằng,0.3255999982357025,history,False
+3 nhóm,Ba nhóm,0.666700005531311,history,False
+54 dân tộc,50 dân tộc,0.875,history,False
+5,Sáu,0.0,history,False
+3,Sáu,0.0,history,False
+3,2,0.5,chemistry,False
+Điện tích của nhân tố không tùy thuộc về số lớp electron,Cùng số electron hóa trị xếp cùng cột,0.1852000057697296,chemistry,False
+Đôi,Hình bầu dục,0.0,chemistry,True
+Độ nhịp hóa,Số neutron.,0.0,chemistry,True
+"Đối với nhiên liệu nhân, nhiên liệu nhân này được cấu tạo bởi proton và neutron.",Electron.,0.0,chemistry,True
+Điện tích hạt nhân,Độ âm điện.,0.4347999989986419,chemistry,True
+Động vi sinh,Hai phi kim,0.0,chemistry,False
+1,5,0.5,chemistry,False
+"2 mũi tên ngược chiều nhau, mũi tên đi lên viết trước.",Biểu diễn bằng 2 mũi tên đi lên,0.421099990606308,chemistry,True
+Ferro(III) (Fe),Sulfur (S),0.0,chemistry,True
+Điều đầu tiên không phảverdế đầy đủ vào trong dấu [],"Trong nguyên tử, số đơn vị điện tích hạt nhân bằng số electron ở vỏ nguyên tử",0.1777999997138977,chemistry,True
+Điều kiện của điện tích hạt nhân ảnh hưởng tốt nhất đến tính chất của các nguyên tố và hợp chất,Có thể dự đoán được tính chất hóa học của các nguyên tố dựa vào cấu hình electron của nó trong bảng tuần hoàn.,0.3675999939441681,chemistry,False
+Hạt proton,Hạt neutron,0.6000000238418579,chemistry,False
+5,4,0.5,chemistry,False
+1s² 2s² 2p⁴ (O^2-),Helium (He),0.0,chemistry,True
+8 (Ti),Aluminium,0.0,chemistry,True
+Đột xuất giữa các nguyên t�ống tạo thành phân tử hay tinh thể bền vững hơn,Sự kết hợp giữa phân tử khác với nhau,0.3014000058174133,chemistry,False
+41,41,1.0,chemistry,False
+2,1,0.5,chemistry,False
+Độ chênh lệch giữa tốc độ các phản ứng khác nhau không tùy thuộc vào tốc độ của phản ứng xảy ra nhanh hoặc chậm,"Lượng chất có thể được biểu diễn bằng số mol, nồng độ mol khối lượng, hoặc thể tích",0.248099997639656,chemistry,True
+6,3,0.5,chemistry,True
+Đột tím acid - base,Thức ăn bị ôi thiu.,0.0952000021934509,chemistry,True
+Độ sát giảm,Nhiệt độ giảm,0.666700005531311,chemistry,False
+Điện tích quy ước của nguyên tử trong phân tử khi coi tất cả các electron liên kết đều chuyển hoàn toàn về nguyên tử có độ âm điện không.,"Trong phân tử các hợp chất, thông thường số oxi hóa của hydrogen là +1.",0.2097000032663345,chemistry,True
+Đột tránh nồng độ HCl,Tăng nhiệt độ của phản ứng.,0.2353000044822693,chemistry,True
+"Để hoàn thành câu hỏi, thích đúng nhóm: C. VIIA",VIIIA,0.0644999966025352,chemistry,False
+Độc danh,Không tồn tại,0.125,chemistry,True
+Đối thoại tỏa nhiệt,Là phản ứng giải phóng ion dưới dạng nhiệt,0.3332999944686889,chemistry,False
+6,4,0.5,chemistry,False
+Đột tránh nhiên liệu,Phản ứng đốt nhiên liệu.,0.6207000017166138,chemistry,False
+Độ thấm trong nhiệt lẩn,"Ở nhiệt độ thường, đều ở trạng thái khí",0.2449000030755996,chemistry,True
+Độ chuyển hóa chất phản ứng,Có xuất hiện sản phẩm là chất kết tủa.,0.1777999997138977,chemistry,True
+Đột xuất của H+ avec X-,Liên kết cộng hóa trị không cực.,0.176499992609024,chemistry,False
+2H_2 + O_2 → 2H_2O.,$FeO + H_2SO_4 → FeSO_4 + H_2O.$,0.4666999876499176,chemistry,False
+$NaOH$,HCl loãng,0.0,chemistry,False
+ΔH (delta H),Biến thiên năng lượng.,0.0,chemistry,False
+ở số tiêu chuộng,Sắt,0.125,chemistry,True
+Độ âm điện của HF thấp hơn của HCl,Bán kính nguyên tử của chlorine lớn hơn của fluorine.,0.3158000111579895,chemistry,False
+2. D,Fe,0.0,chemistry,True
+213/54 (đúng số nghịch),4,0.2105000019073486,chemistry,True
+2BaCl,$Ba(OH)_{2}$,0.4444000124931335,chemistry,False
+"27,273%",I,0.0,chemistry,True
+35.5*13+125 (Công thức của BaCl2),MgCl,0.0,chemistry,True
+none of the above,$Ca_3OH$,0.0,chemistry,False
+Động vi tốc độc gắt của nguyên tử này trong hóa tri,Hoá trị của một nguyên tố được xác định theo hóa trị của H chọn làm đơn vị và hóa trị của oxi là 2 đơn vị,0.2452999949455261,chemistry,True
+2NaX,$X_2Y$,0.5,chemistry,True
+$S$,$SO_2$,0.0,chemistry,False
+1,a,0.0,chemistry,True
+55.845 đvC (Hóa trị của sắt),IV,0.0,chemistry,False
+"13,4%",39%,0.5,chemistry,False
+Điều này không phảyan chứng tại trên,Công thức hóa học chỉ cho biết nguyên tố nào tạo ra chất,0.1378999948501587,chemistry,True
+4C_2H_6,$C_2H_4$,0.571399986743927,chemistry,False
+"​Ca, Al, Fe, Si, O","Si, O, Fe, Al, Ca",0.4000000059604645,chemistry,False
+3Cr(SO4)2,$Cr_{2}(SO_{4})_{2}$,0.666700005531311,chemistry,False
+CO (C:O = 1:8),CO,0.25,chemistry,False
+46O2 (Cao),Natri (Na),0.0,chemistry,True
+"Đáp án là K, O, Mn",Phân tử khối là 99 đvC,0.1481000036001205,chemistry,True
+2Zn + O_2 → 2ZnO,$C + O_2 → CO_2$,0.5881999731063843,chemistry,True
+25.56 g (chất còn dư) và m = 15.44 g (oxit sắt),"Oxi dư và m = 0,67 g",0.3720999956130981,chemistry,False
+Độ hóa trị 2,Oxi là chất khí,0.0,chemistry,True
+Çinko (Ba),Zn,0.0,chemistry,True
+55 (Mn),Fe (56),0.5,chemistry,False
+Øxit không được dung làm chất khử trên cơ thiếu,Phản ứng hóa hợp là 1 chất sau khi có nhiệt độ tạo thành 2 chất,0.2254000008106231,chemistry,True
+Sự oxi hóa tỏa nhiệt mà không phát sáng,Sự oxi hóa mà không phát sáng,0.800000011920929,chemistry,False
+$H_2O$,$Cr_{2}O_{3}$,0.4000000059604645,chemistry,False
+Đúng định nghĩa là: Phản ứng phân hủy là phản ứng hóa học trong đó một chất sinh ra ba chất mới.,Phản ứng phân hủy là phản ứng hóa học có chất khí thoát ra,0.6169999837875366,chemistry,False
+Điều chế bằng phun hóa,Dùng nước làm nguyên liệu,0.0606000013649463,chemistry,True
+động hướng khối thể của $KClO_3$,"4,8 lít",0.1481000036001205,chemistry,False
+2 hay nhiều sản phẩm,2,0.2353000044822693,chemistry,False
+"6,8%","97,2%",0.4444000124931335,chemistry,False
+3g oxi,Cả hai chất,0.0,chemistry,True
+Đầy đủ chất xúc,Phải đủ khí oxi cho sự cháy.,0.2666999995708465,chemistry,True
+"Không có khói, bụi, các chất rắn hàm lượng nhỏ hơn 1%",Có ít khí cacbonic và các khí khác,0.2105000019073486,chemistry,True
+2Mg + O_2 → 2MgO,$KMnO_4 → MnO + O_2 + K2_O$,0.4347999989986419,chemistry,True
+2-methyl-2-butene (CH3-C(CH3)=CH2),CH3-CH2-COO-CH=CH2,0.4000000059604645,chemistry,False
+1,5,0.5,chemistry,False
+2-methyl-2-butenal,etyl axetat,0.1333000063896179,chemistry,True
+4,3,0.5,chemistry,False
+HCOONa và CH3OH,CH3COONa và C2H5OH,0.5263000130653381,chemistry,False
+37%,49%,0.3332999944686889,chemistry,True
+2-Propanol (C2H5OH),C2H5COOH,0.625,chemistry,False
+CH3OCH=CHCH3 (Oxetan),CH2=CH-COOCH3,0.4000000059604645,chemistry,False
+Æxit myristic,Axit oleic,0.4000000059604645,chemistry,False
+"1,2-dihydroxy-3-methyl-5-(methoxymethyl)pyrrolidine",benzyl axeta,0.0,chemistry,True
+Đạm Cu(OH)2,H2 (có xúc tác),0.125,chemistry,True
+"2-hydroxybenzoic acid, phenyl alanine, and sodium benzoate","CH2=CH−COONa, HCOONa và CH=C-COONa",0.0606000013649463,chemistry,False
+Độc lực của thủy phân không thuộc loại chất béo,"Metyl acrylat, tripanmitin và tristearin đều là este",0.1176000013947486,chemistry,True
+"0,18","0,30",0.6000000238418579,chemistry,False
+"42,6","53,2",0.4000000059604645,chemistry,False
+γ-linolenin,tripanmitin,0.2856999933719635,chemistry,True
+2,2,1.0,chemistry,False
+Được sử dụ tránh nước cứng,Rẻ tiền hơn xà phòng,0.166700005531311,chemistry,True
+đồng phóng tốc hóa,etyi axetat,0.0,chemistry,False
+Độc tính chất chất giặt rửa có tính phát triển hóa học khi dùng cùng với nước,Chất giặt rửa là những chất khi dùng cùng với nước có tác dụng làm sạch các vết bẩn bám trên các vật rắn,0.4754000008106231,chemistry,False
+"0,89","0,4",0.666700005531311,chemistry,False
+50kg xà phòng olein,"73,34 kg",0.1111000031232833,chemistry,False
+2,2,1.0,chemistry,False
+ở nhiên tuýsán không có chất khử mạnh,Vì bồ kết có thành phần là este của glixerol,0.1569000035524368,chemistry,True
+ăn thực,saccarozơ,0.0,chemistry,False
+"0,08M","0,02M",0.833299994468689,chemistry,False
+"0,2mol glucozơ và 0,2mol fructozơ","0,1mol và 0,15mol",0.631600022315979,chemistry,False
+"46,4","9,3",0.4444000124931335,chemistry,False
+<error>,Thủy phân mantozơ,0.0,chemistry,False
+"2,04 gam","1,82 gam",0.5,chemistry,False
+Řízení,Cu(OH)2,0.0,chemistry,True
+31.5%,54%,0.5,chemistry,True
+1,"1,2,4",0.5,chemistry,False
+Đột tùy màu trắc nghiệm,Cu(OH)2 tan tạo dung dịch trong suốt,0.1713999956846237,chemistry,True
+Đột tím và phản xạ,"Xuất hiện chất rắn màu trắng kết tinh,",0.1080999970436096,chemistry,True
+Xanh lam,Trắng,0.0,chemistry,True
+Đột tím,Thủy phân,0.0,chemistry,True
+Đột tím,Dung dịch màu trắng,0.0,chemistry,False
+Đầu tư phòng xà phòng để giảm sự tan trong axit béo,"Ở bước 2, xảy ra phản ứng thủy phân chất béo, tạo thành glixerol và muối natri của axit béo",0.2169000059366226,chemistry,True
+Đột tím trong dung dịch,"Có chất rắn màu trắng lắng xuống,",0.1212000027298927,chemistry,False
+"8,8 lít","2,24 lít",0.6154000163078308,chemistry,False
+Fe,Fe,1.0,chemistry,False
+1,3,0.5,chemistry,False
+đèn LED,dd Ba(OH)2,0.2222000062465667,chemistry,True
+2H,Fe,0.0,chemistry,False
+"🎁 SO2 , NO2","H2S , Cl2",0.4444000124931335,chemistry,False
+"5,0g","4,0g",0.800000011920929,chemistry,False
+β-carotene,seduxen,0.0,chemistry,True
+5,3,0.5,chemistry,False
+5,1,0.5,chemistry,False
+2,#ERROR!,0.0,chemistry,True
+"2,24 lít","3,36 lít",0.571399986743927,chemistry,False
+Đúng lựa chọn là D. [],Fe(NO3)2 và Cu(NO3)2,0.0833000019192695,chemistry,False
+6,5,0.5,chemistry,False
+"điện cực anot được làm bằng sắt, catot được làm bằng cacbon",anot và catot đều được làm bằng sắt,0.5074999928474426,chemistry,False
+1 mol,2 mol,0.666700005531311,chemistry,False
+2,1,0.5,chemistry,True
+3,1,0.5,chemistry,False
+Na+,SO2−4,0.0,chemistry,False
+độc bằng dung dịch CO2,dung dịch H2SO4 loãng,0.428600013256073,chemistry,True
+2,2,1.0,chemistry,False
+"1,8 lít","4,48 lít",0.7692000269889832,chemistry,False
+1,3,0.5,chemistry,False
+5,5,1.0,chemistry,False
+"0,5 lít","4,48 lít",0.6154000163078308,chemistry,False
+"อะ units. CuO + dd HCl (Không xảy ra phản ứng ở trên đây, vì CuO và HCl sẽ xảy ra phản ứng khi được mê hơch)",Cu + dd HCl + O2,0.1142999976873397,chemistry,False
+"27,0g","20,4g",0.666700005531311,chemistry,False
+"17,2g","20,7g",0.5,chemistry,False
+"30,6g","70,6g",0.833299994468689,chemistry,False
+3a = 2b,a ≤ 4b,0.4000000059604645,chemistry,False
+Đẩy một phần dung dịch K2Cr2O7 sang một phần K4[Fe(CN)5NO] trong một dung dịch H2SO4,Cho dung dịch KOH vào dung dịch K2CrO4,0.3889000117778778,chemistry,False
+"10,6g","1,6g",0.9090999960899352,chemistry,False
+ไม่มี reakție ở trên,Cho Zn vào dung dịch CrCl3,0.0,chemistry,False
+Điền: Cho dung dịch NaOH dư vào dung dịch AlCl3,Cho dung dịch HCl dư vào dung dịch natri aluminat,0.6938999891281128,chemistry,False
+dung dịch KI,Fe,0.0,chemistry,True
+Đồ họp của nguyên tố oxi với một nguyên tố hoá học khác.,Hợp chất của nguyên tố phi kim với một nguyên tố hoá học khác.,0.8158000111579895,chemistry,False
+"$CO_2, SO_2, H_2O$","$CO_2, SO_3, Na_2O,NO_2$ ",0.6956999897956848,chemistry,False
+"$[CaO, MgO, Na_2O]$","$K_2O, FeO, P_2O_5, Mn_2O_7$",0.3077000081539154,chemistry,False
+"Ăn oxit lưỡng tính chứa các oxit tác dụng với dung dịch bazơ, axit, và muối tạo thành nước.",Những oxit tác dụng với dung dịch bazơ tạo thành muối và nước.,0.6291999816894531,chemistry,False
+د,$CaCO_3$,0.0,chemistry,True
+$H_2$,$CaO$ và $SO_2$,0.4000000059604645,chemistry,False
+Độ thuế không khí giúp giảm chất lượng của CaO,$CaO$ tác dụng với $CO_2$,0.0908999964594841,chemistry,False
+2NaHCO_3,$NaCl$,0.0,chemistry,True
+Ôxit lưỡng tính,Oxit trung tính,0.4000000059604645,chemistry,False
+$O_2$,$CO_2$,0.666700005531311,chemistry,False
+Đồng thời giấy quỳ tím ẩm và dùng que đốt thành than hồng trên que đốt,Giấy quỳ tím ẩm,0.4363999962806701,chemistry,False
+Đồ uten,$O_3$,0.25,chemistry,True
+Đứng xuống màu xanh,Màu đỏ chuyển dần sang xanh.,0.3226000070571899,chemistry,True
+Điện trịên (vì thay thế),$CO_2$,0.1176000013947486,chemistry,False
+Độ tinh hoàn,Tác dụng với kim loại,0.0,chemistry,False
+Dung dịch $H_2SO_4$,Dung dịch $Ca(OH)_2$,0.699999988079071,chemistry,False
+"Để phadtết và ngăn chứa các giọt, rót từng giọt axit vào nước dạng pha loãng",Rót từng giọt nước vào axit,0.4241999983787536,chemistry,False
+Sắt (II) Sunfua và khí hiđrô,Sắt (III) clorua và khí hiđrô,0.7878999710083008,chemistry,False
+Đỏ,Vàng đậm,0.3332999944686889,chemistry,True
+đồng thời tan trong nước,bị nhiệt phân tạo ra oxit kim loại và cacbon đioxit,0.0930000022053718,chemistry,True
+กiểm tìm kết tủa màu trắng,Xuất hiện kết tủa màu lục nhạt,0.4390000104904175,chemistry,True
+$CaCO_3  \rightarrow^{t^{\circ}} CaO + CO_2$,$Ca(OH)_2 + Na_2CO_3  → CaCO_3 + 2NaOH$,0.3871000111103058,chemistry,True
+"0,18","3,7",0.4444000124931335,chemistry,True
+Đột tím với Ca(OH)_2 dư,Nung nóng,0.0,chemistry,True
+"0,3 lít và 21,32 gam","0,24 lít và 25,32 gam",0.838699996471405,chemistry,False
+Đột xuất phân tử,Tinh thể nguyên tử,0.3077000081539154,chemistry,False
+độc hữu tạp (vì chất này không thường sử dụng trong các hoạt ảo trên đất),$O_2$,0.0384999997913837,chemistry,False
+Ảnh (Sulfur),Nito,0.0,chemistry,True
+44%,42%,0.666700005531311,chemistry,False
+Động hương của nguyên tử.,Chiều giảm dần của điện tích hạt nhân của nguyên tử.,0.5091000199317932,chemistry,False
+Độ âm điện giảm dần,Năng lượng ion giảm dần,0.4000000059604645,chemistry,True
+Đúng là: Bán kính nguyên tử theo thứ tự tang dần là Z < Y < X.,Hóa trị cao nhất trong hợp chất với oxi tang dần theo thứ tự: Z < Y < X.,0.289900004863739,chemistry,True
+"Định nghị phi kim tăng giảm dần, kim loại tăng dần",Tính phi kim và tính kim loại giảm dần,0.5091000199317932,chemistry,False
+Động vi rối của các trái cây,Quá trình sản xuất gang thép,0.0571000017225742,chemistry,True
+Đều chế biến các hợp chấc của nhôm,Đều chế biến các hợp chất tự nhiên của sắt,0.7307999730110168,chemistry,False
+Đột xuất trên bình để thấy khói trắng đầy bình và ngọn lửa sẽ tắt dần,Trong bình có dung dịch axit clohidric,0.1643999963998794,chemistry,True
+$H_2O_2$,$SO_2$,0.4444000124931335,chemistry,False
+Řefrézní oxidaci,Thủy phân,0.0,chemistry,False
+5 kg * 0.9 * (1 mol cacbon / 44 g cacbon) * 394 kJ/mol,133333 kJ.,0.2777999937534332,chemistry,False
+"33,3 kg.","20,56 kg.",0.4614999890327453,chemistry,False
+"22,4 lít * (980 gam / 2 mol) = 11,02 lít","44,8 lít.",0.4000000059604645,chemistry,False
+độ-giám-trọng(mm),mi-li-mét(mm),0.1537999957799911,physics,False
+Độ dài giữa hai vạch chia liên tiếp trên thước,Độ dài giữa 2 vạch chia trên thước,0.8162999749183655,physics,False
+500ml có vạch chia tới 50ml,Bình 100ml có vạch chia tới 1ml,0.7692000269889832,physics,False
+80$cm^{3}$,105$cm^{3}$,0.7692000269889832,physics,False
+Độ dày thể tích,Thể tích nức còn lại trong bình tràn,0.2581000030040741,physics,False
+đô-lên(t),lạng,0.2222000062465667,physics,True
+64,1000,0.25,physics,False
+Trọng lượng của túi bột giặt,Khối lượng của túi bột giặt,0.8371999859809875,physics,False
+Động dịch nén lò xo,Tác dụng kéo vật này lên vật kia,0.1817999929189682,physics,False
+"Điền vài câu: Hai lực cân bằng có thể có nhiều loại phương, nhưng phải ngược chiều với nhau, nhưng mạnh như nhau.","Cả A,B,C đều đúng",0.1176000013947486,physics,True
+Động lực,Lực có phương thẳng đứng,0.25,physics,True
+98N,1000N,0.4000000059604645,physics,False
+Đối mặt với lực đỡ của mặt bàn,Chỉ chịu tác dụng của lực đỡ mật bàn,0.4483000040054321,physics,False
+Động lực của một chiếc bơm tác dụng lên nề quả,Lực kết dính giữa một tờ giấy dán trên bảng với mặt bảng,0.3235000073909759,physics,True
+Độ biến dạng giảm thì lực đàn hồi giảm,Độ biến dạng tawng thì lực đàn hồi giảm,0.8845999836921692,physics,True
+Đúng lực là F > 30N,20N < F < 300N,0.5217000246047974,physics,False
+điền trọng lượng riêng $d = \frac{P}{V}$,$d = V.P$,0.1738999933004379,physics,False
+3900kg,312kg,0.5454999804496765,physics,False
+1000 * (15kg / 10lít) = 150kg/lít,0$0.778m^{3}$,0.3125,physics,False
+1600N,160N,0.9090999960899352,physics,False
+Đất xốp khi được cày xới cẩn thận,Cửa kính bị vỡ khi va đập mạnh,0.2264000028371811,physics,True
+Đèn lá,Máy bơm nước,0.0,physics,False
+Động giảm chiều dàu của mặt phẳng nghiêng,Tăng chiều dài của mặt phẳng nghiêng,0.821399986743927,physics,False
+Độ sức năng của vật tác dụng vào $O_{1}$ giảm so với độ sức năng tác dụng vào $O_{2}$,Khoảng cách $OO_{1}$ = $OO_{2}$,0.2388000041246414,physics,False
+Ăn thức ăn quá nóng có thể khiến răng dễ bị rạn nứt,Vì răng dễ vỡ,0.2222000062465667,physics,False
+Độc lực nước tăng,Thể tích không thay đổi,0.1333000063896179,physics,False
+Đồng thời khối lượng riêng và trọng lượng riêng không đổi.,Cả khối lượng riêng và trọng lượng riêng đều giảm.,0.6944000124931335,physics,False
+Độ sát nước ở $4^{\circ}$,Khối lượng nhỏ nhất,0.1817999929189682,physics,False
+"Động viên, chất lỏng","Chất khí, chất rắn",0.2308000028133392,physics,False
+"Đồng thời ngâm cốc ở dưới vào nước lạnh, đồng thời ngâm cốc ở trên vào nước nóng.",Ngâm cả hai cốc vào nước lạnh,0.4146000146865845,physics,False
+$100{\circ}F$,$100{\circ}F$,1.0,physics,False
+Độ nhiệt đông cao,Chúng có nhiệt độ nóng chảy cao,0.5625,physics,False
+Đánh một bóng trong nhà,Đun nấu mỡ vào mùa đông,0.2285999953746795,physics,True
+Độ nóng chảy và độ đông đặc không tùy thuế nhiệt độ của vật,Các chất khác nhau sẽ nóng chảy (hay đông đặc) ở nhiệt độ khác nhau,0.479200005531311,physics,False
+"Hơi thở của người có chứa nhiều hơi nước, khi ra người không khí lạnh bị đông đặc thành đá tạo thành khói","Hơi thở của người có nhiều hơi nước, khi ra ngoài không khí lạnh bị bay hơi tạo thành khói",0.7851999998092651,physics,False
+Đất khô ráo trên nền.,"Lau ướt bảng, một lúc sau bảng sẽ khô.",0.25,physics,True
+Độc đáo giọt nước trên đèn xe,Hơi nước ngưng tụ tạo thành giọt nước phía ngoài kính xe,0.3792999982833862,physics,False
+Đột tránh nồi khi mở nắp vung rác.,Hơi nước bên ngoài nồi đông đặc,0.2040999978780746,physics,False
+Đặc điểm không thay đổi nhiệt độ của chất lỏng trong suốt quá trình diễn ra hiện tượng này,Xảy ra ở cả trong lòng lẫn mặt thoáng của chất lỏng,0.3018999993801117,physics,True
+$[8^{\circ}$,$46^{\circ}$,0.571399986743927,physics,False
+Đứng phối hợp,Cả 2 chùm hội tụ và phân kì,0.1429000049829483,physics,True
+"Điền vài: Điều thức ảnh hưởng của vùng bóng trên Trái Đất không phải ngăn hoàn toàn sự xuất phát của nhật thực toàn phần, và người kia có thể đã quan sát nhật thực một phần, khi người kia không, ngược lại, đứng trong vùng bóng tối.",Cả 2 đều sai,0.0773999989032745,physics,True
+Độ sáng suất trên ảnh.,B. Ảnh có kích thước bằng vật.,0.2285999953746795,physics,True
+Điều kiện không xác định trên các phía.,Các tia sáng loe rộng trên đường truyền của chúng.,0.1852000057697296,physics,False
+"Điều kiện vật này có thể là một vật không phát ra ánh sáng, không phá sáng và không được chiếu sáng",Vật phải đủ lớn và không cách mắt quá xa,0.2666999995708465,physics,True
+Ảnh thật giống với vật trong trên đất,Ảnh thật lớn hơn vật,0.550000011920929,physics,False
+Động viên,Vùng bóng nửa tối,0.1000000014901161,physics,False
+$60^{\circ}$,$30^{\circ}$,0.75,physics,False
+Đối thoại khi mở mắt hướng về phía vật,Khi vật được chiếu sáng,0.2273000031709671,physics,True
+"Đứng người quan sát ở nửa sau Trái Đất, không được Mặt Trăng chiếu sáng",Mặt trời bỗng nhiên biến mất,0.219200000166893,physics,True
+Ảnh ảo không có giá trị toán hữu cơ so với vật trực tiếp,Nhỏ hơn ảnh tạo bởi gương cầu lồi,0.2424000054597854,physics,True
+Độ,Nhiệt,0.0,physics,True
+Đệm cao su,Miếng xốp,0.0,physics,True
+Động viri sáp,Nước biển,0.0,physics,False
+90^{\circ} (Giá trị đúng là C),$60^{\circ}$,0.3332999944686889,physics,False
+90^{\circ},$45^{\circ}$,0.5,physics,False
+125 dao động,250 dao động,0.8999999761581421,physics,False
+85m,340m,0.4444000124931335,physics,False
+Điện tích không có giá trị trọng thức,"Hai mảnh ni lông, sau khi cọ xát bằng vải khô đặt gần nhau thì đẩy nhau.",0.219200000166893,physics,False
+Nồi cơm,Bóng đèn điện đang sáng.,0.0869999974966049,physics,True
+động cảm tác động trên điện tích.,dòng dịch chuyển theo mọi hướng của các điện tích.,0.3774000108242035,physics,False
+động họa chuyển động do dòng điện.,dòng điện qua bóng đèn làm bóng đèn phát sáng.,0.3018999993801117,physics,True
+Đột tránh khi điều khiển dòng điện.,Dòng điện qua bếp điện làm cho bếp điện nóng lên.,0.3666999936103821,physics,False
+ampe kế.,vôn.,0.0,physics,True
+Đầu bóng đèn điện không có gió.,Giữa hai cực của một pin là nguồn điện trong mạch kín.,0.2222000062465667,physics,True
+điều này ngăn cảm sáng hoặc tối bóng điện.,bóng điện không sáng.,0.3332999944686889,physics,False
+Đàn ông sát vào cốc nước chảy,Có thể làm nhiễm điện nhiều vật bằng cách thả vào cốc nước lạnh,0.4000000059604645,physics,False
+đôi lẻ chuyển động xung quanh nguyên t�rác,dịch chuyển theo mọi hướng,0.2326000034809112,physics,False
+Đồng,Vàng,0.2856999933719635,physics,True
+Điện,"Điện thoại, quạt điện",0.4544999897480011,physics,True
+Động dịch dòng điện đi qua pin theo chiều dọc của mạch.,Dòng điện có thể chạy theo bất kì chiều nào.,0.419400006532669,physics,True
+Điểm số vôn ghi trên mỗi dụng cụ điện cho biết mức độ điện hoặc hiệu điện thế định mức để dụng cụ đó hoạt động bình thường,Cả hai câu A và B đều đúng,0.1429000049829483,physics,True
+ĐCNN: 20A,GHHĐ: 200mA – ĐCNN: 5mA,0.4347999989986419,physics,False
+Điện điểm giữa hai đầu các đoạn mạch rẽ,Bằng tích hiệu điện thế giữa hai đầu các đoạn rẽ,0.7142999768257141,physics,False
+50 V = 5000 mV,"$1800mV = 1,8V$",0.2856999933719635,physics,False
+50V,Dưới 40V,0.5,physics,True
+Đóng cầu dao điện,Gọi cho công nhân điện lực đến cứu,0.3158000111579895,physics,True
+Độ dài của các nhánh bằng nhau,Độ dày của các nhánh như nhau.,0.7727000117301941,physics,True
+Đèn,Ngôi sao,0.0,physics,True
+200000N/m^{2},$60000N/m^{2}$,0.8571000099182129,physics,False
+Ô tô - xe máy - tàu hỏa.,Ô tô - tàu hỏa - Xe máy,0.75,physics,False
+Điều này tạo ra suấy không khí trong vỏ hộp.,Vì vỏ hộp sữa rất mềm.,0.2856999933719635,physics,True
+Đối mặt ngược giữa nhân viên và chiếc khăn.,Ma sát giữa dây và ròng rọc,0.2552999854087829,physics,False
+600N/m²,$20N/m^{2}$,0.6154000163078308,physics,False
+Đểng diện tích mặt bị ép giảm và giữ nguyên áp lực.,Giảm diện tích mặt bị ép và giảm áp lực theo cùng tỉ lệ.,0.6000000238418579,physics,False
+Đạp xe nữa,Hòn đá lăn từ trên núi xuống.,0.2000000029802322,physics,True
+6km,5km/h,0.571399986743927,physics,False
+Độ dài của các nhánh bằng nhau.,Độ dày của các nhánh như nhau.,0.7727000117301941,physics,True
+18km,6km/h,0.5,physics,False
+"Đột xuống động, độm mút giảm diện tích tiếp xúc với thân người, giảm áp suất tác dụng, làm người thấy êm hơn so với nằm trên phản gỗ.",Vì lực tác dụng của phản gỗ vào thân người lớn hơn.,0.2149000018835067,physics,True
+Chuyển động của đầu cánh quạt,Chuyển động của quả dừa rơi từ trên cây xuống,0.4363999962806701,physics,False
+45000Pa và 9000Pa.,1500Pa và 500Pa.,0.7857000231742859,physics,False
+],$P = F_{A}$,0.0,physics,False
+Ô tô chuyển động so với cây bên đường.,Ô tô đứng yên so với người lái xe,0.541700005531311,physics,True
+11m/s,"0,9 m/s",0.3635999858379364,physics,True
+"Để thực chất có lượng, nhiên liệu có đột tránh sức chỉ sẽ đẩy nước nhanh nhất, nhưng chưa có thể xác định chứng số này trên các chứng số này, trong trường hợp này, chứng số này là D.",Cả ba vật như nhau,0.0944999977946281,physics,True
+"Đầy đủ công: Phải lấy nhiệm vị thứ nhất, công ở lượt đi lớn hơn vì lực kéo ở lượt đi lớn hơn lực kéo ở lượt về.",Công ở lượt đi nhỏ hơn vì kéo xe nặng thì đi chậm hơn.,0.4219000041484833,physics,False
+1120N*m,22400J,0.428600013256073,physics,False
+25000Pa.,2500Pa.,0.9230999946594238,physics,False
+Chất lỏng có trọng lượng.,Không khí giản nở vì nhiệt.,0.1111000031232833,physics,True
+克$Pa$,$N/m$,0.0,physics,False
+"0,48 m/ph","4,8 m/ph",0.7692000269889832,physics,False
+động kinh.,chuyển động nhanh lên.,0.5263000130653381,physics,False
+Đối lưu,Do hiện tượng truyền nhiệt,0.0869999974966049,physics,False
+m/s,J.s,0.5,physics,False
+"Để tìm hiểu, phải chuẩn bị: 4200J/kg.K là nhiệt dung riêng, đối với 1 kg nước, cần 4200J để tăng nhiệt 1K (أو $1^{\circ}C$).",Muốn làm cho 1 kg nước nóng thêm $1^{\circ}C$ cần truyền cho nước một nhiệt lượng là 420J.,0.2635999917984009,physics,False
+"Đối với công suất trung bình, Long có thể kéo nước nhiều nhưng trong thời gian rất nhỏ, nên công suất trung bình không khác nhiều so với Nam, khi Nam kéo nước trong thời gian rất lâu.",Công suất của Long lớn hơn vì gầu nước của Long nặng gấp đôi.,0.2254000008106231,physics,False
+13.5 J/kgK,4200 J/kgK,0.5,physics,False
+5,"4,25",0.571399986743927,physics,False
+"Để xếp lại đúng, phải xem sẽ nhiệt dung riêng (c) của hai vật giả đối với sự cân bằng nhiệt. Các nhiệt dung riêng là động lực để truyền nhiệt, nó được định nghị nghịch lô với khối lượng. Với $m_1 = 2m_2$, để cân bằng nhiệt, nhiệt dung riêng của hai vật phải nghịch lô với khối lượng, nên $c_1 = c_2/2$.",Chưa thể xác dịnhđược vì chưa biết $t_1 > t_2$ hay $t_1 < t_2$,0.1638000011444091,physics,True
+"Để so sánh, chỉ cần phân tích công suất và công thời của hai trong thế giảm. Công suất của vận động viên là 600W, trong khi công nhân sử dụng ròng rọc động có công suất 650N * 10m / 30s = 216.67W. Vận động viên thực hiện công nhỏ hơn (600W < 216.67W).",Vận động viên thực hiện công bằng công của người công nhân,0.1978999972343444,physics,False
+$[P_2 = P_1/2]$,$P_2 = 4P_1$,0.625,physics,False
+"Động vận thức đầu tiên không phản đối với câu kỳ vọng, nhiên liệu hay trọ thông thường.",Cùng một chất có thể ở trạng thái khí hoặc trạng thái lỏng.,0.2105000019073486,physics,False
+được tăng trưởng,không thay đổi,0.3077000081539154,physics,True
+,$t = t_2 + t_1$,0.0,physics,False
+"ở cả chất rắn, lỏng và khí",chỉ ở chất khí và rắn,0.4878000020980835,physics,False
+đối lưu,dẫn nhiệt,0.0,physics,False
+"đơn vị độ chảy, kí hiệu J/g.K","Jun trên kilôgam, kí hiệu là J/kg",0.3429000079631805,physics,False
+$t_2 > t > t_1$,$ t > t_1 > t_2$,0.571399986743927,physics,False
+"Để tránh tránh, để chuẩn thức, trán thành vậu vào câu hỏi: B. Nhiệt lượng do vật này toả ra bằng nhiệt lượng do vật kia thu",Sự truyền nhiệt xảy ra cho tới khi nhiệt độ của hai vật bằng nhau thì ngừng lại,0.2556000053882599,physics,True
+4200J * (15-10) = 21kJ,2100J,0.4347999989986419,physics,False
+3^{\circ}C,$4^{\circ}C$,0.75,physics,False
+15^{\circ}C,$10^{\circ}C$,0.800000011920929,physics,False
+92000J,460000J,0.666700005531311,physics,False
+Độ năng,Năng lượng ánh sáng,0.3158000111579895,physics,True
+Ø,U = I.R,0.0,physics,False
+3$\omega$,$6\omega$,0.75,physics,False
+Đèn lá,Nồi cơm điện,0.2666999995708465,physics,True
+Đường sức từ,Càng gần nam châm các đường sức từ càng gần nhau hơn,0.5,physics,True
+Đồ trò chơi elektron,Đồng hồ đeo tay,0.2727000117301941,physics,False
+Ω = R.I,I = U.R,0.4000000059604645,physics,True
+],12A,0.0,physics,False
+Động dịp khi mắc,Có cùng hiệu điện thế định mức.,0.2940999865531921,physics,False
+80ω,$40\omega$,0.5,physics,False
+Độ sử dụng điện của gia đình.,Số dụng cụ và thiết bị điện đang sử dụng.,0.4000000059604645,physics,True
+Đẩy rất rác từ A.,Một vật nhẹ để gần A hút về phía A.,0.1463000029325485,physics,False
+"209,33$\Omega$","$666,67\Omega$",0.4444000124931335,physics,True
+"Động dầm 1,5 lần",Giảm đi 6 lần,0.4799999892711639,physics,True
+5Ω,"$0,2\Omega$",0.25,physics,False
+Được không chọn,Ngắt ngay nguồn điện,0.2308000028133392,physics,True
+Đưa một cực của nam châm từ ngoài vào trong một cuộn dây dẫn kín.,Đưa một cực của ăc quy từ ngoài vào trong một cuộn dây dẫn kín.,0.9031999707221984,physics,False
+Đông năng.,Hoá năng.,0.5,physics,False
+$\frac{1}{R_1} + \frac{1}{R_2}$,$R_1 + R_2$,0.6000000238418579,physics,False
+"0,48A","4,8A",0.7272999882698059,physics,False
+40m,"$l = 0,04.10^{-11}m$",0.3528999984264374,physics,True
+Đồng thời có một thanh thép.,Một ống dây có lõi thép.,0.3332999944686889,physics,False
+Định nghịch giữa chiều rộng và chiều cao của một đồng bộ.,La bàn là dụng cụ để xác định hướng gió thổi.,0.1791000068187713,physics,False
+Định nghị sự kiên nhẫm trong việc xác định chiều đường sức từ của dây dẫn thẳng có dòng điện chạy qua.,Xác định chiều đường sức từ của nam châm thẳng.,0.5687999725341797,physics,False
+$\frac{R_1.R_2.R_3}{R_1+R_2+R_3}$,$R_{tđ} = R_1 + R_2 + R_3$,0.625,physics,False
+"∵ $R = \rho \frac{l}{A}$ đóng góp tiết diện là $R \propto \frac{1}{A}$ nếu $\rho$ (density) và l (chiều dài) không thay đổi, vào trùng thuốc, giả thể $\frac{R_1}{R_2} = \frac{l_1}{l_2}$",$l_1.R_1 = l_2.R_2$,0.2062000036239624,physics,False
+"0,06A","3,1A",0.5454999804496765,physics,False
+1.2A,"0,6A",0.6000000238418579,physics,False
+$P = I.U$,$P = U.I$,0.666700005531311,physics,False
+$A = I^2.R.t$,$A = \frac{I}{t}R$,0.5,physics,False
+Đối thoại am hiệu điện thế 12V để làm các thí nghiệm điện.,Sử dụng các dây dẫn có vỏ bọc cách điện.,0.1917999982833862,physics,True
+Động cơ điện tác dụng của từ trường lên khung dây dẫn có dòng điện chạy qua đặt trong từ trường.,Tác dụng của từ trường lên nam châm trong từ trường.,0.5742999911308289,physics,False
+Đặt nam châm điện ở trước đầu khung dây dẫn kín rồi ngắt mạch điện của nam châm.,Cho khung dây dẫn kín quay cắt các đường sức từ của nam châm chữ U.,0.4510000050067901,physics,True
+Định luật Ôm: $V = IR$,$I = \frac{U}{R}$,0.0,physics,False
+1. $R = \frac{lS}{\rho}$,$R = \rho \frac{S}{l}$,0.4000000059604645,physics,False
+Động dịch điện tại cảm cảm điện,Máy phát điện xoay chiều hoạt động dựa trên tác dụng nhiệt của dòng điện.,0.3287999927997589,physics,False
+Độ sáng không thể đánh thấp hơn hoặc mất do xoá chiều,Sáng nhiều hơn bình thường,0.218199998140335,physics,False
+Điều thúc hóa ánh sáng khi truyền từ môi trường này sang môi trường khác.,Hiện tượng ánh sáng giảm độ sáng khi truyền từ môi trường này sang môi trường khác.,0.732699990272522,physics,False
+Đứng trượg viên bi.,Nhìn thấy ảnh thật của viên bi trong nước.,0.2161999940872192,physics,False
+"ảnh ảo, cùng chiều với vật, nhỏ hơn vật","ảnh ảo, cùng chiều với vật, lớn hơn vật.",0.8621000051498413,physics,False
+điện năng thành cơ năng.,quang năng thành điện năng.,0.5625,physics,False
+Định nghĩa thuận với bình phương điện trở trên đường dây dẫn.,Tỉ lệ thuận với hiệu điện thế giữa hai đầu dây dẫn,0.5,physics,False
+"Điện không giảm, hiệu điện thế không thay đổi",Giữ không đổi,0.478300005197525,physics,False
+Đường pháp tuyến.,Tia tới và đường pháp tuyến.,0.7742000222206116,physics,False
+"Đối với thấu kính, phần rìa luôn không có gián điệp về chiều, tính nhỏ, hay chiều dày hơn phần giữa.","Thấu kính phân kì luôn cho ảnh ảo, cùng chiều và nhỏ hơn vật.",0.4659999907016754,physics,False
+Điều này luôn đúng khi góc tới > góc khúc xạ,i = r,0.0,physics,False
+Điều chừng giảm chiều dài dây dẫn lên hai lần.,Tăng tiết diện của dây dẫn lên hai lần.,0.5246000289916992,physics,False
+đưa nam châm ra xa cuộn dây.,đặt cuộn dây trước nam châm.,0.4323999881744385,physics,True
+điều này song song với trục chính.,đi qua tiêu điểm.,0.3125,physics,True
+ảnh thật cùng chiều với vật.,ảnh thật cùng chiều và lớn hơn vật.,0.8371999859809875,physics,False
+Độ chuyển động của dây tải điện.,điện trở của dây tải điện.,0.708299994468689,physics,False
+giảm tiêu cự kính lúp xuống 6 lần.,tăng tiêu cự kính lúp lên 3 lần .,0.6818000078201294,physics,False
+ứmliec năng lượng,truyền được âm.,0.2727000117301941,physics,False
+"đối với máy phát điện xoay chiều, rôto là bộ góp điện.",rôto là nam châm.,0.1860000044107437,physics,False
+Đứng trong trụ.,Chuyển động đi lại như con thoi,0.2143000066280365,physics,True
+động kinh,sinh lí.,0.2222000062465667,physics,True
+động đều.,giảm đi.,0.2856999933719635,physics,True
+động cơ.,lõi nhôm.,0.0,physics,False
+Điều này không đủ giá trị cho máy biến thế.,cuộn dây nhiều vòng hơn là cuộn sơ cấp.,0.1537999957799911,physics,False
+đồng thời một mặt cầu lồi và một mặt phẳng.,hai mặt cầu lồi.,0.4898000061511993,physics,False
+độ tuỳ theo quanh trụ.,thấu kính đến trục chính.,0.2962999939918518,physics,False
+ở khoảng tiêu cự trước thấu kính.,Tại tiêu điểm.,0.176499992609024,physics,True
+Ảnh luôn lớn hơn vật.,Ảnh luôn bằng vật.,0.6452000141143799,physics,False
+Ảnh ngoài khoảng tiêu cự của thấu kính.,xa hơn vật so với thấu kính.,0.3635999858379364,physics,True
+ở tiêu điểm.,Trong khoảng tiêu cự.,0.2608999907970428,physics,True
+"động, không mềm.",trong suốt và rất cứng,0.0833000019192695,physics,False
+động kinh,tăng lên.,0.1817999929189682,physics,False
+Độ tuỳ thuộc giữa kính lúp và số bội giác là $\frac{25}{f}$,$G = \frac{f}{25}$,0.2439000010490417,physics,False
+​$A = \overline{A} \pm \Delta{A}$,$ A = \overline{A} + \Delta{A}$,0.9230999946594238,physics,False
+độ lớn gia tốc tăng dần theo thời gian.,lúc đầu tăng dần sau đó giảm dần.,0.3404000103473663,physics,True
+24m,6m,0.571399986743927,physics,False
+15 m/s,$15 \sqrt{2} m/s$,0.7142999768257141,physics,False
+trọng lượng của vật.,gia tốc của vật.,0.5,physics,False
+Điều này được khuyến tại trên đồ thức $\vec{F} = m.\vec{a}$.,$\vec{F} = frac{\vec{a}}{m}$,0.1950999945402145,physics,False
+"Để xác định đúng, đầu tư vào trọng thứ C. Đây phản đối, đồng thời đánh thấp với, nhất quán trên các phía, đồng nghị pháp lẫn trọng thứ B. Điều này nghị pháp điều nghị trọng thứ 9 của Newton về lực, nghị pháp lẫn trọng thứ 3 của Newton về tốc áp.",$\vec{F}_{AB} = \vec{F}_{AB}$,0.0,physics,False
+Độ lớn khác.,Luôn cùng chiều.,0.1111000031232833,physics,False
+"Đúng hàn gặp trên thế giấu, sự thay đổi hướng, chiều và vị trí trong thế giấu.",sự thay đổi phương của vật này so với vật khác theo thời gian .,0.3635999858379364,physics,False
+độ x = x_0 + v_0t + at^2/2 (a và $v_0$ cùng dấu),$s = v_0t + at^2/2$ (a và $v_0$ trái dấu),0.7200000286102295,physics,False
+​​,$v = \sqrt{gh}$,0.0,physics,False
+"Đối với một chuyển động rơi tự do, gia tốc không phải cùng dấu với vận tốc.",Gia tốc của chuyển động thẳng biến đổi đều là đại lượng không đổi.,0.2885000109672546,physics,True
+Động cánh vào quanh quỹ đạo.,Độ lớn $a = \frac{a^2}{r}$,0.2581000030040741,physics,True
+Động viên bi rơi theo hướng ngang trên bức đồ.,Một chiếc là rơi từ độ cao 3m xuống mặt đất.,0.2623000144958496,physics,True
+"Điểm O, với vận tốc 60km/h.","Từ điểm O, với vận tốc 5km/h.",0.8371999859809875,physics,False
+"Đối với gia tốc hướng tâm phụ thuộc vào bán kính quỹ đạo, và $\omega$ cho trước, gia tốc hướng tâm D. Với v và $\omega$ cho trước, gia tốc hướng tâm không phụ thuộc vào bán kính quỹ đạo.",Tốc độ dài của chuyển động tròn đều phụ thuộc vào bánh kính quỹ đạo.,0.3671000003814697,physics,False
+Đối với D. Vì trạng thái của vật được quan sát trong các hệ quy chiếu khác nhau.,Vì trạng thái của vật được quan sát ở các thời điểm khác nhau.,0.6741999983787537,physics,False
+Đồng thời toa tàu a và b chạy về phía sau.,Toa tàu a chạy về phía trước. toa b đứng yên.,0.5199999809265137,physics,False
+Động viên trên đứct trên đứng yên không chịu tác dụng,Khi hợp lực tác dụng lên một vât bằng không thì vật không thể chuyển động được.,0.2117999941110611,physics,True
+Đầy đủ tránh thay đổi vận tốc.,Chuyển động thẳng nhanh dần đều.,0.212799996137619,physics,True
+gravititasy học vạn vật hấp dẫn số lượng mặt (m_1 và m_2) và chiều rộng (r) giữ lại nhân tỷ gravitasi universal constant G (G = $6.67430( tylu9)×10^{-11} m^3 kg^{-1} s^{-2}$).,$F_{hd} = G.\frac{m_1.m_2}{r^2}$,0.1869000047445297,physics,False
+$L = v_0.\sqrt{2gh}$,$L = v_0.\sqrt{\frac{h}{g}}$,0.631600022315979,physics,False
+"Để sát ma không đáng kể, viên bi phải sát ma trọng lượng.",Gia tốc của vật bằng không.,0.1537999957799911,physics,False
+"0N (vì lực đối nhiễu, khi người đứng trên mặt đất, lực tác dụng lên mặt đất là 0N).",bé hơn 500N.,0.1142999976873397,physics,False
+"Để thực hiện, cần phản biệt với ""thay đổi"", dấu đột xuất đúng trong trong dấu [] trên lực thế này, không biết được, không giảm đi, và không thay đổi. Vậy, dấu đột xuất là ""D. Không biết được"". Có được: Hệ số ma sát giữa hai mặt tiếp xúc sẽ thay đổi như thế nào nếu lực ép hai mặt đó tăng lên. D. Không biết được.",Tăng lên,0.0467000007629394,physics,False
+94.1,7500m.,0.1817999929189682,physics,False
+"Điền vài: Để hoàn thành 1 câu hỏi trắc nghiệm, cần chọn đáp án bao gồm tất cả các định nghĩa cần thiết: ""hai lực cân bằng"", ""đặt vào cùng một vật"", ""ngược chiều"" và ""cùng độ lớn"". Đối thì A đạt được tất cả những điểm này, nên là câu hỏi trắc nghiệm đầy đủ.","Hai lực cân bằng là hai lực được đặt vào cùng một vật, cùng giá, cùng chiều và có cùng độ lớn.",0.3621000051498413,physics,False
+Điền vào trong dấu [],$F_1.d_1 = F_2.d_2$,0.1599999964237213,physics,True
+"Đối với ngẫu lực, ngược chiều và có độ lớn bằng nhau là các yêu cầu, nên đúng đáp án là B.","Ngẫu lực là hệ hai lực song song, ngược chiều, có độ lớn bằng nhau và tác dụng vào hai vật.",0.546999990940094,physics,False
+Động hương cân bằng.,Không thuộc dạng cân bằng nào cả.,0.4736999869346618,physics,True
+đối với tốc độ góc trong quá trình quay sẽ giảm.,vật dừng lại ngay.,0.130400002002716,physics,True
+đứct tiềm thứ 3.,trục nằm ngang qua một điểm.,0.1934999972581863,physics,True
+động lượng $\vec{p}$ của một vật được xác định bởi công thức B. $p = m.v$,$\vec{p} = m. \vec{a}$,0.1199999973177909,physics,False
+điểm,W,0.0,physics,False
+$\frac{1}{2}.k.\Delta{l}^2$,$W_t = - \frac{1}{2}.k.\Delta{l}^2$,0.916700005531311,physics,False
+động tốc sẽ tăng.,tăng vận tốc đi số nhỏ.,0.3635999858379364,physics,False
+"Điều kiện dịch chuyển ngược ngay khi thuyền chèo ngược dòng sông, người ấy không thể tiến lên được so với bờ, do quãng đường dịch chuyển của nó bị ngược lại.",có vì người đó vẫn tác dụng lực.,0.147499993443489,physics,True
+"Độ biến thiên cơ năng bị ảnh hương bởi lực cản, không có bảo toàn khi công của lực ma sát.",không; hằng số.,0.1738999933004379,physics,False
+động năng tăng gấp 4 lần.,không đổi.,0.1429000049829483,physics,False
+"đầy đủ lực để sản phục Newtonian physics, trong trường hợp này, đã có một sứ mệnh của Newton của 3, còn được gọi là ""Law of Universal Gravitation"".","có cả lực hút và lực đẩy, nhưng lực đẩy nhỏ lực hút",0.1879999935626983,physics,True
+"độ, áp suất, khối lượng","áp suất, thể tích, khối lượng.",0.7878999710083008,physics,False
+$\frac{p}{R\cdot T} = \frac{h}{R}$,$PV ~ T $,0.2856999933719635,physics,False
+Đối với lực hút phân tử không thể lớn hơn lực đẩy phân tử,Lực phân tử chỉ đáng kể khi các phân tử ở rất gần nhau.,0.3907999992370605,physics,True
+Đường thẳng kéo dài không đi qua gốc toạ độ.,Đường thẳng cắt trục p tại điểm $p = p_0$,0.4918000102043152,physics,True
+∅ (không có trường hợp nào),Nung nóng một lượng khí trong một bình đậy kín.,0.1333000063896179,physics,True
+Đàn động sáng tạo.,Nặn những con giống bằng đất màu.,0.1053000018000602,literature,True
+Đôi mắt pho tượng sống động đến lạ lùng.,Pho tượng sống động đến lạ lùng giống như một người sống vậy.,0.628600001335144,literature,True
+"Đã tạo ra một tác phẩm tuyệt trần, mĩ mãn, khẳng lại sự kiên nhẫn và sáng tạo.",Là một người yêu thích sự hoàn hảo.,0.1842000037431717,literature,True
+Đồi những đốm tàn nhang nhỏ của cậu bé rất xấu xí.,Những đốm tàn nhang nhỏ đã tạo nên nét đẹp riêng của cậu bé.,0.6172999739646912,literature,False
+Đốm tàn nhang nhỏ,Khuân mặt rất trắng.,0.0741000026464462,literature,True
+Đưa những ngón tay nhăn nheo tàn nhang của cháu để tích cực hơn họa sĩ.,Hãy luôn nói những lời tốt đẹp để an ủi người khác,0.2143000066280365,literature,True
+"Đó là mùa của những cánh diều no gió, của những tâm hồn khát vọng tuổi thơ.",Đó là mùa với những kỉ niệm chơi đùa cũng các bạn trên cánh đồng lộng gió,0.323199987411499,literature,True
+"Đến mùa hè, tiếng sáo diều giúp tôi đưa ra cánh đồng nhânh tình yêu của tôi",Gợi cho tác giả nhớ về những buổi trưa hè oi ả,0.1429000049829483,literature,False
+Điều B. Tiếng sao diều chính là tiếng gọi của tâm hồn đi tìm về kí ức tuổi thơ,Tiếng sao diều chính là tiếng gọi của mùa hè.,0.5569999814033508,literature,False
+3,2,0.5,literature,False
+Đáp án trên,"Là không pha tạp những yếu tố lai căng, pha tạp trong khi vẫn dung nạp những yếu tố tích cực ",0.0625,literature,True
+Đức Hùng,Hồ Chí Minh,0.1537999957799911,literature,False
+Đánh giả tài năng nghệ thuật xuất chúng của tác giả Nguyễn Đình Chiểu,"Liệt kê những tác phẩm nổi tiếng, có giá trị của Nguyễn Đình Chiểu để lại trong kho tàng văn học Việt Nam.",0.3508999943733215,literature,True
+Để kích thích trí tò mò của người đọc.,"Câu đầu nêu luận điểm khái quát, các câu sau nêu luận cứ đều là các tư liệu thực tế.",0.2050999999046325,literature,True
+Điều này nhấn mạnh sự kì thị và phân biệt đối xử có thể ngăn chặn mạnh mẽ các mục tiêu phòng chống HIV/AIDS.,Sự kì thị và và phân biệt đối xử với người HIV/AIDS đã bị xóa bỏ,0.4332999885082245,literature,False
+Đột xuất của chiến sĩ Tây Tiến trong bài thơ để tạo nền tảng về sự nghiệp và sự nghiêm trọng.,Quang Dũng đã làm đại đội trưởng ở đơn vị Tây Tiến rồi chuyển sang đơn vị khác.,0.2585999965667724,literature,True
+"Động viên trên bờ biển, chiếu chiếc áo bào trên nước.",Sự hi sinh của người lính là hóa thân vào non sông đất nước.,0.2120999991893768,literature,True
+Độ tuộc,Nhớ bạn bè,0.0,literature,True
+Đồi bàn trên một bờ biển.,Con người trên đèo cao với dao cài thắt lưng,0.1860000044107437,literature,True
+Ông từng là Tổng thư kí hội nhà văn Việt Nam,Ông sinh năm 1924,0.2273000031709671,literature,True
+Ông không có những thay đổi rõ rệt sau Cách mạng.,"Phong cách thơ Chế Lan Viên rất rõ nét và độc đáo, nổi bật nhất là ""chất suy tưởng triết lí mang vẻ đẹp trí tuệ và sự đa dạng, phong phú của hình ảnh thơ được sáng tạo bởi một ngòi bút thông minh, tài hoa.",0.1472000032663345,literature,True
+"Độc tính của một phong cách nghệ thuật không được phát thanh, không có trọng tâm và không được sử dụ trên thế giới.",Trầm tĩnh và giàu chiêm nghiệm,0.1124000027775764,literature,True
+Ước muốn để tạo nhân tạo sự thoả mãnh trên thế giới.,"Ước muốn viễn vông, phi thực tế.",0.3635999858379364,literature,True
+Đánh giá.,Nói quá.,0.1817999929189682,literature,True
+Động thái của sông Đà.,Các mỏ quặng dưới lòng đất.,0.2632000148296356,literature,True
+Đà Vương Liễu (D. Tản Đà),Tố Hữu,0.0908999964594841,literature,True
+"Đã tạo ra một biểu tượng của thành phố Huế đối với lịch sử và thi ca của dân tộng, từ khởi nguồn của nó cho đến lúc trở thành một dòng sông lớn.","Văn bản miêu tả dòng sông Hương ở hai trạng thái cơ bản: mãnh liệt, dữ dội đầy sức mạnh ở thượng lưu và êm đềm, dịu dàng, trầm mặc khi xuôi về đồng bằng và nhất là khi vào thành phố Huế.",0.2087000012397766,literature,False
+Đột trải sự hòa hợp giữa phong cảnh thiên nhiên và phong phú hành tinh trong thơ.,Sử dụng sáng tạo đại từ Ta - Mình đưa người đọc vào không gian cùa kỉ niệm ân tình.,0.1852000057697296,literature,True
+Đột trưng,"Thanh ngã, thanh hỏi, thanh ngang, thanh huyền",0.0,literature,False
+Đánh thức khát vọng sống hạnh phúc tưởng,Bát rượu ngày xuân mà Mị uống.,0.125,literature,True
+Đối thoại với các đồng chí trong hệ thống quán ăn.,"Bị hành hạ, đày đoạ, vùi dập tàn bạo.",0.2105000019073486,literature,True
+"Đột trải sáng tại phía trước, giải thoại phía trên, tác phong tại phía trước, giải thoại phía trên.",Văn phong vừa đậm chất trí tuệ vừa hiện đại,0.1378999948501587,literature,True
+đám người đói và lá cờ đỏ bay phấp phới vẫn ám ảnh trong óc Tràng.,"bữa cháo cám chát đắng, nghẹn ứ trong cổ và nỗi tủi hờn hiện ra trên nét mặt mọi người.",0.2242999970912933,literature,True
+1965,1960,0.800000011920929,literature,False
+Được bao ngọn trong xe trốn,Cha mẹ chết sớm.,0.0,literature,True
+"Đột trải, ngồi tránh thằng Phác.",phản ứng mạnh mẽ với vị chánh án.,0.1817999929189682,literature,True
+Điều gì giúp đỏi hoàn toàn.,Xin tha tội cho người chồng vũ phu.,0.1026000007987022,literature,True
+"Động tín hiệu, tín hiệu, sự phát triển, sự chuyển tôn vinh, sự phát triển số điều, sự phát triển sự gình thành, sự phát triển sự phát triển, sự phát triển sự phát triển sự phát triển.",Nghĩa tường minh là phần thông báo được diễn đạt trực tiếp bằng lời nói trong câu.,0.1191999986767768,literature,False
+"Đồng thời, hàm ý là phần của nội dung được thông báo không được nói một cách trực tiếp nhưng có thể hiểu để suy ra từ những từ ngữ ấy.",Hàm ý là phần thông báo tuy không được diễn đạt trực tiếp bằng từ ngữ trong câu nhưng có thể suy ra từ những từ ngữ ấy.,0.6704999804496765,literature,False
+Để kiếm được thật nhiều tiền của,Vì muốn nhanh chóng có tên tuổi.,0.0465000011026859,literature,True
+Đối thoại giữa người thường và thần tiên.,Người và thần tiên luôn luôn bất đồng quan điểm sống,0.3729000091552734,literature,True
+"Đồng hành với nhân sự thật, truyền lịch sử, truyền thống.","Người nông dân thiển cận, ít suy nghĩ.",0.2034000009298324,literature,True
+"Điền vài câu hỏi: Phát biểu tự do có thể phản ánh, đặt ra những vấn đề cuộc sống đặc trước trên miệng, không bị được chuẩn bị trước kĩ.",Tất cả các ý kiến trên.,0.1090999990701675,literature,True
+1940,1965,0.6000000238418579,literature,False
+,"Để chiến thắng phát xít Đức, 25 triệu người Xô-viết, non một phần mười dân số thời đó đã hi sinh. Chỉ khoảng ba phần trăm thanh niên từ măt trận trở về. Vì độc lập dân tộc và sự sống còn của nhân dân, Xô-cô-lốp đã-chịu đựng những mất mát ghê gớm.",0.0,literature,True
+Ảnh hưởng,Tường trình ,0.2222000062465667,literature,True
+Đối thoại giữa những người ngang hàng với nhau về địa vị xã hội,Quan hệ giữa người có địa vị thấp với người có địa vị cao.,0.4050999879837036,literature,False
+Đồi Phác.,Nghệ sĩ Phùng.,0.1429000049829483,literature,True
+"ở trên, Mị không hề hư�uteur hạnh phúc, cho thấy Mị không hề hưởng một chút gì hạnh phúc.",Qua không gian sống để tô đậm nỗi khổ của nhân vật.,0.185599997639656,literature,True
+Đào Niên Phan Đình Phù,Nguyễn Thị Minh Khai,0.1537999957799911,literature,True
+"Độc lập trong sức bao giờ, vui vẻ trong hội nghị, các bạn học sinh bên trong ngày đầu khai trường bên trong ngày đầu khai trường bên ngoài ngày đầu khai trường bên trong ngày đầu khai trường bên ngoài ngày đầu khai trường","cảnh tượng nhốn nháo, lạc quan, các bạn học sinh òa khóc trong vòng tay thầy cô, bè bạn",0.221000000834465,literature,True
+Đại học Phật,Đại học Hà Nội,0.6363999843597412,literature,False
+Đất nước,Quốc Nghiệp,0.1333000063896179,literature,False
+chiến tranh,thanh bình,0.3635999858379364,literature,True
+đoàn kết,hòa bình,0.0,literature,True
+đồng trọng,nghìn đồng,0.53329998254776,literature,False
+"Đồng Lương thì quá thấp, chỉ bằng 1/7 hay 1串 1/10 lương của công nhân da trắng.",Người da đen bị đối xử vô cùng thậm tệ.,0.1500000059604644,literature,True
+Đánh răng xong đừng quên vệ sinh lưỡi,Lưỡi rìu vung lên chỉ ba nhát là cái cây đã đổ ầm xuống đất,0.1891999989748001,literature,True
+Đồng hành và tinh thần giữ gìn trong cuộc chiến thắng quý,quý nhất là sức khỏe vì theo Qúy chỉ cần khỏe mạnh thì có thể làm ra được mọi thứ,0.1555999964475631,literature,True
+"Để bảo vệ ý kiến của mình, con người phải hiểu rõ quyền lợi vô hạn của giờ trong ngày, đồng thời cung cấp sự chuẩn bị và tích cấy trong mọi hoạt động trong ngày.","Quý nhất là thì giờ, vì theo Nam thì giờ là thứ tôn tại bất biến, không bao giờ biến mất, ai cũng phải trân trọng.",0.1852000057697296,literature,False
+đồ thì giờ,vàng,0.0,literature,False
+đồng thời ... cùng,ở..... của..... mà,0.2105000019073486,literature,True
+đồng nghị,ở,0.1817999929189682,literature,True
+đến,nên,0.0,literature,True
+Định nghĩa phần thân bài,Kể lại diễn biến câu chuyện,0.1142999976873397,literature,True
+độ,nắm,0.0,literature,True
+động,lơn,0.0,literature,True
+tặng cho người chị em của Gioan,tặng cho người cô họ đang nằm điều trị bệnh trong bệnh viện,0.3666999936103821,literature,True
+"Đối thoại mùa xuân trên ruộng, tránh tránh cày tránh tránh lạm phát.","Người ta đi cấy lấy công,/ Tôi nay đi cấy còn trông nhiều bẽ.",0.1749999970197677,literature,True
+Tôi là người con của dân tộc Việt Nam,"Anh hỏi thật lạ, tôi là người Việt Nam",0.53329998254776,literature,True
+Đừng bàn thảo luận về việc từ chối tiếp tục tham dự hội nghị,Một số cá nhân được cử làm giáo viên cho lớp học xóa mù chữ.,0.1950999945402145,literature,True
+"Đứng nghiêm, chào Bác theo nghi thức",Các đại biểu vẫn còn bàn tán sôi nổi không hề biết đến sự xuất hiện của Bác,0.1333000063896179,literature,True
+nghèo khó,có một người anh,0.2353000044822693,literature,True
+Đồn chân chức quan đầu triều thời xưa,Một chức quan nhỏ trong huyện,0.1950999945402145,literature,True
+Đế Nguyên,Nhà Nguyễn,0.4000000059604645,literature,False
+Đẩy một con trai trở thành Phámponsat Phong Nha,Muốn xin một mảnh đất trong ngự hoa viên để trồng hoa,0.166700005531311,literature,True
+Ông là một nhà tri thức nổi tiếng nhưng được nhiều người kính phục,Là một nhà tư sản lớn ở Hà Nội,0.3188000023365021,literature,True
+Đối thoại,Nếu ...... thì,0.1537999957799911,literature,True
+Được giao cho trọng trách một sứ quán,Đấu trí với sứ thần nhà Trung Quốc đang có mặt ở nước ta,0.2000000029802322,literature,True
+Độ trạng nhãn,Tiến sĩ,0.1333000063896179,literature,True
+Đệm,Tên,0.0,literature,False
+Địa thiên trên biển sở hữu cho các trường thể thao,Không phải ba đáp án trên,0.1738999933004379,literature,True
+"Đến nhiên liệu, thủy phương và giáo sĩ","Năm nhân vật: Nhụ, bố mẹ Nhụ, ông của Nhụ và anh của Nhụ",0.125,literature,False
+Đánh giá nhà thu hoạch của Nhụ,Bàn chuyện lấy vợ cho người anh trai của Nhụ,0.3043000102043152,literature,True
+đồi nhân ái,Nhường cơm sẻ áo,0.2608999907970428,literature,True
+Độ thanh,Thanh chắn,0.4000000059604645,literature,False
+Đã được chọn,Cậu là Hoa có phải không.,0.0,literature,False
+Đông,Dầu khí,0.0,literature,False
+Ông,Trách nhiệm,0.0,literature,False
+Độc lập,"Triều Lê, Trịnh, Tây Sơn",0.0908999964594841,literature,False
+Kêu gọi kẻ sĩ Bắc Hà ra cộng tác với triều đình Tây Sơn,Kêu gọi những người giỏi võ ra giúp nước,0.289900004863739,literature,True
+Đối thoại Phan Đình Phước với Nguyễn Ách Dầu,Khi triều đại Tây Sơn sụp đổ,0.218199998140335,literature,True
+Đồng minh với vương quốc và chính quyền trong thời gian định hướng,Nhiều người có tài năng còn chưa chịu ra giúp nước,0.1643999963998794,literature,False
+Động viên tri thức Bắc Hà tham gia xây dựng đất nước,Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên quân Bắc Hà đi thi ra làm quan,0.2342000007629394,literature,False
+Động hương và sự phun hào trong phong trào Thơ mới,Chủ nghĩa hiện thực Việt Nam.,0.0443999990820884,literature,True
+Đức Phán,Ngô Thì Sĩ,0.0,literature,True
+"1920, 2002","Sinh năm 1915, mất năm 1951.",0.2581000030040741,literature,False
+Đức Pháp,Lưu Trọng Lư,0.0,literature,True
+Đào Phong,Hàn Mặc Tử,0.0,literature,False
+Ảnh hưởng vào Lin-cơn ngày 29/8/1963,Tại đài tưởng niệm Lin-cơn ngày 28/8/1964,0.666700005531311,literature,False
+Đào Nguyên Phi,Tố Hữu,0.0,literature,True
+Đặng Hoàng,Lưu Trọng Lư,0.1176000013947486,literature,True
+Đức Phúc,Hàn Mặc Tử,0.1111000031232833,literature,True
+Đối tượng có tài,Người ăn ở hiền lành,0.1378999948501587,literature,True
+Đức Phan Ngọc Phan,Vic-to Huy-gô,0.0,literature,True
+Đồng hội và quan trọng trong cuộc sống của người hiền.,Người hiền theo Quang Trung rất nhiều như sao trời,0.2372999936342239,literature,True
+Đoạn trích “Tôi có một ước mơ”,Người đàn ông của chúng tôi ở Havana,0.2666999995708465,literature,True
+Độ sáng suy an toàn của Chủ tịch Hồ Chí Minh trong trận động lực,Tình cảm của người dân Việt Nam đối với Chủ tịch Hồ Chí Minh,0.3732999861240387,literature,False
+Động viên,Phương châm lịch sự,0.1111000031232833,literature,False
+Đột tránh thế giới,Chiến tranh hạt nhân.,0.1738999933004379,literature,True
+"Đội ngũ người phụ nữ của Vũ Nương có tài đánh đàn, nết na, luôn khao khát sự bình yên; người phụ nữ khát khao hạnh phúc gia đình; người phụ nữ chịu nỗi oan khuất nghiệt ngã.","Người phụ nữ có tài ăn nói, nết na; người phụ nữ khát khao hạnh phúc gia đình; người phụ nữ chịu nỗi oan khuất nghiệt ngã.",0.7724999785423279,literature,False
+Động thái thuyền nan một chiếc ở đời /Tắm mưa chải gió trong vời Hàn Giang.,"Cha mẹ cho em sang chuyến đò nghiêng /Thuyền chòng chành đôi mạn, em ôm duyên trở về.",0.2736999988555908,literature,True
+Đỗ Ngọc Tú,Lê Hữu Trác,0.0,literature,False
+"Đức huyết, tích của sứ quán, sự nghiêng ngược.","Trí tuệ sáng suốt, mẫn cán, điều binh khiển tướng tài tình.",0.1515000015497207,literature,True
+Để phun dùng trong thơ,Nghĩa gốc chỉ mùa xuân,0.0689999982714653,literature,True
+Đầu tư sở hữu và thu hút sự nghịch hoang trong thế giới.,Từ cuộc đời một người con gái có tên là Tiểu Thanh.,0.1537999957799911,literature,True
+Đột tránh về sự phức tân của người phụ nữ trong các trận lực và các trọng tâm của hội thảh đời.,"Tác phẩm cũng thể hiện rõ số phận của những con người bị áp bức, đặc biệt là số phận bi kịch của người phụ nữ.",0.2594999969005584,literature,True
+Đức tính và sáng tính,"Có tài cầm, kì, thi, họa.",0.1378999948501587,literature,True
+"Đặc điểm thế này trong câu thơ là ""mới mẻ tinh khôi, giàu sức sống, khoáng đạt, trong trẻo, nhẹ nhàng thanh khiết.""",Màu sắc cảnh xuân có sự hài hoà đến tuyệt diệu.,0.1682000011205673,literature,True
+"Định vị của Thúy Kiều trong một thế giới không gian, buồn bã của họ, sự thay đổi của một thế giới trong thời gian, sự phức tại của họ, sự phức tại của họ và sự phức tại của họ trên một thế giới không gian.","Kiều bị giam lỏng ở lầu Ngưng Bích, không gian xung quanh quạnh vắng, cô đơn, trơ trọi.",0.168500006198883,literature,True
+Đồng hành và trọng tâm trong hội thảh được nhấn mạnh.,"Nói lên tâm trạng buồn bã, lo âu của Kiều.",0.1967000067234039,literature,True
+Đảm bảo sự không ngỡ và sáng suốt của bài thơ.,"Thể hiện sự hèn nhát, nhu nhược của Thúc Sinh.",0.2333000004291534,literature,True
+Đánh giá,Nói quá,0.1817999929189682,literature,True
+Động quan và trật-tay trong huyết xơ của ngưỡi.,Miêu tả cảnh mọi người cứu Lục Vân Tiên.,0.1817999929189682,literature,True
+ở trú đội trên chiếc tấn trái tim,Sau đại thắng mùa xuân năm 1975,0.1363999992609024,literature,True
+"Độ sát, cảm thông, và tránh tránh sự nghiêp",Có những niềm vui sôi nổi của tuổi trẻ trong tình đồng đội,0.1448999941349029,literature,True
+Điệu nghệ,Nghị luận,0.2856999933719635,literature,True
+Đói thú vị,Nhân hóa,0.1429000049829483,literature,True
+Đồng hành trong phòng,Người trí thức,0.0952000021934509,literature,True
+Ông họa sĩ già,Tác giả,0.0,literature,True
+Đức tướo trước sự không chính xác của xuồng,"Ân hận vì đã xa nhà quá lâu, không chăm sóc cho vợ con",0.2222000062465667,literature,True
+Đức Phạm Tiến Duật,Xuân Diệu,0.0,literature,True
+Điệu,Song thất lục bát,0.0,literature,True
+Đồng hành trong nhà,Những người ở cùng một làng.,0.125,literature,False
+1980,1976,0.6000000238418579,literature,False
+"Đối với việc học tập, cách đó chỉ là lừa dối người, dối với việc làm người thì cách đó thể hiện phẩm chất tầm thường, thấp kém.",Bình luận.,0.0434999987483024,literature,True
+"Ông, em xin phép ra ngoài ạ!","Ngủ ngoan a-kay ơi, ngủ ngoan a-kay hỡi!",0.2050999999046325,literature,True
+"​Vũ Trọng Phụng, nhà văn","Vũ Khoan, nhà văn nổi tiếng",0.4848000109195709,literature,False
+Động quan cho người phụ nữ Việt Nam,Biểu tượng cho cuộc sống khó nhọc trước kia,0.1333000063896179,literature,False
+Động vận hình tượng chó sói của La Phông-ten là một kẻ đáng ghét,La Phông-ten không chỉ dựa vào đặc tính chủng loại mà còn dùng tưởng tượng phóng khoáng và lòng thương cảm để miêu tả chó sói và cừu.,0.2290000021457672,literature,True
+"Đoạn văn và các câu đều được sắp xếp theo một chuẩn hệ thống chung, đồng thời phát huy nhiệm vụ và ý nghĩa của mỗi đoạn và câu.",Các đoạn văn trong văn bản cũng như các câu trong một đoạn văn phải liên kết chặt chẽ với nhau về nội dung và hình thức.,0.3255999982357025,literature,True
+Định nghị về các mùa xuân trên toàn thế giới,Cảm xúc về thời điểm lịch sử đáng nhớ của dân tộc,0.2153999954462051,literature,True
+Đặng Van Luận,Trần Đăng Khoa,0.3000000119209289,literature,True
+Sông Ma.,Sông Trường Giang.,0.4614999890327453,literature,False
+Đối thoại giữa tình yêu đôi lứa.,Chiến tranh.,0.1333000063896179,literature,True
+"Điền trạng ngữ trong câu, chỉ ngữ, cá thể, tính chất, hành động, tác động, tác hội.",Kể về các câu chuyện có chưa các nhân vật dân gian hư cấu.,0.2169000059366226,literature,True
+Ở chiều hôm qua,Nước,0.0,literature,True
+5,4,0.5,literature,False
+Động từ,Là từ do một tiếng có nghĩa tạo nên.,0.2666999995708465,literature,True
+Đôi cánh mỏng manh run rẩy,Lùm dứa dại,0.0689999982714653,literature,True
+"Đứng trên trời, ngưỡng trên cành cây.","Nóng nực, yên tĩnh.",0.1713999956846237,literature,True
+Đức Phan Trọng Hoan.,Thế Lữ.,0.0,literature,True
+đồ gió,gió đưa mùi,0.2856999933719635,literature,True
+động tụ,từ láy,0.166700005531311,literature,True
+Đầy đủ thay đổi sắc tố và ngôn ngữ để tạo ra cảm giác và diện rộng về hương thơm,miêu tả cây tràm,0.1194000020623207,literature,True
+"Ấn tượng chung là không gian đêm tối nơi đồng quê yên ắng, trong đó sao trời đang nghỉ.",bầu trời đen không trăng và nhiều mây,0.1518999934196472,literature,True
+đồng hành người buông gàu bên sông Ngân,đen và ít sao.,0.1817999929189682,literature,True
+Đề tài truyện về trẻ em,truyện về gia đình,0.4000000059604645,literature,False
+đồng dao,vần ôm,0.166700005531311,literature,False
+đàn đồng tràn đầy nhiệt huyết thanh xuân với giấc mộng giảng đường đại học.,"giản dị, khắc khổ",0.0938000008463859,literature,True
+"Điền vài biện pháp tu từ nói quá, đặc biệt là biện pháp tu từ nói quá truyền hướng, tu từ quyết, tu từ hướng, tu từ hướng tới, tu từ hướng tránh, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu từ hướng tránh trán, tu","là biện pháp tu từ dùng sự vật, sự việc này đối chiếu với sự vật, sự việc khác có nét tương đồng nhằm tăng thêm sức gợi hình, gợi tả trong cách biểu đạt.",0.176499992609024,literature,True
+Đói nghề,Biện pháp tu từ liệt kê,0.0,literature,False
+Đánh răng như người Phía Nam,Nước chảy đá mòn,0.1333000063896179,literature,True
+Ăn quả nhớ kẻ trồng cây,"Ăn kĩ no lâu, cày sâu tốt lúa",0.3077000081539154,literature,True
+Định nghĩa,Miêu tả,0.0,literature,True
+Đánh gi nhiều quý trọng con người hơn cải,Đừng nên coi trọng của cải,0.4090999960899353,literature,False
+Đối thoại sáng của người ta,"Người làm ra của, của không làm ra người",0.3720999956130981,literature,True
+"Đói khi no, lúc nào cũng phải giữ quần áo cho sạch sẽ","Khi đói cần giữ cho quần áo sạch sẽ, thơm tho",0.6032000184059143,literature,True
+Đánh gi nhiều câu trắc nghiệm trong ngữ điệu,Gia đình là điểm tựa của mỗi người. Ý kiến của em về vấn đề này,0.1842000037431717,literature,True
+Động tín hiện tại của lời khuyên,Vì sao nhân dân ta lại khuyên phải thương người như thể thương thân?,0.1967000067234039,literature,True
+Định văn,Thuyết minh,0.1429000049829483,literature,False
+đến thể hiện hai trạng thái của lòng yêu nước,Ca ngợi lòng yêu nước là các thứ của quý,0.4074000120162964,literature,True
+Định nghị sự quan hệ với nước,"Bố cục chặt chẽ, rành mạch",0.050000000745058,literature,True
+2,Hai,0.0,literature,False
+Để phát biểu cảm nghĩ về lòng biết ơn,Giải thích câu tục ngữ,0.1053000018000602,literature,True
+Phạm Văn Đồng,Hoài Thanh,0.0,literature,True
+Điểm lịch trọ,Tự sự,0.0,literature,True
+0,Không có,0.0,literature,True
+Đoạn đầu,Câu rút gọn,0.1176000013947486,literature,True
+Đức tính giản dị,Phân tích,0.125,literature,True
+Động viên trống,Nó được mẹ dắt đi chơi,0.1378999948501587,literature,True
+Động tính của văn chương,Nguồn gốc của văn chương,0.5881999731063843,literature,False
+7,7,1.0,literature,False
+3,11,0.4000000059604645,literature,False
+2,6,0.5,literature,False
+Đồng thời bà mẹ tránh lại cái sọ dừa trong nước mưa.,Bà mẹ uống nước mưa trong bầu nước rồi bà có mang.,0.3713999986648559,literature,False
+Đức Hoàng,Nghĩa quân Lam Sơn,0.0,literature,True
+Đối thoại giữa Hồ Gươm và Nhân dân ta trong thời gian sống,Về mối quan hệ giữa Lê Lợi và Lê Thận,0.2759000062942505,literature,True
+Đèn,Đi đứng,0.4000000059604645,literature,True
+"Độc đáo, giá trị quan trọng, giá trị thiếu sáng",Vui vì thấy cảnh vật có sự thay đổi,0.1154000014066696,literature,True
+2,1,0.5,literature,False
+,Lang Liêu lên ngôi vua.,0.0,literature,True
+Đây là cái ly giá trị không chính xác.,Từ đơn là từ có nhiều hơn hai tiếng,0.2082999944686889,literature,False
+"Động cảm, không biết nhìn người.","Tinh tế, vị tha.",0.1333000063896179,literature,True
+Ăn thực phẩm.,"Có công mài sắt, có ngày nên kim.",0.0,literature,True
+Định nghị quan liên quan giữa sứ thần trình và vua quan.,Xác định cách thức.,0.2926999926567077,literature,False
+Điệp,Ẩn dụ,0.166700005531311,literature,True
+Độ phong sáng trong chiến thắng,"Bức chân dung của con người Việt Nam chịu thương, chịu khó.",0.0833000019192695,literature,False
+Đứng lên nghệ thuật,Nhân hóa,0.1053000018000602,literature,False
+Điều thuật của sự phục vụ trong hội đồng,Dế Choắt bị chị Cốc mổ.,0.1363999992609024,literature,True
+Động tính.,Cụm động từ,0.5555999875068665,literature,False
+Đối tượng đối thoại của Tiến,Đôi chân,0.2143000066280365,literature,False
+Động viên của một sự vật trở thành hiện tượng trên các sự vật khác.,"Dựa trên mối quan hệ tương phản giữa các sự vật, hiện tượn",0.3332999944686889,literature,False
+Đó,Bữa tối,0.0,literature,True
+Đẩy sự hiểu biết và cảm nhận của thống - thìếu trên cơ sở những đặc điểm nổi bật của văn miêu tả,Bộc lộ rõ năng lực quan sát của người viết,0.1187999993562698,literature,True
+Màu xanh biêng biếc,Màu xanh lá mạ,0.5263000130653381,literature,False
+Đức Phan Ngọc Phượng,Nguyễn Duy,0.0,literature,False
+Động vi (tránh lựa chọn này),Tối,0.0,literature,True
+Đầu mà không có trong dòng chữ,Trăng sáng dịu dàng như ánh sáng của ngọn đèn đường,0.1887000054121017,literature,True
+Đột xuất người thu thập bức tranh,"Lời người dẫn truyện, ngôi thứ hai",0.2666999995708465,literature,False
+Địa danh Sông Nước Cà Mau,Tả cảnh quan vùng cực nam của Tổ quốc,0.1950999945402145,literature,True
+Đẩy người sang vật,Cả 3 đáp án trên,0.1537999957799911,literature,True
+Đêm khi Bác không ngủ đến trên đường,Khi đất nước hòa bình,0.2439000010490417,literature,True
+Đột truyền,Thể tứ tuyệt,0.125,literature,True
+ẩn dụ chuyển đổi cảm giác,Ẩn dụ phẩm chất,0.4864999949932098,literature,True
+Động nhất,Biểu cảm,0.0,literature,True
+Đội cả trời mưa có liên quan đến bố phải lao động trong trời mưa,"Bố là người dũng cảm, can trường",0.2105000019073486,literature,True
+Để phân biệt giữa cây và người trong lợi ích,Phép hoán dụ lấy vật chứa đựng để gọi vật bị chứa đựng,0.1562000066041946,literature,False
+Đưa về các vật chứa để gọi toàn thể,Lấy dấu hiệu để gọi đối tượng,0.2552999854087829,literature,False
+Điện thoại,Thể truyện ngắn,0.2222000062465667,literature,False
+Ảo thẹt sáng lá rất trên cánh đồng.,Nắng e ấp trên các cành cây còn ướt đẫm hơi sương.,0.2951000034809112,literature,True
+บินhดิ่ง,Giản dị,0.0,literature,False
+Đánh trần người huyện Đông Triều,Có một con ếch sống lâu trong giếng cạn,0.1363999992609024,literature,True
+Động tín hiện tại,Thiếu cả chủ ngữ và vị ngữ,0.0714000016450882,literature,True
+Độ sáng suất giữa văn xuôi và thơ,Nhân vật xuất hiện theo hàng trạng nhân vật,0.1599999964237213,literature,True
+Động quan về sự phán sự trong cuộc sống,"Ca ngợi tinh thần khảng khái, cương trực, dám đấu tranh chống lại cái ác trừ hại cho dân",0.1369999945163726,literature,True
+Địa chất,Cổ tích,0.0,literature,True
+Đối thoại Thần thoại Châu Âu và Thần thoại Châu Á,Thần thoại suy nguyên; Thần thoại về các vị anh hùng,0.4375,literature,False
+"ไม่, thời gian bất biến",Thời gian cụ thể,0.5,literature,False
+Đội thú,Bán thần,0.1817999929189682,literature,True
+Động thái về sự nghiêp và giá trị nội dùng,"Giá trị nội dung, tư tưởng",0.4090999960899353,literature,False
+Địch truyện,Truyện thơ,0.571399986743927,literature,True
+Đọc phong cách,Truyện ngụ ngôn,0.0,literature,True
+"Ông Kể sao, ông Xây rú, ông Trụ Trời (D được điền vào trong dấu [] để hoàn thành câu hỏi)","Ông Tát bể, ông Kể sao, ông Đào sông, ông Xây rú, ông Trụ Trời",0.4693999886512756,literature,False
+"Điều này không đề cập đến một vị thần giao tiếp tên nhân, góp phần cần thể hiện trong câu này.",Trời,0.031199999153614,literature,True
+Đều kế thỏa nhiên và diễn ra trong thế giới,"Đều sử dụng ngôn ngữ có vần, nhịp",0.3136999905109405,literature,True
+Định văn,Truyện thơ,0.1429000049829483,literature,True
+Đầu tiên khi bành trước cuộc thi,Trong tù ở Thái Lan,0.1875,literature,True
+Đánh Mĩ giỏi,Chiếc lư đồng mắt cua,0.2399999946355819,literature,True
+"Động tác, sự phong phú, sự hình thành sự phức tại","Khắc họa tính cách nhân vật - nhân vật được dựng lên bằng bút pháp lý tưởng hóa cảm hứng lãng mạn, ngôn ngữ giàu tính tạo hình",0.1592999994754791,literature,True
+บộc lộ tấm lòng yêu nước thầm kín của nhà văn Nguyễn Tuân,"Khắc họa thành công hình tượng Huấn Cao – một con người tài hoa, có cái tâm trong sáng và khí phách hiên ngang bất khuất",0.1494999974966049,literature,True
+"Phân tích, tổng hợp",Chứng minh,0.1176000013947486,literature,True
+"Đánh giá của người viết tác phẩm bằng các nghệ thuật, số phận, suy nghĩ, và nội dung trong truyện","Bài nghị luận về một tác phẩm truyện ( hoặc đoạn trích) cần có bố cục mạch lạc, có lời văn chính xác, gợi cảm",0.2461999952793121,literature,True
+1 phần,5 phần,0.800000011920929,literature,False
+Độ dày nhất được nhận thấy trong tác phẩm,Khẳng định giá trị của tác phẩm,0.428600013256073,literature,True
+3,1,0.5,literature,False
+Đồ thoại truyền thống và Đồ thoại phi tiên phong,"Thần thoại sáng tạo, thần thoại anh hùng",0.3332999944686889,literature,False
+Đội thuộc tân binh,Con người mới,0.1000000014901161,literature,True
+Đôi,Bốn,0.0,literature,False
+Đối thoại (Xã tắc),Ngựa đá,0.2105000019073486,literature,True
+"Ông trọ, chiến thắng, phòng gian, ái quốc","Hậu tạ, cường quốc, thiên thư, tái phạm",0.1817999929189682,literature,True
+Động tín hiện tại tiếng Hán,Cả A và B đều đúng,0.1934999972581863,literature,True
+"để cung cấp bức tranh về chất lượng, phần cấu thế của bài nghị luận","Những nhận xét, đánh gái phải xuất phát từ nội dung và tính cách, số phận nhân vật, và nghệ thuật trong tác phẩm",0.194700002670288,literature,True
+1 phần,5 phần,0.800000011920929,literature,False
+Đánh gi nhân vật sự phụ thuộc vào nhân kỳ truyện,Tất cả các phương án trên,0.130400002002716,literature,True
+"Đánh gi những điểm quan trọng, cảm nhận và ý định của tác phẩm",Nêu các luận điểm chính về nội dung và nghệ thuật,0.2632000148296356,literature,True
+Đánh gi hiển tích của tác phẩm,Vận dụng các phép lập luận phù hợp,0.1950999945402145,literature,True
+Giới thiệu về ông giáo,Giới thiệu về Lão Hạc,0.6207000017166138,literature,False
+Đánh giả chung về vấn đề nghị luận,"Phân tích, chứng minh bằng các luận cứ tiêu biểu và xác thực",0.1785999983549118,literature,True
+"Đáp ứng yêu cầu của người thuộc về tâm hương, tinh thần và ý chính xác của động viên",Phải tìm những nhận xét của các chuyên gia để đưa vào bài làm,0.2474000006914138,literature,True
+Động tích,Chủ đề,0.3635999858379364,literature,True
+Đánh gi quan hệ giữa người đọc và tác phẩm,Giới thiệu tác phẩm và ý kiến đánh giá sơ bộ,0.3050999939441681,literature,True
+Đại Viết của Lê Thánh Tông,Hy Văn,0.0,literature,True
+"Ông sinh năm 1308, mất năm 1442",Thân mẫu là Trần Thị Thái - con quan Tư đồ Trần Nguyên Đán,0.1053000018000602,literature,True
+Đại Việt,Nguyễn Huệ,0.1429000049829483,literature,True
+Đại cáo trong nhan đề tác phẩm được sử dụ để tạo nền tảng cho những giá trị và nghi nhiệm trong phần tích cảm,Bài văn nghị luận được viết bằng văn biền ngẫu có độ dài và dung lượng lớn,0.19200000166893,literature,False
+,(1) – (4) – (2) – (3),0.0,literature,False
+"Đại nghiệp, đại sự","Bài văn nghị luận được vua chúa, thủ lĩnh dùng để công bố một việc, một vấn đề gì đó",0.1388999968767166,literature,False
+Độ pháp,Tội ác của giặc,0.1053000018000602,literature,True
+Đánh gi bàn thử thế hệ mới của quân Minh,Tố cáo tội ác của quân xâm lược,0.2552999854087829,literature,True
+Đất nước đứng lên trên chiếc sáng tố,Khi cuộc kháng chiến chống quân Minh vừa kết thúc thắng lợi,0.2034000009298324,literature,True
+Đánh nước trên bánh,Tụng giá hoàn kinh sư,0.166700005531311,literature,True
+Đánh tiếng đàn trở thành biểu tương thức vui vẻ trong nhà,Thật là khó để có được cây đàn của vua Ngu,0.2388000041246414,literature,False
+Đã có trọ thế mình trong việc bảo vệ những người yếu đuối,Người đại diện chính nghĩa,0.25,literature,True
+Động quan về sự kiện của tinh thần và tình cảm,Người có khả năng tưởng tượng độc đáo,0.1033999994397163,literature,False
+Động quan,Thong thả,0.0,literature,True
+Ngày mà cha mẹ Thanh hãn còn.,Thanh đã nhớ đến đến câu chuyện của tuổi thơ ngày mà Thanh thường hay chơi dưới gốc nhặt hoa,0.1728000044822693,literature,True
+"Đối thoại của Thanh và Nga, giao hương hoàng lan trên tóc giữa hai nhân vật",Kỷ niệm đáng nhớ là ngày cả hai cùng nhặt hoàng lan rơi: Thanh hỏi cô Nga có còn hay đi nhặt hoàng lan rơi nữa không,0.2520999908447265,literature,True
+động viên nước trong bóng hoàng lan,"Đây là loài cây có trong vườn nhà Thanh, gắn với tuổi thơ của Thanh. “Dưới bóng hoàng lan” là dưới gốc cây ấy, trong làn hương hoa ấy, có người bà vẫn yêu thương Thanh, có cô Nga",0.1950999945402145,literature,True
+Đức,Việt Nam,0.0,literature,True
+Ç. An-tôn Páp-lô-vích Sê-khốp,Bunin,0.0,literature,True
+Đùa nho nhỏ,Nghị luận,0.1176000013947486,literature,True
+Động thái của một vùng thượng thái,Đa dạng sinh học,0.2353000044822693,literature,True
+365 ngày,Hai năm rưỡi,0.0,literature,True
+"Đất sẽ bị giảm sát, không có nước sẽ khiến đất bị giảm sát",Trái Đất sẽ biến thành sao Hỏa,0.2985000014305115,literature,True
+Đèn,Tuồng,0.0,literature,False
+Độ sáng suất,Tính biểu cảm,0.0,literature,True
+Đạo Cao Đài,Đạo Hòa Hảo,0.5,literature,False
+Đức thời thiên minh,Tín ngưỡng thờ Thành Hoàng,0.2856999933719635,literature,False
+Ông Phù Điền Vượt,Ông Đào Duy Từ,0.3704000115394592,literature,True
+Động quan trọng của quan hệ trong cuộc sống,Biểu trưng cho sự sống lâu,0.2703000009059906,literature,False
+Đời sống và quan hệ gia đình,Lịch sử,0.0768999978899955,literature,True
+Đức,Brazil,0.0,literature,True
+Çá-lô Rô-ve-li,Bunin,0.0,literature,True
+Đồ thiên văn,Ngôi nhà là hình ảnh được sử dụng để nói về mối quan hệ giữa con người và không tự nhiên,0.1159000024199485,literature,False
+Đức,Brazil,0.0,literature,True
+Điều hợp: Morrison,Bunin,0.0,literature,True
+Định hướng,Chiều hướng,0.5,literature,False
+"Được tạo tính gợi cho nội dung bài thơ, như một cách thể hiện tình cảm, cảm xúc với con đường mà mình cũng rất muốn chọn, rất muốn đi nhưng đã không chọn nó","Nếu đặt tên là Con đường tôi chọn, người đọc sẽ có cảm nhận bài thơ mang tính cá nhân mà không phổ quát",0.2542999982833862,literature,True
+Đưa vào nhà,"“Tiếc rằng ta không thể chọn cả hai” nên nhà thơ sau khi “đứng một thời gian dài” đã chọn lối gần là con “đường nhiều cỏ, lối mòn như chưa có”",0.1031000018119812,literature,True
+điện,Một con cáo tấn công đàn con,0.1905000060796737,literature,True
+,Dẫn ngỗng mẹ đi gặp bác sĩ,0.0,literature,True
+Đều tốt đẹp con,Không cần quan tâm đến cảm xúc của người khác,0.1333000063896179,literature,True
+đặc điểm,"xanh non, thấp, chạy nhảy, bé nhỏ",0.0644999966025352,literature,True
+"đàn, chú, đồng, bé","Chăm sóc, ngôi nhà, quan tâm, chăm chỉ",0.0606000013649463,literature,True
+Đông,Mùa xuân,0.0,literature,False
+Đổ xuống,Xà xuống,0.53329998254776,literature,True
+,Những dải sỏi cuội dính đất,0.0,literature,True
+đuôi én,Khua xào xạc trước khi từ giã thân mẹ đơn sơ,0.1500000059604644,literature,True
+,Những tàu lá vắt vẻo mềm mại như cái đuôi gà,0.0,literature,True
+Để tránh mùa đông,Cảnh làng Dạ đẹp và đầy sức sống trong mùa xuân,0.2552999854087829,literature,True
+101,525,0.25,math,False
+700 + 20 + 8,700 + 2,0.800000011920929,math,False
+0 chia cho số nào không bằng chính số đó.,Số nào nhân với 0 cũng bằng 0.,0.5199999809265137,math,False
+70,90,0.666700005531311,math,False
+Đô,Một năm,0.0,math,True
+134 095 314 đọc là một trăm ba tư triệu chín mươi lăm nghìn ba trăm mười bốn.,Một trăm ba mươi tư triệu không trăm chín mươi năm nghìn ba trăm mười bốn.,0.699999988079071,math,False
+6 thuộc lớp đơn vị.,"Hàng triệu, lớp triệu.",0.2962999939918518,math,False
+8 m^2,$60 m^{2}$,0.7272999882698059,math,False
+128 cm,192 cm,0.800000011920929,math,False
+180 000 đồng,52 000 đồng,0.7825999855995178,math,False
+50 000 đồng,120 000 đồng,0.8695999979972839,math,False
+"0,007",$\frac{7}{10000}$,0.5,math,False
+"37,5",40,0.25,math,True
+"45,003","45,03",0.9230999946594238,math,False
+"40% nam, 60% nữ",40%,0.5,math,False
+125,50,0.571399986743927,math,False
+156/7,$\frac{21}{7}$,0.6154000163078308,math,False
+"1,0 tấn","5,8 tấn",0.7142999768257141,math,False
+"3,8kg","3,8kg",1.0,math,False
+38400,96,0.2222000062465667,math,False
+"1,6 cm^{2} ([[1,6]])",$40 cm^{2}$,0.4706000089645386,math,False
+"52,5 km/h",50 km/h,0.666700005531311,math,False
+"0,500",5,0.5,math,False
+"7,1; 6,97; 7,08; 8,09; 8,9","6,97 ; 7,08 ; 7,1 ; 8,9 ; 8,09",0.7825999855995178,math,False
+điền vào trong dấu [],$288 dm^{3}$,0.1905000060796737,math,True
+64 dm²,$16 dm^{2}$,0.666700005531311,math,False
+"59 km/h và 61,5 km/h",41 km/h và 49 km/h,0.6154000163078308,math,False
+"51,2 km",21 km,0.6000000238418579,math,False
+"40,8 m^{2}",$144 m^{2}$,0.666700005531311,math,False
+10 cm,25 cm,0.5,math,False
+$\frac{64}{19} - \frac{57}{19}$,$\frac{61}{16}$,0.583299994468689,math,False
+9/15,$\frac{17}{12}$,0.4614999890327453,math,True
+2,$\frac{1}{9}$,0.25,math,False
+3,$\frac{3}{4}$,0.5,math,False
+"Để hoàn thành câu hỏi trắc nghiệm, chúng ta cần phải tìm hiện tượng hoặc động tín hiệp trong phần trình từ trên.",$\frac{5}{3}$,0.0513000003993511,math,False
+60%,12%,0.3332999944686889,math,True
+99,106,0.2856999933719635,math,False
+$2^{4} = 16$ và $4^{2} = 16$,$2^{4} > 4^{2}$,0.666700005531311,math,False
+27,100000,0.2000000029802322,math,False
+2^5 + 2 \times \{12 + 2[3 \times 3 + 1] + 1\} + 1,98,0.0768999978899955,math,True
+50,{15; 17},0.4444000124931335,math,False
+30; 46; 75; 82 (không đáy hóa 4 số),24; 30; 46; 75,0.4614999890327453,math,False
+3(3^{2} + 3^{3} + 3^{4} + 3^{5}) mod 4,3,0.1738999933004379,math,False
+2 x 3,$3 \times 4$,0.4000000059604645,math,False
+35,7,0.4000000059604645,math,False
+35,35,1.0,math,True
+2,$\frac{5}{2}$,0.5,math,False
+50 phút,155 phút,0.7272999882698059,math,False
+7,630,0.3332999944686889,math,False
+161%,19%,0.571399986743927,math,True
+499,17,0.2856999933719635,math,False
+Điền vào trong dấu [] (Không có ước chung),8,0.0768999978899955,math,False
+"ƯCLN(a, b) không phải ước của BCNN(a, b)",Bội chung của hai số tự nhiên a và b là bội của bội chung nhỏ nhất của chúng,0.1917999982833862,math,False
+Điều này không có nghịch lý.,Hình vuông ABCD có hai đường chéo bằng nhau: AC = BD.,0.2040999978780746,math,False
+88/8,9,0.2856999933719635,math,False
+93240,34515,0.5,math,False
+47,81,0.3332999944686889,math,True
+ไม่ได้ có động ngữ nào trong câu này.,Tổng của hai số thập phân dương là một số thập phân dương.,0.0741000026464462,math,False
+,Hình chữ nhật có tâm đối xứng là giao điểm của hai đường chéo.,0.0,math,True
+"131,296","131,31",0.666700005531311,math,False
+2,16,0.4000000059604645,math,False
+3,2,0.5,math,False
+0 * MA = MB,MB + BA = MA,0.4444000124931335,math,False
+3^6,$3^{5}$,0.75,math,False
+2^{20} - (2^0 + 2^1 + 2^2 + ... + 2^{19}),2,0.166700005531311,math,False
+để x = 9; y = 5,x = 0; y = 4,0.53329998254776,math,False
+3,–135,0.666700005531311,math,False
+"10,0%",10%,0.75,math,False
+],99/100,0.0,math,False
+Điều B,Mọi số nguyên đều là số tự nhiên.,0.2962999939918518,math,False
+0,0,1.0,math,False
+"Điều sai là D. $|x| = x$, chỉ đúng cho x >= 0",$|x|^{2} = x^{2}$,0.2759000062942505,math,True
+Điều B,Hai góc bằng nhau thì đối đỉnh.,0.1875,math,False
+Được điền: [],Đường thẳng đi qua trung điểm của đoạn thẳng AB là đường trung trực của đoạn thẳng AB.,0.1972000002861023,math,False
+Đãi tháp [],Tam giác tù là tam giác có một góc có số đo lớn hơn 90°.,0.1053000018000602,math,False
+Điều này không phản ánh sự liên hệ giữa x và y theo công thức y = 12/x.,Hai đại lượng x và y tỉ lệ thuận với nhau.,0.2466000020503997,math,True
+Động vi sinh của một chiếc bánh trong bàn chải.,Số người và số ngày khi thực hiện một lượng công việc không đổi và năng suất lao động của mỗi người là như nhau.,0.176499992609024,math,True
+"Điều này không có thể được xác định từ trên được gì, trong trường hợp này.",Không bao giờ.,0.166700005531311,math,True
+Đã không được cho đa thức có nghiệm nào,P(x) không có nghiệm.,0.4736999869346618,math,False
+7 - 2n = 5,n = 0,0.2000000029802322,math,False
+ℕ (Ngoại Giới Số Hữu Tỉ),N,0.1176000013947486,math,True
+Định nghĩa thập phân hữu hạn,Số thập phân vô hạn không tuần hoàn.,0.3901999890804291,math,False
+180°,60°,0.571399986743927,math,False
+"0,6",$\frac{3}{5}$,0.4000000059604645,math,False
+3,$\frac{2}{3}$,0.5,math,False
+8,$\pm 8$,0.800000011920929,math,False
+"Đường thẳng M nằm ngoài a, tạo thành một điểm nhân tạo.",Có hai đường thẳng song song với a.,0.4000000059604645,math,False
+"1,516 > 1,(516)","1,516 > 1,(516)",1.0,math,False
+"Ø (D là trắc nghiệm, để hoàn thành câu hỏi, biểu diễn số đối của –0,5 là $-\frac{1}{2}$)",-2,0.0754999965429306,math,False
+25,Dữ liệu không là số.,0.0,math,False
+3.25,$\frac{-11}4$,0.3332999944686889,math,False
+inh $\hat{B}+\hat{C}=90^\circ$,$\hat{B}+\hat{C}=60^\circ$,0.7778000235557556,math,False
+Điền vài: $a \in \mathbb{Z}; b \neq 0$,"$a, b \in \mathbb{N}$",0.3332999944686889,math,False
+180° - 2$\hat{C}$,$\hat{B} = \hat{C}$,0.3332999944686889,math,False
+x = 2,x = 2,1.0,math,False
+Đỉnh C gọi là đỉnh C',Hai góc B và C' gọi là hai góc tương ứng,0.2666999995708465,math,False
+4/25,$\frac{4}25$,0.833299994468689,math,False
+Điều này không phải cũng nghịch lý cho hai tam giác bằng nhau,"Hai tam giác có các góc tương ứng bằng nhau, các cạnh tương ứng bằng nhau thì hai tam giác đó bằng nhau",0.3689000010490417,math,False
+"Đáp án B có thể là [] bởi việc đánh xét này không cung cấp đúng hay sai, chứng tái.",BM=AN,0.0377000011503696,math,True
+Điều này không phải định lí,Nếu hai góc bù nhau thì tổng số đo của chúng bằng 180$^\circ$,0.1934999972581863,math,False
+"√(16^2 - (25-x)^2), donde x é o comprimento BC",48 cm,0.0869999974966049,math,False
+ở trên đây $\hat{A} = 60^\circ$,$40^\circ$,0.3000000119209289,math,False
+,a : b : c = z : y : x,0.0,math,False
+Đố riêng thử và điền x và y thành phần để chứng minh x = −6; y = −4,x = 4; y = 6,0.1702000051736831,math,False
+78 g,168 g,0.666700005531311,math,False
+"6 × −3 = 18, doến hệ số tỉ lệ a là 1/18",a = 18,0.2581000030040741,math,False
+2 x (4 + 3) x 2,4 x 3 x 2,0.7778000235557556,math,False
+4; 1 (Sai),x = 2; y = 2,0.3332999944686889,math,False
+Đúng là y tỉ lệ thuận với x theo hệ số tỉ lệ k,x không tỉ lệ thuận với y,0.5385000109672546,math,True
+5x + 13,x − 1,0.4444000124931335,math,False
+"Để biếu chắc chắn, biến cố phải tập theo một trình độ rất ràng yếu trong tập hợp, nhất là một trình độ chỉ 1. Ở trọng thức này, số chắc chắn là:",Số được chọn là số nguyên tố,0.1579000055789947,math,False
+Đã được chuẩn bị: [],(A + B) : C = A : C + B,0.0908999964594841,math,False
+"Đúng là D. [] (Đúng số liệu đúng là (I) và (III), nhưng trong bảng các loại câu hỏi, chỉ cho dấu nào đúng, nếu chưa cho dấu cái đúng, thì dấu chứng là []. Vì nếu chọn (I) và (III), thì số liệu đúng là C, nhưng trong bảng, chỉ cho dấu nào đúng, nếu chưa cho dấu cái đúng, thì dấu chứng là [].","Cả (I), (II), (III) đều sai.",0.0908999964594841,math,False
+"Đúng, x = a là nghiệm của đa thức P(x) nếu P(a) = 0.",x = a là nghiệm của đa thức P(x) nếu P(0) = a.,0.8888999819755554,math,False
+5 cm,5 cm,1.0,math,False
+30 km/h/giờ,20 km/h,0.666700005531311,math,False
+NP = BC = AB (5 cm) * (MP/AB) * (Chu vi of ∆ABC / MP) = 5 cm * (7 cm/5 cm) * (22 cm/7 cm) = 5 cm * 1.4 * 3.14 = 22 cm (Không đúng),NP = BC = 11 cm,0.2257999926805496,math,False
+√(10^2 - (10-6)^2) = √(100 - 16) = √84 ≈ 9.17 cm,30 cm,0.1875,math,False
+0,4,0.5,math,False
+"Điền: MB < MB, MA > MC.","MA < MB, MC > MB.",0.421099990606308,math,False
+Độ cao các đường trung tuyến khác.,Tam giác vuông cân.,0.1378999948501587,math,False
+Điểm M là trọng tâm của ΔABC.,Trực tâm của ΔABC.,0.5925999879837036,math,True
+"Để xếp lại, xác suất là C. $\frac{1uteur ½$ (5 học sinh nữ / 10 học sinh đầu tư)","0,8",0.125,math,True
+Điểm cạnh,Trung trực,0.0,math,False
+67,200,0.2856999933719635,math,True
+Điểm F là trục trung tâm ΔABC.,Cách đều ba cạnh của ΔABC.,0.1934999972581863,math,False
+"Đúng là D. Điều đúng là I là trọng tâm tam giáp ABC, vì AM và BN là đường cao cắt nhau tại I, đồng nghị trọng tâm của tam giáp.",IA = IB = IC,0.0505999997258186,math,True
+Đường phân giác của góc A.,Đường cao kẻ từ A.,0.375,math,True
+8 cm,2 cm,0.666700005531311,math,False
+∅ (không),"M = {Ánh, Huy, Hương, Hoa, Ngân}",0.2222000062465667,math,True
+"Điều kiện này là B. $x\neq2$ đặt rồi, vì nếu $x$ đạt giá trị 2, giá trị phân thức sẽ có thể xác định, do điều kiện biến chặt (phiân từ 2 trong một số).","$x\neq0, x\neq-2$",0.1120999976992607,math,False
+][x - 4],x + 4,1.0,math,False
+8$\sqrt{2}$ cm,$\sqrt{8}$ cm,0.666700005531311,math,False
+2,$-\frac{1+x}{x}$,0.25,math,False
+Đề cập đến cạnh bên bằng nhau,Có 2 góc bằng nhau.,0.4736999869346618,math,False
+3(x²y - xy²),$(x-y)(x^{2}-xy+y^{2})$,0.5,math,False
+Đô tho,Hình bình hành,0.0,math,False
+0,(x-2)(x+2),0.25,math,True
+4xy,$2x^{2}$,0.25,math,False
+"Đúng. Biểu thức C phụ thuộc vào x, y và z, đặc biệt là nếm, sự phụ thuộc của C vào các biến này được phát hiện trong các term của biểu thức.",Biểu thức C chỉ phụ thuộc vào z.,0.3208000063896179,math,False
+13 cm,13 cm,1.0,math,False
+1,0,0.5,math,False
+7 cm,34 cm,0.571399986743927,math,False
+1,1,1.0,math,False
+√(5^2 * (2 + 2 * cos(45°))),8 cm,0.1333000063896179,math,False
+122,452,0.5,math,False
+3,2,0.5,math,False
+1,3,0.5,math,False
+1. $B = \frac{1}{x+2}$,$B = \frac{-1}{x+2}$,0.8888999819755554,math,True
+3x^2 - 8x - x + 2 = 0,x = 2; x = $\frac{-1}{3}$,0.4347999989986419,math,False
+27,1,0.4000000059604645,math,False
+4,a = −6; b = −3,0.25,math,False
+2(9+18),m = −18,0.5454999804496765,math,True
+∅ (không có biểu thức),$\frac{1}{x^{2}+1}$,0.0,math,False
+1,a = −1,0.800000011920929,math,False
+3,9,0.5,math,False
+"Để xác định, phải làm:",$(x+1)^{2}$,0.2000000029802322,math,False
+Γờ trực tiếp không thể xác định giá trị lớn nhất nếu không biết giá trị của x. ,-2,0.0384999997913837,math,False
+Đã có giá trị của A đều là 0,A > 1,0.1817999929189682,math,False
+"Để x có giá trị đồng thời đảm bảo không bị chấm bàn, chúng ta cần x ≠ 0, x ≠ ±1. Vậy phân thức đại số không thể từ chứng trên, tránh thấy D. $\frac{1}{x+1}$ có thể được biến đổi thành phân thức đại số nếu x có giá trị đồng thời không bị chấm bàn, như x ≠ 0, x ≠ ±1. Nhưng chứng trên không cho thấy, nên số tiên tiến là D. []",$\frac{1}{x-1}$,0.0728999972343444,math,False
+10 cm,12 cm,0.75,math,False
+9 cm,7 cm,0.666700005531311,math,False
+Điều đúng là B. DE = FE = FB,DE > FE > FB,0.421099990606308,math,False
+"Đúng, phương trình 8x (3x − 5) = 6 (3x − 5) có một nghiện duy nhất.",Phương trình 8x(3x − 5) = 6(3x − 5)có hai nghiệm trái dấu,0.7272999882698059,math,False
+"Để xác nhiệm, phải trùng nghĩa: -4x + 7 = -1, giải x thì x = B. {-2}",S = {32},0.1000000014901161,math,False
+Độ dài BD = sqrt(AD^2 - (CD/2)^2) = sqrt(3^2 - (8/2)^2) = sqrt(9 - 16) = sqrt(-7) (không đáng cáo đáy).,BD = 6 cm; BC = 6 cm.,0.1515000015497207,math,False
+∅ (không có trong),S = {0; -1},0.0,math,True
+2 - 2 = m => m = 0,m = 2,0.3635999858379364,math,False
+"0 < m < 1, và $m^{2}>m^{3}$",$m^{2}<m^{3}$,0.631600022315979,math,False
+1 și 2,0,0.2856999933719635,math,False
+Đúng cách chứng minh phần nào là: B. a + c > b + d,a + b > c + d,0.2222000062465667,math,False
+"Để hoàn thành câu hỏi, đầu tắt đầu tiên là: D. []",-5,0.0606000013649463,math,False
+"Để xác nên, phải chứng rằng []",Phương trình (1) có nhiều nghiệm hơn phương trình (2),0.1599999964237213,math,False
+,ac > 0,0.0,math,False
+3 > 2x - 1,3x + 1 < 4,0.7142999768257141,math,False
+4,8,0.5,math,False
+"Để xác nhận đúng kết luận, phải đố phương và xác định tập nghiệm. Đầu tiên, phải đố phương: (x + 3)(x + 4) - [(x − 2)(x + 9) + 25] > 0. Đố phương trùng này sẽ giúp cho phù hợp hơn. Tuy nhiên, chưa có thể xác định tập nghiệm từ các phương pháp trên. Vậy phải:",Bất phương trình có tập nghiệm S = {x < 0},0.1932000070810318,math,False
+3,-2,0.5,math,False
+2(m + 5) = 2,m = -6,0.4000000059604645,math,False
+"Đối với m = 2, đồ thị hàm số đi qua điểm có tọa độ ($\frac{−1}{2}$, 1)","Với m > 1, hàm số y là hàm số nghịch biến.",0.314300000667572,math,False
+5x = y,$5^{2} = x(x+y)$,0.5454999804496765,math,False
+"√(1 - cos²α) = √(1 - 0,8²) = √(1 - 0,64) = √0,36 = 0,6",Kết quả khác,0.0,math,True
+Đường thẳng AB di chuyển trên đoạn song song với x’y’ cách xy một đoạn là 4,Đường tròn tâm O bán kính là 8,0.2768999934196472,math,True
+điểm A được cộng vào phương trình trong từng phần: $y = -\sqrt{2}x + (\sqrt{2}-2)$,$y=\sqrt{2}x+\sqrt{2}-2$,0.4068000018596649,math,False
+9x^{2}+6x+1 = 0,x = 0,0.2666999995708465,math,False
+Đồ thị hàm số y = mx + 2 cắt trục hoànng độ bằng 1,Đồ thị hàm số y = mx + 2 cắt trục tung tại điểm có tung độ bằng 1,0.7949000000953674,math,False
+ở hachette,Có một trục đối xứng,0.0952000021934509,math,False
+√(24^2 - 15^2) cm,6 cm,0.2856999933719635,math,False
+Điền vài trong dấu [],(M; R = MA),0.0,math,False
+2R > d > R - aine,d = R + r,0.4000000059604645,math,False
+0; -3,(0; 3),1.0,math,False
+6,6,1.0,math,False
+2y = x + 4,$y = \frac{-1}{2}x$,0.428600013256073,math,False
+"√(2^2 + 4^2) = √(4 + 16) = √20 = 4.47 (kể từ động diện, nếu động diện của O ẩn 1)",d = d′ = 2,0.0678000003099441,math,False
+3 * (-3) = -9,-3,0.5,math,False
+Điểm nằm,Trong tam giác,0.0,math,False
+4,4,1.0,math,False
+"Để xấp dân giả, chúng ta phải tìm hiểu sự liên quan giữa nghiệm tông (2; 1) và phương trình ax - 3y + a - 6 = 0. Khi y = 1, thuộc điểm (2; 1), thì:","(x = y−1, y ∈ R)",0.0930000022053718,math,False
+1,100,0.666700005531311,math,True
+Đường tròn tâm O bán kính OM,Đường thẳng AM,0.3846000134944916,math,True
+động họa,theo nhóm,0.0,biology,True
+⋅GHIK,CBADE ⋅ GHIK,0.666700005531311,biology,False
+đất,trên cạn,0.0,biology,True
+Ăn thức ,Cộng sinh,0.0,biology,True
+05' UUU 3'.,3' TTT 5'.,0.2856999933719635,biology,True
+động vi rối loại hemôglôbin,tế bào học,0.0,biology,True
+"1 - 0,6 = 0,4","0,1",0.428600013256073,biology,False
+đánh giá chất lượng,tạo dòng thuần ,0.0869999974966049,biology,True
+Động nhiên liệu,Tương tác cộng gộp,0.1817999929189682,biology,False
+điều hòa lượng tạo ra mầu động tự thể hiện,"nuclêôtit (A, T, G, X) tham gia tổng hợp ADN.",0.1132000014185905,biology,True
+Đất,trăn,0.0,biology,True
+Đồ chất hóa thạch,Cơ quan thoái hóa,0.2727000117301941,biology,True
+16,14,0.666700005531311,biology,False
+​​pôliribôxôm.,ADN,0.0,biology,True
+1,2,0.5,biology,False
+25%,75%,0.666700005531311,biology,True
+ẩu đông,Saccarôzo.,0.1537999957799911,biology,True
+Động vi rối,Đột biến,0.4000000059604645,biology,False
+đi - nhập gen,cây truyền phôi,0.1111000031232833,biology,True
+],$\underline{Ab}$,0.0,biology,False
+Đặt: màng xương ; (2) : vào trong.,(1) : màng xương ; (2) : ra ngoài.,0.6111000180244446,biology,False
+Động vi rút,"Hình đĩa, lõm hai mặt.",0.1599999964237213,biology,True
+động mạng một lần hít vào.,một lần hít vào hoặc một lần thở ra.,0.4889000058174133,biology,False
+"Đối thoại tối đa sự tiếp xúc của bề mặt bàn chân vào đất bởi đây là nơi tập trung nhiều đầu mút thần kinh, có tính nhạy cảm cao.","Làm giảm tác động lực, tránh được các sang chấn cơ học lên chi trên khi di chuyển.",0.1791000068187713,biology,True
+Đồng bộ,Dịch nhân.,0.0,biology,False
+2 xương,4,0.25,biology,False
+Đối thoại khí.,Mô mỡ.,0.0,biology,False
+55%,75%.,0.666700005531311,biology,False
+Đầu giếng.,Lớp màng bọc.,0.125,biology,True
+γ-glükuronot sẽm (glixêrol) và axit amin.,glixêrol và vitamin.,0.4444000124931335,biology,False
+Động viên xương.,Sụn bọc đầu xương.,0.5,biology,True
+3,"1, 2, 3.",0.5,biology,False
+500 cơ.,400 cơ.,0.833299994468689,biology,False
+Động cơ phản xạ bao gồm cung phản xạ và động cơ liên hệ.,Cung phản xạ bao gồm vòng phản xạ và đường liên hệ ngược.,0.7142999768257141,biology,True
+động mạch.,phế quản và mũi.,0.1176000013947486,biology,True
+Nhóm máu O,Nhóm máu O.,1.0,biology,False
+Ơstrôgen.,Phôtpholipit.,0.0,biology,True
+Điều hòa trọng khu của chất xám trong cơ thể.,Trung khu của các phản xạ có điều kiện.,0.2800000011920929,biology,False
+Độ chậm.,Lớp mỡ dưới da.,0.0,biology,True
+Đạm trứng.,Ống dẫn trứng. ,0.4444000124931335,biology,True
+Đầu tư tiết dịch hòa với tinh trùng tạo tinh dịch.,Dẫn tinh trùng ra khỏi cơ thể.,0.2691999971866607,biology,True
+Điều hòa các tế bào sống trong cơ thể.,Kích thích sự sinh nhiệt của cơ thể và gây những biến đổi cơ thể ở tuổi dậy thì của nữ.,0.1905000060796737,biology,True
+Điểm mù,"Dây thần kinh thị giác, vùng thị giác.",0.0768999978899955,biology,False
+Động viên.,Hạch thần kinh.,0.0,biology,True
+Ổng phận trọng cân.,Hồi đỉnh lên của thùy đỉnh.,0.2632000148296356,biology,False
+"1, 2, 3, 5, 7.","1, 2, 4, 6, 8.",0.699999988079071,biology,False
+Řehloviště.,Anđôstêrôn.,0.0,biology,True
+Động vận chân.,Màng mạch.,0.1333000063896179,biology,False
+Điều hòa canxi và phôtpho trong máu.,Tiết hoocmôn sinh dục.,0.0,biology,True
+Vitamin B1.,Vitamin B12.,0.8888999819755554,biology,False
+Đầy đủ nước cho sữa.,Kích thích tuyến giáp hoạt động.,0.1817999929189682,biology,False
+Vitamin C.,Vitamin C và K.    ,0.666700005531311,biology,True
+Đảm bảo sự cạnh tranh và tạo nên nhiên liệu rất quan trọng.,Có hoạt tính sinh học cao nhưng dễ bị phân hủy trong dung môi.,0.1738999933004379,biology,False
+Động viri.,Cây chổi.,0.0,biology,False
+Động virión.,Con báo.,0.0,biology,True
+4,4,1.0,biology,False
+đồ hoa,lá hoặc cành mang hoa,0.2353000044822693,biology,False
+Đuỡ ngây,Ngũ gia bì,0.1333000063896179,biology,True
+Đồ Mướp,Bưởi,0.1537999957799911,biology,True
+Đáy màu xanh,Càng cua,0.1429000049829483,biology,True
+Đèn,Gừng,0.0,biology,True
+Động thái khí,Khí cacbônic,0.3332999944686889,biology,False
+Động viên sự thụ phấn có thể đối lật giữ giữi hoa đơn tính hoặc hoa lưỡng tính,"phần lớn là hoa lưỡng tính, một số ít là hoa đơn tính",0.3409000039100647,biology,False
+Ảnh sáng,lỗ khí,0.1429000049829483,biology,True
+Đánh gi nhiều trọ thông minh trong một giây thìng.,Nghiên cứu về đặc điểm cấu tạo và hoạt động sống của sinh vật.,0.166700005531311,biology,False
+Mô dẫn,Mô rễ,0.3635999858379364,biology,False
+Đôi thân,Bó mạch,0.0,biology,True
+Đỏ,Màu vàng,0.0,biology,False
+động tín hiểu của hạt phấn tự thụ phấn giúp hoa phát triển sảng chế và nhiên thơm,hoa có hạt phấn rơi vào đậu nhuỵ của một hoa khác cùng cây,0.2247000038623809,biology,True
+đột xuống và chảy nước trong các cuối cấp,quang hợp ở lá,0.0540999993681907,biology,True
+Đôi,Đài,0.75,biology,True
+"Đối với cái nghĩa này, chứờng này thường để biểu diện độ ngắn, nhất quen thuộc và chức năng quan trọng nhất của rễ thực vật","Vì bộ phận này có khả năng tái sinh rất cao, giúp rễ nhanh chóng phục hồi sau khi bị tổn thương",0.2029000073671341,biology,True
+Đáy,Lá gai,0.0,biology,True
+Đèn lá,Cây lá lốt,0.1817999929189682,biology,True
+Đồng bộ,Chiết cành,0.0,biology,True
+Đan thả,Bưởi,0.0,biology,True
+đài và nhu�uteur,tràng và nhị,0.421099990606308,biology,True
+Ở trên mạch gỗ,Nằm phía ngoài mạch rây,0.2666999995708465,biology,True
+đèn,ổi,0.25,biology,True
+Đáy thơm,Rau dền,0.0,biology,True
+động tế bào,tế bào thịt vỏ,0.4762000143527984,biology,True
+5-carbon molecule (tạo thành lipit),ARN và gluxit,0.0952000021934509,biology,True
+động vật - trái vật - loài - chi - họ - lớp - ngành - giới.,giới - ngành - lớp - bộ - họ - chi - loài.,0.2666999995708465,biology,True
+Động năng,Điện năng,0.666700005531311,biology,True
+động vật nguyên sinh.,"vi sinh vật, động vật nguyên sinh.",0.8125,biology,False
+Đồ chất,Kháng thể,0.0,biology,True
+"Đa dạng thành phần, số lượng và trật tự axitamin trong phân t�rái prôtêin",Nhóm amin của các axit amin,0.1509000062942505,biology,True
+độc tôm,nấm và vi khuẩn.,0.1053000018000602,biology,False
+Sự khuyếch tán của các phân tử nước qua màng.,Sự di chuyển của các phân tử chất tan qua màng.,0.6428999900817871,biology,False
+"Đường, bazơ nitơ và axit","Đường, axit và Prôtêin",0.5385000109672546,biology,True
+động vật không có bộ xương ngoài.,cơ thể đối xứng 2 bên và có bộ xương trong.,0.4582999944686889,biology,False
+Động vi sinh,Các chất dự trữ,0.0,biology,True
+axít amin.,glucôzơ.,0.0,biology,True
+Řefrén,Xương,0.0,biology,True
+ở nhiệt độ tối ưu,Enzim ngừng hoạt động,0.375,biology,False
+Đột xuất liên kết,Liên kết hoá trị,0.4544999897480011,biology,False
+Độ tuỳ thuốc của nước.,Là môi trường xảy ra các phản ứng sinh hoá của cơ thể.,0.1702000051736831,biology,True
+Øn lạc hàn,Phân tử ADN,0.0,biology,False
+Đôi C,Phốtpholipit,0.0,biology,True
+Địa thực vật.,Hạt trần.,0.125,biology,False
+Điều kiện phản ánh của nuclêôtit trong mạch ADN.,"Cả A, B, C đều đúng.",0.2381000071763992,biology,True
+"หนักน้ำหนัก (Hypothetical option, as it's not a sexually transmitted disease)",Bệnh lậu.,0.0,biology,False
+Đội thú,Xạ khuẩn,0.0,biology,True
+"Đột xuất tế bào có màng, tế bào chất, nhân chuẩn.","Tế bào có màng, tế bào chất, có nhân sơ.",0.7017999887466431,biology,False
+4 tế bào,4 tế bào,1.0,biology,False
+Động vi rối.,Sản xuất ra bạch cầu.,0.0,biology,False
+Động từ,Hoocmon,0.0,biology,True
+Đột phá cacbon,Hoá dị dưỡng,0.1053000018000602,biology,False
+"Đối thoại giữa pha sáng và pha tối, pha sáng xảy ra trước, pha tối sau.","Chỉ có pha sáng, không có pha tối.",0.3547999858856201,biology,False
+"Đứng trước, kỳ giữa, kỳ sau, kỳ cuối.","Kỳ sau, kỳ giữa, Kỳ đầu, kỳ cuối.",0.6000000238418579,biology,False
+2 kỳ,Một kỳ,0.4444000124931335,biology,False
+2,5,0.5,biology,False
+Ảnh hưởng của ATP,"Nước, khí cacbônic và đường",0.176499992609024,biology,False
+Đau bàn chân,Viêm gan B,0.1817999929189682,biology,True
+Đột xuất ATP,Một phân tử ADP,0.2856999933719635,biology,False
+Đột tím,Hữu tính,0.166700005531311,biology,True
+Phân đôi và nẩy chồi.,Tiếp hợp và bằng bào tử vô tính.,0.1950999945402145,biology,False
+Ấn thành tự nhiên.,Chỉ cấu tạo từ hai thành phần cơ bản prôtêin và axit nuclêic.,0.1599999964237213,biology,True
+π-foton (Photon),FADH2,0.0,biology,True
+ẩu tránh.,Ở màng của các túi tilacôit.,0.1481000036001205,biology,True
+Điền: Không có nội dùng đồng thời đồng nghị phần này.,ATP và NADPH không được tạo ra từ pha sáng.,0.2187999933958053,biology,False
+đứng trước và tránh trước,ngược chiều trọng lực và cùng chiều trọng lực.,0.2727000117301941,biology,True
+Điền vào trong dấu [],miệng → diều → thực quản → dạ dày → ruột → hậu môn.,0.2050999999046325,biology,False
+động tốc.,thực bào và ẩm bào.,0.0869999974966049,biology,True
+động tốc của hạch thân.,"hạch đầu, hạch bụng, hạch lưng.",0.3528999984264374,biology,False
+Și-Fe,"Diệp lục a, b.",0.0,biology,True
+điều hòa nồng độ glucôzơ trong máu,Điều hoà hấp thụ nước ở thận.,0.3477999866008758,biology,True
+Řadiun,Molipden.,0.0,biology,True
+"Động vật sử dụ thức ăn đi qua ống tiêu hoá được biến đổi cơ học và hoá học trở thành chất đơn giản, được hấp thụ vào môi trường cơ thể nhiều hơu khiếp hơu.",Thức ăn đi qua ống tiêu hoá được biến đổi hoá học trở thành chất đơn giản và được hấp thụ vào máu.,0.7458999752998352,biology,False
+2 phân tử ATP,36 phân tử,0.7368000149726868,biology,False
+Điều hòi nước trong cây để tạo động hương và phản ứng hóa chất.,Cân bằng khoáng cho cây.,0.1000000014901161,biology,False
+đột xuống quá trình quang hợp,hấp thu $CO_2$,0.1481000036001205,biology,False
+Đột xuất sắc tố của diệp lục tạo màu lục,sắc tố này hấp thụ các tia sáng màu xanh tím,0.3792999982833862,biology,False
+Độ nhiên thì ảnh hưởng lớn hơn đến quang hợp.,nguyên liệu trực tiếp cung cấp H+ cho phản ứng sáng trong quang hợp là NADPH.,0.2777999937534332,biology,True
+Điền vài: Diệp lục b → Carôtenôit → Diệp lục a → Diệp lục a trung tâm phản ứng.,Carôtenôit → Diệp lục a → Diệp lục b → Diệp lục b trung tâm phản ứng.,0.7073000073432922,biology,False
+"Đầu túc chất phản ứng với ô nhiễm trong môi trường, tạo ra hữu ích khi giảm độ nhiên liệu.",Ảnh hưởng xấu đến tính chất của đất.,0.1838999986648559,biology,True
+"Độ dày da giun đất khá thấp, giảm số lượng mao mạch.",Da luôn ẩm giúp các khí dễ dàng khuếch tán qua.,0.1613000035285949,biology,True
+Ở khí khổng,"Qua thân, cành và lớp cutin bề mặt lá.",0.1142999976873397,biology,False
+"độ độ thay đổi, giảm sự đột biến khuẩn.",chất nhầy trong miệng có khả năng kháng khuẩn.,0.2333000004291534,biology,True
+Động viên.,Tế bào lông hút.,0.125,biology,False
+Động tạng của chim.,Phổi và da của ếch nhái.,0.2143000066280365,biology,True
+Đầy đủ năng lượng,Làm nguyên liệu cấu tạo mô.,0.0644999966025352,biology,True
+Ảnh tinh,Nitơ trong nước,0.0,biology,True
+sự thụ phấn của hạt phấn với nhụy của cùng một hoa hay khác hoa của cùng một cây.,sự kết hợp giữa tinh tử và trứng của cùng hoa.,0.2926999926567077,biology,True
+Ý không giúp giảm chi phí và giảm thời gian sản xuất trong phương pháp nuôi cấy mô ở thực vật,"Phục chế những cây quý, hạ giá thành cây con nhờ giảm mặt bằng sản xuất.",0.2430000007152557,biology,True
+"1, 2, 3",4,0.25,biology,False
+Điều chừng khe xinap trực tiếp sau màng trước xinap.,Màng sau xinap → Khe xinap → Chuỳ xinap → Màng trước xinap.,0.53329998254776,biology,False
+1,3,0.5,biology,False
+Điều kiện diễn ra hoạt động của tầng sinh bần.,Diễn ra cả ở cây một lá mầm và cây hai lá mầm.,0.2623000144958496,biology,True
+Đồng thời nghe nói và ăn cơm tiết nước bọt.,Em bé co ngón tay lại khi bị kim châm.,0.1199999973177909,biology,True
+Động tai ruột khoang.,Cảm ứng ở toàn bộ cơ thể.,0.2000000029802322,biology,True
+"ức chế sự lột xác của sâu bướm, kìm hãm sâu biến thành nhộng và bướm.","ức chế sự lột xác của sâu bướm, kích thích sâu biến thành nhộng và bướm.",0.912999987602234,biology,False
+"2 (Đây là số được đặt trong dấu [], để hoàn thành câu hỏi)",2,0.0930000022053718,biology,False
+Çó số lượng không hạn chế.,Mang tính bẩm sinh và bền vững.,0.1142999976873397,biology,True
+"Động tích của các phản ứng trả lời kích thích của môi trường bên trong và bên ngoài cơ thể đối mãnh động vật với môi trường sống, tồn tại và phát triển.","Chuỗi những phản ứng trả lời các kích thích của môi trường bên ngoài cơ thể nhờ đó mà động vật thích nghi với môi trường sống, tồn tại và phát triển.",0.7784000039100647,biology,False
+"êtylen, axit abxixic.","gibêrelin, êtylen.",0.421099990606308,biology,True
+"Điện thế nghỉ trong màng tế bào khi không bị kích thích, phía trong mang điện âm, phía ngoại mang điện dương.","sự chênh lệch điện thế giữa hai bên màng tế bào khi tế bào bị kích thích, phía trong màng mang điện âm và ngoài màng mang điện dương.",0.6905999779701233,biology,False
+Đầu tư phát triển của hạt trong trái tim cũ không phải là hạt.,Hợp tử trong hạt phát triển thành phôi.,0.3050999939441681,biology,False
+Điền: toàn bộ những biến đổi diễn ra trong chu kì sống của cá thể biểu hiện qua hai quá trình liên quan với nhau: sinh trưởng và phát sinh hình thái tạo nên các cơ quan của cơ thể.,toàn bộ những biến đổi diễn ra trong chu kì sống của cá thể biểu hiện qua hai quá trình không liên quan với nhau: sinh trưởng và phát sinh hình thái tạo nên các cơ quan của cơ thể.,0.9569000005722046,biology,False
+"Động vật phân sự như bọ ngựa, cào cào, bọ cánh cam, bọ rùa.","Cánh cam, bọ rùa.",0.4000000059604645,biology,True
+Động tính của tế bào thần kinh tăng không phản đối với thần kinh dạng lưới.,"Phản ứng cục bộ, ít tiêu tốn năng lượng so với thần kinh dạng lưới.",0.5055000185966492,biology,True
+Động vật thân mềm,"Cá, lưỡng cư, bò sát, chim, thú, giun tròn.",0.1176000013947486,biology,False
+Đối thoại với vi khuist thực vật khác,Có khả năng thích nghi với những điều kiện môi trường biến đổi.,0.1515000015497207,biology,True
+Động vi lâm sàng.,Ánh sáng,0.3528999984264374,biology,True
+Động vậu.,Chim vẹt.,0.1537999957799911,biology,True
+Động vật thơm.,Động vật có xương sống.,0.6399999856948853,biology,False
+ở miệng to và khoang ruột rộng.,Phát hiện ra mồi nhanh.,0.0644999966025352,biology,True
+Ảnh xạ.,Trong mật và gan.,0.0,biology,True
+Phun mực ra.,Thu mình vào vỏ.,0.1053000018000602,biology,True
+Giãn cơ thể.,Chân bên.,0.0,biology,True
+Đột xuất của ánh sáng khi chuyển động vào vỏ thân.,Do cấu trúc của lớp xà cừ.,0.25450000166893,biology,True
+Động vật kí sinh.,Động vật ở đáy.,0.5385000109672546,biology,False
+Sưng máu.,Phổi.,0.0,biology,False
+Đánh rít tránh ánh sáng.,Tránh kẻ thù.,0.25,biology,True
+Đèn.,Bạch tuộc.,0.0,biology,True
+Đồng hành.,Bề mặt da.,0.0,biology,True
+Ấu trùng đuôi.,Kén sán.,0.0,biology,True
+Có chân bên.,Cơ thể phân đốt.,0.1333000063896179,biology,False
+Ảnh không trùm.,Vỏ đá vôi.,0.1905000060796737,biology,True
+4 đôi.,1 đôi.,0.833299994468689,biology,False
+Đầu,Đầu và ngực.,0.6154000163078308,biology,False
+Ấu trùng - Trưởng thành.,Trứng - Ấu trùng – Nhộng – Trưởng thành.,0.8108000159263611,biology,False
+Động vi khuẩn.,Dịch khoang cơ thể.,0.0952000021934509,biology,True
+Đối mặt,"Một mạch được tổng hợp gián đoạn, một mạch được tổng hợp liên tục",0.1356000006198883,biology,True
+5-fosfato dinucleotid mARN,mạch bổ sung của ADN,0.0768999978899955,biology,True
+đồ thai,ông nội,0.1817999929189682,biology,True
+động hương của kiểu gen,sự tự điều chỉnh của kiểu gen,0.4864999949932098,biology,True
+"0,7 và 0,3","0,2 và 0,8",0.800000011920929,biology,False
+"Đột phân mARN có cấu trúc mạch đơn, gồm 4 loại đơn phân A, U, G, X","mARN có cấu trúc mạch kép, gồm 4 loại đơn phân A, T, G, X",0.8055999875068665,biology,False
+ẩn thế hệ trung tâm,đều có kiểu hình khác bố mẹ,0.1713999956846237,biology,True
+νεύλες,nuclêôtit,0.0,biology,False
+ổn định về tần số alen và thành phần kiểu gen trong quần thể ngẫu phối,mất ổn định tần số tương đối của các alen trong quần thể ngẫu phối,0.680899977684021,biology,False
+Α = 1; a = 0,"A = 0,2; a = 0,8",0.53329998254776,biology,False
+β-tRNA,tARN,0.0,biology,True
+φiên mã,nhân đôi ADN và dịch mã,0.2000000029802322,biology,False
+Đột biến lệch bội,Đột biến gen,0.666700005531311,biology,True
+độ trung gian,tính trạng ưu việt,0.1053000018000602,biology,False
+Ảnh xạ lactôzơ trong tế bào,Khi môi trường có hoặc không có lactôzơ,0.2791000008583069,biology,False
+Điền vài trong dấu [],Các gen không alen nằm trong bộ NST phân li cùng nhau trong quá trình phân bào,0.0727000012993812,biology,False
+Điều kiện của cặp tính trạng trong giảm phân và thụ tinh,sự phân li của cặp nhân tố di truyền trong giảm phân,0.5231000185012817,biology,False
+độ tuỳ thuộc gen,kiểu gen do bố mẹ di truyền,0.1537999957799911,biology,True
+50%,"87,5%",0.5,biology,False
+Đầu tư vào sản phối cân bằng di truyền,Cho quần thể tự phối,0.2632000148296356,biology,False
+,Tần số tương đối của các alen bị thay đổi nhưng không ảnh hưởng gì đến sự biểu hiện kiểu gen ở thế hệ sau,0.0,biology,False
+"Điền vài thông báo về sự liên quan giữa mã di truyền và nuclêôtit axit amin, để hoàn thành 1 câu hỏi trắc nghiệm.","mã bộ hai, tức là cứ hai nuclêôtit xác định một loại axit amin",0.2135999947786331,biology,False
+"0,5AA : 0,5 aa","0,5Aa : 0,5 aa",1.0,biology,False
+Điền vào trong dấu [],Là tập hợp của tất cả các kiểu hình trong quần thể tại một thời điểm xác định,0.123099997639656,biology,False
+động tín hiệu,triplet,0.0,biology,True
+"0,315 và 0,685","0,3 và 0,7",0.75,biology,False
+Đối xứng gen,Phân li độc lập,0.2222000062465667,biology,True
+Điền vài: P = d + H2; q = r + H2,P = d + h2; q = h + d2,0.583299994468689,biology,False
+8,8,1.0,biology,False
+"0,25AA : 0,50Aa : 0,25aa","0,375AA : 0,10Aa : 0,525aa",0.8421000242233276,biology,False
+"Điền vào trong dấu []: ""số cá thể đối với từng kiểu gen""",số lượng alen đó trên tổng số alen của quần thể,0.2768999934196472,biology,False
+Ø,Các cá thể trong quần thể giao phối với nhau ngẫu nhiên,0.0,biology,False
+đột xuất gen,"trội lặn hoàn toàn, phân ly độc lập",0.1934999972581863,biology,True
+Đầy đủ các cá thể trong quần thể,Quần thể là một cộng đồng lịch sử phát triển chung,0.2000000029802322,biology,True
+Điều không có chọn lọc tự nhiên,Quần thể có kích thước lớn,0.1111000031232833,biology,True
+Đột biến của gen lặn tạo ra kiểu hình trên trạng tháu gen dị hợp,xuất hiện ngày càng nhiều các đột biến có hại,0.2535000145435333,biology,True
+điền vào trong dấu [],rARN,0.0,biology,True
+"Đột biến gen không phải luôn gây hại, có thể có lợi hoặc trung tính","Đột biến gen có thể làm cho sinh vật ngày càng đa dạng, phong phú",0.3158000111579895,biology,True
+Điền vào trong dấu [],Tất cả các gen nằm trên cùng một nhiễm sắc thể phải luôn di truyền cùng nhau,0.1000000014901161,biology,False
+đột tránh tích cực,tương tác gen,0.1053000018000602,biology,False
+"Đối thoại giữa kiểu hình và kiểu gen trên một thế giới tự nhiên, tạo nền tâm của bản thân và nhân tạo",Chọn lọc tự nhiên là nhân tố tiến hóa vô hướng,0.2151000052690506,biology,True
+"Điều kiên trì của cá thể trong quần thể, đối với những cá thể khác",Không có cách li địa lí thì không thể hình thành loài mới,0.2666999995708465,biology,True
+,(2) và (3),0.0,biology,False
+Đột biến gen 1: Đầu tư phát triển của các tính chất cơ thể,(1) và (3),0.1429000049829483,biology,False
+ứng dụng quan hệ cạnh tranh,quan hệ đối kháng,0.2399999946355819,biology,True
+Đàn cá trong nước,Các cây cỏ trên cánh đồng,0.1378999948501587,biology,True
+],Tất cả các nhân tố trên,0.0,biology,True
+thành phần nhóm tuổi,mật độ cá thể,0.0833000019192695,biology,False
+​​môi trường sinh vật,môi trường không khí,0.6154000163078308,biology,False
+động thái sinh vật,loài sinh học,0.3000000119209289,biology,True
+khoảng thuận lợi,khoảng chống chịu,0.4762000143527984,biology,True
+Đúng,Khi sự cách li sinh thái giữa các quần thể xuất hiện thì loài mới được hình thành,0.0754999965429306,biology,False
+đa bội hóa,địa lí,0.428600013256073,biology,True
+"Ở miền Bắc Việt Nam, số lượng cá thể trong miếng trứng giảm trong năm đông giá rét nhiệt","Chim cu gáy xuất hiện nhiều vào thời gian thu hoạch lúa, ngô hằng năm",0.127700001001358,biology,True
+1,(1) và (3),0.5,biology,True
+độ tuổi của cá thể trong quần thể,tuổi sinh thái của quần thể,0.6499999761581421,biology,False
+Điền vào trong dấu []: Vượn Gibbon-Người-Khỉ Rhesut-Khỉ Vervet,Người-Tinh tinh-Vượn Gibbon-Khỉ Vervet-Khỉ Rhesut,0.5217000246047974,biology,False
+항원,"C, H và O",0.0,biology,False
+"Điền vào trong dấu []: ""tiến hóa hóa học => tiến hóa tiền sinh học""",tiến hóa tiền sinh học => tiến hóa sinh học => tiến hóa hóa học,0.5526000261306763,biology,False
+đặc điểm chiếu từ một phía,"thân thẳng đứng, cành phân bố tỏa đều quanh thân",0.2592999935150146,biology,True
+đa bội hóa khác nguồn,địa lí,0.2856999933719635,biology,True
+điền vàng,"cách li nơi ở, cách li tập tính, cách li thời gian, cách li sinh thái và cách li cơ học",0.1509000062942505,biology,False
+Đối thoại cách li nơi ở,Cách li tập tính,0.2222000062465667,biology,False
+​​quan niệm Wright-Fisher,quan niệm của Đacuyn,0.421099990606308,biology,False
+18 ngày,18 ngày,1.0,biology,False
+Đại Cổ sinh,Kỉ thứ ba đại Tân sinh,0.4799999892711639,biology,False
+Đại Phát triển sinh,Đại Trung sinh,0.631600022315979,biology,False
+động tác tăng trưởng,chữ Z,0.0,biology,True
+đột biến,di-nhập gen và các yếu tố ngẫu nhiên,0.0666999965906143,biology,True
+điều chỉnh tiến hóa của chính mình,tiến hóa sinh học,0.3684000074863434,biology,False
+đối thoại,cộng sinh,0.0,biology,False
+"đồng bộ hợp tốc độ, chuộc, và phân bố trong quần thể để tạo nền tảo thị giảm nguồn sống tiềm tàng",tạo điều kiện các cá thể hỗ trợ nhau chống lại các điều kiện bất lợi của môi trường,0.2000000029802322,biology,True
+Đối thoại giữa các thị trường roning trong nhóm cá thể,Mối quan hệ giữa các cá thể trong đàn chó sói,0.4074000120162964,biology,False
+Độ nhiên liệu,Sinh thái sinh sản,0.0,biology,True
+H.ruderis,H.erectus,0.25,biology,False
+,mức sinh sản + nhập cư = mức tử vong + xuất cư,0.0,biology,False
+∅ (không có giả thiết để đánh giá trên),Sự thất thoát năng lượng qua mỗi bậc dinh dưỡng là không đáng kể,0.2120999991893768,biology,True
+định hướng quá trình tiến hóa,cung cấp nguyên liệu sơ cấp cho tiến hóa,0.2666999995708465,biology,True
+ưa bóng và ưa ẩm,ưa bóng,0.5454999804496765,biology,False
+Đồi thù trong ruột mồi,Lúa và cỏ dại trong cùng một ruộng lúa,0.25,biology,True
+Động vật đẳng nhiệt,Động vật hằng nhiệt,0.8485000133514404,biology,False
+Nuôi con bằng cách mớm mồi cho con.,Nuôi con bằng sữa mẹ.,0.571399986743927,biology,False
+Ảnh thịt không có vuốt,Có tuyến hôi ở hai bên sườn.,0.1142999976873397,biology,True
+Đôi lông.,Kết tràng.      ,0.1537999957799911,biology,True
+Đối thoại nuôi con bằng sữa mẹ.,Nuôi con bằng sữa diều.,0.6154000163078308,biology,False
+ไม่มี miệng và mỏ sừng,Miệng có mỏ sừng.,0.8888999819755554,biology,True
+Điều hướng cơ thể nhẹ hơn để ngủ nhanh hơn.,Tránh mất nước cho cơ thể.,0.2552999854087829,biology,True
+"Điểm rất dài, có nhiều răng lớn mọc trong lỗ chân răng.","Da ẩm ướt, không có vảy sừng.",0.2372999936342239,biology,True
+Ấn thức.,Ễnh ương lớn.,0.2353000044822693,biology,True
+Ấn nọc – trứng – ếch trưởng thành,Trứng - ếch trưởng thành – nòng nọc,0.7142999768257141,biology,False
+Vượn có túi má.,Sống thành bầy đàn.,0.0,biology,True
+Động vật phát triển trực tràng.,Chim bồ câu.,0.0,biology,True
+"Đầu tiên của cơ thể giúp giữ nước, tức giật, là mắt có tuyến lệ.",Hậu thận và trực tràng có khả năng hấp thụ lại nước.,0.1943999975919723,biology,True
+"Thỏ không có tập tính đào hang, ẩn náu trong hang để lẩn trống kẻ thù.",Ăn thức ăn bằng cách gặm nhấm.,0.2222000062465667,biology,True
+Động vật thú gút.,Ốc sên.,0.125,biology,True
+Đa dạng số lượng cá thể trong quần xã.,Số lượng loài trong quần thể.,0.5641000270843506,biology,False
+Động vật thỏ hoang.,Rùa núi vàng. ,0.0952000021934509,biology,True
+ไมโครไพ,Da có lớp vảy sừng bao bọc.,0.0,biology,True
+Động tháp của các đất liều.,Do các loại thiên tai xảy ra.,0.1176000013947486,biology,False
+"đuôi, cổ, ngực, thắt lưng.","cổ, ngực, đuôi.",0.4666999876499176,biology,False
