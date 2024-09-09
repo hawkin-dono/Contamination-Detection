@@ -6,7 +6,7 @@ import pandas as pd
 from tqdm import tqdm
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+DEVICE = torch.device('cuda:1' if torch.cuda.is_available() else 'cpu')
 BATCH_SIZE = 2
 
 def get_model_list(path: str = "model/hf_model.csv", search_key_word: str = None):
@@ -36,8 +36,8 @@ def extract_name(model_path: str, data_path: str):
     return model_name + "+" + data_name
 
 def main():
-    model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
-    # model_list = get_model_list()
+    # model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
+    model_list = get_model_list()
     data_list = get_data_list()
     
     print(model_list)
@@ -46,11 +46,10 @@ def main():
         model = HF_Model(model_name= model_path, device=DEVICE, apply_chat_template= model_config["apply_chat_template"], 
                          quantized= model_config["quantized"], model_library= model_config["model_library"], batch_size= BATCH_SIZE)
         for data_path in tqdm(data_list):
-            log_path = "logger" + "/" + extract_name(model_path, data_path)
+            process_type = "mask_half_question"
+            log_path = "logger" + "/" + extract_name(model_path, data_path) + "_" + process_type
             os.makedirs(log_path, exist_ok=True)
-            # df = pd.read_csv(data_path)[:10]
-            df = pd.read_csv(data_path).sample(600)
-            res, score = model.predict_dataframe(df)
+            res, score = model.predict_dataframe(data_path, size= 10, process_type= "mask_half_question")
             res.to_csv(log_path + "/result.csv")
             with open(log_path + "/score.txt", "w") as f:
                 f.write(str(score))

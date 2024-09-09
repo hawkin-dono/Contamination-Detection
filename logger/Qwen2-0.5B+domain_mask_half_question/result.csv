@@ -1,0 +1,117 @@
+,Question,Answer,Label,rouge_score
+0,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Một máy bay ngang với tốc độ 150 m/s, ở độ cao 490m thì thả một [MASKED]
+### Lựa chọn:
+A: 1000m. 
+B: 1500m.
+C: 15000m. 
+D: 7500m."," 1000m. 
+
+Lựa chọn là 1000m. 
+
+Đây là một câu hỏi trắc nghiệm, và bạn được hỏi một số lựa chọn. Bạn có thể chọn một số lựa chọn khác nhau, nhưng bạn không thể chọn một số lựa chọn không hợp lệ. Bạn có thể chọn một số lựa chọn khác nhau, nhưng bạn không thể chọn một số lựa chọn không hợp lệ. Bạn có thể chọn một số lựa chọn khác nhau","gói hàng xuống đất. Lấy $g = 9,8m/s^2$ . Tấm bay xa của gói hàng là :",0.055045872926712036
+1,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Ý nào dưới đây không đúng với đặc điểm của [MASKED]
+### Lựa chọn:
+A: Tỷ lệ giữa thể tích cơ thể và diện tích bề mặt cơ thể khá lớn. 
+B: Da luôn ẩm giúp các khí dễ dàng khuếch tán qua.
+C: Dưới da có nhiều mao mạch và có sắc tố hô hấp. 
+D: Tỷ lệ giữa diện tích bề mặt cơ thể và thể tích cơ thể khá lớn."," [MASKED] là:
+
+A: Tỷ lệ giữa thể tích cơ thể và diện tích bề mặt cơ thể khá lớn. 
+
+B: Da luôn ẩm giúp các khí dễ dàng khuếch tán qua. 
+
+C: Dưới da có nhiều mao mạch và có sắc tố hô hấp. 
+
+D: Tỷ lệ giữa diện tích bề mặt cơ thể và thể tích cơ thể khá lớn. 
+
+So với A, B, C và D, A và B có thể là",da giun đất thích ứng với sự trao đổi khí?,0.02222222276031971
+2,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Đọc thầm bài văn sau: CẢNH LÀNG DẠ Mùa đông đã về thực sự rồi! Mây từ trên cao theo các sườn núi trườn xuống, chốc chốc lại gieo một đợt mưa bụi trên những mái lá chít bạc trắng. Hoa cải hương vàng hoe từng vạt dài ẩn hiện trong sương bên sườn đồi. Con suối lớn ồn ào, quanh co đã thu mình lại, phô những dải sỏi cuội nhẵn nhụi và sạch sẽ. Trên mặt nước chỉ còn lại những chú nhện chân dài như gọng vó bận rộn và vui vẻ thi nhau ngược dòng vượt lên. Trên những ngọn cơi già nua cổ thụ, những chiếc lá vàng còn sót lại cuối cùng đang khua lao xao trước khi từ giã thân mẹ đơn sơ. Nhưng những hàng cau làng Dạ thì bất chấp tất cả sức mạnh tàn bạo của mùa đông, chúng vẫn còn y nguyên những tàu lá vắt vẻo mềm mại như cái đuôi én. Trên nền đất rắn lại vì giá lạnh, những đọt lá non vẫn đang xoè, vàng nhạt và những cây cau vẫn duyên dáng, rung rinh thân mình, tưởng như chúng sinh ra là để trang điểm cho làng Dạ thêm vẻ thanh tú, nhẹ nhàng. (Ma Văn Kháng) * Dựa vào nội dung bài đọc, hãy khoanh vào chữ cái trước ý trả lời đúng nhất hoặc làm theo yêu cầu bài tập dưới đây. Đọc thầm bài văn [MASKED]
+### Lựa chọn:
+A: Mùa hạ 
+B: Mùa thu
+C: Mùa xuân 
+D: Mùa đông"," [MASKED]
+assistant
+Đọc thầm bài văn sau: CẢNH LÀNG DẠ Mùa đông đã về thực sự rồi! Mây từ trên cao theo các sườn núi trườn xuống, chốc chốc lại gieo một đợt mưa bụi trên những mái lá chít bạc trắng. Hoa cải hương vàng hoe từng vạt dài ẩn hiện trong sương bên sườn đồi. Con","sau: CẢNH LÀNG DẠ Mùa đông đã về thực sự rồi! Mây từ trên cao theo các sườn núi trườn xuống, chốc chốc lại gieo một đợt mưa bụi trên những mái lá chít bạc trắng. Hoa cải hương vàng hoe từng vạt dài ẩn hiện trong sương bên sườn đồi. Con suối lớn ồn ào, quanh co đã thu mình lại, phô những dải sỏi cuội nhẵn nhụi và sạch sẽ. Trên mặt nước chỉ còn lại những chú nhện chân dài như gọng vó bận rộn và vui vẻ thi nhau ngược dòng vượt lên. Trên những ngọn cơi già nua cổ thụ, những chiếc lá vàng còn sót lại cuối cùng đang khua lao xao trước khi từ giã thân mẹ đơn sơ. Nhưng những hàng cau làng Dạ thì bất chấp tất cả sức mạnh tàn bạo của mùa đông, chúng vẫn còn y nguyên những tàu lá vắt vẻo mềm mại như cái đuôi én. Trên nền đất rắn lại vì giá lạnh, những đọt lá non vẫn đang xoè, vàng nhạt và những cây cau vẫn duyên dáng, rung rinh thân mình, tưởng như chúng sinh ra là để trang điểm cho làng Dạ thêm vẻ thanh tú, nhẹ nhàng. (Ma Văn Kháng) * Dựa vào nội dung bài đọc, hãy khoanh vào chữ cái trước ý trả lời đúng nhất hoặc làm theo yêu cầu bài tập dưới đây.Mùa nào đã về thực sự rồi? (0,5 điểm)",0.3631840944290161
+3,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Để nâng 1 vật có trọng lượn 30N ta [MASKED]
+### Lựa chọn:
+A: F < 30N 
+B: F = 30N
+C: F > 20N 
+D: 20N < F < 300N",", bạn cần sử dụng một số nguyên tố như sau:
+- 20N
+- 30N
+- 40N
+- 50N
+- 60N
+- 70N
+- 80N
+- 90N
+- 100N
+- 110N
+- 120N
+- 130N
+- 140N
+- 150",phải dùng lực như nào trong các lực dưới đây,0.024096384644508362
+4,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Thể loại truyện kể xa xưa nhất, thể hiện quan niệm về vũ trụ [MASKED]
+### Lựa chọn:
+A: Truyền thuyết 
+B: Thần thoại
+C: Cổ tích 
+D: Ngụ ngôn", là A: Truyền thuyết.,và khát vọng chinh phục thế giới tự nhiên của con người thời nguyên thủy,0.0
+5,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nhận định nào sau đây về muối cacbonat [MASKED]
+### Lựa chọn:
+A: tan trong nước 
+B: bị nhiệt phân tạo ra oxit kim loại và cacbon đioxit
+C: bị nhiệt phân trừ muối cacbonat của kim loại kiềm 
+D: không tan trong nước"," là A: tan trong nước. 
+
+Bài giải: 
+- Muối cacbonat có thể được tan trong nước bằng cách sử dụng nước nóng hoặc nước ấm. Tuy nhiên, muối cacbonat không thể được tan trong nước bằng các phương pháp khác, như nhiệt phân tạo ra oxit kim loại và cacbon đioxit hoặc không tan trong nước bằng các phương pháp khác. 
+
+- Muối cacbonat được tan trong nước bằng cách sử dụng nước nóng",là đúng nhất? Tất cả muối cacbonat đều:,0.12371134012937546
+6,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Thời nhà Hán, ngoài việc bắt dân ta công nộp những [MASKED]
+### Lựa chọn:
+A: Thợ dệt khéo tay để dệt vải cho chúng. 
+B: Thợ thủ công khéo tay đưa về Trung Quốc xây dựng cung điện, lăng tâm...
+C: Cống nộp quả vải. 
+D: Cống nộp vàng bạc, châu báu, lâm hải sản quý hiếm."," [MASKED] để dệt vải cho chúng, có thể là một trong những người có công lập nghiệp và có thể là một trong những người có công lập nghiệp trong lịch sử. 
+
+Bài hỏi trắc nghiệm cho câu hỏi ""Câu hỏi: Thời nhà Hán, ngoài việc bắt dân ta công nộp những [MASKED] để dệt vải cho chúng"" có thể được hoàn thành bằng cách sử dụng câu hỏi ""Câu hỏi: Thời nhà Hán,","sản vật quý hiếm, chúng còn bắt dân ta cống nộp:",0.10638298094272614
+7,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Sử học và các ngành khoa học xã hội [MASKED]
+### Lựa chọn:
+A: Chỉ Sử học tác động đến các ngành khoa học 
+B: Quan hệ gắn bó và tương tác hai chiều
+C: Luôn tách rời và không có quan hệ với nhau 
+D: Quan hệ một chiều, không tác động qua lại"," là một lĩnh vực nghiên cứu và học thuật, nhưng không có mối quan hệ trực tiếp với nhau. Điều này có thể được xác định qua các câu hỏi và lựa chọn sau:
+A: Chỉ Sử học tác động đến các ngành khoa học
+B: Quan hệ gắn bó và tương tác hai chiều
+C: Luôn tách rời và không có quan hệ với nhau
+D: Quan hệ một chiều, không tác động qua lại
+D. Qu",và nhân văn có mối quan hệ như thế nào?,0.10204081982374191
+8,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Khi nấu cơm ta mở nắp vung ra thì thấy bên [MASKED]
+### Lựa chọn:
+A: Hơi nước trong nồi ngưng tụ. 
+B: Hạt gạo bị nóng chảy
+C: Hơi nước bên ngoài nồi ngưng tụ 
+D: Hơi nước bên ngoài nồi đông đặc", trên nồi ngưng tụ.,trong nắp có các giọt nước bám vào là do :,0.1818181872367859
+9,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Tục ngữ: “Cây ngay không sợ chết [MASKED]
+### Lựa chọn:
+A: Giản dị. 
+B: Tiết kiệm.
+C: Trung thực. 
+D: Khiêm tốn."," [MASKED]” là một câu hỏi trắc nghiệm về một câu hỏi trắc nghiệm. Tuy nhiên, câu hỏi trắc nghiệm này không bao gồm câu hỏi trắc nghiệm. Tuy nhiên, câu hỏi trắc nghiệm này có thể được giải thích theo một số cách khác nhau. 
+
+Câu hỏi trắc nghiệm này có thể được giải thích như sau:
+
+A: Giản dị. Giản dị là một từ ngữ có nghĩa là ""tôi không",đứng” nói về đức tính gì ?,0.02298850566148758

@@ -23,7 +23,6 @@ class VMLUProcessor():
         self.df.drop(columns= ["id", "choices"], inplace= True)
         if save_path:
             self.df.to_csv(save_path, index= False)
-        
         return self.df
     
 if __name__ == "__main__":

@@ -6,28 +6,28 @@ class Prompt_format():
     """
     def __init__(self, data_path: str= None):
         self.data_path = data_path
-        if self.data_path.startswith("mmlu"):
+        if self.data_path.find("mmlu") != -1:
             self.lang = "en"
         else: 
             self.lang = "vi"
+        self.df = pd.read_csv(data_path)
             
-    def format(self, type = None, prompt_prefix= None, prompt_suffix= None, save_path= None):   
+    def format(self, process_type = None, prompt_prefix= None, prompt_suffix= None, save_path= None):   
         """
-        format question with given type : "mask_wrong_answer", "mask_half_question", "shuffle_true_answer" 
+        format question with given process_type : "mask_wrong_answer", "mask_half_question", "shuffle_true_answer" 
         return a dataframe with 2 column: Question and Label
         """
-        df = pd.read_csv(self.data_path)
-        if type == "mask_wrong_answer":
-            return self.mask_wrong_answer(df, prompt_prefix, prompt_suffix, save_path)
-        elif type == "mask_half_question":
-            return self.mask_half_question(df, prompt_prefix, prompt_suffix, save_path)
-        elif type == "shuffle_true_answer":
-            return self.shuffle_true_answer(df, prompt_prefix, prompt_suffix, save_path)
+        if process_type == "mask_wrong_answer":
+            return self.mask_wrong_answer(prompt_prefix, prompt_suffix, save_path)
+        elif process_type == "mask_half_question":
+            return self.mask_half_question(prompt_prefix, prompt_suffix, save_path)
+        elif process_type == "shuffle_true_answer":
+            return self.shuffle_true_answer(prompt_prefix, prompt_suffix, save_path)
         else: 
-            raise ValueError("Type is not valid")
-    def mask_wrong_answer(self, df: pd.DataFrame, prompt_prefix= None, prompt_suffix= None, save_path= None):
+            raise ValueError("process_type is not valid")
+    def mask_wrong_answer(self, prompt_prefix= None, prompt_suffix= None, save_path= None):
         pass
-    def mask_half_question(self, df: pd.DataFrame, prompt_prefix= None, prompt_suffix= None, save_path= None):
+    def mask_half_question(self, prompt_prefix= None, prompt_suffix= None, save_path= None):
         """
         mask half question
         """
@@ -47,23 +47,23 @@ B: {}
 C: {} 
 D: {}
 {}
-""".format(prompt_prefix, "Câu hỏi" if self.lang == "vi" else "Question", first_half, "Lựa chọn" if self.lang == "vi" else "Choices",
+""".format(prompt_prefix, "Câu hỏi:" if self.lang == "vi" else "Question:", first_half, "Lựa chọn:" if self.lang == "vi" else "Choices:",
            row["A"], row["B"], row["C"], row["D"], prompt_suffix).strip("\n")
-            return (question, first_half, label)
+            return (question, label, first_half)
             
         
         if not prompt_prefix: 
             if self.lang == "vi": 
-                prompt_prefix = "Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm: \n"
+                prompt_prefix = "Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:"
             else: 
-                prompt_prefix = "Fill in the <MASKED> part in the following sentence to complete a multiple choice question: \n"
+                prompt_prefix = "Fill in the <MASKED> part in the following sentence to complete a multiple choice question:"
         if not prompt_suffix: prompt_suffix = ""
-        df = df.loc[df["Question"].apply(lambda x: len(x.split()) > 8)]
+        self.df = self.df.loc[self.df["Question"].apply(lambda x: len(x.split()) > 8)]
         
         res = [] 
-        for i, row in df.iterrows():
+        for i, row in self.df.iterrows():
             res.append(mask(row))
-        res = pd.DataFrame(res, columns= ["Question", "First_half", "Label"])
+        res = pd.DataFrame(res, columns= ["Question", "Label", "Fed_prompt"])
         if save_path:
             res.to_csv(save_path, index= False)
         return res 
@@ -77,7 +77,7 @@ D: {}
     
     
 if __name__ == "__main__":
-    prompt_format = Prompt_format("data/mmlu.csv")
-    prompt_format.format("mask_half_question", save_path= "data/mmlu_mask_half_question.csv")
+    prompt_format = Prompt_format("data/vmlu.csv")
+    prompt_format.format("mask_half_question", save_path= "processed_data/vmlu_mask_half_question.csv")
     
     

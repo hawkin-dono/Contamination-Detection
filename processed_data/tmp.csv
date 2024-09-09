@@ -1,0 +1,141 @@
+index,Question,Label,Fed_prompt
+823,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Số oxi hóa của lưu [MASKED]
+### Lựa chọn:
+A: -2 
+B: 0
+C: 4 
+D: 6<|im_end|>
+<|im_start|>assistant
+Số oxi hóa của lưu<|im_end|>
+<|im_start|>assistant
+",huỳnh trong ion SO_{4}2- là:,Số oxi hóa của lưu
+441,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Tính chất khí hậu hải dương điều [MASKED]
+### Lựa chọn:
+A: Địa hình 
+B: Khí hậu
+C: Biển Đông       
+D: Vị trí địa lý<|im_end|>
+<|im_start|>assistant
+Tính chất khí hậu hải dương điều<|im_end|>
+<|im_start|>assistant
+",hoà là do yếu tố nào quy định?,Tính chất khí hậu hải dương điều
+127,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Điều 19, Luật Quốc tịch 2008 quy định những người nhập quốc tịch [MASKED]
+### Lựa chọn:
+A: Chủ tịch nước cho phép. 
+B: Có lợi cho nhà nước CHXHCN Việt Nam.
+C: Có công lao đặc biệt cho sự nghiệp xây dựng và bảo vệ Tổ quốc. 
+D: Cả A, B, C.<|im_end|>
+<|im_start|>assistant
+Điều 19, Luật Quốc tịch 2008 quy định những người nhập quốc tịch<|im_end|>
+<|im_start|>assistant
+",Việt Nam thì phải thôi quốc tịch nước ngoài trừ trường hợp nào?,"Điều 19, Luật Quốc tịch 2008 quy định những người nhập quốc tịch"
+32,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Sản xuất của cải [MASKED]
+### Lựa chọn:
+A: Tạo ra của cải vật chất. 
+B: Sản xuất xã hội.
+C: Con người tác động vào tự nhiên để tạo ra các sản phẩm phù hợp với như cầu của mình. 
+D: Tạo ra cơm ăn, áo mặc, tạo ra tư liệu sản xuất.<|im_end|>
+<|im_start|>assistant
+Sản xuất của cải<|im_end|>
+<|im_start|>assistant
+",vật chất là quá trình,Sản xuất của cải
+43,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Không thiên vị, giải quyết công việc theo lẽ phải, xuất phát từ lợi ích [MASKED]
+### Lựa chọn:
+A: Đức tính khiêm nhường 
+B: Đức tính tiết kiệm
+C: Đức tính trung thực 
+D: Đức tính chí công vô tư<|im_end|>
+<|im_start|>assistant
+Không thiên vị, giải quyết công việc theo lẽ phải, xuất phát từ lợi ích<|im_end|>
+<|im_start|>assistant
+","chung, đặt lợi ích chung lên trên lợi ích cá nhân được gọi là ?","Không thiên vị, giải quyết công việc theo lẽ phải, xuất phát từ lợi ích"
+683,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Chọn từ thích hợp điền vào chỗ trống câu sau đây: “Nghe tin hai đạo viện binh Liễu Thăng, Mộc Thanh bị tiêu diệt hoàn [MASKED]
+### Lựa chọn:
+A: 1) Đông Quan 2) Đầu hàng không điều kiện 
+B: 1) Xương Giang 2) Mở hội thề Đông Quan
+C: 1) Đông Quan 2) Mở hội thề Đông Quan 
+D: 1) Chi Lăng 2) thua đau<|im_end|>
+<|im_start|>assistant
+Chọn từ thích hợp điền vào chỗ trống câu sau đây: “Nghe tin hai đạo viện binh Liễu Thăng, Mộc Thanh bị tiêu diệt hoàn<|im_end|>
+<|im_start|>assistant
+","toàn, Vương Thông ở …. (1)… vô cùng khiếp đảm, vội vàng xin hòa và chấp nhận ….(2)…. Để được an toàn rút quân về nước””.","Chọn từ thích hợp điền vào chỗ trống câu sau đây: “Nghe tin hai đạo viện binh Liễu Thăng, Mộc Thanh bị tiêu diệt hoàn"
+948,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Một nguyên tố Y đứng liền trước nguyên tố X trong cùng một chu kì của bảng tuần [MASKED]
+### Lựa chọn:
+A: Số hiệu nguyên tử theo thứ tự tăng dần là X < Y < Z. 
+B: Bán kính nguyên tử theo thứ tự tang dần là Z < Y < X.
+C: Hóa trị cao nhất trong hợp chất với oxi tang dần theo thứ tự: Z < Y < X. 
+D: Trong các hidroxit, tính axit tăng dần theo thứ tự: hidroxit của Z < hidroxit của Y < hidroxit của X.<|im_end|>
+<|im_start|>assistant
+Một nguyên tố Y đứng liền trước nguyên tố X trong cùng một chu kì của bảng tuần<|im_end|>
+<|im_start|>assistant
+",hoàn. Y đứng liền trước Z trong cùng một nhóm A. Phát biểu nào sau đây là đúng?,Một nguyên tố Y đứng liền trước nguyên tố X trong cùng một chu kì của bảng tuần
+1638,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Thức ăn được đẩy từ dạ dày xuống ruột nhờ hoạt động nào sau đây ? 1. Sự co bóp của [MASKED]
+### Lựa chọn:
+A: 1, 2, 3. 
+B: 1, 3.
+C: 2, 3. 
+D: 1, 2.<|im_end|>
+<|im_start|>assistant
+Thức ăn được đẩy từ dạ dày xuống ruột nhờ hoạt động nào sau đây ? 1. Sự co bóp của<|im_end|>
+<|im_start|>assistant
+",cơ vùng tâm vị. 2. Sự co bóp của cơ vòng môn vị. 3. Sự co bóp của các cơ dạ dày.,Thức ăn được đẩy từ dạ dày xuống ruột nhờ hoạt động nào sau đây ? 1. Sự co bóp của
+477,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Việt Nam có dân số là 84 triệu người và diện [MASKED]
+### Lựa chọn:
+A: 234 người/ km2 
+B: 324 người/ km2
+C: 312 người/m2 
+D: 253 người/km2<|im_end|>
+<|im_start|>assistant
+Việt Nam có dân số là 84 triệu người và diện<|im_end|>
+<|im_start|>assistant
+",tích khoảng 331. 900 km2 thì có mật độ dân số là,Việt Nam có dân số là 84 triệu người và diện
+1230,"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Khi được anh Thành hỏi ""Anh là người nước [MASKED]
+### Lựa chọn:
+A: Anh hỏi thật lạ, tôi là người Việt Nam 
+B: Tôi chảy trong mình dòng máu đỏ da vàng
+C: Tôi là người con của dân tộc Việt Nam 
+D:  Anh hỏi thật lạ. Anh người nước nào thì tôi là người nước ấy.<|im_end|>
+<|im_start|>assistant
+Khi được anh Thành hỏi ""Anh là người nước<|im_end|>
+<|im_start|>assistant
+","nào?"" thì anh Lê đã trả lời ra sao?","Khi được anh Thành hỏi ""Anh là người nước"
