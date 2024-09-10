@@ -114,10 +114,11 @@ class HF_Model():
             input = [self.apply_chat_template_sample(x[i], fed_prompt[i]) for i in range(len(x))]
             
         with torch.no_grad():
-            inputs = self.tokenizer(input, return_tensors= "pt", padding= True, truncation= True).to(self.device)
+            inputs = self.tokenizer(input, return_tensors= "pt", padding= True).to(self.device)
             # generate_ids = self.model.generate(**inputs, min_new_tokens = 10, max_new_tokens= 200, pad_token_id=self.tokenizer.eos_token_id, stopping_criteria=[stop_generation])
             generate_ids = self.model.generate(**inputs, max_new_tokens= 100, pad_token_id=self.tokenizer.eos_token_id)
             response = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
+            del inputs, generate_ids
             
         rouge = []
         answer = response
