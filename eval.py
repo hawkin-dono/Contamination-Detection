@@ -6,8 +6,8 @@ import pandas as pd
 from tqdm import tqdm
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-DEVICE = torch.device('cuda:0' if torch.cuda.is_available() else 'cpu')
-BATCH_SIZE = 1
+DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+BATCH_SIZE = 16
 
 def get_model_list(path: str = "model/hf_model.csv", search_key_word: str = None):
     """ 
@@ -36,9 +36,9 @@ def extract_name(model_path: str, data_path: str):
     return model_name + "+" + data_name
 
 def main():
-    model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
-    # model_list = get_model_list()
-    data_list = get_data_list(search_key_word="mmlu")
+    # model_list = get_model_list(search_key_word= "Qwen/Qwen2-0.5B")
+    model_list = get_model_list()
+    data_list = get_data_list(search_key_word="domain_addition")
     
     print(model_list)
     for model_config in tqdm(model_list):
@@ -47,7 +47,6 @@ def main():
                          quantized= model_config["quantized"], model_library= model_config["model_library"], batch_size= BATCH_SIZE)
         for data_path in tqdm(data_list):
             for process_type in ["mask_half_question", "mask_wrong_answer"]:
-            
                 log_path = "logger" + "/" + extract_name(model_path, data_path) + "_" + process_type
                 os.makedirs(log_path, exist_ok=True)
                 res, score = model.predict_dataframe(data_path, size= 10, process_type= process_type)
