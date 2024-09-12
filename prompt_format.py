@@ -6,7 +6,7 @@ class Prompt_format():
     """
     def __init__(self, data_path: str= None):
         self.data_path = data_path
-        if self.data_path.find("mmlu") != -1:
+        if self.data_path.find("mmlu") != -1 or self.data_path.find("eng") != -1:
             self.lang = "en"
         else: 
             self.lang = "vi"
@@ -50,25 +50,27 @@ D: {}
            row["A"], row["B"], row["C"], row["D"], prompt_suffix).strip("\n")
 
             ## fed_prompt
-            fed_prompt = """### {} {}
-### {}
-""".format("Câu hỏi:" if self.lang == "vi" else "Question:", question_text, "Lựa chọn:" if self.lang == "vi" else "Choices:").strip("\n")
+#             fed_prompt = """### {} {}
+# ### {}""".format("Câu hỏi:" if self.lang == "vi" else "Question:", question_text, "Lựa chọn:" if self.lang == "vi" else "Choices:").strip("\n")
 
-            for i in ["A", "B", "C", "D"]:
-                if i == wrong_choice:
-                    fed_prompt += f"\n{i}:"
-                    break 
-                else: 
-                    fed_prompt += f"\n{i}: {row[i]}"
+#             for i in ["A", "B", "C", "D"]:
+#                 if i == wrong_choice:
+#                     fed_prompt += f"\n{i}:"
+#                     break 
+#                 else: 
+#                     fed_prompt += f"\n{i}: {row[i]}"
+#             
+            if self.lang == "vi":
+                fed_prompt = f"Nội dung của lựa chọn {wrong_choice} là: "
+            else: 
+                fed_prompt = f"The content of choice {wrong_choice} is: "
             return (prompt, label, fed_prompt)
         
         if not prompt_prefix: 
             if self.lang == "vi": 
-                prompt_prefix = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
-Lưu ý, hãy đưa ra câu trả lời chỉ có nội dung của phần lựa chọn bị che, câu trả lời của bạn phải có nội dung khác với các lựa chọn còn lại."""
+                prompt_prefix = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. """
             else: 
-                prompt_prefix = """Please fill in the <MASKED> in the question below based on your benchmark knowledge.
-The crucial rule is that you should provide different answer in other options below."""
+                prompt_prefix = """Please fill in the <MASKED> in the question below based on your benchmark knowledge."""
 
         if not prompt_suffix: prompt_suffix = ""
         
@@ -132,6 +134,6 @@ D: {}
     
 if __name__ == "__main__":
     prompt_format = Prompt_format("data/domain_addition.csv")
-    prompt_format.format("mask_half_question", save_path= "processed_data/domain_addition_mask_half_question.csv")
+    prompt_format.format("mask_wrong_answer", save_path= "processed_data/domain_addition_mask_wrong_answer.csv")
     
     
