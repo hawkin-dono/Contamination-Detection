@@ -81,22 +81,24 @@ class HF_Model():
             {"role": "user", "content": question},
             {"role": "assistant", "content": fed_prompt}
         ]
-        inputs = self.tokenizer.apply_chat_template(messages, tokenize=True, continue_final_message=True)[:-2]
+        inputs = self.tokenizer.apply_chat_template(messages, tokenize=True)[:-2]
         inputs = self.tokenizer.decode(inputs)
         
         return inputs
 
-    def extract_answer(self, question, response, fed_prompt):
+    def extract_answer(self, question, response: str, fed_prompt):
         if not fed_prompt:
             finding_part = question.split(".")[-2]
             index = response.find(finding_part)
             answer = response[index + len(finding_part):]
             return answer
         else:
-            idx = response.find(fed_prompt)
-            response = response[idx + len(fed_prompt):]
-            idx = response.find(fed_prompt)
-            answer = response[idx + len(fed_prompt):]
+            answer = response
+            for i in range(2):
+                idx = answer.find(fed_prompt)
+                if idx == -1:
+                    return answer
+                answer = answer[idx + len(fed_prompt):]
             return answer
             
         
@@ -128,7 +130,7 @@ class HF_Model():
         
         return answer, y, rouge
 
-    def predict_dataframe(self, data_path: str, size: int= None, process_type: str = None) -> pd.DataFrame:
+    def predict_dataframe(self, data_path: str, size: int= None, process_type: str = None, prompt_prefix= None, prompt_suffix= None, intermediate_data_save_path= None) -> pd.DataFrame:
         """
         predict on a dataframe with 3 columns: Question, Answer, Fed_prompt
         
@@ -140,7 +142,7 @@ class HF_Model():
             df: pd.DataFrame: dataframe with 4 columns: Question, Answer, Label, rouge_score
         """
         prompt_formator = Prompt_format(data_path)
-        ds: pd.DataFrame = prompt_formator.format(process_type= process_type)
+        ds: pd.DataFrame = prompt_formator.format(process_type= process_type, prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, save_path= intermediate_data_save_path)
         if size is not None and size < len(ds):
             ds = ds.sample(size)
             ds.reset_index(inplace=True)
@@ -195,14 +197,14 @@ if __name__ == "__main__":
         
     def test_apply_chat_template():
         tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B")
-        question = """Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
-### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong [MASKED]
+        question = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Mạch truyện diễn biến theo trình tự thời gian nào?
 ### Lựa chọn:
-A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết. 
-B: Mặc kệ vì không liên quan đến mình.
-C: Cùng với A đánh B cho vui. 
-D: Chạy đi chỗ khác chơi."""
-        fed_prompt= "Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong"
+A: Hiện tại - quá khứ 
+B: Hiện tại - tương lại
+C: Hiện tại - quá khứ - hiện tại 
+D: [MASKED]"""
+        fed_prompt= "Nội dung của lựa chọn D là:"
         messages = [
             {"role": "user", "content": question},
             {"role": "assistant", "content": fed_prompt}
@@ -240,8 +242,8 @@ Vì vậy, bạn có thể chọn A hoặc B. Bạn có thể"""
         answer = response[idx + len(fed_prompt):]
         print(answer)
     
-    # test_apply_chat_template()    
+    test_apply_chat_template()    
     # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
-    test_dataframe() 
+    # test_dataframe() 
     # test_extract_answer()
        
