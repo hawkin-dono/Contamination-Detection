@@ -6,8 +6,6 @@ import pandas as pd
 from tqdm import tqdm
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
-DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
-BATCH_SIZE = 4
 
 def get_model_list(path: str = "model/hf_model.csv", search_key_word: list[str]= None):
     """ 
@@ -58,7 +56,8 @@ def extract_name(model_path: str, data_path: str):
 
 def evaluate(model_names: list[str]= None, data_names: list[str]= None, 
              size: int = None, process_types= None, 
-             prompt_prefix= None, prompt_suffix= None, intermediate_data_save_path= None):
+             prompt_prefix= None, prompt_suffix= None, intermediate_data_save_path= None,
+             DEVICE= "cpu", BATCH_SIZE= 4):
     """
     Inputs: 
         model_names: str or list of str to search model 
@@ -94,7 +93,11 @@ def evaluate(model_names: list[str]= None, data_names: list[str]= None,
 def main():
     # prompt_prefix = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. """
     # prompt_suffix = ""
-    evaluate(model_names= None, data_names = "domain_addition", size= 10, process_types= ["mask_wrong_answer"], prompt_prefix= None, prompt_suffix= None)
+    DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
+    BATCH_SIZE = 16
+    evaluate(model_names= None, data_names = "domain_addition", size= None, process_types= ["mask_wrong_answer"], 
+             prompt_prefix= None, prompt_suffix= None, 
+             intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             
     
 if __name__ == "__main__":
