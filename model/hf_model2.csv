@@ -1,0 +1,4 @@
+model_name,apply_chat_template,quantized,model_library
+Qwen/Qwen2-7B-Instruct,1,1,AutoModelForCausalLM
+microsoft/Phi-3.5-mini-instruct,1,1,Phi3ForCausalLM
+Viet-Mistral/Vistral-7B-Chat,1,1,AutoModelForCausalLM

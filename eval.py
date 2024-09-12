@@ -7,7 +7,8 @@ from tqdm import tqdm
 
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
-def get_model_list(path: str = "model/hf_model.csv", search_key_word: list[str]= None):
+
+def get_model_list(path: str = "model/hf_model2.csv", search_key_word: list[str]= None):
     """ 
     Inputs:
         path: csv_file contain config 
@@ -82,7 +83,7 @@ def evaluate(model_names: list[str]= None, data_names: list[str]= None,
             for process_type in process_types:
                 log_path = "logger" + "/" + extract_name(model_path, data_path) + "_" + process_type
                 os.makedirs(log_path, exist_ok=True)
-                res, score = model.predict_dataframe(data_path, size= 10, process_type= process_type, prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path)
+                res, score = model.predict_dataframe(data_path, process_type= process_type, prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path)
                 res.to_csv(log_path + "/result.csv")
                 with open(log_path + "/score.txt", "w") as f:
                     f.write(str(score))
@@ -93,9 +94,10 @@ def evaluate(model_names: list[str]= None, data_names: list[str]= None,
 def main():
     # prompt_prefix = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. """
     # prompt_suffix = ""
+    os.environ["CUDA_VISIBLE_DEVICES"]="2,3"
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     BATCH_SIZE = 16
-    evaluate(model_names= None, data_names = "domain_addition", size= None, process_types= ["mask_wrong_answer"], 
+    evaluate(model_names= None, data_names = "domain_addition",  process_types= ["mask_wrong_answer"], 
              prompt_prefix= None, prompt_suffix= None, 
              intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             

@@ -7,6 +7,7 @@ from csv_dataset import CSV_Dataset
 from tqdm import tqdm
 from prompt_format import Prompt_format
 from rouge_scorer import Rougescore
+import gc
 
 import os
 os.environ["HF_TOKEN"] = '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'
@@ -121,7 +122,8 @@ class HF_Model():
             generate_ids = self.model.generate(**inputs, max_new_tokens= 100, pad_token_id=self.tokenizer.eos_token_id)
             response = self.tokenizer.batch_decode(generate_ids, skip_special_tokens=True)
             del inputs, generate_ids
-            
+            torch.cuda.empty_cache()
+            gc.collect()   
         rouge = []
         answer = response
         for i in range(len(response)):
@@ -165,85 +167,86 @@ class HF_Model():
     
 
 if __name__ == "__main__":
-    def test_single_sample(model_name: str, device: str):
-        # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
-        model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
-                        model_library="LlamaForCausalLM")
-        x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
-    ### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
-    Lựa chọn: 
-    A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
-    B: Mặc kệ vì không liên quan đến mình.
-    C: []
-    D: Chạy đi chỗ khác chơi.
-    Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
-    """
-        x = model.apply_chat_template_sample(x)
-        print(x)
-        y = "Chạy đi chỗ khác chơi."
-        answer, y, rouge = model.predict_batch(([x], [y]))
-        print(answer)
-        print(rouge)
-    def test_dataframe():
-        data_path = "data/domain.csv"
+    pass
+#     def test_single_sample(model_name: str, device: str):
+#         # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
+#         model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
+#                         model_library="LlamaForCausalLM")
+#         x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+#     ### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
+#     Lựa chọn: 
+#     A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
+#     B: Mặc kệ vì không liên quan đến mình.
+#     C: []
+#     D: Chạy đi chỗ khác chơi.
+#     Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+#     """
+#         x = model.apply_chat_template_sample(x)
+#         print(x)
+#         y = "Chạy đi chỗ khác chơi."
+#         answer, y, rouge = model.predict_batch(([x], [y]))
+#         print(answer)
+#         print(rouge)
+#     def test_dataframe():
+#         data_path = "data/domain.csv"
         
-        model = HF_Model(model_name="Qwen/Qwen2-0.5B", device="cuda:1", apply_chat_template=True, quantized=True,
-                        model_library="AutoModelForCausalLM")
-        res, score = model.predict_dataframe(data_path, process_type= "mask_half_question", size= 10)
-        res.to_csv("result.csv")
+#         model = HF_Model(model_name="Qwen/Qwen2-0.5B", device="cuda:1", apply_chat_template=True, quantized=True,
+#                         model_library="AutoModelForCausalLM")
+#         res, score = model.predict_dataframe(data_path, process_type= "mask_half_question", size= 10)
+#         res.to_csv("result.csv")
         
-        with open("score.txt", "w") as f:
-            f.write(str(score))
+#         with open("score.txt", "w") as f:
+#             f.write(str(score))
         
-    def test_apply_chat_template():
-        tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B")
-        question = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
-### Câu hỏi: Mạch truyện diễn biến theo trình tự thời gian nào?
-### Lựa chọn:
-A: Hiện tại - quá khứ 
-B: Hiện tại - tương lại
-C: Hiện tại - quá khứ - hiện tại 
-D: [MASKED]"""
-        fed_prompt= "Nội dung của lựa chọn D là:"
-        messages = [
-            {"role": "user", "content": question},
-            {"role": "assistant", "content": fed_prompt}
-        ]
-        inputs = tokenizer.apply_chat_template(messages, tokenize=False, continue_final_message=True)
-        print(inputs)
-    def test_extract_answer():
-        response = """system
-You are a helpful assistant
-user
-Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
-### Câu hỏi: Hai cốc thủy tinh chồng lên nhau bị khít lại. [MASKED]
-### Lựa chọn:
-A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
-B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên
-C: Ngâm cả hau cốc vào nước nóng 
-D: Ngâm cả hai cốc vào nước lạnh
-assistant
-Hai cốc thủy tinh chồng lên nhau bị khít lại. Bạn có thể chọn một trong các lựa chọn sau:
+#     def test_apply_chat_template():
+#         tokenizer = AutoTokenizer.from_pretrained("Qwen/Qwen2-0.5B")
+#         question = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+# ### Câu hỏi: Mạch truyện diễn biến theo trình tự thời gian nào?
+# ### Lựa chọn:
+# A: Hiện tại - quá khứ 
+# B: Hiện tại - tương lại
+# C: Hiện tại - quá khứ - hiện tại 
+# D: [MASKED]"""
+#         fed_prompt= "Nội dung của lựa chọn D là:"
+#         messages = [
+#             {"role": "user", "content": question},
+#             {"role": "assistant", "content": fed_prompt}
+#         ]
+#         inputs = tokenizer.apply_chat_template(messages, tokenize=False, continue_final_message=True)
+#         print(inputs)
+#     def test_extract_answer():
+#         response = """system
+# You are a helpful assistant
+# user
+# Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+# ### Câu hỏi: Hai cốc thủy tinh chồng lên nhau bị khít lại. [MASKED]
+# ### Lựa chọn:
+# A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
+# B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên
+# C: Ngâm cả hau cốc vào nước nóng 
+# D: Ngâm cả hai cốc vào nước lạnh
+# assistant
+# Hai cốc thủy tinh chồng lên nhau bị khít lại. Bạn có thể chọn một trong các lựa chọn sau:
 
-A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
+# A: Ngâm cốc ở dưới vào nước nóng, đồng thời đổ nước lạnh vào cốc ở trên. 
 
-B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên. 
+# B: Ngâm cốc ở dưới vào nước lạnh, đồng thời đổ nước nóng vào cốc ở trên. 
 
-C: Ngâm cả hai cốc vào nước nóng. 
+# C: Ngâm cả hai cốc vào nước nóng. 
 
-D: Ngâm cả hai cốc vào nước lạnh. 
+# D: Ngâm cả hai cốc vào nước lạnh. 
 
-Vì vậy, bạn có thể chọn A hoặc B. Bạn có thể"""
-        fed_prompt = "Hai cốc thủy tinh chồng lên nhau bị khít lại."
+# Vì vậy, bạn có thể chọn A hoặc B. Bạn có thể"""
+#         fed_prompt = "Hai cốc thủy tinh chồng lên nhau bị khít lại."
         
-        idx = response.find(fed_prompt)
-        response = response[idx + len(fed_prompt):]
-        idx = response.find(fed_prompt)
-        answer = response[idx + len(fed_prompt):]
-        print(answer)
+#         idx = response.find(fed_prompt)
+#         response = response[idx + len(fed_prompt):]
+#         idx = response.find(fed_prompt)
+#         answer = response[idx + len(fed_prompt):]
+#         print(answer)
     
-    test_apply_chat_template()    
-    # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
-    # test_dataframe() 
-    # test_extract_answer()
+#     test_apply_chat_template()    
+#     # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
+#     # test_dataframe() 
+#     # test_extract_answer()
        
