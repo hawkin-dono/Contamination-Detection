@@ -83,7 +83,7 @@ def evaluate(model_names: list[str]= None, data_names: list[str]= None,
             for process_type in process_types:
                 log_path = "logger" + "/" + extract_name(model_path, data_path) + "_" + process_type
                 os.makedirs(log_path, exist_ok=True)
-                res, score = model.predict_dataframe(data_path, process_type= process_type, prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path)
+                res, score = model.predict_dataframe(data_path, process_type= process_type, size= size,prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path)
                 res.to_csv(f"{log_path}/result.csv")
                 with open(f"{log_path}/score.txt", "w") as f:
                     f.write(str(score))
@@ -97,9 +97,9 @@ def main():
     os.environ["CUDA_VISIBLE_DEVICES"]="0,1"
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     BATCH_SIZE = 16
-    evaluate(model_names= None, data_names = "domain_addition",  process_types= ["mask_wrong_answer"], 
-             prompt_prefix= None, prompt_suffix= None, 
-             intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
+    evaluate(model_names= None, data_names = "eng_final_domain",  process_types= ["mask_wrong_answer", "mask_half_question"], 
+             prompt_prefix= None, prompt_suffix= None, size= None,
+             intermediate_data_save_path= "processed_data/itermediate_origin_final_domain.csv", DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             
     
 if __name__ == "__main__":
