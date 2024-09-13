@@ -26,10 +26,11 @@ def get_model_list(path: str = "model/hf_model.csv", search_key_word: list[str]=
             df = df[df["model_name"].str.lower().str.contains(search_key_word)]
             return df.to_dict("records")
         else:
-            res = set()
+            res = []
             for key_word in search_key_word:
                 key_word = key_word.lower()
                 res += df[df["model_name"].str.lower().str.contains(key_word)].to_dict("records")
+            res = set(res)
             return list(res)
         
 
@@ -44,9 +45,10 @@ def get_data_list(path: str = "data", search_key_word: list[str] = None):
         if type(search_key_word) == str:
             files = [i for i in files if search_key_word in i]
         else:
-            res = set()
-            for key_word in search_key_word():
+            res = []
+            for key_word in search_key_word:
                 res += [i for i in files if key_word in i]
+            res = set(res)
             files = list(res)
     return [path + "/" + file for file in files]
 
@@ -97,7 +99,7 @@ def main():
     os.environ["CUDA_VISIBLE_DEVICES"]="0,1"
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     BATCH_SIZE = 16
-    evaluate(model_names= None, data_names = "eng_final_domain",  process_types= ["mask_wrong_answer", "mask_half_question"], 
+    evaluate(model_names= None, data_names = ["eng_final_domain", "domain_addition_plus"],  process_types= ["mask_wrong_answer", "mask_half_question"], 
              prompt_prefix= None, prompt_suffix= None, size= None,
              intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             
