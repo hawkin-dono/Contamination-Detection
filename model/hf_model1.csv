@@ -1,0 +1,4 @@
+model_name,apply_chat_template,quantized,model_library
+google/gemma-2-2b-it,1,1,AutoModelForCausalLM
+google/gemma-2-9b-it,1,1,AutoModelForCausalLM
+meta-llama/Meta-Llama-3.1-8B-Instruct,1,1,LlamaForCausalLM
