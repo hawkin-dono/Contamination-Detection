@@ -116,7 +116,7 @@ D: {}
             else: 
                 prompt_prefix = "Fill in the <MASKED> part in the following sentence to complete a multiple choice question:"
         if not prompt_suffix: prompt_suffix = ""
-        self.df = self.df.loc[self.df["Question"].apply(lambda x: len(x.split()) > 8)]
+        # self.df = self.df.loc[self.df["Question"].apply(lambda x: len(x.split()) > 8)]
         
         res = [] 
         for i, row in self.df.iterrows():
