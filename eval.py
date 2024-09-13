@@ -99,7 +99,7 @@ def main():
     BATCH_SIZE = 16
     evaluate(model_names= None, data_names = "eng_final_domain",  process_types= ["mask_wrong_answer", "mask_half_question"], 
              prompt_prefix= None, prompt_suffix= None, size= None,
-             intermediate_data_save_path= "processed_data/itermediate_origin_final_domain.csv", DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
+             intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             
     
 if __name__ == "__main__":
