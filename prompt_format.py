@@ -11,6 +11,8 @@ class Prompt_format():
         else: 
             self.lang = "vi"
         self.df = pd.read_csv(data_path)
+        for i in self.df.columns:
+            self.df[i] = self.df[i].astype(str).apply(lambda x: x.strip())
         
             
     def format(self, process_type = None, prompt_prefix= None, prompt_suffix= None, save_path= None):   
