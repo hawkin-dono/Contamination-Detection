@@ -1,0 +1,1279 @@
+,Question,Answer,Label,rouge_score
+0,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Ngô Thì Nhậm từng làm quan dưới triều đại nào?
+### Lựa chọn:
+A: Triều Mạc, Lê, Trịnh 
+B: Triều Lê, Mạc, Tây Sơn
+C: [MASKED] 
+D: Triều Mạc, Lê, Trịnh, Tây Sơn","
+
+**C: Triều Lê, Mạc, Trịnh, Tây Sơn** 
+
+**Giải thích:**
+
+Ngô Thì Nhậm là một quan triều đại, nhưng không phải là một quan trong các triều đại nào trong câu hỏi. 
+
+* **Triều Lê:** Ngô Thì Nhậm là một quan trong triều Lê Sơ.
+* **Triều Mạc:** Ngô Thì Nhậm là một quan trong triều Mạc","Triều Lê, Trịnh, Tây Sơn",0.1538461595773697
+1,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Chiếu cầu hiền ra đời với mục đích gì?
+### Lựa chọn:
+A: Kêu gọi những người theo Nguyễn Ánh ra giúp Tây Sơn 
+B: Kêu gọi các Nho sĩ ra giúp nước
+C: [MASKED] 
+D: Kêu gọi kẻ sĩ Bắc Hà ra cộng tác với triều đình Tây Sơn","
+
+**C: Kêu gọi những người ** **thực dân** **ra giúp Tây Sơn** 
+
+**Giải thích:**
+
+* Chiếu cầu hiền là một hoạt động nhằm **kêu gọi** những người **thực dân** **ra giúp** Tây Sơn. 
+* Chiếu cầu hiền là một hoạt động nhằm **kêu gọi** những người **thực dân** **ra giúp** Tây Sơn. 
+
+
+
+",Kêu gọi những người giỏi võ ra giúp nước,0.1846153885126114
+2,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Chiếu cầu hiền ra đời trong hoàn cảnh đất nước như thế nào?
+### Lựa chọn:
+A: Khi triều đại Lê – Trịnh sụp đổ 
+B: Khi Trịnh Sâm lên ngôi vua
+C: Nguyễn Huệ lên ngôi vua 
+D: [MASKED]","
+
+**D: Khi Nguyễn Huệ lên ngôi vua** 
+
+**Giải thích:**
+
+* **Chiếu cầu hiền** là một trong những điều kiện quan trọng để Nguyễn Huệ lên ngôi vua. 
+* **Nguyễn Huệ** là người đã lên ngôi vua, sau đó là triều đại nhà Lê-Trịnh sụp đổ. 
+
+
+ 
+",Khi triều đại Tây Sơn sụp đổ,0.20000000298023224
+3,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đáp án không thể hiện đúng thái độ của sĩ phu Bắc Hà:
+### Lựa chọn:
+A: Kẻ sĩ mai danh ẩn tích uổng phí tài năng 
+B: Người ra làm quan thì giữ mình không dám nói thẳng
+C: [MASKED] 
+D: Nhiều người ngưỡng mộ tài năng của vua Quang Trung đã ra tiến cử","
+
+**C:  ** **""Kẻ sĩ mai danh ẩn tích uổng phí tài năng""** 
+
+**Giải thích:**
+
+Câu trả lời A, B, D đều có ý nghĩa về thái độ của sĩ phu Bắc Hà. 
+
+* **A: Kẻ sĩ mai danh ẩn tích uổng phí tài năng:**  Đây là một câu nói về sự lãng phí tài năng của những người sĩ phu Bắc Hà. 
+* **B: Người ra làm",Nhiều người có tài năng còn chưa chịu ra giúp nước,0.10256410390138626
+4,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Giá trị nội dung của Chiếu cầu hiền là:
+### Lựa chọn:
+A: Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên tri thức Bắc Hà tham gia xây dựng đất nước 
+B: Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Ngô Thì Nhậm nhằm động viên tri thức Bắc Hà tham gia xây dựng đất nước
+C: Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên quân Tây Sơn tham gia xây dựng đất nước 
+D: [MASKED]","
+
+**D: Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên quân Tây Sơn tham gia xây dựng đất nước** 
+
+
+**Giải thích:**
+
+* **Chiếu cầu hiền** là một văn kiện quan trọng thể hiện chủ trương của Nguyễn Huệ,  để động viên quân Tây Sơn tham gia xây dựng đất nước. 
+
+* Câu trả lời A, B, C đều sai vì:",Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên quân Bắc Hà đi thi ra làm quan,0.4423076808452606
+5,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nội dung của đoạn trích “Một thời đại trong thi ca” bàn đến vấn đề gì?
+### Lựa chọn:
+A: [MASKED] 
+B: Tinh thần Thơ mới
+C: Chủ nghĩa hiện thực Việt Nam. 
+D: Quan điểm nghệ thuật vị nhân sinh","**B: Tinh thần Thơ mới** 
+
+**Giải thích:**
+
+* **""Một thời đại trong thi ca""** là một đoạn trích viết về một thời đại trong thi ca. 
+* **Tinh thần Thơ mới** là một khái niệm chính xác mô tả tâm tư, phong cách và ý nghĩa của thi ca trong thời đại đó. 
+
+
+Các lựa chọn khác không phù hợp:
+
+* **C: Chủ nghĩa hiện thực Việt Nam:** Chủ",Các tác phẩm thuộc phong trào Thơ mới.,0.07792207598686218
+6,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: ""Chiếu cầu hiền"" là của tác giả nào?
+### Lựa chọn:
+A: Ngô Thì Nhậm 
+B: Ngô Thì Sĩ
+C: [MASKED] 
+D: Quang Trung","
+
+**C: Ngô Thì Sĩ** 
+
+
+**Giải thích:**
+
+* **Chiếu cầu hiền** là một tác phẩm văn học nổi tiếng của nhà văn **Ngô Thì Sĩ**. 
+ 
+Cụ thể: 
+
+* **Ngô Thì Sĩ** là một nhà văn lỗi lạc của thời kỳ nhà Lê sơ, nổi tiếng với tác phẩm **Chiếu cầu hiền**. 
+* **Ngô Thì Nh",Ngô gia văn phái,0.0634920671582222
+7,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu nào dưới đây nói đúng về năm sinh và năm mất của Hoài Thanh?
+### Lựa chọn:
+A: Sinh năm 1915, mất năm 1951. 
+B: Sinh năm 1920, mất năm 2002.
+C: [MASKED] 
+D: Sinh năm 1909, mất năm 1982.","
+
+**C: Sinh năm 1909, mất năm 1982.** 
+
+**Giải thích:**
+
+* Hoài Thanh sinh năm 1909 và mất năm 1982. 
+
+
+ 
+","Sinh năm 1930, mất năm 2008.",0.44897958636283875
+8,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hồn thơ “hùng tráng”, Hoài Thanh dùng chỉ nhà thơ nào trong bài viết “Một thời đại trong thi ca”?
+### Lựa chọn:
+A: Lưu Trọng Lư 
+B: Nguyễn Bính
+C: Huy Thông 
+D: [MASKED]","**D:  ** **Hoài Thanh** 
+
+**Giải thích:**
+
+* Bài viết ""Một thời đại trong thi ca"" của Hoài Thanh là một bài viết về thơ ca Việt Nam trong thời kỳ đầu của ông. 
+* Hoài Thanh là nhà thơ nổi tiếng của Việt Nam, được biết đến với phong cách thơ hùng tráng, đầy sức sống. 
+
+
+ 
+",Nguyễn Nhược Pháp,0.0
+9,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hồn thơ “kì dị"", Hoài Thanh dùng chỉ nhà thơ nào trong bài viết “Một thời đại trong thi ca”
+### Lựa chọn:
+A: Xuân Diệu 
+B: Huy Cận
+C: Chế Lan Viên 
+D: [MASKED]","**D:  ** **Hoài Thanh** 
+
+**Giải thích:**
+
+* Bài viết ""Một thời đại trong thi ca"" là một bài viết của nhà thơ Hoài Thanh. 
+* Hoài Thanh là nhà thơ nổi tiếng của Việt Nam, được biết đến với phong cách thơ ca trữ tình lãng mạn. 
+
+
+ 
+",Hàn Mặc Tử,0.0
+10,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn trích “Tôi có một ước mơ” được viết theo phương thức nào?
+### Lựa chọn:
+A: Nghị luận 
+B: Tự sự
+C: [MASKED] 
+D: Chính luận","**B: Tự sự** 
+
+**Giải thích:**
+
+* **Nghị luận:**  Là một loại văn bản luận cứ, đưa ra ý kiến, lập luận, phân tích, đánh giá. 
+* **Tự sự:** Là một loại văn bản kể về một sự kiện, hành động, cảm xúc của người kể chuyện. 
+* **Chính luận:** Là một loại văn bản trình bày một luận điểm, đưa ra một quan điểm, lập luận",Biểu cảm,0.03030303120613098
+11,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Bài diễn thuyết này được Martin Luther King đọc ở đâu vào thời gian nào?
+### Lựa chọn:
+A: Tại đài tưởng niệm Lin-cơn ngày 28/8/1963 
+B: Tại đài tưởng niệm Lin-cơn ngày 29/8/1963
+C: Tại đài tưởng niệm Lin-cơn ngày 29/8/1964 
+D: [MASKED]","
+
+**D: Tại đài tưởng niệm Lin-cơn ngày 28/8/1963** 
+
+Bài diễn thuyết ""I Have a Dream"" (Tôi có giấc mơ) được Martin Luther King đọc tại **đài tưởng niệm Lin-cơn ngày 28/8/1963**. 
+",Tại đài tưởng niệm Lin-cơn ngày 28/8/1964,0.4285714328289032
+12,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hồn thơ “quê mùa”, Hoài Thanh dùng chỉ nhà thơ nào trong bài viết “Một thời đại trong thi ca”
+### Lựa chọn:
+A: [MASKED] 
+B: Nguyễn Bính
+C: Lưu Trọng Lư 
+D: Tố Hữu","
+
+**Hồn thơ “quê mùa”, Hoài Thanh dùng chỉ nhà thơ nào trong bài viết “Một thời đại trong thi ca”**
+
+**Đáp án:** **D: Tố Hữu** 
+
+**Giải thích:**
+
+* Bài viết ""Một thời đại trong thi ca"" của Hoài Thanh là một bài viết về sự phát triển của thi ca Việt Nam. 
+* Trong bài viết, Hoài Thanh đã đề cập đến các nhà thơ nổi tiếng",Nguyễn Nhược Pháp,0.0
+13,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hồn thơ “trong sáng”, Hoài Thanh dùng chỉ nhà thơ nào trong bài viết “Một thời đại trong thi ca”?
+### Lựa chọn:
+A: Thế Lữ 
+B: Lưu Trọng Lư
+C: Nguyễn Nhược Pháp 
+D: [MASKED]","**D:  ** **Hoài Thanh** 
+
+**Giải thích:**
+
+* Bài viết ""Một thời đại trong thi ca"" của Hoài Thanh là một bài viết về thơ ca Việt Nam trong thời kỳ đầu của thế kỷ 20. 
+* Hoài Thanh là nhà thơ nổi tiếng của Việt Nam, được biết đến với phong cách thơ ca lãng mạn, trữ tình. 
+
+
+ 
+",Nguyễn Bính,0.0
+14,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong “Một thời đại thi ca”, Hoài Thanh viết: “Đời chúng ta nằm trong một chữ tôi. Mất bề rộng ta đi tìm bề sâu. Nhưng càng đi càng ớn lạnh”.  là nhận định của Hoài Thanh về hồn thơ của các nhà “Thơ mới” ở giai đoạn thoái trào. Cụm từ “nhưng động tiên đã khép”, ông chỉ nhà thơ nào?
+### Lựa chọn:
+A: Thế Lữ 
+B: Xuân Diệu
+C: [MASKED] 
+D: Hàn Mặc Tử","**B: Xuân Diệu**
+
+**Giải thích:**
+
+* **Cụm từ ""nhưng động tiên đã khép""** trong đoạn văn của Hoài Thanh thể hiện sự thay đổi trong tâm lý của nhà thơ. 
+* **Xuân Diệu** là một nhà thơ thuộc thế hệ ""Thơ mới"" nổi tiếng với phong cách thơ lãng mạn, ưa thích sử dụng ngôn ngữ cầu kỳ, giàu hình ảnh.  
+* **Xuân",Lưu Trọng Lư,0.0
+15,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: “Cầu hiền” ở đây hướng tới đối tượng nào?
+### Lựa chọn:
+A: [MASKED] 
+B: Người có tài
+C: Người có đức 
+D: Người có đức và tài","**Cầu hiền**  là một câu nói về **người có đức**. 
+
+**Câu trả lời chính xác là C.** 
+
+**Giải thích:**
+
+* **Cầu hiền** là một câu nói về một người có đức tính tốt, có lòng hiền lành, có lòng nhân ái. 
+* **Người có đức** là một khái niệm chung, không phải là một đối tượng cụ thể. 
+
+
+ 
+",Người ăn ở hiền lành,0.08955223858356476
+16,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tác giả của đoạn trích “Tôi có một ước mơ” là ai?
+### Lựa chọn:
+A: Aleksandr Sergeyevich Pushkin 
+B: Mác –tin Lu-thơ Kinh
+C: [MASKED] 
+D: Vic-to Huy-gô","
+
+**C:  ** **Victor Hugo** 
+
+
+**Giải thích:**
+
+* **Victor Hugo** là tác giả của đoạn trích ""Tôi có một ước mơ"". 
+* **Aleksandr Sergeyevich Pushkin** là tác giả của nhiều tác phẩm nổi tiếng như ""Cảnh quan"", ""Lòng người"", ""Thơ ca"".
+* **Mác – tin Lu-thơ Kinh** là tác giả của nhiều tác phẩm nổi tiếng như ""Thơ",Rabindranath Tagore,0.0
+17,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tác giả đã nêu ra cách nhận diện tinh thần Thơ mới như thế nào?
+### Lựa chọn:
+A: [MASKED] 
+B: So sánh bài hiện đại với bài cổ điển.
+C: So sánh bài hay với bài tầm thường. 
+D: So sánh bài tầm thường với bài tầm thường.","**So sánh bài hiện đại với bài cổ điển.** 
+
+**Giải thích:**
+
+* **Tác giả đã nêu ra cách nhận diện tinh thần Thơ mới như thế nào?**  Câu hỏi này đề cập đến cách nhận diện tinh thần Thơ mới. 
+* **So sánh bài hiện đại với bài cổ điển** là cách nhận diện tinh thần Thơ mới. 
+
+**Các lựa chọn khác không phù hợp:**
+
+* **C: So sánh bài hay",So sánh bài hay với bài hay.,0.15789473056793213
+18,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu văn “Người hiền xuất hiện ở đời, thì như ngôi sao sáng trên trời cao” nói lên nội dung gì?
+### Lựa chọn:
+A: Nhân tài Bắc Hà nhiều như sao trên trời. 
+B: Người hiền theo Quang Trung rất nhiều như sao trời
+C: [MASKED] 
+D: So sánh người hiền tài như vì sao tinh tú. Đề cao vị trí, vai trò của người hiền tài.","**C: Người hiền xuất hiện ở đời, thì như ngôi sao sáng trên trời.** 
+
+**Giải thích:**
+
+Câu văn ""Người hiền xuất hiện ở đời, thì như ngôi sao sáng trên trời"" là một câu nói về sự hiếm hoi, quý giá của người hiền.  Ngôi sao sáng trên trời cao tượng trưng cho sự hiếm hoi, quý giá,  và người hiền như sao đó, xuất hiện ở đời, mang lại ánh",Người hiền ở Bắc Hà rất hiếm có,0.1149425283074379
+19,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn trích “Tôi có một ước mơ” nằm trong:
+### Lựa chọn:
+A: Ăn sáng với kim cương 
+B: Người đàn ông của chúng tôi ở Havana
+C: Bước đến tự do, Câu chuyện Mon-ga-mo- ri- Montgomery 
+D: [MASKED]","**C: Bước đến tự do, Câu chuyện Mon-ga-mo-ri-Montgomery** 
+
+Câu chuyện ""Tôi có một ước mơ"" là một phần của câu chuyện ""Bước đến tự do"" - một câu chuyện nổi tiếng của tác giả **Harper Lee**. 
+","Một con gấu tên là Paddington, với hình minh họa của Peggy Fortnum",0.07017543911933899
+20,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nữ phóng viên đầu tiên là viết về ai?
+### Lựa chọn:
+A: Manh Manh nữ sĩ 
+B: Nguyễn Thị Bình
+C: Trương Mỹ Hoa 
+D: [MASKED]","**D: Nguyễn Thị Bình** 
+
+**Giải thích:**
+
+Nguyễn Thị Bình là nữ phóng viên đầu tiên được ghi nhận trong lịch sử Việt Nam. 
+
+Cả A, B đều là những người có vai trò quan trọng trong lĩnh vực báo chí, nhưng không phải là nữ phóng viên đầu tiên. 
+",Hồ Xuân Hương,0.0
+21,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tên thật của Manh Manh nữ sĩ là:
+### Lựa chọn:
+A: Nguyễn Thị Khiêm 
+B: Nguyễn Thị Kiêm
+C: [MASKED] 
+D: Nguyễn Thị Lan","
+
+**C: Nguyễn Thị Kiêm** 
+
+**Giải thích:**
+
+Manh Manh là tên khai sinh của nữ sĩ Nguyễn Thị Kiêm. 
+",Nguyễn Thị Hoa,0.07407407462596893
+22,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Bà Kiêm bắt đầu trở nên nổi tiếng khi:
+### Lựa chọn:
+A: Nổi tiếng về những bài diễn thuyết, những bài viết về bình đẳng giới và thơ mới 
+B: Viết thơ
+C: Viết bài ủng hộ thơ mới 
+D: [MASKED]","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Bà Kiêm bắt đầu trở nên nổi tiếng khi:
+### Lựa chọn:
+A: Nổi tiếng về những bài diễn thuyết, những bài viết về bình đẳng giới và thơ mới 
+B: Viết thơ
+C: Viết bài ủng hộ thơ mới 
+D: [MASKED]
+model
+Nội dung của lựa chọn D là:
+
+**D:  ** **Bà Kiêm bắt đầu trở nên nổi tiếng khi viết thơ** 
+
+**Giải thích:**
+
+* Bà Kiêm nổi tiếng với sự nghiệp viết thơ. 
+* Bà Kiêm là một nhà thơ nổi tiếng, được biết đến với những bài thơ giàu cảm xúc và ý nghĩa. 
+
+Cụ thể, câu trả lời A, B, C đều có thể đúng, nhưng chỉ D là đáp án chính xác nhất. 
+",Viết kí,0.0
+23,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào nói đúng nhất về năm sinh năm mất của bà Kiêm?
+### Lựa chọn:
+A: [MASKED] 
+B: Sinh 1914 mất 2005
+C: Sinh 1913 mất 2005 
+D: Sinh 1912 mất 2005","
+
+**B: Sinh 1913 mất 2005** 
+
+**Giải thích:**
+
+* Bà Kiêm sinh năm 1913 và mất năm 2005. 
+
+**Lưu ý:** 
+
+* Câu hỏi trắc nghiệm yêu cầu lựa chọn đúng nhất. 
+* Câu trả lời A là câu trả lời chính xác. 
+* Câu trả lời B, C, D đều sai. 
+
+
+",Sinh 1914 mất 2015,0.2631579041481018
+24,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Sở trường của bà Kiêm là gì?
+### Lựa chọn:
+A: Thơ 
+B: Diễn thuyết
+C: Phỏng vấn 
+D: [MASKED]","
+
+**D:  ** **Kỹ thuật** 
+
+**Giải thích:** 
+
+Câu hỏi đề cập đến sở trường của bà Kiêm, và từ ngữ ""Sở trường"" cho thấy đây là một khía cạnh chuyên môn của bà.  
+
+* **Thơ:**  Là một nghệ thuật sáng tác, không liên quan đến kỹ thuật.
+* **Diễn thuyết:** Là một kỹ năng thuyết trình, có thể được sử dụng trong các lĩnh vực khác",Phê bình,0.0
+25,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Bà Kiêm là phóng viên của tờ báo nào?
+### Lựa chọn:
+A: Phụ nữ Tân thời 
+B: [MASKED]
+C: Phụ nữ Tân văn 
+D: Thần chung","
+
+**B: Phụ nữ Tân văn** 
+
+
+Cụ thể: 
+
+* Bà Kiêm là phóng viên của tờ báo **Phụ nữ Tân văn**. 
+ 
+ 
+",Đuốc An Nam,0.0
+26,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tại kì Pa-ra-lim-pích Tô-ky-ô 2020 vận động viên xuất sắc nhất là:
+### Lựa chọn:
+A: Van Gát 
+B: Henry
+C: [MASKED] 
+D: Xnai – đơ","**C:  ** **Van Gát** 
+
+Câu hỏi này liên quan đến sự kiện Olympic, và Van Gát là vận động viên xuất sắc nhất tại kì Olympic Paris 2020. 
+",Hanry,0.0
+27,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đến Pa-ra-lim-pích Ri-ô đờ Gia - nê - rô Xnai-đơ dành được mấy chương:
+### Lựa chọn:
+A: 2 huy chương vàng 
+B: 3 huy chương vàng
+C: [MASKED] 
+D: 6 huy chương vàng","
+
+**C: 3 huy chương vàng** 
+
+Đáp án chính xác là **3 huy chương vàng**. 
+",4 huy chương vàng,0.30000001192092896
+28,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong lần tham dự Pa-ra-lim-pích đầu tiên, Van Gát đã dành được:
+### Lựa chọn:
+A: 2 huy chương vàng 2 huy chương bạc 
+B: 2 huy chương vàng 1 huy chương bạc
+C: 2 huy chương vàng 1 huy chương đồng 
+D: [MASKED]","
+
+**D: 2 huy chương vàng 1 huy chương bạc** 
+
+**Giải thích:**
+
+Van Gát đã giành được 2 huy chương vàng và 1 huy chương bạc tại các kỳ Olympic. 
+
+**Lưu ý:** 
+
+* Câu hỏi trắc nghiệm dựa trên trí nhớ về thông tin về Van Gát. 
+* Các lựa chọn A, B, C đều sai vì không phù hợp với thông tin về huy chương của Van Gát",2 huy chương bạc 1 huy chương đồng,0.1927710771560669
+29,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong nói và viết, cần tránh hiện tượng nào?
+### Lựa chọn:
+A: Ngôn ngữ nói được ghi lại bằng chữ viết. 
+B: [MASKED]
+C: Dùng ngôn ngữ nói và ngôn ngữ viết đúng lúc, đúng chỗ. 
+D: Dùng những yếu tố đặc thù của ngôn ngữ viết khi nói.","**Dùng những yếu tố đặc thù của ngôn ngữ viết khi nói.** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Câu hỏi đề cập đến việc tránh hiện tượng gì trong nói và viết.
+* **Lựa chọn A:**  Ngôn ngữ nói được ghi lại bằng chữ viết là một hiện tượng, không phải là điều cần tránh.
+* **Lựa chọn C:**  Câu C nói về sự hợp lý trong ngôn ngữ nói và viết, không liên",Ngôn ngữ viết được trình bày lại bằng lời nói.,0.1463414579629898
+30,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nhận xét nào về các câu văn vần trong truyện Tấm Cám chưa chính xác?
+### Lựa chọn:
+A: Có người nói và người nghe. 
+B: Người nghe không có mặt.
+C: [MASKED] 
+D: Ngôn ngữ tự nhiên, trau chuốt.","**C:  Người nghe không có mặt.**
+
+**Giải thích:**
+
+Câu văn ""Tấm Cám"" là một câu văn vần, nghĩa là nó có sự kết hợp của âm điệu, âm thanh, và cách diễn đạt để tạo nên sự hài hòa. 
+
+* **A: Có người nói và người nghe.**  Đây là một khái niệm chung, không liên quan đến đặc điểm của câu văn vần trong truyện.
+* **B: Người nghe",Được thể hiện bằng âm thanh và ngữ điệu.,0.07407407462596893
+31,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Văn bản Trí thông minh nhân tạo được trích từ:
+### Lựa chọn:
+A: Hồ sơ tương lai: lược sử 50 năm tới 
+B: [MASKED]
+C: 50 ý tưởng về tương lai 
+D: Trí tuệ tương lai: kỉ nguyên thông tin đã thay đổi đầu óc chúng ta như thế thế nào, tại sao và chúng ta có thể làm gì?","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Văn bản Trí thông minh nhân tạo được trích từ:
+### Lựa chọn:
+A: Hồ sơ tương lai: lược sử 50 năm tới 
+B: [MASKED]
+C: 50 ý tưởng về tương lai 
+D: Trí tuệ tương lai: kỉ nguyên thông tin đã thay đổi đầu óc chúng ta như thế thế nào, tại sao và chúng ta có thể làm gì?
+model
+Nội dung của lựa chọn B là:
+
+**B: Trí tuệ tương lai: kỉ nguyên thông tin đã thay đổi đầu óc chúng ta như thế thế nào, tại sao và chúng ta có thể làm gì?** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Văn bản Trí thông minh nhân tạo được trích từ.
+* **Lựa chọn:**  Cần tìm câu trả lời phù hợp với văn bản. 
+* **Câu trả lời:**  Câu trả lời phù hợp","Kĩ thuật số và con người: chúng ta sẽ sống, yêu và suy nghĩ ra sao trong tương lai",0.051020409911870956
+32,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Thuật ngữ trí thông minh nhân tạo được ra đời vào năm nào?
+### Lựa chọn:
+A: [MASKED] 
+B: 1956
+C: 1966 
+D: 1976","
+
+**A: 1956** 
+
+**Giải thích:**
+
+Thuật ngữ "" trí thông minh nhân tạo"" (Artificial Intelligence, AI) được ra đời vào năm 1956.  Đây là năm  Alan Turing, một nhà khoa học nổi tiếng, đã đưa ra khái niệm về ""thử nghiệm Turing"" - một bài kiểm tra để đánh giá khả năng của một máy tính có thể phân biệt được giữa một người và một máy.",1946,0.07594936341047287
+33,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Thuật ngữ trí thông minh nhân tạo do ai đặt ra:
+### Lựa chọn:
+A: Giôn Mác Cát-thi 
+B: Mít-sen Cây-pơ
+C: [MASKED] 
+D: Một đáp án khác","**B: Mít-sen Cây-pơ** 
+
+**Giải thích:**
+
+Thuật ngữ "" trí thông minh nhân tạo"" được đặt ra bởi **Marvin Mít-sen Cây-pơ**  là một nhà khoa học, nhà nghiên cứu về trí tuệ nhân tạo. 
+",Bin Can-vin,0.0
+34,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tác giả của văn bản Trí thông minh nhân tạo là ai?
+### Lựa chọn:
+A: Ri-sát Oát-xơn 
+B: Giôn Mát Cát-thi
+C: Mít-sen Cây-pơ 
+D: [MASKED]","**D:  ** **Trần Huyền** 
+
+**Trí thông minh nhân tạo** là một tác phẩm của **Trần Huyền**. 
+",Bin Can-vin,0.0
+35,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Địa điểm tổ chức cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2 là ở:
+### Lựa chọn:
+A: Nhật Bản 
+B: [MASKED]
+C: Bệnh viện Xtốc Men-đơ-vin 
+D: Mỹ","
+
+**B:  ** **Pháp** 
+
+Câu hỏi này liên quan đến lịch sử và địa điểm tổ chức cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2. 
+
+* **Pháp** là quốc gia đầu tiên tổ chức cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2. 
+
+
+ 
+",Anh,0.0
+36,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Theo nhà tương lai học Ray Cơ-dơ-uên thì máy tính sẽ vượt qua bài kiểm tra Tu-rinh vào năm nào?
+### Lựa chọn:
+A: [MASKED] 
+B: 2029
+C: 2039 
+D: 2049","
+
+**Ray Cơ-dơ-uên dự đoán rằng máy tính sẽ vượt qua bài kiểm tra Turing vào năm 2049.** 
+
+**Cụ thể:**
+
+Ray Kurzweil, nhà tương lai học, cho rằng máy tính sẽ vượt qua bài kiểm tra Turing vào năm 2049. 
+
+**Vì vậy, câu trả lời chính xác là C: 2039** 
+",2019,0.0833333358168602
+37,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tại cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2 có bao nhiêu vận động viên tham gia?
+### Lựa chọn:
+A: 14 
+B: 15
+C: 16 
+D: [MASKED]","
+
+**D: 16** 
+
+Câu hỏi này dựa trên thông tin về cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2.  
+
+**Giải thích:** 
+
+*  Thông tin về số lượng vận động viên tham gia cuộc đua thể thao đầu tiên dành cho các cựu chiến binh thế chiến thứ 2 là 16. 
+ 
+ 
+",17,0.03030303120613098
+38,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Năm 1988 cả Pa-ra-lim-pích và Ô-lim-pích đều được tổ chức tại thành phố:
+### Lựa chọn:
+A: Seoul 
+B: [MASKED]
+C: Thổ Nhĩ Kì 
+D: Một đáp án khác","
+
+**B:  ** **Peking** 
+
+**Giải thích:**
+
+* **Pa-ra-lim-pích** là sự kiện Olympic 1988.
+* **Ô-lim-pích** là sự kiện Olympic 1988. 
+* **Peking** là tên viết tắt của **Thăng Long** (hay **Beijing**) -  là thành phố ở Trung Quốc, là nơi tổ chức Olympic 198",Hy Lạp,0.0
+39,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Theo tác giả thì đến năm 2040 các bộ não máy có thể xử lí bao nhiêu lệnh mỗi giây?
+### Lựa chọn:
+A: 100 nghìn tỉ lệnh 
+B: 200 nghìn tỉ lệnh
+C: [MASKED] 
+D: Một con số khác","
+
+**C: 100 nghìn tỉ lệnh** 
+
+**Giải thích:**
+
+Theo trí nhớ của tôi, tác giả đã đề cập đến khả năng xử lý của bộ não máy trong tương lai, và họ dự đoán rằng vào năm 2040, bộ não máy có thể xử lý **100 nghìn tỉ lệnh mỗi giây**. 
+
+
+ 
+",300 nghìn tỉ lệnh,0.17391304671764374
+40,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn trích ‘Vợ nhặt’ là của tác giả nào?
+### Lựa chọn:
+A: [MASKED] 
+B: Ngô Tất Tố
+C: Kim Lân 
+D: Chế Lan Viên","**B: Ngô Tất Tố** 
+
+Câu hỏi trắc nghiệm này dựa vào trí nhớ về tác giả của một đoạn trích văn học. 
+
+* **Ngô Tất Tố** là tác giả của tác phẩm ""Vợ nhặt"". 
+* **Kim Lân** là tác giả của tác phẩm ""Chuyện người con gái Nam bộ"".
+* **Chế Lan Viên** là tác giả của tác phẩm ""Mưa"". 
+
+
+ 
+",Nam Cao,0.0
+41,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Giá trị hiện thực của truyện ngắn “Vợ nhặt” là:
+### Lựa chọn:
+A: Cho thấy một thảm cảnh thê thảm của những con người nghèo trong nạn đói 1945 do phát xít Nhật và thực dân Pháp gây nên. 
+B: [MASKED]
+C: Thể hiện lòng cảm thông sâu sắc đối với số phận con người trong nạn đói. 
+D: Là bài ca ca ngợi sự sống, tình thương, sự cưu mang, đùm bọc, khát vọng","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Giá trị hiện thực của truyện ngắn “Vợ nhặt” là:
+### Lựa chọn:
+A: Cho thấy một thảm cảnh thê thảm của những con người nghèo trong nạn đói 1945 do phát xít Nhật và thực dân Pháp gây nên. 
+B: [MASKED]
+C: Thể hiện lòng cảm thông sâu sắc đối với số phận con người trong nạn đói. 
+D: Là bài ca ca ngợi sự sống, tình thương, sự cưu mang, đùm bọc, khát vọng
+model
+Nội dung của lựa chọn B là:
+
+**B: Thể hiện lòng cảm thông sâu sắc đối với số phận con người trong nạn đói.**
+
+**Giải thích:**
+
+* **Câu hỏi:** Giá trị hiện thực của truyện ngắn ""Vợ nhặt"" là gì?
+* **Lựa chọn A:**  Câu trả lời này đúng, nhưng không phải là giá trị hiện thực của truyện. 
+* **Lựa chọn C:** Câu trả lời này cũng đúng, nhưng không phải là giá trị",Tố cáo tội ác của bọn thực dân phát xít.,0.04784689098596573
+42,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Mở đầu cho truyện ngắn với hình ảnh Chí Phèo “vừa đi vừa chửi” thật hài hước và lôi cuốn độc giả đã thể hiện điều gì trong ngòi bút Nam Cao ?
+### Lựa chọn:
+A: [MASKED] 
+B: Làm người đọc hả hê vì Chí Phèo đă chửi tất tần tật, là một dự báo trừng phạt bọn cường hào ác bá ở làng Vũ Đại.
+C: Hấp dẫn người đọc vì Chí Phèo đã nhận thức được nguyên nhân cuộc đời mình tha hoá là do bọn cường hào ác bá làng xã. 
+D: Tạo cái bề ngoài hài hước của Chí Phèo lại là biểu hiện của một tấn bi kịch bên trong. Nụ cười bất giác ban đầu lại lắng đọng một dự vị buồn đau, chua chát trong lòng độc giả.","
+
+**A: [MASKED]** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Mở đầu cho truyện ngắn với hình ảnh Chí Phèo “vừa đi vừa chửi” thật hài hước và lôi cuốn độc giả đã thể hiện điều gì trong ngòi bút Nam Cao ?
+
+* **Câu trả lời:**  Câu trả lời cần đi vào điểm chính của câu hỏi, đó là **biểu hiện của một dự báo trừng phạt**
+
+",Nam Cao mô tả thật đúng hình ảnh những gã say rượu thường không tự chủ được bản thân.,0.04494382068514824
+43,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Mở đầu là hình ảnh chiếc lò gạch cũ và kết thúc cũng như thế. Điều đó có ý nghĩa gì?
+### Lựa chọn:
+A: Tác giả muốn giới thiệu với độc giả việc làm quanh năm của nông dân làng Vũ Đại là sản xuất gạch. 
+B: [MASKED]
+C: Nó gợi lên cái vòng luẩn quẩn, bế tắc, đau thương không lối thoát của người nông dân Việt Nam trong xã hội cũ. 
+D: Đời sống nông dân làng Vũ Đại hoang tàn như cái lò gạch cũ.","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Mở đầu là hình ảnh chiếc lò gạch cũ và kết thúc cũng như thế. Điều đó có ý nghĩa gì?
+### Lựa chọn:
+A: Tác giả muốn giới thiệu với độc giả việc làm quanh năm của nông dân làng Vũ Đại là sản xuất gạch. 
+B: [MASKED]
+C: Nó gợi lên cái vòng luẩn quẩn, bế tắc, đau thương không lối thoát của người nông dân Việt Nam trong xã hội cũ. 
+D: Đời sống nông dân làng Vũ Đại hoang tàn như cái lò gạch cũ.
+model
+Nội dung của lựa chọn B là:
+
+**B: Tác giả muốn giới thiệu với độc giả việc làm quanh năm của nông dân làng Vũ Đại là sản xuất gạch.**
+
+**Giải thích:**
+
+* Câu hỏi đề cập đến ""Mở đầu là hình ảnh chiếc lò gạch cũ và kết thúc cũng như thế"", điều này cho thấy sự liên quan đến hoạt động sản xuất gạch. 
+* Câu trả lời A, C và D đều có ý nghĩa liên quan đến sự tàn tạ, nhưng không","Hình ảnh lò gạch bỏ hoang, khiến người đọc hiểu đó là nghề truyền thống của làng Vũ Đại đã mai một.",0.07758620381355286
+44,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu nào sau đây là nhận định đúng về bài thơ “Nhớ đồng” của Tố Hữu?
+### Lựa chọn:
+A: Là những dòng tâm tư nồng nhiệt, tha thiết, trong trẻo của nhà thơ trẻ hướng về ruộng đồng, quê hương, về những con người thân yêu, về những kỉ niệm của một thời hoạt động cách mạng sôi nổi. 
+B: [MASKED]
+C: Là nỗi hoang mang của chàng trai trẻ lần đầu bị giam cầm. 
+D: Là nỗi lòng tha thiết nhớ về người yêu - là một cô thôn nữ.","
+
+**B: Là những dòng tâm tư nồng nhiệt, tha thiết, trong trẻo của nhà thơ trẻ hướng về ruộng đồng, quê hương, về những con người thân yêu, về những kỉ niệm của một thời hoạt động cách mạng sôi nổi.**
+
+**Giải thích:**
+
+* **Câu hỏi:** Bài thơ ""Nhớ đồng"" của Tố Hữu là gì?
+* **Lựa chọn A:**  Câu trả lời A đúng, bài thơ",Nỗi nhớ thương mẹ già còng lưng trên những cánh đồng,0.04878048598766327
+45,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tâm trạng của tác giả trong bài thơ “Nhớ đồng” là gì?
+### Lựa chọn:
+A: Bâng khuâng, bồn chồn trước cảnh lao tù. 
+B: Buồn và nhớ quê hương, đồng bào da diết.
+C: [MASKED] 
+D: Luyến tiếc, nhớ nhung cuộc sống tự do.","
+
+**C:  ** **Nỗi nhớ quê hương, đồng bào da diết.** 
+
+**Giải thích:**
+
+* Bài thơ ""Nhớ đồng"" của nhà thơ Nguyễn Du thể hiện tâm trạng của tác giả là nỗi nhớ quê hương, đồng bào da diết. 
+* Bài thơ được viết trong hoàn cảnh chiến tranh, tác giả thể hiện sự đau đớn, lo lắng cho đồng bào, đồng thời cũng thể hiện sự nhớ nhung về quê hương","Vui tươi, phấn khởi khi nhớ lại những kỉ niệm xưa.",0.0235294122248888
+46,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nhân vật Tràng được miêu tả với tính cách như thế nào?
+### Lựa chọn:
+A: Hiền lành, vui tính, hay vui đùa với mấy đứa trẻ trong xóm 
+B: Lầm lì ít nói
+C: [MASKED] 
+D: Tất cả các phương án trên đều đúng","
+
+**C:  ** **Giận dữ, khó tính** 
+
+**Giải thích:**
+
+Tràng trong văn học được miêu tả là một nhân vật có tính cách **giận dữ, khó tính**.  
+
+* **Tràng** là một nhân vật trong văn học Việt Nam, được miêu tả là một người có tính cách **giận dữ, khó tính**. 
+* **Tràng** là một nhân vật trong văn học Việt Nam, được","Khuôn mặt dữ dằn, bặm trợn, hay cáu kỉnh",0.02380952425301075
+47,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn thơ từ câu “Đâu những ngày xưa, tôi nhớ tôi” đến “Như cảnh chim buồn nhớ gió mây” thể hiện điều gì?
+### Lựa chọn:
+A: Niềm say mê lí tưởng, khát khao tự do và hành động của tác giả. 
+B: [MASKED]
+C: Hồi ức của tác giả về những hình ảnh gắn liền với quê hương. 
+D: Sự nhớ nhung người bạn mà tác giả đề tặng bài thơ.","**C: Hồi ức của tác giả về những hình ảnh gắn liền với quê hương.** 
+
+**Giải thích:**
+
+* **Câu thơ**  ""Đâu những ngày xưa, tôi nhớ tôi"" đến ""Như cảnh chim buồn nhớ gió mây"" thể hiện sự **nhớ về quá khứ**, đặc biệt là những **hình ảnh, cảm xúc, và kỷ niệm gắn liền với quê hương**. 
+
+* **Câu thơ**  được viết theo hình",Sự tái hiện hình ảnh con người quê hương trong tâm hồn tác giả.,0.1265822798013687
+48,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào sau đây khái khát đúng nhất về ý nghĩa đặc biệt của “bát cháo hành” mà thị Nở mang cho Chí Phèo trong tác phẩm cùng tên của Nam Cao?
+### Lựa chọn:
+A: Vật đầu tiên Chí Phèo được cho, không do cướp giật mà có. 
+B: [MASKED]
+C: Vật biểu trưng cho tình người thơm thảo trong xã hội cũ. 
+D: Vật biểu trưng cho niềm khát khao hạnh phúc của Chí Phèo","
+
+**B: Vật biểu trưng cho tình người thơm thảo trong xã hội cũ.**
+
+**Giải thích:**
+
+* **Bát cháo hành** trong tác phẩm ""Bát cháo hành"" của Nam Cao là một biểu tượng mang ý nghĩa đặc biệt. Nó không chỉ là một món ăn đơn thuần, mà còn thể hiện nhiều khía cạnh:
+    * **Tình người thơm thảo:**  Bát cháo hành là món ăn quen thuộc, mang","Vật biểu trưng cho hương vị ngọt ngào của hạnh phúc, tình yêu",0.1190476194024086
+49,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nguyên nhân nào đã đẩy Chí Phèo từ một thanh niên hiền lành, lương thiện phải vào tù?
+### Lựa chọn:
+A: [MASKED] 
+B: Vì ăn trộm đồ nhà Bá Kiến.
+C: Vì giết người trong làng. 
+D: Vì bị Bá Kiến ghen tuông","
+
+**A: Vì ăn trộm đồ nhà Bá Kiến.** 
+
+**Giải thích:**
+
+Câu hỏi đề cập đến nguyên nhân đẩy Chí Phèo vào tù.  Chí Phèo từ một thanh niên hiền lành, lương thiện, nhưng đã bị đẩy vào tù do hành động ăn trộm đồ nhà Bá Kiến. 
+
+**Các lựa chọn khác:**
+
+* **C: Vì giết người trong làng.**  Là một hành động phạm tội nghiêm",Vì đánh bạc.,0.0
+50,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đâu không là sáng tác tiêu biểu của Tố Hữu
+### Lựa chọn:
+A: [MASKED] 
+B: Ra trận
+C: Việt Bắc 
+D: Chiều tối","
+
+**Đâu không là sáng tác tiêu biểu của Tố Hữu?**
+
+**Câu trả lời:** Câu hỏi này nhằm loại bỏ các tác phẩm của Tố Hữu. 
+
+**Lựa chọn A: Ra trận** là một tác phẩm của nhà thơ Tố Hữu. 
+
+**Lựa chọn B: Việt Bắc** là một tác phẩm tiêu biểu của Tố Hữu.
+
+**Lựa chọn C: Việt Bắc** là một tác phẩm",Từ ấy,0.0
+51,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cảm hứng của bài thơ “Nhớ đồng” được hình thành từ:
+### Lựa chọn:
+A: Những âm thanh hết sức bình dị của cuộc sống. 
+B: [MASKED]
+C: Tiếng chim tu hú gọi hè nơi tác giả bị giam cầm. 
+D: Tiếng hò vọng vào nhà tù, nơi tác giả bị giam cầm.","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cảm hứng của bài thơ “Nhớ đồng” được hình thành từ:
+### Lựa chọn:
+A: Những âm thanh hết sức bình dị của cuộc sống. 
+B: [MASKED]
+C: Tiếng chim tu hú gọi hè nơi tác giả bị giam cầm. 
+D: Tiếng hò vọng vào nhà tù, nơi tác giả bị giam cầm.
+model
+Nội dung của lựa chọn B là:
+
+**B: Những cảm xúc, tâm tư của tác giả** 
+
+**Giải thích:**
+
+* Bài thơ ""Nhớ đồng"" của nhà thơ Nguyễn Khoa được viết trong hoàn cảnh chiến tranh. 
+* Cảm hứng của bài thơ được hình thành từ những **cảm xúc, tâm tư** của tác giả, phản ánh sự nhớ nhung về quê hương, đồng quê, và nỗi nhớ về những điều bình dị của cuộc sống. 
+
+Các lựa chọn khác",Những kỉ niệm từ ngày tác giả còn hoạt động cách mạng.,0.03351955488324165
+52,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Sau khi đi ở tù về, Chí Phèo trong tác phẩm cùng tên của Nam Cao trở thành con người như thế nào?
+### Lựa chọn:
+A: Chán đời, không muốn sống. 
+B: Làm ăn lương thiện để kiếm sống.
+C: Trở thành kẻ lưu manh, côn đồ. 
+D: [MASKED]","**D:  ** **Chán đời, không muốn sống.** 
+
+**Giải thích:**
+
+Câu hỏi đề cập đến sự thay đổi của Chí Phèo sau khi ra tù.  Nam Cao đã mô tả Chí Phèo trở nên **chán đời, không muốn sống** sau khi bị xã hội và sự bất công đẩy vào thế giới đầy khó khăn. 
+
+Cụ thể:
+
+* **Chán đời, không muốn sống:** Đây là kết quả của sự","Hiền lành, nhẫn nhục và nhút nhát.",0.02380952425301075
+53,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tính cách của nhân vật bá Kiến nói một cách khái quát nhất là:
+### Lựa chọn:
+A: [MASKED] 
+B: Con người lọc lõi, hiểm ác, gian hùng
+C: Thâm độc, tham tàn, gian xảo. 
+D: Lọc lõi, háo lợi, háo danh.","**Lọc lõi, hiểm ác, gian hùng**
+
+**Giải thích:**
+
+* **Lựa chọn A: Lọc lõi, hiểm ác, gian hùng** là cách diễn đạt chính xác nhất về tính cách của nhân vật Bá Kiến trong văn học. 
+
+* **Lựa chọn B: Con người lọc lõi, hiểm ác, gian hùng** là một cách diễn đạt tương tự, nhưng có thể được xem là một cách diễn đạt trực tiếp hơn.","Con người xảo quyệt, độc ác, háo sắc.",0.04938271641731262
+54,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Công việc của Tràng là gì?
+### Lựa chọn:
+A: Nông dân 
+B: Kéo xe bò thuê
+C: Cày thuê 
+D: [MASKED]","**C: Cày thuê** 
+
+**Giải thích:**
+
+Câu hỏi đề cập đến công việc của Tràng, và từ ngữ ""cày thuê"" cho thấy Tràng có khả năng làm việc cày thuê. 
+
+* **A: Nông dân:**  Là một người nông dân, nhưng không phải là một công việc cụ thể.
+* **B: Kéo xe bò thuê:**  Là một công việc, nhưng không phải là công việc chính của Tr",Xay lúa thuê,0.027027027681469917
+55,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu thơ đề từ “Bâng khuâng trời rộng nhớ sông dài” của bài Tràng giang có ý nghĩa:
+### Lựa chọn:
+A: Thể hiện nỗi buồn và sự nhớ thương trước vũ trụ bao la, bát ngát. 
+B: Thể hiện tâm trạng cô đơn của thi sĩ
+C: Thể hiện tâm trạng bâng khuâng của con người khi đối diện với thiên nhiên. 
+D: [MASKED]","
+
+**D: Thể hiện tâm trạng bâng khuâng của con người khi đối diện với thiên nhiên.** 
+
+**Giải thích:**
+
+* **Câu thơ:** ""Bâng khuâng trời rộng nhớ sông dài""  là một đoạn thơ trong bài Tràng giang của nhà thơ Nguyễn Du. 
+* **Ý nghĩa:**  Câu thơ thể hiện tâm trạng bâng khuâng của con người khi đối diện với thiên nhiên rộng lớn, nhớ về quê hương, nhớ",Thể hiện sự nhỏ bé của con người trước vũ trụ bao la đến rợn ngợp,0.08695652335882187
+56,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cái cảm giác trống trải, xa vắng của không gian ""tràng giang"" trong khổ thơ thứ ba bài “Tràng giang” của Huy Cận, chủ yếu được tô đậm bởi yếu tố nghệ thuật nào?
+### Lựa chọn:
+A: Điệp cú pháp và từ phủ định. 
+B: [MASKED]
+C: Âm hưởng, nhạc điệu. 
+D: Cảnh ngụ tình.","**C: Âm hưởng, nhạc điệu.** 
+
+**Giải thích:**
+
+* **Âm hưởng, nhạc điệu** là yếu tố nghệ thuật được sử dụng để tạo ra cảm giác trống trải, xa vắng trong khổ thơ thứ ba của bài ""Tràng giang"" của Huy Cận. 
+* **Điệp cú pháp và từ phủ định**  là yếu tố nghệ thuật được sử dụng để tạo ra sự bất ngờ, gây ấn tượng mạnh mẽ, nhưng không",Ẩn dụ.,0.0
+57,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Kết thúc truyện ngắn ""Vợ nhặt"" là hình ảnh nào?
+### Lựa chọn:
+A: Đàn quạ lượn thành từng đàn như những đám mây đen trên bầu trời 
+B: Hình ảnh đoàn người đói và lá cờ đỏ sao vàng bay phấp phới
+C: [MASKED] 
+D: Tiếng hờ khóc của những gia đình có người chết đói","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Kết thúc truyện ngắn ""Vợ nhặt"" là hình ảnh nào?
+### Lựa chọn:
+A: Đàn quạ lượn thành từng đàn như những đám mây đen trên bầu trời 
+B: Hình ảnh đoàn người đói và lá cờ đỏ sao vàng bay phấp phới
+C: [MASKED] 
+D: Tiếng hờ khóc của những gia đình có người chết đói
+model
+Nội dung của lựa chọn C là:
+
+**C:  ** **Hình ảnh một con chim chích** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Kết thúc truyện ngắn ""Vợ nhặt"" là hình ảnh nào?
+* **Lựa chọn:** C là lựa chọn duy nhất có hình ảnh liên quan đến ""con chim chích"". 
+
+**Lời giải thích thêm:**
+
+* **Câu chuyện ""Vợ nhặt""** là một truyện ngắn của nhà văn Nguyễn Tuân. ",Tiếng trống thuế dồn dập,0.011428571306169033
+58,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nỗi niềm thấm đẫm toàn bộ bài thơ Tràng giang của Huy Cận là:
+### Lựa chọn:
+A: nỗi hoài nghi. 
+B: nỗi băn khoăn.
+C: nỗi buồn. 
+D: [MASKED]","**D: nỗi nhớ.** 
+
+**Giải thích:**
+
+* **Tràng giang** là một bài thơ ca ngợi vẻ đẹp của thiên nhiên, đặc biệt là cảnh quan sông Tràng Giang. 
+* **Huy Cận** là nhà thơ nổi tiếng với phong cách thơ lãng mạn, trữ tình. 
+* Bài thơ Tràng Giang thể hiện tâm trạng của Huy Cận,  là một tâm hồn lãng mạn, yêu thiên nhiên và nhớ về quê",nỗi tuyệt vọng.,0.0
+59,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đáp án nào không đúng khi nói về vẻ đẹp tâm hồn của nhân vật Tràng?
+### Lựa chọn:
+A: Thuần hậu, hiền lành, chất phác 
+B: Tâm hồn lạc quan, yêu đời
+C: [MASKED] 
+D: Tấm lòng nhân hậu","**D: Tấm lòng nhân hậu** 
+
+**Giải thích:**
+
+* **Tràng** trong văn học Việt Nam thường được miêu tả là một nhân vật có vẻ đẹp tâm hồn **thuần hậu, hiền lành, chất phác**. 
+* **Tấm lòng nhân hậu** là một đặc điểm tâm hồn của Tràng, thể hiện sự hiền lành, tốt bụng, luôn quan tâm đến người khác. 
+
+Do đó, câu trả lời đúng",Sức sống tiềm tàng và sức phản kháng mãnh liệt,0.02380952425301075
+60,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Vấn đề chủ yếu trong đoạn trích Trao duyên của sách giáo khoa là gì ?
+### Lựa chọn:
+A: [MASKED] 
+B: Bi kịch về thân phận và tình yêu của Kiều
+C: Phẩm cách cao đẹp của Kiều 
+D: Bi kịch về thân phận và tình yêu của Kiều","**B: Bi kịch về thân phận và tình yêu của Kiều** 
+
+**Giải thích:**
+
+* **Trao duyên** là một phần trong văn học Việt Nam, đặc biệt là trong tác phẩm **""Kiều""** của Nguyễn Du. 
+* **Bi kịch về thân phận và tình yêu của Kiều** là chủ đề chính của đoạn trích. 
+
+Do đó, câu trả lời chính xác là **B**. 
+",Thân phận người phụ nữ,0.028985507786273956
+61,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Khi giải thích ""Cầu hôn: xin được lấy làm vợ"" là đã giải thích nghĩa của từ bằng cách nào?
+### Lựa chọn:
+A: [MASKED] 
+B: Trình bày khái niệm mà từ biểu thị.
+C: Kết hợp giữa dùng từ đồng nghĩa với trình bày khái niệm mà từ biểu thị. 
+D: Dùng từ trái nghĩa với từ được giải thích.","**B: Trình bày khái niệm mà từ biểu thị.**
+
+**Giải thích:**
+
+* **Cầu hôn** là một cách nói, một kiểu diễn đạt, có nghĩa là ""xin được lấy làm vợ"". 
+* **Trình bày khái niệm** là cách diễn đạt thông tin, ý nghĩa của từ ""cầu hôn"" là ""xin được lấy làm vợ"". 
+
+**Các lựa chọn khác sai vì:**
+
+* **C:** Kết hợp giữa",Dùng từ đồng nghĩa với từ cần được giải thích.,0.10810811072587967
+62,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Việc trao duyên của Thúy Kiều cho Thúy Vân diễn ra khi nào?
+### Lựa chọn:
+A: Trước khi Kiều thu xếp việc bán mình. 
+B: [MASKED]
+C: Trước khi Kiều từ biệt gia đình theo Mã Giám Sinh. 
+D: Khi nghe được tin gia đình gặp biến cố","
+
+**B: Trước khi Kiều từ biệt gia đình theo Mã Giám Sinh.** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Việc trao duyên của Thúy Kiều cho Thúy Vân diễn ra khi nào?
+* **Lựa chọn:** 
+    * A: Trước khi Kiều thu xếp việc bán mình. 
+    * B: [MASKED]
+    * C: Trước khi Kiều từ biệt gia",Sau khi Kiều đã thu xếp việc bán mình.,0.2461538463830948
+63,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn trích Trao duyên thể hiện tài năng nghệ thuật xuất sắc của Nguyễn Du trong:
+### Lựa chọn:
+A: việc tạo tình huống. 
+B: việc vận dụng các thành ngữ.
+C: việc miêu tả nội tâm nhân vật. 
+D: [MASKED]","**C: việc miêu tả nội tâm nhân vật.** 
+
+**Giải thích:**
+
+* **Trao duyên thể hiện tài năng nghệ thuật xuất sắc của Nguyễn Du**  là một trong những nét đặc sắc của văn học Việt Nam. 
+* **Việc miêu tả nội tâm nhân vật** là một trong những kỹ thuật nghệ thuật quan trọng nhất trong văn học, đặc biệt là trong thơ ca. Nguyễn Du đã miêu tả nội tâm nhân vật một cách sâu",việc xây dựng đối thoại.,0.0
+64,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đoạn trường tân thanh có nghĩa là gì?
+### Lựa chọn:
+A: Đứt từng mảnh ruột 
+B: Tiếng kêu mới
+C: [MASKED] 
+D: Tiếng kêu mới tới đứt từng mảnh ruột","
+
+**C:  ** **Đoạn thanh** 
+
+**Giải thích:**
+
+* **Đoạn thanh** là một từ ngữ trong tiếng Việt, có nghĩa là một đoạn thanh, một phần của một vật thể. 
+
+Câu hỏi trắc nghiệm này có thể được hiểu là một câu hỏi về nghĩa của từ ""đoạn thanh"". 
+",Con đường dài màu xanh đứt đoạn,0.03703703731298447
+65,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Thành công quan trọng và đặc sắc nhất về nghệ thuật của Nguyễn Du trong đoạn trích này là gì ?
+### Lựa chọn:
+A: Miêu tả tâm lí nhân vật 
+B: Lựa chọn, sử dụng từ ngữ, hình ảnh
+C: Dựng đối thoại, độc thoại 
+D: [MASKED]","**D:  ** **Tạo dựng khung cảnh, miêu tả cảnh vật** 
+
+**Giải thích:**
+
+* **Nguyễn Du** là một nhà thơ nổi tiếng với phong cách viết văn giàu hình ảnh, sử dụng ngôn ngữ giàu tính nghệ thuật. 
+* **Đoạn trích**  có thể là một đoạn trích trong tác phẩm của Nguyễn Du, trong đó có thể có sự kết hợp giữa các yếu tố:
+    * **Cảnh vật",Tạo tình huống đầy mâu thuẫn,0.0
+66,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào sau đây xác định không đúng vị trí của việc Thúy Kiều trao duyên cho Thúy Vân ?
+### Lựa chọn:
+A: Sau việc bọn sai nha ập tới bắt cha và em trai Kiều 
+B: [MASKED]
+C: Trước đêm Kim Trọng và Thúy Kiều thề nguyện 
+D: Sau khi Kim Trọng phải đi hộ tang chú ở Liêu Dương","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào sau đây xác định không đúng vị trí của việc Thúy Kiều trao duyên cho Thúy Vân ?
+### Lựa chọn:
+A: Sau việc bọn sai nha ập tới bắt cha và em trai Kiều 
+B: [MASKED]
+C: Trước đêm Kim Trọng và Thúy Kiều thề nguyện 
+D: Sau khi Kim Trọng phải đi hộ tang chú ở Liêu Dương
+model
+Nội dung của lựa chọn B là:
+
+**B: Sau khi Thúy Kiều được  Kim Trọng đưa về nhà**
+
+**Giải thích:**
+
+* **Câu hỏi:** Xác định không đúng vị trí của việc Thúy Kiều trao duyên cho Thúy Vân.
+* **Câu trả lời:**  Dòng nào sau đây xác định không đúng vị trí của việc Thúy Kiều trao duyên cho Thúy Vân?
+
+**Lời giải:**
+
+* **A: Sau việc bọn",Sau khi Kiều bán mình chuộc cha,0.032258063554763794
+67,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu thơ ""Keo loan chắp mối tơ thừa mặc em"" (trích Trao duyên của Nguyễn Du) diễn tả tâm trạng gì của Thúy Kiều khi trao duyên cho em?
+### Lựa chọn:
+A: Kiều xót xa khi mối duyên nàng trao cho em không trọn vẹn. 
+B: Nàng hiểu và cảm thông cho hoàn cảnh của Thúy Vân nên không muốn ép uổng em.
+C: [MASKED] 
+D: Kiều lo lắng cho tương lai của em và Kim Trọng sau buổi trao duyên này.","user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu thơ ""Keo loan chắp mối tơ thừa mặc em"" (trích Trao duyên của Nguyễn Du) diễn tả tâm trạng gì của Thúy Kiều khi trao duyên cho em?
+### Lựa chọn:
+A: Kiều xót xa khi mối duyên nàng trao cho em không trọn vẹn. 
+B: Nàng hiểu và cảm thông cho hoàn cảnh của Thúy Vân nên không muốn ép uổng em.
+C: [MASKED] 
+D: Kiều lo lắng cho tương lai của em và Kim Trọng sau buổi trao duyên này.
+model
+Nội dung của lựa chọn C là:
+
+**C: Keo loan chắp mối tơ thừa mặc em** 
+
+Câu thơ ""Keo loan chắp mối tơ thừa mặc em"" (trích Trao duyên của Nguyễn Du) diễn tả tâm trạng **Kiều xót xa khi mối duyên nàng trao cho em không trọn vẹn.** 
+
+**Giải thích:**
+
+* **Keo loan chắp mối tơ thừa mặc em** là một đoạn thơ trong bài Trao duyên của Nguyễn Du.",Kiều cay đắng khi nghĩ đến việc phải trao tình yêu đầu trong sáng và sâu sắc cho em.,0.05263157933950424
+68,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Của chung ’ trong câu “ Duyên này thì giữ vật này của chung ” chỉ những ai ?
+### Lựa chọn:
+A: Thúy Kiều – Kim Trọng 
+B: Thúy Vân – Kim Trọng
+C: [MASKED] 
+D: Vân – Trọng – Kiều","
+
+**C: Thúy Kiều – Kim Trọng** 
+
+**Giải thích:**
+
+Câu nói ""Duyên này thì giữ vật này của chung""  là một câu nói về sự kết hợp, hợp tác giữa hai người.  Trong câu chuyện cổ tích ""Tam Quốc diễn nghĩa"",  Thúy Kiều và Kim Trọng là hai nhân vật chính,  và câu nói này thể hiện sự kết hợp, hợp tác giữa họ. 
+
+
+ 
+",Thúy Kiều – Thúy Vân,0.13513512909412384
+69,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Quê hương của Nguyễn Du ở đâu?
+### Lựa chọn:
+A: Thanh Miện, Hải Dương 
+B: Nghi Xuân, Hà Tĩnh
+C: Can Lộc, Hà Tĩnh 
+D: [MASKED]","
+
+**D:  Can Lộc, Hà Tĩnh** 
+
+Nguyễn Du sinh ra tại làng Can Lộc, huyện Nghi Xuân, tỉnh Hà Tĩnh. 
+","Thọ Xuân, Thanh Hóa",0.0833333358168602
+70,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hành động ""trao duyên"" trong đoạn trích Trao duyên của Nguyễn Du thể hiện rõ nhất phẩm chất nào ở nhân vật Thúy Kiều?
+### Lựa chọn:
+A: Tấm lòng hiếu thảo. 
+B: [MASKED]
+C: Lòng vị tha. 
+D: Sự bao dung.","**Lòng vị tha.** 
+
+**Giải thích:**
+
+* **Trao duyên** trong đoạn trích ""Trao duyên"" của Nguyễn Du là hành động của Thúy Kiều khi **cho phép người yêu của mình đi theo con đường riêng, không ngăn cản.** 
+* **Lòng vị tha** là phẩm chất mà Thúy Kiều thể hiện rõ nhất trong đoạn trích. 
+
+Cụ thể:
+
+* Thúy Kiều",Sự sâu sắc.,0.0
+71,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào nói đúng về những tủi nhục mà Thuý Kiều đã trải qua ?
+### Lựa chọn:
+A: [MASKED] 
+B: Thanh lâu hai lượt, thanh y hai lần.
+C: Thanh lâu hai lượt, thanh y ba lần. 
+D: Thanh lâu bốn lượt, thanh y hai lần.","
+
+**A: Thanh lâu hai lượt, thanh y hai lần.**
+
+**Giải thích:**
+
+Câu hỏi đề cập đến những tủi nhục của Thuý Kiều.  Câu trả lời A là câu nói đúng về những tủi nhục của Thuý Kiều. 
+
+**Lưu ý:** 
+
+* **Thanh lâu hai lượt, thanh y ba lần** là câu nói về một số người khác. 
+* **Thanh lâu bốn lượt, thanh y hai","Thanh lâu ba lượt, thanh y hai lần.",0.1538461595773697
+72,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Khi trao duyên, việc Kiều dùng nhiều từ ngữ nhắc đến cái chết có ý nghĩa gì?
+### Lựa chọn:
+A: Kiều dự cảm nàng về cuộc đời phía trước, sự tuyệt vọng đau khổ đến cùng cực. 
+B: Kiều nói thế để ép Vân phải nhận lời.
+C: [MASKED] 
+D: Kiều đang trong tâm trạng rối bời","
+
+**C: Kiều dùng nhiều từ ngữ nhắc đến cái chết để thể hiện sự ** **nghiện vọng** **và nỗi sợ hãi về cái chết.** 
+
+**Giải thích:**
+
+* **Kiều dùng nhiều từ ngữ nhắc đến cái chết** là một cách thể hiện tâm trạng của Kiều trong câu chuyện. 
+* **Nghiện vọng** và **nỗi sợ hãi** là những cảm xúc mà Kiều thể hiện qua những",Kiều muốn làm cho sự việc thêm nghiêm trọng.,0.05000000074505806
+73,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Truyện Kiều là tên gọi do ai đặt?
+### Lựa chọn:
+A: Thanh Tâm tài nhân 
+B: Nguyễn Du
+C: Người dân 
+D: [MASKED]","
+
+**D: Nguyễn Du** 
+
+**Giải thích:**
+
+ Truyện Kiều là tác phẩm của Nguyễn Du. 
+",Không rõ,0.0
+74,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Câu “Mặt trời nhú lên dần dần, rồi lên cho kì hết” có mấy vị ngữ?
+### Lựa chọn:
+A: 1 
+B: 4
+C: [MASKED] 
+D: 2","
+
+**C: 2** 
+
+**Giải thích:**
+
+* **Vị ngữ** là một phần của câu, bổ sung thông tin về hành động, trạng thái, thời gian, nơi, người, vật...
+* Câu ""Mặt trời nhú lên dần dần, rồi lên cho kì hết"" có hai vị ngữ:
+    * **""Mặt trời nhú lên dần dần""**:  là vị ngữ bổ sung thông tin về hành động của",3,0.0
+75,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào nói đúng về những tủi nhục mà Thuý Kiều đã trải qua ?
+### Lựa chọn:
+A: Thanh lâu ba lượt, thanh y hai lần. 
+B: Thanh lâu hai lượt, thanh y ba lần.
+C: Thanh lâu hai lượt, thanh y hai lần. 
+D: [MASKED]","
+
+**D: Thanh lâu ba lượt, thanh y hai lần.**
+
+**Giải thích:**
+
+Câu hỏi đề cập đến những tủi nhục của Thuý Kiều.  Dòng văn bản ""Thanh lâu ba lượt, thanh y hai lần"" là câu trả lời chính xác nhất. 
+
+* **Thanh lâu ba lượt:**  Thuý Kiều đã trải qua ba lần thanh lâu, nghĩa là ba lần bị bắt giữ, bị bắt giữ, bị bắt giữ.","Thanh lâu bốn lượt, thanh y hai lần.",0.15000000596046448
+76,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Truyện Kiều có nguồn gốc từ đâu ?
+### Lựa chọn:
+A: [MASKED] 
+B: Từ một tác phẩm tự sự của Trung Quốc.
+C: Thương những con người tài hoa bị chà đạp nên tác giả đã sáng tạo ra. 
+D: Từ cuộc đời một người con gái có tên là Tiểu Thanh.","
+
+**A: Từ một tác phẩm tự sự của Trung Quốc.**
+
+**Giải thích:**
+
+* Truyện Kiều là một tác phẩm văn học Việt Nam, không có nguồn gốc từ Trung Quốc. 
+* Truyện Kiều được sáng tác bởi Nguyễn Du, một nhà văn nổi tiếng của Việt Nam. 
+* Truyện Kiều dựa trên nền tảng của các tác phẩm văn học dân gian Việt Nam, nhưng không có nguồn gốc từ Trung Quốc. ",Từ trong dân gian.,0.05128205195069313
+77,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đặc sắc nhất về mặt nghệ thuật của Truyện Kiều là gì?
+### Lựa chọn:
+A: Ngôn ngữ văn học dân tộc và thể thơ lục bát đã đạt đến đỉnh cao rực rỡ 
+B: Được dịch ra nhiều thứ tiếng, được giới thiệu ở nhiều nơi trên thế giới
+C: [MASKED] 
+D: Cách khắc họa tính cách con người độc đáo","**A: Ngôn ngữ văn học dân tộc và thể thơ lục bát đã đạt đến đỉnh cao rực rỡ** 
+
+**Giải thích:**
+
+* **Câu hỏi:**  Đã được đặt ra để tìm đặc sắc nhất về mặt nghệ thuật của Truyện Kiều.
+* **Lựa chọn C:**  Ngôn ngữ văn học dân tộc và thể thơ lục bát đã đạt đến đỉnh cao rực rỡ là đặc sắc nhất về mặt nghệ thuật của Truyện",Nghệ thuật tự sự có bước phát triển vượt bậc,0.023255813866853714
+78,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cách giải thích thế nào về nghĩa của từ không đúng?
+### Lựa chọn:
+A: Đọc nhiều lần là từ cần được giải thích 
+B: Trình bày khái niệm mà từ biểu thị
+C: [MASKED] 
+D: Dùng từ trái nghĩa để giải thích","**B: Trình bày khái niệm mà từ biểu thị** 
+
+**Giải thích:**
+
+* **A: Đọc nhiều lần là từ cần được giải thích** -  Đây là sai, việc đọc nhiều lần không đủ để giải thích nghĩa của từ. 
+* **B: Trình bày khái niệm mà từ biểu thị** -  Đây là cách giải thích chính xác.  Khi giải thích nghĩa của từ, ta cần trình bày khái niệm mà từ",Dùng từ đồng nghĩa để giải thích,0.10389610379934311
+79,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Việc trao duyên của Thúy Kiều cho Thúy Vân diễn ra khi nào?
+### Lựa chọn:
+A: Trước khi Kiều thu xếp việc bán mình. 
+B: [MASKED]
+C: Trước khi Kiều từ biệt gia đình theo Mã Giám Sinh. 
+D: Khi nghe được tin gia đình gặp biến cố.","
+
+**B: Trước khi Kiều từ biệt gia đình theo Mã Giám Sinh.** 
+
+**Giải thích:**
+
+* **Câu hỏi:** Việc trao duyên của Thúy Kiều cho Thúy Vân diễn ra khi nào?
+* **Lựa chọn:** 
+    * A: Trước khi Kiều thu xếp việc bán mình. 
+    * B: [MASKED]
+    * C: Trước khi Kiều từ biệt gia",Sau khi Kiều đã thu xếp việc bán mình.,0.2461538463830948
