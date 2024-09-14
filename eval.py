@@ -8,7 +8,7 @@ from tqdm import tqdm
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
-def get_model_list(path: str = "model/hf_model.csv", search_key_word: list[str]= None):
+def get_model_list(path: str = "model/hf_model2.csv", search_key_word: list[str]= None):
     """ 
     Inputs:
         path: csv_file contain config 
