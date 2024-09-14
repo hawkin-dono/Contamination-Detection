@@ -8,7 +8,7 @@ from tqdm import tqdm
 os.environ["TOKENIZERS_PARALLELISM"] = "false"
 
 
-def get_model_list(path: str = "model/hf_model1.csv", search_key_word: list[str]= None):
+def get_model_list(path: str = "model/hf_model.csv", search_key_word: list[str]= None):
     """ 
     Inputs:
         path: csv_file contain config 
@@ -87,7 +87,7 @@ def evaluate(model_names: list[str]= None, data_names: list[str]= None,
                 if os.path.exists((log_path)):
                     continue
                 os.makedirs(log_path, exist_ok=True)
-                res, score = model.predict_dataframe(data_path, process_type= process_type,prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path)
+                res, score = model.predict_dataframe(data_path, process_type= process_type,prompt_prefix= prompt_prefix, prompt_suffix= prompt_suffix, intermediate_data_save_path= intermediate_data_save_path, size= size)
                 res.to_csv(f"{log_path}/result.csv")
                 with open(f"{log_path}/score.txt", "w") as f:
                     f.write(str(score))
@@ -99,11 +99,12 @@ def main():
     # prompt_prefix = """Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. """
     # prompt_suffix = ""
     os.environ["CUDA_VISIBLE_DEVICES"]="4,5"
+    
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(DEVICE)
     BATCH_SIZE = 32
-    evaluate(model_names= None, data_names = ["eng_final_domain", "domain_addition_plus"],  process_types= ["mask_wrong_answer", "mask_half_question"], 
-             prompt_prefix= None, prompt_suffix= None,
+    evaluate(model_names= None, data_names = "all_filter_data",  process_types= ["mask_wrong_answer", "mask_half_question"], 
+             prompt_prefix= None, prompt_suffix= None,size = None,
              intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
             
 if __name__ == "__main__":
