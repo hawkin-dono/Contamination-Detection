@@ -28,6 +28,8 @@ Thay đổi các thông số cần thiết để chạy evaluate
 ```
 evaluate(model_names= None, data_names = "domain_addition", size= 10, process_types= ["mask_wrong_answer"], prompt_prefix= None, prompt_suffix=None)
 ```
+Ví dụ: 
+evaluate(model_names= ["gemma-2-9b-it", "Phi-3.5"], data_names = "domain_addition", size= 10, process_types= ["mask_wrong_answer"], prompt_prefix= None, prompt_suffix=None)
 ### Run project
 ```
 python eval.py
