@@ -76,15 +76,21 @@ class HF_Model():
             raise ValueError("model_library must be one of the following: AutoModelForCausalLM, LlamaForCausalLM, Phi3ForCausalLM")
         return model
         
-    def apply_chat_template_sample(self, question: str, fed_prompt: str):
-        
-        messages = [
-            {"role": "user", "content": question},
-            {"role": "assistant", "content": fed_prompt}
-        ]
-        inputs = self.tokenizer.apply_chat_template(messages, tokenize=True)[:-2]
-        inputs = self.tokenizer.decode(inputs)
-        
+    def apply_chat_template_sample(self, question: str, fed_prompt: str):            
+        try:
+            messages = [
+                {"role": "user", "content": question},
+                {"role": "assistant", "content": fed_prompt}
+            ]
+            inputs = self.tokenizer.apply_chat_template(messages, tokenize=True)[:-2]
+            inputs = self.tokenizer.decode(inputs)
+        except:
+            PROMPT_TEMPLATE = "### Câu hỏi: {instruction}\n### Trả lời:"  
+            instruction = f"""{question}
+{fed_prompt}"""
+            input_prompt = PROMPT_TEMPLATE.format_map({"instruction": instruction})  
+            
+            return input_prompt
         return inputs
 
     def extract_answer(self, question, response: str, fed_prompt):
@@ -150,8 +156,10 @@ class HF_Model():
             ds.reset_index(inplace=True)
         
         dataset = CSV_Dataset(ds)
+        # data_loader = torch.utils.data.DataLoader(
+        #     dataset, batch_size= self.batch_size, shuffle=False, num_workers= 4)
         data_loader = torch.utils.data.DataLoader(
-            dataset, batch_size= self.batch_size, shuffle=False, num_workers= 4)
+            dataset, batch_size= self.batch_size, shuffle=True, num_workers= 4)
         
         answer, label, rouge = [], [], []
         
@@ -168,25 +176,26 @@ class HF_Model():
 
 if __name__ == "__main__":
     pass
-#     def test_single_sample(model_name: str, device: str):
-#         # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
-#         model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
-#                         model_library="LlamaForCausalLM")
-#         x = """Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
-#     ### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
-#     Lựa chọn: 
-#     A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
-#     B: Mặc kệ vì không liên quan đến mình.
-#     C: []
-#     D: Chạy đi chỗ khác chơi.
-#     Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
-#     """
-#         x = model.apply_chat_template_sample(x)
-#         print(x)
-#         y = "Chạy đi chỗ khác chơi."
-#         answer, y, rouge = model.predict_batch(([x], [y]))
-#         print(answer)
-#         print(rouge)
+    # def test_single_sample(model_name: str, device: str):
+    #     # model = HF_Model(model_name= model_name, device= device, apply_chat_template= True, quantized= True)
+    #     model = HF_Model(model_name="meta-llama/Meta-Llama-3.1-8B-Instruct", device="cuda:3", apply_chat_template=True, quantized=True,
+    #                     model_library="LlamaForCausalLM")
+    #     x = """##Câu hỏi: Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+    # ### Câu hỏi: Trong giờ ra chơi, A trêu đùa và đánh B gây chảy máu và gãy răng, các bạn trong lớp không ai có ý kiến gì vì sợ A đánh. Trong tình huống này em sẽ làm gì?
+    # Lựa chọn: 
+    # A: Báo với cô giáo chủ nhiệm để tìm cách giải quyết.
+    # B: Mặc kệ vì không liên quan đến mình.
+    # C: []
+    # D: Chạy đi chỗ khác chơi.
+    # Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+    # ###Trả lời:
+    # """
+    #     x = model.apply_chat_template_sample(x)
+    #     print(x)
+    #     y = "Chạy đi chỗ khác chơi."
+    #     answer, y, rouge = model.predict_batch(([x], [y]))
+    #     print(answer)
+    #     print(rouge)
 #     def test_dataframe():
 #         data_path = "data/domain.csv"
         
@@ -246,7 +255,7 @@ if __name__ == "__main__":
 #         print(answer)
     
 #     test_apply_chat_template()    
-#     # test_single_sample("microsoft/Phi-3.5-mini-instruct", "cuda:0")
+    # test_single_sample("vinai/PhoGPT-4B", "cuda:0")
 #     # test_dataframe() 
 #     # test_extract_answer()
        
