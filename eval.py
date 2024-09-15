@@ -101,7 +101,7 @@ def main():
     os.environ["CUDA_VISIBLE_DEVICES"]="4,5"
     DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     print(DEVICE)
-    BATCH_SIZE = 10
+    BATCH_SIZE = 32
     evaluate(model_names= None, data_names = ["final_domain_ver1", "eng_final_domain_ver1"],  process_types= ["mask_wrong_answer", "mask_half_question"], 
              prompt_prefix= None, prompt_suffix= None,size = None,
              intermediate_data_save_path= None, DEVICE= DEVICE, BATCH_SIZE= BATCH_SIZE)
