@@ -1,0 +1,4 @@
+model_name,apply_chat_template,quantized,model_library
+vilm/vietcuna-3b,1,1,AutoModelForCausalLM
+vinai/PhoGPT-4B,1,1,AutoModelForCausalLM
+SeaLLMs/SeaLLMs-v3-7B-Chat,1,1,AutoModelForCausalLM
