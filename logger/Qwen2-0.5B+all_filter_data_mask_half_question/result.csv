@@ -1,0 +1,127 @@
+,Question,Answer,Label,rouge_score
+0,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Việc sản xuất và kinh doanh hàng giả là [MASKED]
+### Lựa chọn:
+A: Làm cho môi trường suy thoái và mất cân bằng nghiêm trọng 
+B: Sử dụng những thủ đoạn phi pháp, bất lương
+C: Đầu cơ tích trữ gây rối loạn thị trường 
+D: Phân hóa giàu – nghèo giữa những người sản xuất", A: Làm cho môi trường suy thoái và mất cân bằng nghiêm trọng.,mặt hạn chế nào dưới đây của cạnh tranh?,0.0
+1,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Điểm khác biệt của loạt phim Hành tinh của [MASKED]
+### Lựa chọn:
+A: Tám tập phim với tám môi trường sống khắp thế giới 
+B: Sự đa dạng của giống loài
+C: Cuộc khủng hoảng môi trường, khí hậu 
+D: Những thông điệp tích cực ở cuối mỗi tập phim"," [MASKED] là:
+A: Tám tập phim với tám môi trường sống khắp thế giới
+B: Sự đa dạng của giống loài
+C: Cuộc khủng hoảng môi trường, khí hậu
+D: Những thông điệp tích cực ở cuối mỗi tập phim
+D. Những thông điệp tích cực ở cuối mỗi tập phim là điểm khác biệt của loạt phim Hành tinh của [MASKED].",chúng ta so với các lời cảnh báo khác là:,0.0476190485060215
+2,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Giá trị của hàng hóa [MASKED]
+### Lựa chọn:
+A: Giá trị trao đổi 
+B: Giá trị sử dụng
+C: Chi phí sản xuất 
+D: Hao phí lao động", là giá trị trao đổi.,được biểu hiện thông qua,0.0
+3,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Trong khu vực Đông Nam Á, tính đến năm [MASKED]
+### Lựa chọn:
+A: 1 
+B: 2
+C: 3 
+D: 4"," 2021, có thể bạn có thể lựa chọn các câu hỏi trắc nghiệm như sau:
+
+A: 1
+B: 2
+C: 3
+D: 4
+
+Tuy nhiên, bạn có thể lựa chọn câu hỏi trắc nghiệm khác, nhưng bạn cần đảm bảo rằng câu hỏi này được xác nhận và có thể được giải thích rõ ràng.","2002, dân số nước ta đứng vào hàng thứ mấy",0.07792207598686218
+4,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Đời sống của nhân dân giữa những vùng, miền của đất nước còn có sự [MASKED]
+### Lựa chọn:
+A: Chính trị 
+B: Kinh tế
+C: Tư tưởng và văn hóa 
+D: Xã hội"," [MASKED] là một trong những vấn đề quan trọng trong cuộc sống của nhân dân. Chính trị là một trong những vấn đề quan trọng nhất trong cuộc sống của nhân dân, bởi vì nó liên quan đến các vấn đề như quyền lợi, quyền tự do, quyền lợi của người dân, quyền lợi của các nhóm dân tộc, quyền lợi của các nhóm tôn giáo, quyền lợi của các nhóm xã hội, quyền lợi của các nhóm sinh hoạt, quyền lợi của các nhóm",chênh lệch là đặc điểm của thời kì quá độ trong lĩnh vực nào dưới đây?,0.05607476457953453
+5,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Hoạt động nào sau đây của con [MASKED]
+### Lựa chọn:
+A: Hái lượm. 
+B: Săn bắn quá mức.
+C: Chiến tranh. 
+D: Hái lượm, săn bắn, chiến tranh."," [MASKED] là:
+A: Hái lượm. 
+B: Săn bắn quá mức.
+C: Chiến tranh. 
+D: Hái lượm, săn bắn, chiến tranh.
+assistant
+Based on the given information, the correct answer is:
+
+A: Hái lượm. 
+
+The passage mentions that the con is ""sawing"" and ""snares"" in its actions. The con is also mentioned",người không ảnh hưởng đến môi trường?,0.0
+6,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Có bao nhiêu giá trị nguyên dương của m để cặp số (– 2m; [MASKED]
+### Lựa chọn:
+A: 0 
+B: 1
+C: 2 
+D: Vô số"," [MASKED] là một câu hỏi trắc nghiệm. Bạn có thể sử dụng các phương pháp toán học để giải thích câu hỏi này. 
+
+Một số giá trị nguyên dương của m có thể là 0, 1, hoặc 2. 
+
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Có bao nhiêu giá trị nguyên dương của m để cặp số (– 2",1) là nghiệm của bất phương trình 2x – y – 3 > 0?,0.1505376398563385
+7,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Một phân tử ADN có 18000 nuclêôtit. Vậy số [MASKED]
+### Lựa chọn:
+A: 900. 
+B: 1800.
+C: 3600. 
+D: 450."," 900. 
+
+Một phân tử ADN có 18000 nuclêôtit. Vậy số 1800. 
+
+Một phân tử ADN có 18000 nuclêôtit. Vậy số 3600. 
+
+Một phân tử ADN có 18000 nuclêôtit. Vậy số 450. 
+
+Một phân tử ADN có 180",chu kì xoắn của phân tử ADN đó là:,0.08421052992343903
+8,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Quá trình sản xuất gồm [MASKED]
+### Lựa chọn:
+A: Sức lao dộng, đối tượng lao động và lao động. 
+B: Con người, lao động và máy móc.
+C: Lao động, đối tượng lao động và tư liệu lao động. 
+D: Sức lao động, đối tượng lao động và tư liệu lao động.",":
+
+A: Sức lao dộng, đối tượng lao động và lao động. 
+
+B: Con người, lao động và máy móc.
+
+C: Lao động, đối tượng lao động và tư liệu lao động. 
+
+D: Sức lao động, đối tượng lao động và tư liệu lao động.
+Answer the question with information from the passage:
+
+Passage: The 2012–13 season was the 1",các yếu tố nào dưới đây?,0.0
+9,"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Ở cà chua, tính trạng quả đỏ trội hoàn toàn so với tính trạng quả [MASKED]
+### Lựa chọn:
+A: Biến đổi xảy ra trong kiểu gen. 
+B: Sự thay đổi kiểu hình của sinh vật,
+C: Biến đổi xảy ra trong ADN và NST. 
+D: Biến đổi xảy ra do môi trường."," đỏ. 
+
+So, the correct answer is B: Sự thay đổi kiểu hình của sinh vật. 
+
+The question is asking about the change in the structure of a species. The correct answer is B: Sự thay đổi kiểu hình của sinh vật. 
+
+The other options are not correct because:
+
+A: Biến đổi xảy ra trong kiểu gen. - This is not true for a species of fruit fly. The correct answer is B: Sự thay đổi kiểu hình của sinh vật.
+
+",vàng. Khi cho cây cà chua quả đỏ thuần chủng lai phân tích thì thu được:,0.0

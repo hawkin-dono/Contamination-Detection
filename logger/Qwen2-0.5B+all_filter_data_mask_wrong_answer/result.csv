@@ -1,0 +1,91 @@
+,Question,Answer,Label,rouge_score
+0,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Theo em trên bản đồ nếu khoảng cách giữa các đường đồng mức cách xa nhau thì địa hình nơi đó?
+### Lựa chọn:
+A: Làm địa hình mặt đất gồ ghề. 
+B: [MASKED]
+C: Tạo ra các dạng địa hình mới. 
+D: Tạo ra các dạng địa hình nhỏ."," Tạo ra các dạng địa hình mới. 
+
+Nội dung của lựa chọn C là:  Tạo ra các dạng địa hình nhỏ. 
+
+Nội dung của lựa chọn D là:  Không có lựa chọn nào phù hợp với câu hỏi.",Phá huỷ địa hình bề mặt đất.,0.0833333358168602
+1,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Có bao nhiêu cách sắp xếp năm bạn An, Bình, Châu, Dung và Đức đứng thành một hàng ngang?
+### Lựa chọn:
+A: [MASKED] 
+B: 20.
+C: 120. 
+D: 24.","20. 
+
+Nội dung của lựa chọn B là: 120. 
+
+Nội dung của lựa chọn C là: 24. 
+
+Nội dung của lựa chọn D là: Không có nội dung cho lựa chọn D.",25.,0.05000000074505806
+2,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Thuật ngữ trí thông minh nhân tạo được ra đời vào năm nào?
+### Lựa chọn:
+A: 1946 
+B: 1956
+C: [MASKED] 
+D: 1976",1976.,1966,0.75
+3,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Hàm số y=f(x) có đồ thị dưới đây gián đoạn tại điểm có hoành độ bằng bao nhiêu?
+### Lựa chọn:
+A: [MASKED] 
+B: 1
+C: 3 
+D: 2","1. Hàm số y = f(x) có đồ thị dưới đây gián đoạn tại điểm có hoành độ bằng bao nhiêu? 
+- Nếu điểm có hoành độ bằng 1, thì hàm số y = f(x) có đồ thị dưới đây gián đoạn tại điểm có hoành độ bằng 1.
+- Nếu điểm có hoành độ bằng 2, thì hàm số y = f(x) có đồ thị dưới đây gián đoạn tại điểm có ho",0,0.0
+4,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cho cấp số cộng u có u1=123 và u3−u15=84. Số hạng u17 là
+### Lựa chọn:
+A: 4 
+B: [MASKED]
+C: 11 
+D: 235","11. 
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cho cấp số cộng u có u1=123 và u3−u15=84. Số hạng u17 là
+### Lựa chọn:
+A: 4 
+B: [MASKED]
+C: 11 
+D:",242,0.051948051899671555
+5,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Ở kì nào của giảm phân II, nhiễm sắc thể kép xếp thành một hàng ở mặt phẳng xích đạo của thoi phân bào?
+### Lựa chọn:
+A: [MASKED] 
+B: Đảo đoạn nhiễm sắc thể.
+C: Lặp đoạn nhiễm sắc thể. 
+D: Chuyển đoạn nhiễm sắc thể.","Ở kì nào của giảm phân II,",Mất đoạn nhiễm sắc thể.,0.0
+6,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong “Một thời đại thi ca”, Hoài Thanh viết: “Đời chúng ta nằm trong một chữ tôi. Mất bề rộng ta đi tìm bề sâu. Nhưng càng đi càng ớn lạnh”.  là nhận định của Hoài Thanh về hồn thơ của các nhà “Thơ mới” ở giai đoạn thoái trào. Cụm từ “nhưng động tiên đã khép”, ông chỉ nhà thơ nào?
+### Lựa chọn:
+A: Thế Lữ 
+B: Xuân Diệu
+C: [MASKED] 
+D: Hàn Mặc Tử","1 câu hỏi trắc nghiệm. 
+Câu hỏi trắc nghiệm là: ""Câu hỏi: Trong “Một thời đại thi ca”, Hoài Thanh viết: “Đời chúng ta nằm trong một chữ tôi. Mất bề rộng ta đi tìm bề sâu. Nhưng càng đi càng ớn lạnh”.  là nhận định của Hoài Thanh về hồn thơ của các nhà “Thơ mới” ở giai đoạn thoái trào. Cụm",Lưu Trọng Lư,0.0
+7,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trung tâm kinh tế lớn nhất ở ĐBSCL là.
+### Lựa chọn:
+A: Chiếm hơn 50% diện tích canh tác 
+B: Hơn 50% sản lượng
+C: Chiếm hơn 50% diện tích và sản lượng 
+D: [MASKED]",50% sản lượng.,Điều kiện tốt để canh tác.,0.0
+8,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cơ sở quan trọng để hình thành các tổ chức liên kết khu vực là
+### Lựa chọn:
+A: [MASKED] 
+B: xuất hiện các vấn đề mang tính toàn cầu.
+C: sự tương đồng về địa lí, văn hóa, xã hội. 
+D: sự phân hóa giàu - nghèo giữa các nước.","1) Cơ sở quan trọng để hình thành các tổ chức liên kết khu vực là xuất hiện các vấn đề mang tính toàn cầu. 2) Cơ sở quan trọng để hình thành các tổ chức liên kết khu vực là sự tương đồng về địa lí, văn hóa, xã hội. 3) Cơ sở quan trọng để hình thành các tổ chức liên kết khu vực là sự phân hóa giàu - nghèo giữa các nước. 4) Cơ sở quan trọng để hình thành",vai trò của các công ty xuyên quốc gia.,0.019999999552965164
+9,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Theo tác giả thì đến năm 2040 các bộ não máy có thể xử lí bao nhiêu lệnh mỗi giây?
+### Lựa chọn:
+A: 100 nghìn tỉ lệnh 
+B: [MASKED]
+C: 300 nghìn tỉ lệnh 
+D: Một con số khác",300 nghìn tỉ lệnh.,200 nghìn tỉ lệnh,0.8333333134651184
