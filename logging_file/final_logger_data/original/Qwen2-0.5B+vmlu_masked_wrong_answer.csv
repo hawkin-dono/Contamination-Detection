@@ -1,0 +1,261 @@
+Question,predict,label,rouge_score,check_score,score
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Một nền kinh tế trong trạng thái toàn dụng nhân công có nghĩa là:
+Lựa chọn: 
+A. Không còn lạm phát nhưng có thể còn thất nghiệp
+[]
+C. Không còn thất nghiệp và không còn lạm phát
+D. Vẫn còn một tỷ lệ lạm phát và tỷ lệ thất nghiệp nhất định
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Based on the information provided, the correct answer is:
+
+A. Không còn lạm phát nhưng có thể còn thất nghiệp
+B. Không còn thất nghiệp và không còn lạm phát
+C. Vẫn còn một tỷ lệ lạm phát và tỷ lệ thất nghiệp nhất định
+
+The reasoning behind this answer is as follows:
+
+- The question asks for the state of the economy in a certain situation. The options are A, B, C, and D. 
+
+- Option A states that there is no lapping or unemployment. This is not true in this scenario, as the economy is in a state of full employment and no one is unemployed. 
+
+- Option B states that there is still a lapping or unemployment. This is true in this scenario, as the economy is still in a state of full employment and no one is unemployed. 
+
+- Option C states that there is still a lapping or unemployment, but the economy is not necessarily in a state of full employment. This is",B. Không còn thất nghiệp nhưng có thể còn lạm phát,0.1634615384615384,0.0983606576919555,0.09090909090909093
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Trong cơ chế tỷ giá hối đoái cố định, muốn triệt tiêu lượng dư cung ngoại tệ, NHTƯ  phải:
+Lựa chọn: 
+A. Dùng ngoại tệ để mua nội tệ
+B. Dùng nội tệ để mua ngoại tệ
+[]
+D. Các lựa chọn đều sai
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu là:
+Câu trả lời: Dùng ngoại tệ để mua nội tệ
+Câu trả lời: Dùng nội tệ để mua ngoại tệ
+Câu trả lời: Các lựa chọn đều sai
+Câu trả lời: Dùng ngoại tệ để mua ngoại tệ
+Câu trả lời: Dùng nội tệ để mua nội tệ
+Câu trả lời: Các lựa chọn đều sai
+Câu trả lời: Dùng ngoại tệ để mua ngoại tệ
+Câu trả lời: Dùng nội tệ để mua nội tệ
+Câu trả lời: Các lựa chọn đều sai
+Câu trả lời: Dùng ngoại tệ để mua ngoại tệ
+Câu trả lời: Dùng nội tệ để mua nội tệ
+Câu trả lời: Các lựa chọn đều sai
+Câu trả lời: Dùng ngoại tệ để mua ngoại",C. Không can thiệp vào thị trường ngoại hối,0.0622222222222222,0.0123456791043281,0.013245033112582781
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Tỷ  giá thay đổi sẽ ảnh hưởng đến
+Lựa chọn: 
+A. Cán cân thương mại
+[]
+C. Sản lượng quốc gia
+D. Các lựa chọn đều đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu. 
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại. 
+Câu hỏi: Tỷ giá thay đổi sẽ ảnh hưởng đến
+Lựa chọn: 
+A. Cán cân thương mại
+B. Sản lượng quốc gia
+C. Các lựa chọn đều đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu. 
+Câu hỏi: Tỷ giá thay đổi sẽ ảnh hưởng đến
+Lựa chọn: 
+A. Cán cân thương mại
+B. Sản lượng quốc gia
+C. Các lựa chọn đều đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu. 
+Câu hỏi: Tỷ giá thay đổi sẽ ảnh hưởng đến
+Lựa chọn: 
+",B. Cán cân thanh toán,0.05,0.02580645121634,0.039999999999999994
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn D dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Theo lý thuyết của Keynes, những chính sách nào sau đây thích hợp nhất nhằm giảm tỷ lệ  thất nghiệp:
+Lựa chọn: 
+A. Giảm thuế và gia tăng số mua hàng hóa của chính phủ
+B. Tăng thuế và giảm số mua hàng hóa của chính phủ
+C. Tăng thuế thu nhập và tăng số mua hàng hóa của chính phủ
+[]
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Based on the given information, the correct answer is B. Tension between the government and the economy is a key issue in Keynesian economics. The government can use its power to stimulate the economy by reducing taxes and increasing government spending. However, this can lead to a decrease in the number of unemployed workers, which is a negative effect on the economy. Therefore, the government should use its power to reduce taxes and increase government spending to stimulate the economy and reduce unemployment.","D. Phá giá, giảm thuế và giảm số mua hàng hóa của chính phủ",0.0384615384615384,0.0,0.0
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Chính sách nào của chính phủ sẽ làm kinh tế tăng trưởng nhiều nhất
+Lựa chọn: 
+A. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và giảm thâm hụt
+B. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+[]
+D. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu là:
+Câu hỏi: Chính sách nào của chính phủ sẽ làm kinh tế tăng trưởng nhiều nhất?
+Lựa chọn: A. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+B. Giảm thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+C. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và tăng thâm hụt
+D. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và giảm thâm hụt
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu là:
+Câu hỏi: Chính sách nào của chính phủ sẽ làm kinh tế tăng","C. Tăng thuế thu nhập từ tiết kiệm, cung cấp tín dụng thuế đầu tư, và giảm thâm hụt",0.2196969696969696,0.2328042387962341,0.22754491017964074
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn B dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Nếu những người cho vay và đi vay thống nhất về một mức lãi suất danh nghĩa nào đó và lạm phát trong thực tế lại thấp hơn so với mức mà họ kỳ vọng thì:
+Lựa chọn: 
+A. Người đi vay sẽ được lợi và người cho vay bị thiệt
+[]
+C. Cả người đi vay và người cho vay đều không được lợi vì lãi suất danh nghĩa được cố định theo hợp đồng
+D. Các lựa chọn đều không đúng
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Based on the information provided, the correct answer is:
+
+A. Người đi vay sẽ được lợi và người cho vay bị thiệt
+B. Cả người đi vay và người cho vay đều không được lợi vì lãi suất danh nghĩa được cố định theo hợp đồng
+C. Các lựa chọn đều không đúng
+D. Các lựa chọn đều đúng
+
+The reasoning behind this answer is that the question asks about the impact of the chosen option on the overall outcome of the situation. The options are all wrong, so the correct answer is A. The other options are incorrect because they assume that the chosen option is correct, which is not true. The correct answer is A because the chosen option is the one that would result in the highest profit for the borrower, which is the person who goes to the lender. The other options are incorrect because they assume that the chosen option is correct, which is not true. The correct answer is A because the chosen option is the one that would",B. Người cho vay được lợi và người đi vay bị thiệt,0.1232227488151658,0.1128205135464668,0.09574468085106383
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Hàm số tiêu dùng: C = 20 + 0,9 Y (Y:thu nhập). Tiết kiệm S ở mức thu nhập  khả dụng 100 là:
+Lựa chọn: 
+A. S = 10
+B. S = 0
+[]
+D. Không thể tính được
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Hãy điền vào trong dấu [] tại lựa chọn C dựa vào trí nhớ của bạn về các bộ dữ liệu. 
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại. 
+Câu hỏi: Hàm số tiêu dùng: C = 20 + 0,9 Y (Y:thu nhập). Tiết kiệm S ở mức thu nhập  khả dụng 100 là:
+Lựa chọn: 
+A. S = 10
+B. S = 0
+C. Không thể tính được
+D. S = 10
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu. 
+Câu hỏi: Hàm số tiêu dùng: C = 20 + 0,9 Y (Y:thu nhập). Tiết kiệm S ở mức thu nhập  khả dụng 100 là:
+",C. S = -10,0.0310880829015544,0.0519480518996715,0.048387096774193554
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Tác động “hất ra” (hay còn gọi là tác động lấn át) của chính sách tài chính là do:
+Lựa chọn: 
+[]
+B. Tăng chi tiêu của chính phủ làm tăng lãi suất, dẫn tới giảm đầu tư, làm giảm hiệu lực kích thích tổng cầu
+C. Giảm chi tiêu của chính phủ làm tăng lãi suất, dẫn tới giảm đầu tư, làm giảm hiệu lực kích thích tổng cầu
+D. Giảm chi tiêu của chính phủ, làm giảm lãi suất, dẫn tới tăng đầu tư, làm tăng hiệu lực kích thích tổng cầu
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Based on the information provided in the text, the correct answer is:
+
+D. Giảm chi tiêu của chính phủ, làm giảm lãi suất, dẫn tới tăng đầu tư, làm tăng hiệu lực kích thích tổng cầu.
+
+This is because the text states that ""Tác động lấn át"" (tăng chi tiêu) of the government is due to the decrease in the government's income tax rate, which leads to an increase in the government's spending on infrastructure and public services. This is in line with the reasoning that the government should increase its spending on infrastructure and public services to stimulate economic growth and reduce inflation. Therefore, the correct answer is that the government should decrease its income tax rate to increase its spending on infrastructure and public services.","A. Tăng chi tiêu của chính phủ làm giảm lãi suất, dẫn tới tăng đầu tư, làm tăng hiệu lực kích thích tổng cầu",0.4081632653061224,0.2820512950420379,0.2894736842105263
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Theo lý thuyết xác định sản lượng (được minh họa bằng đồ thị có đường 450), nếu tổng chi tiêu kế hoạch (tổng cầu dự kiến) lớn hơn GDP thực (hoặc sản lượng) thì:
+Lựa chọn: 
+[]
+B. Các doanh nghiệp sẽ tăng hoặc giảm sản lượng tuỳ theo tình hình tồn kho thực tế là ít hơn hay nhiều hơn mức tồn kho dự kiến
+C. Các doanh nghiệp sẽ không thay đổi sản lượng vì tồn kho thực tế đã bằng mức tồn kho dự kiến
+D. Các doanh nghiệp sẽ tăng sản lượng để bổ sung tồn kho cho đủ mức tồn kho dự kiến
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Based on the given information, the correct answer is D. Các doanh nghiệp sẽ tăng sản lượng để bổ sung tồn kho cho đủ mức tồn kho dự kiến. 
+
+The reasoning behind this answer is that the question asks about the impact of the supply and demand on the economy. The supply and demand curve is a graphical representation of the relationship between the quantity of goods and the price of those goods. The supply curve represents the quantity of goods that can be produced and sold at a given price. The demand curve represents the quantity of goods that consumers are willing to buy at a given price. 
+
+The question asks about the impact of the supply and demand on the economy. The supply curve represents the quantity of goods that can be produced and sold at a given price. The question asks about the impact of the supply curve on the economy. The question asks about the impact of the supply curve on the economy. Therefore, the correct answer is D. Các doanh nghiệp sẽ tăng sản lượng để bổ sung",A. Các doanh nghiệp sẽ giảm sản lượng để giải phóng thặng dư tồn kho so với mức tồn kho dự kiến,0.1834061135371179,0.1428571492433548,0.1359223300970874
+"<|im_start|>system
+You are a helpful assistant<|im_end|>
+<|im_start|>user
+Hãy điền vào trong dấu [] tại lựa chọn A dựa vào trí nhớ của bạn về các bộ dữ liệu.
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại
+Câu hỏi: Mở rộng tiền tệ (hoặc nới lỏng tiền tệ):
+Lựa chọn: 
+[]
+B. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách tăng lãi suất chiết khấu, tăng tỷ lệ dự trữ bắt buộc, hoặc bán ra chứng khoán nhà nước
+C. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách hạ lãi suất chiết khấu, giảm tỷ lệ dự trữ bắt buộc, hoặc mua các chứng khoán nhà nước
+D. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách phát hành trái phiếu chính phủ
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu.
+<|im_end|>
+<|im_start|>assistant
+",".
+
+assistant
+Hãy đưa ra câu trả lời chỉ chứa duy nhất nội dung của phần lựa chọn được yêu cầu. 
+Hãy nhớ một luật quan trọng rằng: câu trả lời của bạn phải khác các lựa chọn còn lại. 
+Hãy nhớ rằng, trong phần lựa chọn A, bạn có thể chọn một chính sách do NHTƯ thực hiện để kích cầu bằng cách tăng lãi suất chiết khấu, giảm tỷ lệ dự trữ bắt buộc, hoặc mua các chứng khoán nhà nước. 
+Hãy nhớ rằng, trong phần lựa chọn B, bạn có thể chọn một chính sách do NHTƯ thực hiện để kích cầu bằng cách hạ lãi suất chiết khấu, tăng tỷ lệ dự trữ bắt buộc, hoặc bán ra chứng khoán nhà nước. 
+Hãy nhớ rằng, trong phần lựa chọn C, bạn có thể chọn một chính sách do NHTƯ thực hiện để kích cầu bằng cách phát hành trái phiếu chính phủ. 
+Hãy","A. Là một chính sách do NHTƯ thực hiện để kích cầu bằng cách giảm thuế, tăng trợ cấp xã hội, hoặc tăng chi tiêu ngân sách",0.2434210526315789,0.1827411204576492,0.18579234972677597

@@ -1,0 +1,251 @@
+Question,predict,label,rouge_score,score
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đề văn nào sau đây không phải là đề văn thuyết minh?
+### Lựa chọn:
+A: Thuyết minh về một danh lam thắng cảnh ở địa phương em 
+B: [MASKED]
+C: Giới thiệu về một bài văn hay trong chương trình ngữ văn lớp 8 tập 1 
+D: Miêu tả về một ngôi nhà em mơ ước trong tương lai","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Đề văn nào sau đây không phải là đề văn thuyết minh?
+### Lựa chọn:
+A: Thuyết minh về một danh lam thắng cảnh ở địa phương em 
+B: [MASKED]
+C: Giới thiệu về một bài văn hay trong chương trình ngữ văn lớp 8 tập 1 
+D: Miêu tả về một ngôi nhà em mơ ước trong tương lai
+assistant
+### Câu hỏi: Đề văn nào sau đây không phải là đề văn thuyết minh?
+### Lựa chọn:
+A: Thuyết minh về một danh lam thắng cảnh ở địa phương em
+B: [MASKED]
+C: Giới thiệu về một bài văn hay trong chương trình ngữ văn lớp 8 tập 1
+D: Miêu tả về một ngôi nhà em mơ ước trong tương lai
+The correct answer is C: Giới thiệu về một bài văn hay trong chương trình ngữ văn lớp 8 tập 1. The other options are not correct because they do not fit the context of the question. The question is asking for the name of the book that is not mentioned in",Thuyết minh về cách làm món xôi dừa,0.0331950224936008,0.027649769585253458
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trên lĩnh vực đối ngoại, Đảng và Nhà nước ta đã thực hiện việc làm nào dưới đây để sớm đưa nước ta ra khỏi tình trạng kém phát triển, thực hiện thắng lợi sự nghiệp công nghiệp hoá, hiện đại hoá đất nước?
+### Lựa chọn:
+A: [MASKED] 
+B: Chủ động và tích cực hội nhập kinh tế quốc tế.
+C: Đổi mới cơ chế quản lí kinh tế – xã hội. 
+D: Đổi mới hệ thống luật pháp.","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trên lĩnh vực đối ngoại, Đảng và Nhà nước ta đã thực hiện việc làm nào dưới đây để sớm đưa nước ta ra khỏi tình trạng kém phát triển, thực hiện thắng lợi sự nghiệp công nghiệp hoá, hiện đại hoá đất nước?
+### Lựa chọn:
+A: [MASKED] 
+B: Chủ động và tích cực hội nhập kinh tế quốc tế.
+C: Đổi mới cơ chế quản lí kinh tế – xã hội. 
+D: Đổi mới hệ thống luật pháp.
+assistant
+### Câu hỏi: Trên lĩnh vực đối ngoại, Đảng và Nhà nước ta đã thực hiện việc làm nào dưới đây để sớm đưa nước ta ra khỏi tình trạng kém phát triển, thực hiện thắng lợi sự nghiệp công nghiệp hoá, hiện đại hoá đất nước?
+### Lựa chọn:
+A: Chủ động và tích cực hội nhập kinh tế quốc tế.
+B: Chủ động và tích cực hội nhập kinh tế quốc tế.
+C: Đổi mới cơ chế quản lí kinh tế – xã hội. 
+D: Đổi mới hệ thống luật pháp. 
+
+Câu hỏi trắc nghiệm là một câu hỏi về lĩnh vực đối ngoại, Đảng và Nhà nước ta. Theo câu hỏi, Đảng và Nhà nước ta đã thực hiện việc làm gì để sớm đưa nước ta ra khỏi",Phát triển đối ngoại nhân dân.,0.0229007638990879,0.03174603174603175
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào nói đúng nhất nội dung, ý nghĩa của hai câu thơ đầu trong bài thơ Quê hương?
+### Lựa chọn:
+A: Giới thiệu nghề nghiệp, vị trí địa lí của làng quê nhà thơ. 
+B: [MASKED]
+C: Miêu tả cảnh sinh hoạt của người dân làng chài. 
+D: Cả A, B, C đều sai.","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Dòng nào nói đúng nhất nội dung, ý nghĩa của hai câu thơ đầu trong bài thơ Quê hương?
+### Lựa chọn:
+A: Giới thiệu nghề nghiệp, vị trí địa lí của làng quê nhà thơ. 
+B: [MASKED]
+C: Miêu tả cảnh sinh hoạt của người dân làng chài. 
+D: Cả A, B, C đều sai.
+assistant
+### Câu hỏi: Dòng nào nói đúng nhất nội dung, ý nghĩa của hai câu thơ đầu trong bài thơ Quê hương?
+### Lựa chọn:
+A: Giới thiệu nghề nghiệp, vị trí địa lí của làng quê nhà thơ.
+B: [MASKED]
+C: Miêu tả cảnh sinh hoạt của người dân làng chài.
+D: Cả A, B, C đều sai.
+assistant
+### Câu hỏi: Dòng nào nói đúng nhất nội dung, ý nghĩa của hai câu thơ đầu trong bài thơ Quê hương?
+### Lựa chọn:
+A: Giới thiệu nghề nghiệp, vị trí địa lí của làng quê nhà thơ.
+B: [MASKED]
+C: Miêu tả cảnh",Giới thiệu vẻ đẹp của làng quê nhà thơ.,0.0642201825976371,0.0693069306930693
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tác giả so sánh tình hình hút thuốc lá ở nước ta với các nước Âu - Mĩ trước khi đưa ra kiến nghị nhằm mục đích gì?
+### Lựa chọn:
+A: Tỉ lệ thanh thiếu niên hút thuốc ở thành phố lớn nước ta cao ngang với tỉ lệ các thành phố Âu – Mĩ. 
+B: Các nước đã tiến hành những chiến dịch, thực hiện những biện pháp ngăn ngừa, hạn chế thuốc lá quyết liệt hơn ta.
+C: [MASKED] 
+D: Tất cả đều đúng.","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Tác giả so sánh tình hình hút thuốc lá ở nước ta với các nước Âu - Mĩ trước khi đưa ra kiến nghị nhằm mục đích gì?
+### Lựa chọn:
+A: Tỉ lệ thanh thiếu niên hút thuốc ở thành phố lớn nước ta cao ngang với tỉ lệ các thành phố Âu – Mĩ. 
+B: Các nước đã tiến hành những chiến dịch, thực hiện những biện pháp ngăn ngừa, hạn chế thuốc lá quyết liệt hơn ta.
+C: [MASKED] 
+D: Tất cả đều đúng.
+assistant
+### Câu hỏi: Tác giả so sánh tình hình hút thuốc lá ở nước ta với các nước Âu - Mĩ trước khi đưa ra kiến nghị nhằm mục đích gì?
+### Lựa chọn:
+A: Tỉ lệ thanh thiếu niên hút thuốc ở thành phố lớn nước ta cao ngang với tỉ lệ các thành phố Âu – Mĩ.
+B: Các nước đã tiến hành những chiến dịch, thực hiện những biện pháp ngăn ngừa, hạn chế thuốc lá quyết liệt hơn ta.
+C: [MASKed] 
+D: Tất cả đều đúng.
+assistant
+### Câu hỏi: Tác giả so sánh tình hình hút thuốc lá ở nước ta với các nước Âu - Mĩ trước khi đưa ra kiến nghị nhằm mục đích gì?
+### Lựa chọn:
+A: Tỉ lệ thanh thiếu niên hút thuốc ở thành phố lớn nước ta cao ngang với tỉ lệ các thành phố Âu - Mĩ. 
+B: Các nước đã tiến hành những","So sánh với nước họ, chúng ta còn quá nhiều bệnh dịch cần phải thanh toán.",0.0506329126656055,0.04861111111111111
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trên một sợi dây dài 2 m đang có sóng dừng với tần số 100 Hz, người ta thấy ngoài 2 đầu dây cố định còn có 3 điểm khác luôn đứng yên. Tốc độ truyền sóng trên dây là
+### Lựa chọn:
+A: 50 m/s. 
+B: 78 m/s.
+C: 100 m/s. 
+D: [MASKED]","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trên một sợi dây dài 2 m đang có sóng dừng với tần số 100 Hz, người ta thấy ngoài 2 đầu dây cố định còn có 3 điểm khác luôn đứng yên. Tốc độ truyền sóng trên dây là
+### Lựa chọn:
+A: 50 m/s. 
+B: 78 m/s.
+C: 100 m/s. 
+D: [MASKED]
+assistant
+### Câu hỏi: Trên một sợi dây dài 2 m đang có sóng dừng với tần số 100 Hz, người ta thấy ngoài 2 đầu dây cố định còn có 3 điểm khác luôn đứng yên. Tốc độ truyền sóng trên dây là
+### Lựa chọn:
+A: 50 m/s.
+B: 78 m/s.
+C: 100 m/s.
+D: [MASKED]
+assistant
+The correct answer is C: 100 m/s. The question asks for the speed of the waves on the suture, which is the speed of the waves that are not moving. The suture is a continuous line of waves that are not moving, so the speed of the waves on the suture is 0 m/s. The question also asks for the speed of the waves on the suture, which is the speed of the waves",111 m/s.,0.036101084202528,0.009009009009009009
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Phần mở bài của bài văn thuyết minh thường làm gì?
+### Lựa chọn:
+A: Giới thiệu đối tượng thuyết minh 
+B: [MASKED]
+C: Bày tỏ thái độ đối với đối tượng 
+D: Miêu tả chi tiết đối tượng","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Phần mở bài của bài văn thuyết minh thường làm gì?
+### Lựa chọn:
+A: Giới thiệu đối tượng thuyết minh 
+B: [MASKED]
+C: Bày tỏ thái độ đối với đối tượng 
+D: Miêu tả chi tiết đối tượng
+assistant
+### Câu hỏi: Phần mở bài của bài văn thuyết minh thường làm gì?
+### Lựa chọn:
+A: Giới thiệu đối tượng thuyết minh
+B: [MASKED]
+C: Bày tỏ thái độ đối với đối tượng
+D: Miêu tả chi tiết đối tượng
+The passage does not provide a clear answer to the question ""Part of the essay that explains the purpose of the essay"". The passage only mentions that the essay is about the purpose of the essay, but does not provide any information about the purpose of the essay. Therefore, the correct answer is option C: Bày tỏ thái độ đối với đối tượng.","Trình bày cấu tạo, đặc điểm, lợi ích….của đối tượng",0.0399999991059303,0.031914893617021274
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong bài thơ, từ tẩu lộ được nhắc lại mấy lần?
+### Lựa chọn:
+A: [MASKED] 
+B: B. 2 lần
+C: C. 3 lần 
+D: D. 4 lần","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong bài thơ, từ tẩu lộ được nhắc lại mấy lần?
+### Lựa chọn:
+A: [MASKED] 
+B: B. 2 lần
+C: C. 3 lần 
+D: D. 4 lần
+assistant
+### Câu hỏi: Trong bài thơ, từ tẩu lộ được nhắc lại mấy lần?
+### Lựa chọn:
+A: [MASKED] 
+B: B. 2 lần
+C: C. 3 lần 
+D: D. 4 lần",A. 1 lần,0.0733944922685623,0.0625
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Phát biểu nào sau đây về mối quan hệ giữa li độ, vận tốc, gia tốc là đúng?
+### Lựa chọn:
+A: A. Trong dao động điều hòa li độ và vận tốc luôn trái dấu. 
+B: B. Trong dao động điều hòa gia tốc và li độ luôn trái dấu.
+C: [MASKED] 
+D: D. Trong dao động điều hòa vận tốc và li độ luôn cùng dấu.","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Phát biểu nào sau đây về mối quan hệ giữa li độ, vận tốc, gia tốc là đúng?
+### Lựa chọn:
+A: A. Trong dao động điều hòa li độ và vận tốc luôn trái dấu. 
+B: B. Trong dao động điều hòa gia tốc và li độ luôn trái dấu.
+C: [MASKED] 
+D: D. Trong dao động điều hòa vận tốc và li độ luôn cùng dấu.
+assistant
+### Câu hỏi: Phát biểu nào sau đây về mối quan hệ giữa li độ, vận tốc, gia tốc là đúng?
+### Lựa chọn:
+A: A. Trong dao động điều hòa li độ và vận tốc luôn trái dấu.
+B: B. Trong dao động điều hòa gia tốc và li độ luôn trái dấu.
+C: [MASKed] 
+D: D. Trong dao động điều hòa vận tốc và li độ luôn cùng dấu.
+The correct answer is B. The question is asking about the relationship between the speed, acceleration, and velocity of a moving object. The correct answer is that the speed, acceleration, and velocity of a moving object are all related to each other, but the relationship is not always the same. The speed is related to the acceleration, and the acceleration is related to the velocity. The",C. Trong dao động điều hòa vận tốc và gia tốc luôn cùng dấu.,0.1003860980272293,0.11067193675889328
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Một con lắc đơn được treo vào một điện trường đều có đường sức thẳng đứng. Khi quả nặng của con lắc được tích điện q1 thì chu kì dao động điều hòa của con lắc là 1,6s. Khi quả nặng của con lắc được tích điện q2 = - q1 thì chu kì dao động điều hòa của con lắc là 2,5s. Khi quả nặng của con lắc không mang điện thì chu kì dao động điều hòa của con con lắc là:
+### Lựa chọn:
+A: 2,84s 
+B: [MASKED]
+C: 2,61s 
+D: 1,91s","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Một con lắc đơn được treo vào một điện trường đều có đường sức thẳng đứng. Khi quả nặng của con lắc được tích điện q1 thì chu kì dao động điều hòa của con lắc là 1,6s. Khi quả nặng của con lắc được tích điện q2 = - q1 thì chu kì dao động điều hòa của con lắc là 2,5s. Khi quả nặng của con lắc không mang điện thì chu kì dao động điều hòa của con con lắc là:
+### Lựa chọn:
+A: 2,84s 
+B: [MASKED]
+C: 2,61s 
+D: 1,91s
+assistant
+### Câu hỏi: Một con lắc đơn được treo vào một điện trường đều có đường sức thẳng đứng. Khi quả nặng của con lắc được tích điện q1 thì chu kì dao động điều hòa của con lắc là 1,6s. Khi quả nặng của con lắc được tích điện q2 = - q1 thì chu kì dao động điều hòa của con lắc là 2,5s. Khi quả nặng của con lắc không mang điện thì chu kì dao động điều hòa của con con lắc là:
+### Lựa chọn:
+A: 2,84s
+B: [MASKED]
+C: 2,61s
+D: 1,91s
+The correct answer is C: 2,61s. This is because the question asks for the time period of the con lắc when the electric field is applied, not the time period of the con lắc when the electric field is not applied. The answer to the question is that the con lắc will have a time period of approximately 2,61 seconds when the","2,78s",0.0213903747498989,0.0
+"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nay chúng ta ….. làm gì nữa, thử xem lão Miệng có sống được không
+### Lựa chọn:
+A: Nên 
+B: Đừng
+C: [MASKED] 
+D: Hãy","system
+You are a helpful assistant
+user
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Nay chúng ta ….. làm gì nữa, thử xem lão Miệng có sống được không
+### Lựa chọn:
+A: Nên 
+B: Đừng
+C: [MASKED] 
+D: Hãy
+assistant
+### Câu hỏi: Nay chúng ta ….. làm gì nữa, thử xem lão Miệng có sống được không
+### Lựa chọn:
+A: Nên
+B: Đừng
+C: [MASKed] 
+D: Hãy
+Nay chúng ta không làm gì nữa, thử xem lão Miệng có sống được không?",Không,0.0,0.01904761904761905

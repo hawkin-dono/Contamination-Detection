@@ -1,0 +1,10 @@
+gemma2_9b_logging_file_domain: 0.16804731988176183
+gemma2_9b_logging_file_mmlu: 0.22769185663454863
+llama3.1_8b_logging_file_domain: 0.1700172223154969
+llama3.1_8b_logging_file_mmlu: 0.24438312754626562
+phi3.5_mini_logging_file_domain: 0.10000118806484858
+phi3.5_mini_logging_file_mmlu: 0.1779209945708497
+qwen2_7b_logging_file_domain: 0.1151558573960826
+qwen2_7b_logging_file_mmlu: 0.19622190779399123
+vistral_7b_mini_logging_file_domain: 0.15336863015366892
+vistral_7b_mini_logging_file_mmlu: 0.1856399518507247

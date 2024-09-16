@@ -1,0 +1,104 @@
+,Question,Answer,Label,rouge_score
+0,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Các từ in đậm trong bài ca dao sau đây là từ ngữ địa phương (thuộc vùng nào) trên đất nước ta?
+### Lựa chọn:
+A: Vùng Nghệ Tĩnh. 
+B: Vùng đồng bằng Bắc Bộ.
+C: [MASKED] 
+D: Vùng Nam Trung Bộ.","5. Vùng đồng bằng Bắc Bộ. 
+
+Nội dung của lựa chọn B là: 6",Vùng đồng bằng Nam Bộ.,0.27272728085517883
+1,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Theo những số liệu minh họa trong bài viết, hãy cho biết tỉ lệ sinh con của phụ nữ ở châu lục nào là lớn nhất?
+### Lựa chọn:
+A: Châu Á 
+B: Châu Âu
+C: Châu Mỹ 
+D: [MASKED]","1. Câu hỏi trắc nghiệm là ""Tỷ lệ sinh con của phụ nữ ở châu lục nào là lớn nhất?"".
+
+Dựa vào các số liệu minh họa trong bài viết, có thể xác định tỉ lệ sinh con của phụ nữ ở châu lục là lớn nhất ở châu Mỹ. Tuy nhiên, không có thông tin cụ thể về tỉ lệ sinh con của phụ nữ ở châu lục nào là lớn nhất. Vì vậy, lựa chọn D là ""C",Châu Phi,0.0
+2,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong tác phẩm Chiếc lá cuối cùng, Giôn-xi đã được cứu sống nhờ vào điều gì?
+### Lựa chọn:
+A: Nhờ có thuốc, sự chăm sóc của Xiu và chủ yếu là nhờ chiếc lá không rụng. 
+B: Chỉ nhờ may mắn và nhờ ở sức trẻ của chính bản thân người nữ hoạ sĩ.
+C: Bác sĩ đã kịp thời cho cô uống loại thuốc tốt, đắt tiền. 
+D: [MASKED]","1) Bác sĩ đã kịp thời cho cô uống loại thuốc tốt, đắt tiền. 
+
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Trong tác phẩm Chiếc lá cuối cùng, Giôn-xi đã được cứu sống nhờ vào điều gì?
+### Lựa chọn:
+A: Nhờ có thuốc, sự chăm",Xiu đã chăm sóc rất chu đáo.,0.04878048598766327
+3,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Cho đoạn văn: Lâu lâu, cái Tí chừng như cũng hiểu được nỗi đau lòng của mẹ, nó không khóc nữa. Lau sạch nước mắt, nó chạy đến chỗ cái Tỉu cúi đầu tận mặt con này, nó hôn mỗi má mấy cái, và nó lại mèo: - Tỉu ở nhà nhé! Tỉu ở nhà với anh Dần nhé! Chị phải đi đây. Chị sang ở với cụ Nghị kia đây. Từ rày trở đi chị không ẵm Tỉu nữa. Bao giờ Tỉu lớn Tỉu sang bên ấy tìm chị, Tỉu nhé! (Ngô Tất Tố, Tắt đèn)
+### Lựa chọn:
+A: [MASKED] 
+B: Muốn người nghe đồng tình với đề nghị của mình
+C: Muốn người nghe làm theo đề nghị của mình 
+D: Cả B và C đều đúng","1) Muốn người nghe đồng tình với đề nghị của mình. 
+Nội dung của lựa chọn B là: 2) Muốn người nghe làm theo đề nghị của mình. 
+Nội dung của lựa chọn C là: 3) Cả B và C đều đúng. 
+Nội dung của lựa chọn D là: 4) Không có lựa chọn phù hợp.",Muốn lời nói của mình được người nghe chú ý,0.13513512909412384
+4,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Một con lắc đơn dao động điều hòa với biên độ góc α0. Lấy mốc thế năng ở vị trí cân bằng. Ở vị trí con lắc có động năng bằng thế năng thì li độ góc của nó bằng:
+### Lựa chọn:
+A: [MASKED] 
+B: ±α0/√3
+C: ±α0/√2 
+D: ±α0/2","Ở vị trí con lắc có động năng bằng thế năng thì li độ góc của nó bằng:
+
+A: ±α0/√3
+
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, bạn có thể điền vào câu hỏi trắc nghiệm như sau:
+
+Lấy mốc thế năng ở vị trí con lắc có động năng bằng thế năng thì li độ góc của nó bằng:
+
+A: ±α0/√3
+
+B: ±α0/√2
+
+",±α0/√2,0.06976744532585144
+5,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Để xem xét một câu có phải là câu ghép hay không, chúng ta phải xem xét khía cạnh nào?
+### Lựa chọn:
+A: Xét quan hệ về mặt ngữ âm giữa các vế câu. 
+B: Xét quan hệ về mặt ngữ nghĩa giữa các vế câu.
+C: [MASKED] 
+D: Xét quan hệ về mặt bổ trợ nhau giữa các vế câu.","1) Xét quan hệ về mặt ngữ âm giữa các vế câu. 2) Xét quan hệ về mặt ngữ nghĩa giữa các vế câu. 3) Xét quan hệ về mặt bổ trợ nhau giữa các vế câu. 
+
+Dựa vào trí nhớ của bạn về các bộ dữ liệu, bạn có thể điền vào câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+
+### Câu hỏi: Để xem xét một câu có",Xét quan hệ về mặt ngữ pháp giữa các vế câu.,0.2222222238779068
+6,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Truyền cho quả nặng của con lắc đơn đang đứng yên ở vị trí cân bằng một vận tốc v0 = 1/3 m/s theo phương ngang thì nó dao động điều hòa với biên độ góc α0 = 6°. Lấy. Chu kỳ dao động của con lắc bằng:
+### Lựa chọn:
+A: 2,00s. 
+B: 2,60s.
+C: [MASKED] 
+D: 2,86s.","2,86s.","30,0ms.",0.20000000298023224
+7,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Việc đưa ra những con số về tỉ lệ sinh con của phụ nữ ở một số nước ở châu Á và châu Phi em có thể rút ra kết luận gì?
+### Lựa chọn:
+A: [MASKED] 
+B: Các con số cho thấy các nước kém và chậm phát triển lại sinh con rất nhiều.
+C: Nền kinh tế các nước còn yếu kém mà dân số lại bùng nổ rất cao, gây khó khăn cho việc cải thiện chất lượng cuộc sống người dân. 
+D: Tất cả đều đúng"," Các con số cho thấy các nước kém và chậm phát triển lại sinh con rất nhiều. 
+Nội dung của lựa chọn B là: Các con số cho thấy các nước kém và chậm phát triển lại sinh con rất nhiều. 
+Nội dung của lựa chọn C là: Nền kinh tế các nước còn yếu kém mà dân số lại bùng nổ rất cao, gây khó khăn cho việc cải thiện chất lượng cuộc sống người dân. 
+Nội dung của lựa chọn D",Thực tế phụ nữ có thể sinh rất nhiều con,0.08080808073282242
+8,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Thể thơ của Muốn làm thằng Cuội cho chúng ta thấy điều gì?
+### Lựa chọn:
+A: Xu hướng muốn thoát li, xa lánh chốn bụi trần của nhà thơ. 
+B: Lòng yêu đời, yêu cuộc sống của nhà thơ.
+C: [MASKED] 
+D: Xu hướng nhập cuộc, muốn cống hiến tài năng cho đất nước.","1) Xu hướng muốn thoát li, xa lánh chốn bụi trần của nhà thơ. 2) Lòng yêu đời, yêu cuộc sống của nhà thơ. 3) Xu hướng nhập cuộc, muốn cống hiến tài năng cho đất nước. 
+
+Nội dung của lựa chọn A là: Xu hướng muốn thoát li, xa lánh chốn bụi trần của nhà thơ. 2) Lòng yêu đời, yêu cuộc sống của nhà thơ. 3) Xu hướng",Sự đùa cợt của nhà thơ trước thực trạng cuộc sống lúc bấy giờ.,0.11999999731779099
+9,"Dựa vào trí nhớ của bạn về các bộ dữ liệu, hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm. 
+### Câu hỏi: Liệt kê những thanh trắc (T)?
+### Lựa chọn:
+A: [MASKED] 
+B: Ngang, huyền, sắc
+C: Nặng, hỏi, ngã 
+D: Sắc, nặng, hỏi, ngã","1. Ngang, huyền, sắc.","Nặng, hỏi, sắc",0.20000000298023224

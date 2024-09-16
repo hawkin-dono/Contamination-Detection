@@ -1,0 +1,157 @@
+Question,predict,label,rouge_score,score
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Trong những năm cuối thế kỉ XIX - đầu thế kỉ XX, cùng với việc [MASKED]
+### Lựa chọn:
+A: được xác lập ở châu Âu và khu vực Bắc Mỹ. 
+B: được xác lập ở các quốc gia: Pháp, Đức, I-ta-li-a,…
+C: mở rộng phạm vi ảnh hưởng trên toàn thế giới. 
+D: suy yếu và bị thu hẹp phạm vi ảnh hưởng."," được xác lập ở châu Âu và khu vực Bắc Mỹ, có thể được xác định là:
+
+A: được xác lập ở châu Âu và khu vực Bắc Mỹ. 
+
+B: được xác lập ở các quốc gia: Pháp, Đức, I-ta-li-a,… 
+
+C: mở rộng phạm vi ảnh hưởng trên toàn thế giới. 
+
+D: suy yếu và bị thu hẹp phạm vi ảnh hưởng. 
+
+Tuy nhiên, không có thông tin cụ thể về các quốc gia","các nước đế quốc đẩy mạnh xâm lược thuộc địa, chủ nghĩa tư bản đã",0.0196078438311815,0.0449438202247191
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nếu bỏ hết các yếu tố miêu tả và biểu cảm, chỉ còn lại [MASKED]
+### Lựa chọn:
+A: Trở nên rất khô khan, thiếu sinh động, tình cảm 
+B: Tính cách của nhân vật không được thể hiện cụ thể rõ nét
+C: Cả A và B đều đúng 
+D: Cả A và B đều sai"," [MASKED] và [MASKED] thì bạn có thể đưa ra một số lựa chọn sau:
+A: Trở nên rất khô khan, thiếu sinh động, tình cảm
+B: Tính cách của nhân vật không được thể hiện cụ thể rõ nét
+C: Cả A và B đều đúng
+D: Cả A và B đều sai
+Tuy nhiên, không có một lựa chọn nào phù hợp nhất cho câu hỏi này. Bạn có thể đưa ra một số",yếu tố tự sự thì việc kể chuyện trong đoạn văn sẽ như thế nào?,0.0434782616794109,0.044444444444444446
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nội dung nào dưới đây không thể [MASKED]
+### Lựa chọn:
+A: Kế thừa và phát huy những truyền thống, bản sắc tốt đẹp của dân tộc. 
+B: Nhà nước của dân, do dân và vì dân.
+C: Chăm lo lợi ích mọi mặt cho tất cả các dân tộc. 
+D: Thực hiện đại đoàn kết dân tộc."," là A: Kế thừa và phát huy những truyền thống, bản sắc tốt đẹp của dân tộc. 
+
+B: Nhà nước của dân, do dân và vì dân. 
+
+C: Chăm lo lợi ích mọi mặt cho tất cả các dân tộc. 
+
+D: Thực hiện đại đoàn kết dân tộc. 
+
+Nội dung nào dưới đây không thể là B: Nhà nước của dân, do dân và vì dân. 
+
+B: Nhà nước của dân, do dân và vì dân",hiện tính dân tộc của Nhà nước ta?,0.1162790730595588,0.14285714285714285
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Những câu nào có [MASKED]
+### Lựa chọn:
+A: Câu (1), (3), (4), (9), (10), (12), (13) 
+B: Câu (1), (3), (9), (10), (12), (13)
+C: Câu (1), (3), (9), (10), (11), (12), (13) 
+D: Câu (3), (9), (10)"," [MASKED] là:
+A: Câu (1), (3), (4), (9), (10), (12), (13)
+B: Câu (1), (3), (9), (10), (12), (13)
+C: Câu (1), (3), (9), (10), (11), (12), (13)
+D: Câu (3), (9), (1",chứa yếu tố miêu tả?,0.0,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Trong tác phẩm ""Tôi đi học"" của Thanh Tịnh thì [MASKED]
+### Lựa chọn:
+A: A. Tâm trạng của nhân vật tôi trong ngày đầu đến trường cùng mẹ - Lúc gặp ông Đốc - Lúc ra về - Sau này khi hồi tưởng lại (3) 
+B: B. Cả (1) (2) (3) đều sai.
+C: C. Tâm trạng của nhân vật tôi khi mỗi độ thu về - Khung cảnh sân trường làng Mĩ Lí - Ông Đốc đọc tên và tâm trạng của nhận vật tôi (1) 
+D: D. Tâm trạng của nhân vật tôi khi được mẹ dắt đến trường trong lần đầu tiên - Sự lo lắng trong ngày đầu tiên đi học của nhân vật tôi thể hiện khi đi đường, khi gặp người lạ, khi gặp ông Đốc - Cảm giác dư âm khi hồi tưởng lại của nhân vật tôi.",":
+
+A: A. Tâm trạng của nhân vật tôi trong ngày đầu đến trường cùng mẹ - Lúc gặp ông Đốc - Lúc ra về - Sau này khi hồi tưởng lại (3) là B. Cả (1) (2) (3) đều sai.
+
+B: B. Cả (1) (2) (3) đều sai.
+
+C: C. Tâm trạng của nhân vật tôi khi mỗi độ thu về - Khung cảnh sân trường làng Mĩ Lí",những chi tiết cần chú ý khi tóm tắt là?,0.0459770113229751,0.05333333333333334
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Các câu dưới đây có thể nằm ở phần nào của bài [MASKED]
+### Lựa chọn:
+A: A. Nguyên liệu 
+B: B. Yêu cầu thành phẩm
+C: C. Cách làm 
+D: D. Không nằm ở phần nào"," [MASKED] có thể là A, B, C, D, hoặc E. 
+
+A: A. Nguyên liệu là một trong những câu hỏi trắc nghiệm trong bài [MASKED] và có thể nằm ở phần nào. 
+
+B: B. Yêu cầu thành phẩm là một trong những câu hỏi trắc nghiệm trong bài [MASKED] và có thể nằm ở phần nào. 
+
+C: C. Cách làm là một trong những câu hỏi trắc nghiệm trong bài [",thuyết minh về “Cách nấu canh rau ngót với thịt lợn nạc”,0.0215053763240575,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nhận xét nào nói đúng [MASKED]
+### Lựa chọn:
+A: Là một người yêu thương và lo lắng cho số phận của Giôn-xi. 
+B: Là một người cao thượng, biết quên mình vì người khác.
+C: Là một người sống lặng lẽ, âm thầm. 
+D: Cả 3 nội dung trên đều đúng."," là:
+A: Là một người yêu thương và lo lắng cho số phận của Giôn-xi. 
+B: Là một người cao thượng, biết quên mình vì người khác. 
+C: Là một người sống lặng lẽ, âm thầm. 
+D: Cả 3 nội dung trên đều đúng.
+assistant
+The answer to the question ""Câu hỏi: Nhận xét nào nói đúng [MASKED]"" is:
+A: Là một người yêu thương và lo",nhất về con người cụ Bơ-men?,0.0493827164173126,0.027397260273972605
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nội dung nào không thể hiện chính xác nguyên nhân ba [MASKED]
+### Lựa chọn:
+A: Đường lối quân sự của Đại Việt rất độc đáo, linh hoạt, sáng tạo. 
+B: Lực lượng quân Mông-Nguyên ít, khí thế chiến đấu kém cỏi.
+C: Đại Việt có đội ngũ tướng lĩnh tài giỏi với nhiều danh tiếng kiệt xuất. 
+D: Nhân dân Đại Việt có lòng yêu nước, đoàn kết chống ngoại xâm."," là:
+
+A: Đường lối quân sự của Đại Việt rất độc đáo, linh hoạt, sáng tạo. 
+
+B: Lực lượng quân Mông-Nguyên ít, khí thế chiến đấu kém cỏi. 
+
+C: Đại Việt có đội ngũ tướng lĩnh tài giỏi với nhiều danh tiếng kiệt xuất. 
+
+D: Nhân dân Đại Việt có lòng yêu nước, đoàn kết chống ngoại xâm. 
+
+So, the correct answer is A. The reason for this is that the",lần giặc Mông-Nguyên thất bại trong cuộc xâm lược Đại Việt?,0.122448980808258,0.07317073170731707
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Nửa sau thế kỉ XVII, chủ [MASKED]
+### Lựa chọn:
+A: Hà Lan và Anh. 
+B: I-ta-lia-a và Đức.
+C: Anh và Bắc Mĩ. 
+D: Pháp và Bắc Mĩ."," Anh và Anh. 
+
+Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+Câu hỏi: Nửa sau thế kỉ XVII, chủ Anh và Anh. 
+
+Lựa chọn:
+A: Hà Lan và Anh. 
+
+B: I-ta-lia-a và Đức. 
+
+C: Anh và Bắc Mĩ. 
+
+D: Pháp và Bắc Mĩ. 
+
+Câu hỏi",nghĩa tư bản được xác lập ở,0.025000000372529,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Xác định chủ ngữ trong câu ghép sau: ""Khác hẳn bây giờ, người ta lấy [MASKED]
+### Lựa chọn:
+A: A. Người ta, gừng 
+B: B. Khác hẳn bây giờ, người ta
+C: C. Người ta, thịt bò 
+D: D. Thịt bò, gừng"," [MASKED]"". 
+
+A: A. Người ta, gừng. 
+
+B: B. Khác hẳn bây giờ, người ta. 
+
+C: C. Người ta, thịt bò. 
+
+D: D. Thịt bò, gừng. 
+
+Câu ghép: ""Khác hẳn bây giờ, người ta lấy [MASKED]"". 
+
+A: A. Người ta, gừng là chủ ngữ. 
+
+B: B. Khác hẳn bây giờ","miếng thịt bò cho vào muôi rồi nhúng vào nồi, còn gừng đã băm sẵn.""",0.1538461595773697,0.09375

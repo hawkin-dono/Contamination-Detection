@@ -1,0 +1,84 @@
+Question,predict,label,rouge_score,score
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Hàng hóa nào sau đây có [MASKED]
+### Lựa chọn:
+A: Một lon Coca-Cola 
+B: Dịch vụ truyền hình cáp
+C: Buổi biểu diễn pháo hoa 
+D: Môi trường"," [MASKED]?
+B: Dịch vụ truyền hình cáp
+C: Buổi biểu diễn pháo hoa 
+D: Môi trường
+答案是B: Dịch vụ truyền hình cáp.",tính cạnh tranh và loại trừ?,0.0,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Hướng công nghiệp hoá, hiện đại hoá ở nước ta ở Đại hội [MASKED]
+### Lựa chọn:
+A: Phải phát triển nhanh và có hiệu quả các sản phẩm, các ngành, các lĩnh vực đáp ứng nhu cầu trong nước và xuất khẩu 
+B: Rút ngắn thời gian so với đi trước và tận dụng kinh nghiệm, kỹ thuật, công nghệ của các nước đi trước
+C: Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ 
+D: Ưu tiên phát triển công nghiệp nặng một cách hợp lý, trên cơ sở phát triển nông nghiệp và công nghiệp nhẹ"," là A: Phải phát triển nhanh và có hiệu quả các sản phẩm, các ngành, các lĩnh vực đáp ứng nhu cầu trong nước và xuất khẩu. B: Rút ngắn thời gian so với đi trước và tận dụng kinh nghiệm, kỹ thuật, công nghệ của các nước đi trước. C: Coi trọng phát triển giáo dục và đào tạo, khoa học và công nghệ. D: Ưu tiên phát triển công nghiệp nặng một cách hợp lý,",IX và Đại hội X Đảng ta tiếp tục bổ sung và nhấn mạnh.,0.041237112134695,0.04395604395604396
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Giao thức nào là một giao thức kết nối song công, đáng [MASKED]
+### Lựa chọn:
+A: UDP 
+B: TCP
+C: IP 
+D: Câu a và b đúng"," [MASKED] là UDP. Giao thức UDP là một giao thức kết nối song công, nghĩa là nó có thể kết nối với nhiều máy chủ khác nhau. Giao thức TCP là một giao thức kết nối song công, nghĩa là nó có thể kết nối với nhiều máy chủ khác nhau. Giao thức IP là một giao thức kết nối song công, nghĩa là nó có thể kết nối với nhiều máy chủ khác nhau. Giao thức Câu a",tin cậy và chịu trách nhiệm trong việc điều khiển truyền dữ liệu?,0.0,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Cho X là biến ngẫu nhiên có phân phối chi bình phương với [MASKED]
+### Lựa chọn:
+A: E(X^{2}) = 450 
+B: E(X) = V(X) = 20
+C: V(X) = 20 
+D: E(X) = 20"," [MASKED] và V(X) là tổng số các biến ngẫu nhiên có phân phối chi bình phương với [MASKED] và E(X^{2}) là tổng số các biến ngẫu nhiên có phân phối chi bình phương với [MASKED] và E(X) là tổng số các biến ngẫu nhiên có phân phối chi bình phương với [MASKED].
+
+V(X) = 20 là tổng số các biến ngẫu nhiên có phân phối chi bình phương với [MASK",bậc tự do n = 20. Khẳng định nào sau đây là đúng:,0.0824742242693901,0.04938271604938272
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Chọn đáp án trả lời đúng cho câu hỏi: Hiến pháp [MASKED]
+### Lựa chọn:
+A: Năm 1954 
+B: Năm 1959
+C: Năm 1965 
+D: Năm 1980"," [MASKED] là:
+B: Năm 1959
+C: Năm 1965
+D: Năm 1980
+
+B: Năm 1959 là năm của Hiến pháp Việt Nam. Hiến pháp Việt Nam được thực hiện từ năm 1959 đến nay.",thứ hai của nước ta được thông qua vào năm nào?,0.0857142880558967,0.13636363636363635
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Những nhân tố cần thiết cho sự chuyển [MASKED]
+### Lựa chọn:
+A: Nguồn nhân lực 
+B: Đổi mới cơ chế quản lý khoa học & công nghệ
+C: Khoa học& công nghệ 
+D: Tất cả đều đúng"," đổi của một số vấn đề trong cuộc sống là nguồn nhân lực, đổi mới cơ chế quản lý khoa học và công nghệ, và khoa học và công nghệ. Tuy nhiên, không có câu hỏi trắc nghiệm nào cho phép bạn chọn một trong các lựa chọn trên. Bạn có thể chọn một trong các lựa chọn trên hoặc không có bất kỳ điều gì được đề cập trong câu hỏi.","dịch cơ cấu lao động, cơ cấu công nghệ",0.0689655169844627,0.07407407407407407
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Đất đỏ vàng (feralit) thường thích hợp với [MASKED]
+### Lựa chọn:
+A: Rừng lá kim 
+B: Đài nguyên
+C: Thảo nguyên 
+D: Rừng xích đạo", A: Rừng lá kim.,kiểu thảm thực vật chính nào sau đây?,0.0,0.0
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Trong hệ thống phụ âm tiếng Việt, âm nào dưới [MASKED]
+### Lựa chọn:
+A: [t] 
+B: [h]
+C: [c] 
+D: [g]", [MASKED] là [t] (từ âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm âm,đây là phụ âm được cấu tạo ở mặt lưỡi?,0.0377358496189117,0.03883495145631068
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Có bao nhiêu phát biểu sau đây đúng về ổ sinh thái của các loài? I.Ổ sinh thái của một loài biểu hiện cách sinh sống còn nơi ở chỉ nơi cư trú. II.Chim ăn sâu và chim ăn hạt sống trên cùng một cây thì có [MASKED]
+### Lựa chọn:
+A: 4 
+B: 1
+C: 2 
+D: 3"," [MASKED]
+
+B: 1 là câu trả lời chính xác nhất của câu hỏi này. Điều này có thể được xác nhận bằng các nguồn tin liệu hoặc bằng cách sử dụng các phương pháp khác nhau để xác định các loài có thể sống ở cùng một cây hay không.",cùng nơi ở nhưng ổ sinh thái khác nhau. III.Cạnh tranh là một trong những nguyên nhân chủ yếu dẫn đến sự hình thành các ổ sinh thái. IV.Nhờ có sự phân hoá ổ sinh thái nên giảm bớt sự cạnh tranh về thức ăn và nơi ở.,0.1111111119389534,0.10204081632653063
+"Hãy điền vào đoạn <MASKED> trong câu sau để hoàn thành 1 câu hỏi trắc nghiệm:
+### Câu hỏi: Bạn Hoa gấp 1 cái thuyền trong 3 phút 27 giây. [MASKED]
+### Lựa chọn:
+A: 1 phút 9 giây 
+B: 9 phút 21 giây
+C: 10 phút 9 giây 
+D: 10 phút 21 giây", là câu hỏi trắc nghiệm. Bạn có thể sử dụng câu hỏi trắc nghiệm để hoàn thành câu hỏi trắc nghiệm này. Bạn có thể sử dụng câu hỏi trắc nghiệm để hoàn thành câu hỏi trắc nghiệm này. Bạn có thể sử dụng câu hỏi trắc nghiệm để hoàn thành câu hỏi trắc nghiệm này. Bạn có thể sử dụng câu hỏi trắc nghiệm để hoàn thành câu hỏi trắc nghiệm này. Bạn có thể sử dụng câu hỏi trắc nghiệm để hoàn thành,Hỏi Hoa gấp 3 cái thuyền trong thời gian bao lâu?,0.0,0.020833333333333332

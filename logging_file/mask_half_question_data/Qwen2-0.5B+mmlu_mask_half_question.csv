@@ -1,0 +1,128 @@
+Question,predict,label,rouge_score,score
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: A financial planner on a popular TV show convinces more Americans to save [MASKED]
+### Choices:
+A: The supply curve would shift up increasing the equilibrium interest rate. 
+B: The demand curve would shift up increasing the equilibrium interest rate.
+C: The supply curve would shift down decreasing the equilibrium interest rate. 
+D: The demand curve would shift down decreasing the equilibrium interest rate."," [MASKED] by suggesting that they should save more money. This means that the equilibrium interest rate would increase. 
+
+The supply curve would shift up, which means that more people would save more money. This would increase the equilibrium interest rate. 
+
+The demand curve would shift down, which means that more people would save less money. This would decrease the equilibrium interest rate. 
+
+So, the correct answer is B: The demand curve would shift up increasing the equilibrium interest rate.",for retirement. What is the result on the supply and demand for loanable funds?,0.0851063802838325,0.08602150537634409
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: The largest exporter of agricultural [MASKED]
+### Choices:
+A: China. 
+B: Mexico.
+C: Chile. 
+D: the United States."," products is Chile. Therefore, the correct answer is:
+
+### Question: The largest exporter of agricultural [MASKED]
+### Choices: 
+A: China. 
+B: Mexico.
+C: Chile. 
+D: the United States.
+assistant
+The largest exporter of agricultural products is Chile. Therefore, the correct answer is:
+
+### Question: The largest exporter of agricultural [MASKED]
+### Choices: 
+A: China. 
+B: Mexico.
+C: Chile. 
+D:",goods in the world is,0.0625,0.06666666666666667
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: Which of the following statements does NOT [MASKED]
+### Choices:
+A: Arms control is an example of cooperative security, designed to address the problems associated with the security dilemma. 
+B: Policies of arms control and disarmament was pursued during the Cold War in an attempt to achieve security.
+C: Arms control does not challenge the central role of weaponry and military power in the international system, instead focusing on the problems produced by specific weapon systems and relationships. 
+D: After its successful application during the Cold War, arms control has retained its momentum and applicability in the contemporary security environment."," [MASKED]?
+The correct answer is B: Policies of arms control and disarmament was pursued during the Cold War in an attempt to achieve security. This statement is true, as arms control was a key component of the Cold War's strategy to achieve peace and stability. The Cold War was characterized by the United States and the Soviet Union as the primary adversaries, and arms control was a key tool for preventing the spread of nuclear weapons and preventing the escalation of the Cold War. The Cold War was",characterize arms control as a strategic policy?,0.0799999982118606,0.08421052631578947
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: A federal statute established a national lottery and created a new federal agency to administer it. In order to sell lottery tickets directly to the public, the agency established outlets throughout the country, including in a particular state. The state levies [MASKED]
+### Choices:
+A: No, because a federal agency may not pay any monies to a state without explicit federal statutory authorization to do so. 
+B: No, because a state may not impose a tax directly on the federal government or any of its agencies or instrumentalities.
+C: Yes, because it is a generally applicable tax that does not discriminate against the agency. 
+D: Yes, because the federal government is not exempt from state taxation on its commercial activities."," a tax directly on the federal government or any of its agencies or instrumentalities. 
+
+The question asks whether a federal statute established a national lottery and created a new federal agency to administer it. The answer is that the federal statute does not explicitly authorize the state to levy a tax directly on the federal government or any of its agencies or instrumentalities. 
+
+The answer is also not clear from the question. The question asks whether a federal statute established a national lottery and created a new federal agency to administer it",a general tax on the gross receipts from all gaming operations within the state. The state seeks to tax the agency on the sales of lottery tickets from its outlets within the state. Must the agency pay the state gross receipts tax?,0.2352941185235977,0.2388059701492537
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: A 35-year-old woman comes to the physician because of two 12-hour episodes of dizziness over the past 3 months. During episodes, she experiences the acute onset of rotatory vertigo and imbalance, [MASKED]
+### Choices:
+A: Acoustic neuroma 
+B: Benign positional vertigo
+C: Brain stem transient ischemic attacks 
+D: Meniere's disease"," which is a type of vertigo. The correct answer is B: Benign positional vertigo. 
+
+The other options are not correct because:
+
+A: Acoustic neuroma is a type of cancer that affects the nerves in the brain, not the vertigo. 
+
+C: Brain stem transient ischemic attacks are a type of stroke, not vertigo. 
+
+D: Meniere's disease is a condition that affects the ear, not vertigo. 
+
+So, the correct answer is B:","decreased hearing, tinnitus, a sense of fullness of the right ear, and vomiting. Examination shows a mild hearing loss of the right ear. Which of the following is the most likely diagnosis?",0.1739130467176437,0.196078431372549
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: A prekindergarten teacher uses a basket of red and yellow apples to reinforce concepts during a [MASKED]
+### Choices:
+A: Having students count all the apples in the basket 
+B: Having students put one apple in the middle of the place mat on their desks
+C: Having students make a Venn diagram for the color of the apples 
+D: Having students determine whether the numbers of red and yellow apples are equal"," Venn diagram for the color of the apples. 
+
+The correct answer is C: Having students make a Venn diagram for the color of the apples. This is because the teacher is using a Venn diagram to represent the color of the apples in the basket. The other options are incorrect because they do not represent the teacher's use of a Venn diagram to reinforce concepts. The teacher is using a Venn diagram to represent the color of the apples in the basket, which is a common way",mathematics lesson. Which of the following tasks is best targeted at teaching students to compare quantities?,0.0909090936183929,0.0970873786407767
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: This is a group of people in the process of diffusion who enjoy being [MASKED]
+### Choices:
+A: Late majority. 
+B: Early adopter.
+C: Early majority. 
+D: Laggards."," ""Laggards"". The correct answer is C: Early majority. The question asks for the group of people in the process of diffusion who enjoy being ""Laggards"". The sentence does not provide any information about the group of people who enjoy being ""Laggards"". Therefore, the correct answer is C: Early majority.",at the leading edge of innovation and buy into new products at an early stage:,0.0857142880558967,0.09375
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: Mark has a stamp collection. He has 22 stamps from Japan, 34 from [MASKED]
+### Choices:
+A: 53 
+B: 63
+C: 73 
+D: 83"," [MASKED]. 
+
+Mark has a stamp collection. He has 22 stamps from Japan, 34 from [MASKED]. 
+
+Mark has a stamp collection. He has 22 stamps from Japan, 34 from [MASKED]. 
+
+Mark has a stamp collection. He has 22 stamps from Japan, 34 from [MASKED]. 
+
+Mark has a stamp collection. He has 22 stamps from Japan, 34 from [MASKED].","Canada, and 17 from Mexico. How many stamps does he have in all?",0.0898876413702964,0.08571428571428572
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: In HIV-associated tuberculosis cases, [MASKED]
+### Choices:
+A: Before antiretroviral drugs are started 
+B: After antiretroviral drugs are started
+C: Concurrently with antiretroviral drugs 
+D: Doesn’t make any difference"," the correct answer is:
+
+C: Concurrently with antiretroviral drugs.
+
+The sentence is asking about the relationship between antiretroviral drugs and HIV-associated tuberculosis cases. The correct answer is that antiretroviral drugs are used together with HIV-associated tuberculosis cases. 
+
+The other options are not correct because:
+
+A: Before antiretroviral drugs are started is not mentioned in the sentence.
+B: After antiretroviral drugs are started is not mentioned in the",treatment with antiretrovirals should begin:,0.079207919538021,0.02777777777777778
+"Fill in the <MASKED> part in the following sentence to complete a multiple choice question:
+### Question: Which of the following is [MASKED]
+### Choices:
+A: an increasing awareness of the world as a whole 
+B: the extended power of nation states
+C: the destruction of distance through communications technologies 
+D: the stretching of social relations beyond national boundaries"," [MASKED]?
+The correct answer is B: the extended power of nation states. The sentence is talking about the power of nations to interact and communicate with each other, which is a key aspect of the extended power of nations. The other options are not mentioned in the sentence and do not fit the context.",not a feature of globalization?,0.0677966102957725,0.06779661016949153

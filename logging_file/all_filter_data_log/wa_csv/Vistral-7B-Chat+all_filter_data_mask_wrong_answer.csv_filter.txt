@@ -1,0 +1,6 @@
+gemma-2-2b-it+all_filter_data_mask_wrong_answer: 0.034242391751207066
+gemma-2-9b-it+all_filter_data_mask_wrong_answer: 0.04907782062810963
+Meta-Llama-3.1-8B-Instruct+all_filter_data_mask_wrong_answer: 0.0517068575717042
+Phi-3.5-mini-instruct+all_filter_data_mask_wrong_answer: 0.06062505807927309
+Qwen2-7B-Instruct+all_filter_data_mask_wrong_answer: 0.12869657189956896
+Vistral-7B-Chat+all_filter_data_mask_wrong_answer: 0.04936363390854962

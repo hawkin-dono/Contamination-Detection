@@ -1,0 +1,16 @@
+check_Qwen2-0.5B+domain_addition_mask_wrong_answer: 0.04104573015680078
+gemma-2-2b+domain_addition_mask_half_question: 0.08007898000967147
+gemma-2-2b-it+domain_addition_mask_wrong_answer: 0.07099698729407106
+gemma-2-9b-it+domain_addition_mask_half_question: 0.10035245990780875
+gemma-2-9b-it+domain_addition_mask_wrong_answer: 0.09125352507451458
+Meta-Llama-3.1-8B-Instruct+domain_addition_mask_half_question: 0.10006072234488055
+Meta-Llama-3.1-8B-Instruct+domain_addition_mask_wrong_answer: 0.07905243181063788
+Phi-3.5-mini-instruct+domain_addition_mask_half_question: 0.07496447720581945
+Phi-3.5-mini-instruct+domain_addition_mask_wrong_answer: 0.11453600173425722
+Qwen2-0.5B+domain_addition_mask_half_question: 0.04798967328409292
+Qwen2-0.5B+domain_addition_mask_wrong_answer: 0.14146834374596073
+Qwen2-7B-Instruct+domain_addition_mask_half_question: 0.08491283866036278
+Qwen2-7B-Instruct+domain_addition_mask_wrong_answer: 0.21259463596629966
+Vistral-7B-Chat+domain_addition_mask_half_question: 0.14488545069544845
+Vistral-7B-Chat+domain_addition_mask_wrong_answer: 0.27632118741710204
+Vistral-7B-Chat+domain_masked_wrong_answer: 0.17726345797322113

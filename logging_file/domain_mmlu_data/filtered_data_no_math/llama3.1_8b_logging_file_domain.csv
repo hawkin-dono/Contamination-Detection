@@ -1,0 +1,1206 @@
+predict,label,score,Subject,retained
+Cảnh báo hoặc ngăn chặn A để tránh tiếp tục hành động tiêu cực.,Cùng với A đánh B cho vui.,0.0952380952380952,civic_education,True
+Liên hệ với cơ quan chức năng hoặc người có trách nhiệm để báo cáo và yêu cầu hỗ trợ.,Đèo em bé đó đến gặp công an.,0.0,civic_education,True
+"Người có tính cách linh hoạt, dễ thích nghi.]",Không tôn trọng lẽ phải.,0.0,civic_education,True
+"Làm giàu bằng chính sức lực, tài năng của mình]","Nhiệt tình giúp đỡ mọi người mà không tính toán, không vụ lợi",0.0,civic_education,True
+Liêm chính.,Khiêm tốn.,0.0,civic_education,True
+Sang nhà hàng xóm và đề nghị họ tắt nhạc hoặc giảm âm lượng để cho mọi người có thể nghỉ ngơi.,Sang đánh nhà hàng xóm.,0.2962962962962963,civic_education,True
+"Lờ đi, không quan tâm đến người khác khi họ đang nói hoặc cần giúp đỡ.",Tự nhận lỗi về mình,0.0,civic_education,True
+"Cười người hôm trước, hôm sau người cười",Lời nói không mất tiền mua,0.0,civic_education,True
+Lòng không trung thực.,Lòng vị tha.,0.2857142857142857,civic_education,True
+Giữ chữ tín],Liêm khiết.,0.0,civic_education,True
+Pháp tục.,Công bằng.,0.0,civic_education,True
+"Giúp mọi người nhận biết được những hành động đúng và sai, từ đó tự điều chỉnh và hoàn thiện bản thân.",Giúp cho mọi người tôn trọng nhau hơn.,0.1999999999999999,civic_education,False
+"Lời nói dễ vỡ, việc làm dễ chìm",Phép vua thua lệ làng,0.0,civic_education,True
+"Giúp cho con người phát triển nhân cách, xây dựng nhân cách tốt đẹp, trở thành người tốt, người có ích cho xã hội.",Giúp cho mọi người gần nhau hơn.,0.1935483870967741,civic_education,False
+Tình đoàn kết.,Tình đồng chí.,0.3333333333333333,civic_education,True
+"Tôn trọng, giúp đỡ và chia sẻ với nhau.",Phù hợp với nhau về quan niệm sống.,0.2352941176470588,civic_education,True
+Tình bạn chỉ có thể có giữa những người có cùng giới tính.,Bạn bè phải biết bảo vệ nhau trong mọi trường hợp.,0.0833333333333333,civic_education,False
+"Cảnh báo hoặc báo cho thầy cô về hành động vi phạm của bạn E, vì hành động này có thể ảnh hưởng đến kết quả kiểm tra và uy tín của cả lớp.",Nói với cô giáo để bạn bị phạt.,0.0952380952380952,civic_education,True
+Gia đình bà E không quan tâm đến các hoạt động cộng đồng.,Gia đình bà E tích cực tham gia các hoạt động chính trị - xã hội.,0.5,civic_education,True
+"Cơ quan, tổ chức của Nhà nước]",Nhà nước.,0.4444444444444445,civic_education,True
+Gây ra những hậu quả tiêu cực cho cộng đồng và xã hội.,"Rối loạn trật tự xã hội, suy thoái giống nòi dân tộc.",0.16,civic_education,True
+"Tội phạm, tội ác, tội phạm hình sự, tội phạm về ma túy, mại dâm, xâm hại tình dục, tội phạm về tham nhũng, tội phạm về buôn bán người, tội phạm về tội phạm mạng, tội phạm về tội phạm về môi trường, tội phạm về tội phạm về an ninh quốc gia]","Xâm hại tình dục trẻ em, trộm cắp, lừa đảo.",0.125,civic_education,True
+Tội phạm xã hội.,Vi phạm quy chế.,0.25,civic_education,True
+Cảnh cáo.,Cảnh cáo.,1.0,civic_education,True
+Trả tự do.,Phạt tù.,0.0,civic_education,True
+"Ngay sau khi tiếp xúc với dịch tiết (máu, nước bọt, dịch tiết sinh dục,...) của người nhiễm HIV/AIDS.",1 tuần.,0.0,civic_education,True
+HTLV (Human T-lymphotropic virus),Cúm gà.,0.0,civic_education,True
+"Ở nhiều người, HIV/AIDS không có triệu chứng rõ ràng ban đầu, nhưng sau đó có thể xuất hiện các triệu chứng như ỉa chảy kéo dài trên 1 tháng, sốt kéo dài trên 1 tháng.]",Sút cân trên 10% trọng lượng cơ thể.,0.0454545454545454,civic_education,True
+"Hình thành các vết thương, tiếp xúc với dịch cơ thể người nhiễm HIV]","Muỗi, côn trùng chích hút máu người nhiễm HIV rồi chích sang người lành",0.2142857142857142,civic_education,True
+"Làm việc, học tập, sinh hoạt an toàn, tránh các hành vi có nguy cơ lây truyền HIV/AIDS như sử dụng ma túy, quan hệ tình dục không an toàn, sử dụng các chất độc hại khác.]",Tuyên truyền tới mọi người tác hại của ma túy để mọi người phòng chống.,0.1153846153846153,civic_education,True
+Các doanh nghiệp được phép theo quy định của pháp luật.,Cá nhân.,0.0,civic_education,True
+Ngày 4 tháng 10,Ngày 14 tháng 10,0.75,civic_education,False
+"Không đeo bảo hộ lao động khi làm việc trong môi trường có nguy cơ cháy, nổ hoặc tiếp xúc với chất độc hại.",Dùng dao để đánh nhau.,0.0,civic_education,True
+"Đối tượng đang thực hiện các hành vi khác có thể gây nguy hiểm cho tính mạng, sức khỏe của người thi hành công vụ hoặc người khác.","Khi biết rõ đối tượng đang thực hiện hành vi phạm tội nghiêm trọng, phạm tội rất nghiêm trọng, phạm tội đặc biệt nghiêm trọng.",0.2641509433962264,civic_education,True
+Chất độc hại],Vũ khí,0.0,civic_education,True
+Từ 3 năm đến 7 năm.,Từ 1 năm đến 5 năm.,0.6666666666666666,civic_education,False
+Chiếm hữu của chủ sở hữu và chiếm hữu của người không phải chủ sở hữu],Chiếm hữu của chủ sở hữu.,0.5454545454545454,civic_education,True
+Quyền tặng cho.,Quyền chiếm hữu.,0.3333333333333333,civic_education,False
+Bảo vệ,Bảo hộ và chịu trách nhiệm.,0.25,civic_education,True
+Quy định các biện pháp và hình thức xử lí đối với các hành vi xâm phạm quyền sở hữu...],Ghi nhận trong Hiến pháp và các văn bản quy định pháp luật quyền sở hữu của công dân.,0.3076923076923077,civic_education,True
+Quá trình chuyển đổi các nguồn lực tự nhiên thành các sản phẩm có giá trị theo ý muốn của con người.,"Tạo ra cơm ăn, áo mặc, tạo ra tư liệu sản xuất.",0.0588235294117647,civic_education,True
+Tạo ra nguồn thu nhập và đảm bảo cuộc sống cho con người.,Thúc đẩy tăng trưởng kinh tế.,0.0,civic_education,True
+Tình trạng phát triển kinh tế - xã hội của một quốc gia.,Thu nhập của người lao động.,0.1111111111111111,civic_education,False
+Cơ sở vật chất],Kết cấu hạ tầng của sản xuất.,0.0,civic_education,True
+Sức lao động],Đối tượng lao động.,0.5714285714285715,civic_education,True
+"Có tính chất lưu động, có tính chất lưu động, có tính chất lưu động và có tính chất lưu động",Hai điều kiện,0.0,civic_education,False
+Giá trị trao đổi và giá trị sử dụng,Giá cả và giá trị sử dụng,0.75,civic_education,False
+Tổng hợp của lao động xã hội và lao động của từng người sản xuất hàng hóa kết tinh trong hàng hóa,Chi phí làm ra hàng hóa,0.1428571428571428,civic_education,True
+Người sản xuất mang hàng hóa ra thị trường bán và bán được],Người sản xuất cung ứng hàng hóa phù hợp với nhu cầu nhu cầu của người tiêu dùng,0.3225806451612903,civic_education,True
+Dịch vụ,Nước máy,0.0,civic_education,True
+Chính trực],Khoan dung,0.0,civic_education,True
+Giao công việc cho nam nhiều hơn nữ.],"Trong công việc, ưu ái người nhà hơn người ngoài.",0.3333333333333332,civic_education,True
+"không quan tâm đến lợi ích cá nhân, luôn đặt lợi ích chung lên trên.","mánh khoé, vụ lợi.",0.1052631578947368,civic_education,True
+Đức tính chí công vô tư],Đức tính trung thực,0.4,civic_education,True
+"Cán bộ lớp phải thẳng thắn, khách quan và công bằng khi đánh giá, phê bình lỗi sai của học sinh để họ sửa chữa.]",Luôn nhận định theo số đông là chí công vô tư.,0.0555555555555555,civic_education,True
+E là người cố gắng và kiên trì để đạt được mục tiêu của mình.,E là người trung thực.,0.3,civic_education,False
+"Cãi vã, gây gỗ với mọi người xung quanh]","Bình tĩnh, sáng suốt đưa ra những quyết định đúng đắn.",0.0,civic_education,True
+Thận trọng và yêu cầu bạn bồi thường hoặc giúp đỡ để sửa chữa món đồ.,Yêu cầu bạn mua đền món đồ.,0.4347826086956521,civic_education,True
+"N là người nhân hậu, có lòng từ bi và trách nhiệm xã hội.",N là người tôn trọng người khác.,0.2857142857142857,civic_education,True
+Dù ai nói ngả nói nghiêng/ Lòng ta vẫn vững như kiềng ba chân.],Học thầy không tày học bạn.,0.0,civic_education,True
+"Dễ dãi, mềm yếu.",Cần cù,0.0,civic_education,True
+B là người không trung thực.,B là người không tự tin.,0.6666666666666666,civic_education,False
+Tự ý bỏ việc không báo trước hoặc không tuân thủ các quy định của nhà trường.],Đi học đúng giờ,0.0,civic_education,True
+Dân chủ công việc,Khiêm nhường,0.0,civic_education,True
+Cán bộ lớp chỉ định và giao nhiệm vụ cho từng học sinh mà không cho phép học sinh tự quyết định và tham gia tích cực vào quá trình xây dựng kế hoạch.,Tích cực tham gia các hoạt động của lớp.,0.0930232558139534,civic_education,True
+Thẳng thắn góp ý để bạn lớp trưởng rút kinh nghiệm.],Không tham gia các hoạt động của lớp.,0.1052631578947368,civic_education,True
+"Thúc đẩy và tăng cường quan hệ hợp tác, hữu nghị giữa các dân tộc]","Gây chiến tranh, khủng bố ở nhiều nơi trên thế giới",0.0,civic_education,True
+"tất cả các quốc gia trên thế giới, không phân biệt kích thước hay mức độ phát triển.",những nước đang có chiến tranh,0.0,civic_education,True
+Hoạt động ngoại giao],Bảo vệ đất nước,0.0,civic_education,True
+"30/4/1975 là ngày Việt Nam Dân chủ Cộng hòa và Việt Nam Cộng hòa thống nhất, nhưng nếu nói về việc chấm dứt chiến tranh Việt Nam, thì đó là ngày 27/4/1975, khi quân đội Việt Nam giải phóng Saigon, đánh dấu sự kết thúc của cuộc chiến tranh Việt Nam.",30/4/1954.,0.0,civic_education,True
+hiệu quả cao.,có chất lượng nhưng mất nhiều thời gian.,0.0,civic_education,True
+"Không hoàn thành công việc đúng hạn, không đạt được mục tiêu đề ra.",Vừa xem ti vi vừa ăn cơm.,0.0,civic_education,True
+Động lực.,Tiền đề.,0.0,civic_education,True
+Không phù hợp với mục tiêu phát triển kinh tế - xã hội của quốc gia.,Thúc đẩy sự phát triển của đất nước trong thời kì hội nhập.,0.2142857142857142,civic_education,True
+Chất lượng và hiệu quả trong lao động thường đi kèm với năng suất.,Trong sản xuất chỉ cần chú ý đến chất lượng sản phẩm.,0.1538461538461538,civic_education,True
+"học nhiều, ôn luyện thường xuyên và có kế hoạch học tập rõ ràng.",chép bài của bạn.,0.0,civic_education,True
+"năng động, sáng tạo trong công việc",hợp tác cùng phát triển.,0.0,civic_education,True
+"Hợp nhau về giá trị, quan điểm sống và mục tiêu chung]",Hoàn cảnh gia đình tương xứng,0.0,civic_education,True
+"Nam từ đủ 20 tuổi trở lên, nữ từ đủ 18 tuổi trở lên.","Nam từ 20 tuổi trở lên, nữ từ 18 tuổi trở lên",0.923076923076923,civic_education,True
+"Mục đích chính của hôn nhân là duy trì và phát triển kinh tế là không chính xác vì mục đích chính của hôn nhân là xây dựng và phát triển tình yêu, sự gắn kết và cộng đồng giữa hai người.","Hôn nhân nhằm mục đích chung sống lâu dài và xây dựng gia đình hoà thuận, hạnh phúc.",0.2,civic_education,True
+Tăng cường sự gắn kết và ổn định trong gia đình.,Ảnh hưởng xấu đến sức khoẻ của cả mẹ và con.,0.0909090909090909,civic_education,True
+Hôn nhân giữa người chưa thành niên với người khác.,"Hôn nhân tiến bộ, một vợ một chồng, vợ chồng bình đẳng.",0.1818181818181818,civic_education,True
+"Quan điểm này không phù hợp với quyền và nghĩa vụ của công dân trong hôn nhân, vì nó không phản ánh đúng quan hệ giữa vợ và chồng.]","Ép dầu ép mỡ, ai nỡ ép duyên.",0.0,civic_education,True
+lao động phi chính thức,cải tạo,0.0,civic_education,True
+Được nghỉ tất cả các ngày lễ tết theo quy định của nhà nước.,Công dân đủ 16 tuổi được nhận vào các công ty để làm việc.,0.1428571428571428,civic_education,True
+ việc làm phù hợp với khả năng của mình mà không bị phân biệt đối xử.],việc làm theo sở thích của mình.,0.3478260869565217,civic_education,True
+8 giờ/ngày và 30 giờ/tuần,6 giờ/ngày và 30 giờ/tuần.,0.8000000000000002,civic_education,False
+các quan hệ dân sự.,"các quan hệ lao động, công vụ nhà nước.",0.4285714285714285,civic_education,False
+Bảo vệ quyền và lợi ích hợp pháp của các chủ thể khác.,Lập lại trật tự xã hội.,0.0,civic_education,True
+**Trách nhiệm hình sự**,vi phạm pháp luật.,0.0,civic_education,True
+pháp luật hình sự],pháp luật dân sự,0.75,civic_education,True
+Bạn B là người ích kỷ và không biết ơn.,Bạn B là người vô ý thức.,0.4705882352941176,civic_education,False
+"Có lối sống đơn giản, không tốn kém, không quá cầu kỳ.","Ăn mặc gọn gàng, không lòe loẹt.",0.1052631578947368,civic_education,True
+"Giúp mỗi người trở nên tự lập, tự chủ và có tinh thần trách nhiệm với bản thân và với cộng đồng.",Được mọi người giúp đỡ.,0.074074074074074,civic_education,True
+"Lộng lẫy, sang trọng.",Thẳng thắn.,0.0,civic_education,True
+"Chỉ quan tâm đến lợi ích cá nhân, không quan tâm đến lợi ích của cộng đồng.",Không chơi với bạn khác giới.,0.0869565217391304,civic_education,True
+"Lối sống xa hoa, lãng phí và không phù hợp với quy định của trường.",Đức tính khiêm tốn.,0.0,civic_education,True
+"Điều kiện, hoàn cảnh]",Điều kiện.,0.6666666666666666,civic_education,True
+"Không tốn kém, không cầu kỳ, không dư dả, không phô trương.","Thực hiện đúng nội quy của nhà trường đề ra, trang phục khi đến trường sạch sẽ, tươm tất, lịch sử, bảo vệ của công, không xa hoa lãng phí.",0.0476190476190476,civic_education,True
+Dũng cảm.,Khiêm tốn.,0.0,civic_education,True
+"Câu nói ""Cây ngay không sợ chết đứng"" và ""Ăn ngay nói thật mọi tật mọi lành"" đều thể hiện tính trung thực, vì chúng khuyến khích người ta nói thật và sống chân thực.",Người gian thì sợ người ngay/ Người ngay chẳng sợ đường cày cong queo,0.1224489795918367,civic_education,True
+Đức tính khiêm tốn.],Đức tính thật thà.,0.5,civic_education,True
+Để đạt điểm cao khi kiểm tra N nhìn trộm bài của bạn,Không bao che cho bạn khi mắc lỗi,0.0952380952380952,civic_education,True
+Dối trá.,Chăm chỉ.,0.0,civic_education,True
+"Cần phải giúp đỡ bạn K bằng cách nhắc nhở, khuyên nhủ và hỗ trợ bạn K trong học tập để giúp bạn K nhận thức được tầm quan trọng của việc tuân thủ quy chế và kỉ luật.]",Nói với bố mẹ bạn K để bố mẹ bạn K dạy giỗ.,0.1923076923076923,civic_education,True
+V là người thiếu trách nhiệm hoặc không có ý thức về hành động của mình.,V là người vô cảm.,0.2857142857142857,civic_education,True
+Tính kiên quyết và trung thực.,Khiêm tốn.,0.0,civic_education,True
+"Người thường xuyên cảm thấy không đủ tốt, không tự tin vào bản thân và dễ bị ảnh hưởng bởi ý kiến của người khác]",Luôn làm sai,0.0,civic_education,True
+Lòng tự trọng],Giản dị.,0.0,civic_education,True
+Q là người thiếu tôn trọng và không biết giữ lễ.,Q là người vô cảm.,0.3749999999999999,civic_education,False
+"Tinh thần nhân ái, giúp đỡ người nghèo, người khó khăn.",Lòng trung thành.,0.0,civic_education,True
+Xác định mục tiêu và ưu tiên công việc,Thời gian hợp lý,0.0,civic_education,True
+Có thể quản lý thời gian và nguồn lực một cách hiệu quả hơn,Chủ động thời gian làm việc,0.2,civic_education,True
+Bác Hồ được học hỏi và tiếp xúc với nhiều thứ tiếng trong quá trình hoạt động cách mạng và du học ở Pháp.],Sống và làm việc có kế hoạch.,0.064516129032258,civic_education,True
+Xác định mục tiêu và lập kế hoạch để đạt được mục tiêu,Sắp xếp công việc,0.0,civic_education,True
+Cha mẹ,Nhà nước,0.0,civic_education,True
+Quyền được tự do ngôn luận],"Quyền được bảo vệ tính mạng, thân thể",0.2857142857142857,civic_education,True
+"Luật dân sự, Luật hình sự, Luật hành chính.",Hiến pháp.,0.0,civic_education,True
+"Luật dân sự, Luật hình sự, Luật tố tụng dân sự, Luật lao động, Luật giáo dục, Luật y tế, Luật an ninh, quốc phòng và các luật khác có liên quan.",Luật hôn nhân và gia đình.,0.1052631578947368,civic_education,True
+Tháng 4 - 1995.,Tháng 1 - 1994.,0.3333333333333333,civic_education,True
+5/4,5/9.,0.0,civic_education,False
+Tài nguyên rừng đang được phục hồi cả về số lượng lẫn chất lượng.,Tài nguyên rừng của nước ta đang được phục hồi cả về số lượng lẫn chất lượng.,0.9032258064516128,civic_education,True
+Sản phẩm được con người tạo ra trong quá trình công nghiệp.,Cá voi.,0.0,civic_education,True
+"Tăng cường bảo vệ và phục hồi rừng, ngăn chặn tình trạng khai thác rừng không hợp lý]","Nâng cao hiệu quả sử dụng, có chế độ canh tác hợp lí.",0.064516129032258,civic_education,True
+di sản văn hóa phi vật thể,di sản văn hóa vật thể,0.923076923076923,civic_education,True
+Di sản văn hóa phi vật thể.,Di sản văn hóa vật thể.,0.923076923076923,civic_education,False
+Di sản văn hóa vật thể và phi vật thể.,Di sản văn hóa vô hình và hữu hình.,0.5263157894736842,civic_education,False
+"Tôn thờ, thờ cúng các vị thần, tổ tiên.",Yểm bùa,0.0,civic_education,True
+Đạo Công Giáo],Đạo Tin lành.,0.3333333333333333,civic_education,False
+"Lễ tế, lễ dâng, hoặc lễ cúng]",Tôn giáo.,0.0,civic_education,True
+"Ăn uống cân đối, tập thể dục thường xuyên và ngủ đủ giấc.",hằng ngày không vệ sinh cá nhân,0.0,civic_education,True
+"Không tự chăm sóc sức khỏe, tự ý sử dụng thuốc mà không có chỉ định của bác sĩ",Hằng ngày luyện tập thể dục thể thao,0.0,civic_education,True
+Sức khỏe là cơ sở để con người thực hiện được các chức năng sinh lý và các hoạt động xã hội.,"Sức khỏe giúp chúng ta lạc quan, vui tươi hạnh phúc.",0.1212121212121212,civic_education,False
+Quyết tâm làm đến cùng.],Miệt mài làm việc.,0.2222222222222222,civic_education,True
+Lòng kiên nhẫn và siêng năng.,Đức tính tiết kiệm.,0.0,civic_education,True
+Có tiền có đường.,Đi một ngày đàng học một sàng khôn.,0.0,civic_education,True
+Biết cách cư xử đúng mực.,Chỉ chào hỏi người lớn tuổi.,0.0,civic_education,True
+Lễ độ làm nên nhân cách.,Góp gió thành bão.,0.0,civic_education,True
+"Thực hiện các quy định và quy tắc của cơ quan, tổ chức, trường học.",Vứt rác đúng nơi quy định.,0.1904761904761904,civic_education,True
+Dừng điện thoại trong giờ học hoặc không đi học đúng giờ.,Mặc đồng phục trường.,0.0,civic_education,True
+sự thể hiện tình cảm và thái độ trân trọng.,sự bày tỏ lòng biết ơn.,0.125,civic_education,True
+Cảm ơn là món quà quý giá nhất.,Ăn quả nhớ kẻ trồng cây.,0.0,civic_education,True
+Sự không biết ơn.,Sự đoàn kết.,0.2857142857142857,civic_education,True
+Thải chất thải ra môi trường.,Trồng cây gây rừng.,0.0,civic_education,True
+Sử dụng và bảo vệ thiên nhiên một cách hợp lý và bền vững.,Làm ô nhiễm môi trường thiên nhiên,0.1904761904761904,civic_education,True
+"Rừng, biển, đất.","Rừng, bầu trời, đất.",0.5714285714285715,civic_education,False
+"Không quan tâm, không giúp đỡ, không chia sẻ với người khác.",Không chơi với người nghèo.,0.3529411764705882,civic_education,True
+Có thể sống hòa hợp với mọi người và môi trường xung quanh.,Để lợi dụng được lòng tốt của mọi người,0.1818181818181818,civic_education,True
+1989,1998,0.0,civic_education,True
+2004,1992,0.0,civic_education,False
+"Nhóm quyền: sống còn, bảo vệ, vui chơi và phát triển.","Nhóm quyền : sống còn, học tập, phát triển và vui chơi.",0.5454545454545454,civic_education,False
+1986,1986,1.0,civic_education,False
+Có quốc tịch nước ngoài do được thừa kế hoặc do được quốc gia đó công nhận mà không cần phải đăng ký.,Có công lao đặc biệt cho sự nghiệp xây dựng và bảo vệ Tổ quốc.,0.1052631578947368,civic_education,True
+Trẻ em có một trong các cha mẹ là công dân Việt Nam.,"Mẹ là người nước ngoài, bố là người Việt Nam.",0.3478260869565217,civic_education,False
+"Đường, cầu đường bộ, bến phà đường bộ và các công trình khác]","Hầm dường bộ, bến phà đường bộ",0.5,civic_education,True
+"hình tam giác đều, viền đỏ, nền vàng","hình vuông hoặc hình chữ nhật, viền đen, nền trắng",0.3333333333333332,civic_education,False
+Biển hiệu lệnh.,Biển báo nguy hiểm.,0.2857142857142857,civic_education,False
+Nghị định số 143/2021/NĐ-CP về giáo dục quốc gia.,Luật trẻ em.,0.0,civic_education,True
+"Công dân có quyền được tiếp cận với giáo dục, được học tập và phát triển năng lực, trình độ theo khả năng và sở thích của mình",Người già không được đi học,0.1176470588235294,civic_education,True
+Tôn trọng và bảo vệ],Tìm hiểu,0.0,civic_education,True
+Điều 15.,Điều 23.,0.5,civic_education,False
+Cơ quan chức năng hoặc người có thẩm quyền],Cảnh sát,0.0,civic_education,True
+Cơ bản],Thực chất,0.0,civic_education,True
+"Điều 23, Hiến pháp 2013.","Điều 19, Hiến pháp 2011.",0.6,civic_education,False
+"Điều 25, Hiến pháp 2013.","Điều 22, Hiến pháp 2013.",0.8000000000000002,civic_education,False
+Quyền dân chủ.,"Quyền được pháp luật bảo hộ về sức khỏe, danh dự và nhân phẩm.",0.1176470588235294,civic_education,True
+2],2,1.0,civic_education,False
+"54 điều, 42 quyền.","51 điều, 23 quyền.",0.5,civic_education,True
+Chính trị.,chính trị.,1.0,civic_education,True
+"đối với mọi cá nhân, tổ chức và mọi lĩnh vực của đời sống xã hội.",đối với người vi phạm,0.1904761904761904,civic_education,True
+Tính ổn định và ổn định xã hội.,Tính xác định chặt chế về hình thức.,0.25,civic_education,True
+"Tính bảo vệ quyền và lợi ích hợp pháp của cá nhân, gia đình và xã hội.]",Tính quyền lực bắt buộc chung.,0.1739130434782609,civic_education,True
+Thực thi pháp luật.,sử dụng pháp luật,0.5,civic_education,True
+chủ thể thực hiện quyền và nghĩa vụ của mình theo quy định của pháp luật.,chủ thể quyết định không thực hiện điều mà pháp luật cắm.,0.4285714285714285,civic_education,True
+cho phép và quy định.,quy định phải làm.,0.4444444444444445,civic_education,True
+"Đi đúng làn đường, không đi vào khu vực cấm hoặc khu vực dành riêng cho các loại xe nhất định.","Lạng lách, đánh võng, chở hàng cồng kềnh.",0.0,civic_education,True
+Công dân bình đẳng về quyền và nghĩa vụ trong các lĩnh vực khác ngoài các lĩnh vực được quy định trong Hiến pháp và pháp luật Việt Nam.,Công dân bình đẳng về quyền bầu cử.,0.3243243243243243,civic_education,False
+về cơ hội và điều kiện kinh doanh.,về điều kiện kinh doanh.,0.7692307692307693,civic_education,True
+Đều có quyền và nghĩa vụ như nhau.],Đều có quyền như nhau.,0.7692307692307693,civic_education,False
+"Không bị phân biệt bởi dân tộc, giới tính, tôn giáo, giàu nghèo","Đôi khi bị phân biệt bởi giàu nghèo, thành phần và địa vị xã hội",0.4285714285714285,civic_education,True
+"chỉ có người chồng mới có quyền lựa chọn nơi cư trú, quyết định số con và thời gian sinh con.]","chỉ có người vợ mới có nghĩa vụ kế hoạch hoá gia đình, chăm sóc và giáo dục con cái. .",0.3414634146341463,civic_education,True
+"Cá lao động nam và lao động nữ đều phải làm việt như nhau kế cả nặng nhọc, độc hại và ảnh hưởng đến chức năng nuôi con.","Lao động nam và lao động nữ đều làm mọi công việc như nhau, không cần xét đến đặc điểm về chức năng sinh lý.",0.5283018867924528,civic_education,False
+vợ và chồng,cha mẹ và các con.,0.25,civic_education,True
+"mọi doanh nghiệp đều được đối xử công bằng và bình đẳng trước pháp luật, không phân biệt về loại hình doanh nghiệp, quy mô, lĩnh vực hoạt động, v.v.",doanh nghiệp nhà nước được ưu tiên hơn các doanh nghiệp khác.,0.238095238095238,civic_education,True
+Điều 28 Hiến pháp 2013,Giáo luật,0.0,civic_education,False
+54 dân tộc,57,0.0,civic_education,True
+giáo dục.,xã hội.,0.0,civic_education,True
+"Nhà nước tạo điều kiện cho các dân tộc phát triển kinh tế theo hướng công bằng, bình đẳng và phù hợp với đặc điểm, điều kiện của từng dân tộc.",Nhà nước phải bảo đảm để dân tộc chiếm đa số có trình độ phát triển kinh tế cao hơn dân tộc thiểu số.,0.3636363636363636,civic_education,True
+"được pháp luật bảo hộ về tính mạng, sức khỏe của công dân.",bất khả xâm phạm về thân thể của công dân.,0.3478260869565217,civic_education,True
+nghiêm cấm.,ủng hộ.,0.0,civic_education,True
+"Quyền được bảo vệ về bí mật thư tín, điện thoại và hình ảnh của công dân.",Quyền nhân thân của công dân.,0.3478260869565218,civic_education,True
+Quyền được bảo mật thông tin cá nhân],Quyền tự do dân chủ của công dân.,0.125,civic_education,True
+tội ác.,điều bình thường.,0.0,civic_education,True
+Quyền bầu cử và quyền được bầu],Quyền bầu cử.,0.6,civic_education,False
+Hình thành các cơ quan quyền lực nhà nước],"Thực hiện cơ chế ""dân biết, dân bàn, dân làm, dân kiểm tra"".",0.0909090909090909,civic_education,True
+"Bầu cử công khai, tự do, bình đẳng, dân chủ và bảo đảm bí mật.",Bình đẳng.,0.2352941176470588,civic_education,False
+Bình đẳng.,Phổ thông.,0.0,civic_education,True
+Hình thức dân chủ đại diện.,Hình thức dân chủ xã hội chủ nghĩa,0.5714285714285715,civic_education,False
+"Quyền học tập và được đào tạo để trở thành người có trình độ, năng lực, uy tín.","Quyền học thường xuyên, suốt đời của công dân.",0.1481481481481481,civic_education,False
+Học cách nấu ăn theo công thức đã có.,Viết bài đăng báo.,0.0,civic_education,True
+Sử dụng và phát huy nhân tài],Coi nhẹ nhân tài.,0.3636363636363636,civic_education,True
+Quyền tự do ngôn luận],Quyền được phát triển.,0.2222222222222222,civic_education,True
+"Quyền học tập tự do, linh hoạt.",Công dân bình đẳng về cơ hội học tập.,0.25,civic_education,True
+"Kinh doanh trong những ngành, nghề, lĩnh vực, địa bàn mà Nhà nước khuyến khích hoặc có điều kiện kinh tế-xã hội đặc biệt.]",Kinh doanh trong lĩnh vực bất động sản.,0.3125,civic_education,True
+Cần có chứng chỉ hành nghề hoặc giấy phép kinh doanh hợp lệ.,Không cần bằng cấp nào nữa.,0.1052631578947368,civic_education,True
+toàn dân.,"riêng cán bộ, công chức nhà nước.",0.0,civic_education,True
+"Ngành, nghề, lĩnh vực và địa bàn kinh doanh.]",Uy tín nguời đứng đầu doanh nghiệp.,0.125,civic_education,True
+"Quốc phòng, an ninh.",Xã hội.,0.0,civic_education,True
+Những vấn đề khoa học xã hội,Những vấn đề quan trọng của thế giới đương đại,0.3529411764705882,civic_education,True
+Triết học là hệ thống các quan điểm lí luận chung nhất về thế giới và vị trí của con người trong thế giới đó,Triết học là khoa học nghiên cứu về vị trí của con người trong thế giới,0.5853658536585366,civic_education,False
+Môn Nhân học (hoặc Nhân chủng học),Môn Sinh học,0.4,civic_education,True
+Sinh học],Hóa học,0.5,civic_education,True
+Cách nhìn nhận về bản chất của thế giới và con người,Mặt thứ nhất vấn đề cơ bản của Triết học,0.1818181818181818,civic_education,False
+Thuyết duy vật],Thế giới quan duy tâm,0.25,civic_education,True
+Vật chất là cái có trước và sản sinh ra ý thức],Vật chất là cái có trước và quyết định ý thức,0.7826086956521738,civic_education,True
+Thế giới khách quan và xã hội],Giới tự nhiên và tư duy,0.3076923076923076,civic_education,False
+"Mọi sự biến đổi của sự vật, hiện tượng xuất phát từ sự tương tác giữa yếu tố khách quan và yếu tố chủ quan của con người",Mọi sự biến đổi đều là tạm thời,0.2222222222222222,civic_education,True
+Tiến triển liên tục và không ngừng,Thụt lùi,0.0,civic_education,True
+Vận động tinh thần,Vận động hóa học,0.5,civic_education,True
+Đa dạng và phong phú],Phong phú và đa dạng,0.4000000000000001,civic_education,True
+"Vận động chỉ là thuộc tính của sự vật, hiện tượng trong tự nhiên",Triết học Mác – Lênin khái quát có năm hình thức vận động cơ bản trong thế giới vật chất,0.1764705882352941,civic_education,True
+Sự thay đổi của các bộ phận trong một hệ thống cơ học,Quá trình bốc hơi của nước,0.1052631578947368,civic_education,True
+"Sự thay đổi và tiến bộ của các quan hệ xã hội, kinh tế, chính trị và văn hóa.",Sự xuất hiện các giống loài mới,0.1538461538461538,civic_education,False
+"Xem xét sự vật hiện tượng trong mối quan hệ với các sự vật, hiện tượng khác.",Xem xét sự vật hiện tượng trong hình thức vận động cao nhất của nó,0.4374999999999999,civic_education,False
+"Mọi sự vận động đều là phát triển, nhưng không phải mọi sự phát triển đều là tiến bộ.",Không phải sự phát triển nào cũng là vận động,0.4137931034482758,civic_education,True
+Sinh học,Tư duy,0.0,civic_education,True
+Tương đối (hoặc tương đối hóa),Vận động,0.0,civic_education,True
+"phản ánh sự thống nhất, đồng bộ, cân bằng của sự vật và hiện tượng]",Khác nhau,0.0,civic_education,True
+Đồng thời tồn tại và đấu tranh với nhau],Thống nhất biện chứng với nhau,0.2666666666666666,civic_education,True
+Sự tương đối giữa các mặt đối lập,Sự đấu tranh giữa các mặt đối lập,0.75,civic_education,False
+Sự đối lập biện chứng,Sự tồn tại giữa các mặt đối lập,0.4615384615384615,civic_education,False
+Sự hòa giải giữa các mặt đối lập,Sự điều hòa giữa các mặt đối lập,0.875,civic_education,True
+"Liên hệ gắn bó với nhau, làm tiền đề để cho nhau tồn tại",Thống nhất biện chứng với nhau,0.2,civic_education,True
+"Hai mặt đối lập, không thể đồng thời tồn tại]",Một tập hợp,0.0,civic_education,True
+Mâu thuẫn chỉ xuất hiện trong các mối quan hệ giữa các đối tượng có tính chất khác nhau,Mâu thuẫn chỉ được giải quyết bằng sự đấu tranh giữa các mặt đối lập,0.3529411764705882,civic_education,True
+Mâu thuẫn giữa chủ nghĩa và phản chủ nghĩa,Hai gia đình hàng xóm tranh chấp đất đai,0.0,civic_education,True
+"Sự vật, hiện tượng bị biến đổi theo chiều hướng tiêu cực hoặc có thể là tích cực, phụ thuộc vào hoàn cảnh và mục tiêu của đấu tranh.","Sự vật, hiện tượng bị tiêu vong",0.3333333333333332,civic_education,False
+Có hai mặt đối lập có quan hệ biện chứng với nhau,Có nhiều mặt đối lập trong một sự vật,0.380952380952381,civic_education,True
+Điểm nút],Độ,0.0,civic_education,True
+"Sự vật và hiện tượng thay đổi về chất, tức là sự vật và hiện tượng chuyển từ trạng thái cũ sang trạng thái mới, nhưng chưa hoàn toàn trở thành một sự vật hoặc hiện tượng mới.",Lượng mới ra đời,0.0476190476190476,civic_education,True
+Sự vật bị phá hủy hoặc biến chất,Lượng mới hình thành,0.0,civic_education,True
+Lượng biến đổi đạt tới điểm nút],Tăng lượng liên tục,0.1818181818181818,civic_education,True
+Nhà nước,Lãnh đạo,0.0,civic_education,True
+Là những hành động bắt buộc phải thực hiện theo quy định của pháp luật hoặc đạo đức xã hội,Tôn trọng pháp luật,0.1666666666666666,civic_education,True
+Tôn trọng và thực hiện quyền lợi chung vì lợi ích của xã hội,Đặt nhu cầu của cá nhân lên trên,0.0909090909090909,civic_education,True
+Bảo vệ Tổ quốc là nghĩa vụ của tất cả công dân,Học tốt là nghĩa vụ của học sinh,0.4,civic_education,True
+"Không tham gia vào các hoạt động xã hội, không đóng góp cho cộng đồng",Không ngừng học tập để nâng cao trình độ,0.0833333333333333,civic_education,True
+Tính nhân văn,Danh dự,0.0,civic_education,True
+Bán hàng với giá hợp lý và trung thực,Tạo ra nhiều công việc cho mọi người,0.0,civic_education,True
+"Bán hàng giả, hàng nhái cho người tiêu dùng",Xả rác không đúng nơi quy định,0.0,civic_education,True
+Hối hận,Thoải mái,0.0,civic_education,True
+Cảm thấy tội lỗi và trách móc bản thân khi làm điều sai trái,Vui vẻ khi lấy cắp tài sản nhà nước,0.0869565217391304,civic_education,True
+Vui vẻ khi đã đóng góp tiền ủng hộ nạn nhân chất độc màu da cam và luôn sẵn sàng giúp đỡ những người cần thiết khác.,Chào hỏi người lớn tuổi,0.0625,civic_education,True
+Lựa chọn người bạn đời theo ý muốn và sự đồng ý của cả hai bên,Kết hôn ở độ tuổi mình thích,0.0,civic_education,True
+Xây dựng và phát triển mối quan hệ vợ chồng,Báo cáo họ hàng hai bên,0.0,civic_education,True
+Hôn nhân phải dựa trên cơ sở tình yêu và sự hiểu biết lẫn nhau,Hôn nhân phải dựa vào lợi ích kinh tế,0.3333333333333333,civic_education,True
+Chọn vợ/chó chồng,Chia con cái,0.0,civic_education,True
+Có thể kết hôn với người cùng giới hoặc khác giới,Ép buộc và dựa trên lợi ích kinh tế,0.0,civic_education,True
+Hôn nhân đích thực],Bình đẳng trong xã hội,0.0,civic_education,True
+Cộng đồng dân cư,Dòng họ,0.0,civic_education,True
+Tôn giáo và truyền thống văn hóa,Gia đình đồng ý,0.0,civic_education,True
+Thực hiện các chức năng của nhà nước,"Nuôi dưỡng, giáo dục con cái",0.0,civic_education,True
+Quan hệ cha mẹ và con,Cha mẹ và con đẻ,0.7272727272727272,civic_education,False
+Của xã hội,Của Nhà nước,0.3333333333333333,civic_education,True
+Của đạo đức và pháp luật,Của đất nước,0.2222222222222222,civic_education,True
+Tìm kiếm việc làm để đóng góp cho cộng đồng,Sống vô tư trong cộng đồng,0.25,civic_education,True
+Theo tình cảm và sự đồng cảm,Theo tình cảm,0.6,civic_education,True
+Con người với xã hội và thiên nhiên.,Quan hệ giữa các địa phương,0.0,civic_education,False
+Thân thương và ấm áp hơn,Tự do hơn,0.2222222222222222,civic_education,True
+" Duy trì, phát triển ]",Ủng hộ,0.0,civic_education,True
+Bỏ rơi người khác khi họ cần giúp đỡ.,Nhường nhịn người khác,0.3076923076923076,civic_education,True
+"Có lòng thương xót, bao dung với người có lỗi lầm, biết hối cải]",Yêu thương mọi người như nhau,0.2,civic_education,True
+Lòng nhân ái],Chu đáo,0.0,civic_education,True
+Trách nhiệm với cộng đồng,Nhân đạo,0.0,civic_education,True
+Tôn vinh và biết ơn],Biết ơn,0.5714285714285715,civic_education,False
+Hai người của dân tộc A cùng nhau giúp đỡ người thuộc dân tộc B trong lúc khó khăn,Một nhóm thanh niên trong bản cùng nhau đánh người thuộc dân tộc khác,0.3636363636363636,civic_education,True
+"Hai hoặc nhiều địa phương cùng nhau thực hiện một dự án, công trình hoặc hoạt động chung, như xây dựng cây cầu, đường đi chung, hoặc thực hiện các chương trình phát triển cộng đồng.]",Chính quyền xã A và xã B cùng bàn với nhau về việc cô lập xã C,0.0754716981132075,civic_education,True
+"Hãy tiếp tục học nhóm và chia sẻ kiến thức với các bạn khác, vì học nhóm không chỉ giúp bạn hiểu sâu hơn về các môn học mà còn giúp bạn phát triển kỹ năng làm việc nhóm, giao tiếp và xây dựng mối quan hệ tốt đẹp với bạn bè.",Cần học nhóm nhưng không cần hợp tác,0.0999999999999999,civic_education,True
+"Lợi ích công**
+
+Lời giải:
+
+- Việc làm của Chi đoàn thanh niên lớp 10A là phát động phong trào quyên góp sách cho các bạn vùng lũ lụt. Điều này thể hiện sự quan tâm, giúp đỡ và chia sẻ của các bạn đoàn viên và thanh niên trong cộng đồng.
+
+- Trách nhiệm của công dân trong cộng đồng là thực hiện các hành động có lợi cho cộng đồng, giúp đỡ người khác và đóng góp vào sự phát triển của cộng đồng.
+
+- Vì vậy, việc làm của Chi đoàn thanh niên lớp 10A là biểu hiện trách nhiệm ""Lợi ích công"" của công dân trong cộng đồng.",Tự giác,0.0,civic_education,True
+Sông Hồng.,Sông Kỳ Cùng.,0.4,geography,True
+Sông Hồng và sông Cửu Long.,Sông Hồng và sông Mã.,0.7272727272727272,geography,False
+Hồ Tây Ninh (Hồ Hòa Bình),Hòa Bình.,0.5,geography,True
+4 đai khí hậu.,4 đai khí hậu.,1.0,geography,False
+Tây Nguyên và Tây Nam Bộ.,Nam Trung Bộ.,0.4444444444444444,geography,True
+Đồng bằng sông Cửu Long.,Đồng bằng Thanh - Nghệ - Tĩnh.,0.4000000000000001,geography,True
+Tây Bắc - Đông Nam.,Bắc - Nam.,0.6666666666666666,geography,False
+4],2,0.0,geography,False
+Việt Nam không có đường biên giới với quốc gia nào vì Việt Nam là một quốc gia duy nhất trên bán đảo Đông Dương.,Trung Quốc.,0.074074074074074,geography,False
+28 tỉnh/thành phố.,29 tỉnh/ thành phố.,0.2857142857142857,geography,False
+Campuchia.,Cam-pu-chia.,1.0,geography,False
+1986,1987,0.0,geography,False
+"Đất liền, biển và đảo]",Phần đất liền,0.5,geography,False
+"Tham gia các hoạt động trải nghiệm, tham quan, thực tế tại các địa điểm liên quan đến địa lí.","Tham quan, du lịch.",0.1666666666666666,geography,False
+$331.212 km^2$,$330.221 km^2$,0.5,geography,True
+Hà Giang,Cà Mau,0.0,geography,True
+"Địa lý Việt Nam nằm trong vùng nhiệt đới, nằm ở khu vực giao nhau của các luồng gió mùa Đông Nam Á và gió mùa Tây Nam Á, và nằm ở khu vực giao nhau của các luồng sinh vật nhiệt đới và các luồng sinh vật ôn hòa.]",Nằm trong vùng nội chí tuyến.,0.1071428571428571,geography,True
+Mở.,Đứng thứ 3 trong các biển thuộc Thái Bình Dương.,0.0,geography,True
+Biển Tây Thái Bình Dương,Biển Xu-Lu,0.2857142857142857,geography,True
+"Mùa hạ nóng, mùa đông lạnh hơn đất liền, biên độ nhiệt lớn.","Mùa hạ nóng, mùa đông lạnh hơn đất liền, biên độ nhiệt lớn.",1.0,geography,False
+"Giai đoạn Nguyên sinh, giai đoạn cổ sinh, giai đoạn Tân sinh.","Giai đoạn cổ sinh, giai đoạn Trung sinh, giai đoạn Tân sinh.",0.8333333333333334,geography,False
+"Mảng nền sông Mã, mảng nền Pu Hoạt, mảng nền Kon Tum]","Việt Bắc, Hoàng Liên Sơn.",0.0,geography,True
+20 triệu năm,15 triệu năm,0.6666666666666666,geography,False
+Giai đoạn Trái Đất mới (hay còn gọi là Giai đoạn Devon),Giai đoạn Tân kiến tạo,0.2352941176470588,geography,True
+Giai đoạn kiến tạo mạnh mẽ trong thời đại Paleozoic và Mesozoic (khoảng 541 - 66 triệu năm trước).,Giai đoạn Tiền Cambri,0.1818181818181818,geography,True
+70 loại,50 loại,0.5,geography,False
+"Việt Nam là một quốc gia có trữ lượng khoáng sản vừa và nhỏ, chủ yếu là các loại khoáng sản có giá trị kinh tế thấp.",Tài nguyên khoáng sản nước ta phân bố rộng khắp trên cả nước.,0.1,geography,True
+Khối tinh thể hoặc các hạt tinh thể nhỏ],Rắn,0.0,geography,False
+Vừa và nhỏ],Nhỏ,0.5,geography,True
+"Đá vôi, mỏ sắt, Bôxit, apatit.]","Than, dầu mỏ, khí đốt.",0.1818181818181818,geography,True
+"Việc khai thác và sử dụng tiết kiệm, hiệu quả nguồn tài nguyên khoáng sản giúp giảm thiểu lãng phí và bảo vệ môi trường.","Một số khoáng sản có nguy cơ cạn kiệt,",0.1176470588235294,geography,True
+"Đồng bằng sông Cửu Long,",Đồng bằng sông Hồng.,0.6666666666666665,geography,False
+Tây Bắc - Đông Nam,Đông Bắc – Tây Nam,0.4444444444444445,geography,True
+Là kinh tuyến nằm bên phải của kinh tuyến gốc.,Là kinh tuyến nằm bên phải của kinh tuyến gốc.,1.0,geography,True
+Kinh tuyến Greenwich.,Kinh tuyến Đông.,0.6666666666666666,geography,False
+Vị trí thứ hai,Vị trí thứ 7,0.75,geography,False
+Bản đồ có tỉ lệ 1: 1.000,Bản đồ có tỉ lệ 1: 150.000,0.8571428571428571,geography,False
+6km,16km,0.0,geography,True
+1:7.000.000,1:500.000,0.0,geography,True
+Hình vẽ thu nhỏ và thu gọn của một khu vực hay cả bề mặt Trái Đất.,Hình vẽ của một quốc gia được thu nhỏ lại,0.2962962962962963,geography,True
+Kinh độ và vĩ độ tại một điểm (cả A và B),Vĩ độ tại đường vĩ tuyến gốc,0.3157894736842105,geography,True
+Đông],Tây,0.0,geography,True
+Đông Nam của châu Á],Tây Nam của châu Á,0.8000000000000002,geography,False
+Theo hệ tọa độ địa lý (đường kinh tuyến và vĩ tuyến) hoặc hệ tọa độ địa lý quốc tế (WGS84).,Theo hướng mũi tên trên bản đồ.,0.0714285714285714,geography,True
+Đông Nam,Bắc Tây,0.0,geography,True
+Càng có độ dốc lớn hơn.,Càng thấp,0.25,geography,True
+Tìm phương hướng],Xem tỉ lệ,0.0,geography,True
+2,2,1.0,geography,False
+Đa dạng,Tập trung tại một chỗ,0.0,geography,True
+Tượng hình,Hình học,0.5,geography,False
+"Trái đất quay quanh trục của nó theo hướng từ Tây sang Đông, khiến cho các khu vực khác nhau trên bề mặt Trái Đất phải trải qua các thời điểm khác nhau trong ngày.",Trái đất quay từ Đông sang Tây,0.238095238095238,geography,True
+Bên trái hướng chuyển động,Giữ nguyên hướng không đổi,0.2,geography,True
+Làm lệch hướng chuyển động.],Ngày đêm nối tiếp nhau.,0.0,geography,False
+Khoáng sản năng lượng,Kim loại đen,0.0,geography,False
+Những khoáng vật và các loại đá có ích được tích tụ tự nhiên.,Các loại đá do nhiều loại khoáng vật khác nhau kết hợp lại.,0.2222222222222222,geography,True
+3 nhóm,2 nhóm,0.5,geography,True
+"Đá vôi, hoa cương, thạch anh, đá phiến]","Apatit, dầu lửa",0.0,geography,True
+Nitơ (N2)],Khí cacbonic,0.0,geography,True
+5 tầng,5 tầng,1.0,geography,False
+"6 giờ, 12 giờ, 18 giờ","6 giờ, 14 giờ, 22 giờ",0.6666666666666666,geography,True
+"Trong bóng râm, cách mặt đất 1,5-2m (hoặc cách mặt đất 2m)","Ngoài trời, sát mặt đất",0.2352941176470588,geography,True
+Do đặc tính hấp thụ và tỏa nhiệt của nước và đất là khác nhau: Mặt đất nóng lên chậm và nguội đi chậm hơn nước.],"Do mùa hạ, miền gần biển có ngày dài hơn đêm, mùa đông ngày ngắn hơn đêm.",0.0930232558139535,geography,True
+Vùng nhiệt đới,Vùng cực Bắc và cực Nam,0.2222222222222222,geography,True
+5 đai áp cao và 2 đai áp thấp,3 đai áp cao và 4 đai áp thấp,0.7777777777777778,geography,False
+Gió mùa.,Gió mùa đông Bắc.,0.6666666666666666,geography,False
+"Vĩ độ 30 độ Bắc, Nam xuống khoảng vĩ độ 30 độ Bắc, Nam.",Cả A và B đều đúng.,0.0,geography,True
+Tổng lượng mưa 12 tháng.,Tổng lượng mưa của các tháng trong mùa mưa,0.5714285714285714,geography,False
+4 g/kg không khí (hoặc 4 g/kg không khí ở 10 độ C),$2 g/cm^{3}$,0.0,geography,True
+Sự bốc hơi từ mặt đất và các nguồn nước tự nhiên khác],sinh vật.,0.0,geography,True
+"Rừng nhiệt đới, rừng nhiệt đới ẩm và rừng nhiệt đới ẩm xavan",Rừng nhiệt đới khô,0.3529411764705882,geography,True
+Mông Cổ,I-ran,0.0,geography,True
+"Cơ sở hạ tầng, CSVCKT bị xuống cấp và các yếu tố khác như chính trị, kinh tế không ổn định]",Tình hình chính trị không ổn định.,0.3571428571428571,geography,True
+Vùng đồng bằng và thềm lục địa của vịnh Pec-xích,Đồng bằng Lưỡng Hà,0.2857142857142857,geography,True
+các bang vùng phía Tây sang các bang vùng phía Đông.,các bang ven Thái Bình Dương đến các bang vùng Đông Bắc,0.5217391304347826,geography,False
+Sự phụ thuộc vào các nước phát triển,Sự thống trị nhiều thế kỉ của chủ nghĩa thực dân,0.1052631578947368,geography,True
+Công nghiệp chế biến và chế tạo,Công nghiệp khai khoáng,0.3636363636363636,geography,False
+Ngoại giao và an ninh,"An ninh, đối ngoại",0.4444444444444445,geography,True
+GDP cao hơn,Dân số thấp hơn,0.2857142857142857,geography,True
+Phát triển công nghiệp nặng.,Thực hiện công nghiệp hóa đất nước.,0.3333333333333333,geography,True
+Có nhiều vùng núi cao và khô hạn.,Từng có “con đường tơ lụa” đi qua nên tiếp thu được nhiều giá trị văn hóa của cả phương Đông và phương Tây.,0.1875,geography,True
+"Quặng sắt ở phía bắc, dầu mỏ, khí đốt ở Tếch-dat, ven vịnh Mê-hi-cô, A-lat-xca.",Kim loại màu tập trung chủ yếu ở hệ thống núi A-pa-lat.,0.074074074074074,geography,True
+Thứ ba thế giới,Thứ tư thế giới,0.75,geography,False
+"Hơn châu Á, châu Phi và châu Âu","Hơn châu Âu, châu Phi, kém châu Á",0.625,geography,False
+Vùng Bắc Đông,Đông Nam,0.4,geography,True
+Tạo ra một thị trường chung và sử dụng đồng tiền Ơ-rô cho các nước thành viên.],Nâng cao sức cạnh tranh của thị trường chung châu Âu trên thị trường thế giới.,0.1818181818181818,geography,True
+EU là một quốc gia thống nhất về chính trị và pháp lý.,EU là tổ chức thương mại hàng đầu thế giới,0.1739130434782608,geography,True
+EU chiếm khoảng 25% GDP toàn cầu và là thị trường duy nhất có quy mô lớn hơn 17 nước có GDP lớn nhất thế giới.,Giá trị FDI của EU đầu tư ra nước ngoài và FDI đầu tư vào EU chỉ đứng sau Hoa Kì và trên Nhật Bản.,0.0784313725490196,geography,True
+"Đất đai rộng lớn và màu mỡ, khí hậu đa dạng, nguồn nước dồi dào, cơ giới hóa cao và công nghệ hiện đại]","Đất đai rộng lớn và màu mỡ, khí hậu đa dạng, nguồn nước dồi dào, công nghiệp chế biến phát triển",0.7111111111111111,geography,False
+"Bỉ, Pháp, Đức, Ý, Luc-xăm-bua và Hà Lan.","Bỉ, Anh, Na Uy, Đan Mạch, Áo và Tây Đức.",0.2222222222222222,geography,True
+Sự khác biệt về mô hình phát triển kinh tế và chính sách quản lý kinh tế.,Điều kiện tự nhiên và tài nguyên thiên nhiên.,0.0769230769230769,geography,True
+Dân số ít và giảm dần,Chỉ số phát triển ccon người ở mức cao,0.1333333333333333,geography,True
+Tỷ lệ lao động có việc làm cao],GDP bình quân đầu người thấp,0.0,geography,True
+"Hàn Quốc, Bra-xin, Ác-hen-ti-na","Pháp, Bô-li-vi-a, Việt Nam",0.0,geography,True
+"Tỉ trọng khu vực I và II của nước đang phát triển cao hơn, trong khi tỉ trọng khu vực III thấp hơn.",Cân đối về tỉ trọng giữa các khu vực,0.25,geography,True
+Khu vực II có tỉ trọng rất cao,Khu vực III có tỉ trọng rất cao,0.875,geography,False
+"Tây Á (bao gồm các quốc gia như Iran, Iraq, Kuwait, Ả Rập Xêút, Bahrain, Qatar, Các Tiểu vương quốc Ả Rập Thống nhất và Oman)",Nam Á,0.0714285714285714,geography,True
+"44,5 triệu $km^2$.",40 triệu $km^2$.,0.6666666666666666,geography,False
+Ấn Độ Dương.,Ấn Độ Dương.,1.0,geography,False
+lớn nhất thế giới.,thứ ba thế giới.,0.5,geography,False
+Đồng bằng Hoa Nam,Ấn Hằng,0.0,geography,True
+5],4,0.0,geography,False
+"Khí hậu châu Á phổ biến là các kiểu khí hậu nhiệt đới và cận nhiệt đới, không phải là đới khí hậu cực và cận cực.]",Khí hậu châu Á phân hóa thành nhiều đới khác nhau,0.2631578947368421,geography,False
+"Tất cả các yếu tố trên, bao gồm cả ảnh hưởng của địa hình, vị trí địa lý, độ cao, độ dài và hướng của các dãy núi, cũng như các yếu tố khí hậu khác như độ ẩm, nhiệt độ và lưu lượng gió]",Do lãnh thổ trải dải từ vùng cực bắc đến vùng Xích đạo,0.0,geography,True
+Vùng núi cao của dãy Himalaya và các dãy núi cao khác ở Tây Tبت (Tibet) và Tây Bắc Trung Quốc.,vùng núi trung tâm Châu Á.,0.2222222222222222,geography,False
+"Sông Mê Công, sông Hoàng Hà.]","Sông Ê-ni-xây, sông Lê-na",0.4,geography,True
+"Chảy theo hướng từ nam lên bắc, đóng băng vào mùa đông.]",Mạng lưới sông dày đặc.,0.0,geography,True
+Giao thông và thủy điện.],Cung cấp nước cho sản xuất.,0.0,geography,True
+tăng.,Tất cả đều sai.,0.0,geography,True
+Châu Phi.,"Bắc Á, Đông Á, Đông Nam Á",0.0,geography,False
+Châu Âu,Nam Á.,0.0,geography,True
+Trên 100 $người/km^2$.,Từ 1 đến 50 $người/km^2$.,0.25,geography,False
+Các thành phố lớn hoặc trung tâm đô thị.,Có đồng bằng màu mỡ.,0.0,geography,True
+"Vải, tơ lụa, đồ gốm","Gia vị, hương liệu",0.0,geography,True
+1986],1985,0.0,geography,True
+Mông Cổ],Trung Quốc.,0.0,geography,False
+Các đảo và vùng biển,Vùng trời,0.2857142857142857,geography,True
+"Tham gia các hoạt động thực tế, tham quan các địa điểm, tham gia các cuộc thi, cuộc diễn thuyết về địa lí]",Khảo sát thực tế.,0.1481481481481481,geography,True
+Hà Giang,Cà Mau,0.0,geography,True
+Cà Mau,Bến Tre,0.0,geography,True
+"Địa lý Việt Nam nằm trong vùng nhiệt đới, nằm ở khu vực giao nhau của các luồng gió mùa Đông Nam Á và gió mùa Tây Nam Á, và nằm ở khu vực giao nhau của các luồng sinh vật nhiệt đới và các luồng sinh vật ôn hòa.]",Nằm trong vùng nội chí tuyến.,0.1071428571428571,geography,True
+"Bru-nây, In-đô-nê-xi-a, Xin-ga-po, Ma-lai-xi-a, Thái Lan, Mi-an-ma, Cam-pu-chia, Trung Quốc.]","Trung Quôc, Phi-lip-pin, Lào, Cam-pu-chia, Ma-lai-xi-a, Bru-nây, In-đô-nê-xi-a, Thái Lan.",0.4000000000000001,geography,True
+Biển Tây Thái Bình Dương,Biển Xu-Lu,0.2857142857142857,geography,True
+Thái Bình Dương và Ấn Độ Dương,Ấn Độ Dương và Đại Tây Dương,0.4285714285714285,geography,True
+Mùa đông gió có hướng đông bắc; mùa hạ có hướng tây nam khu vực vịnh Bắc Bộ có hướng nam.],Quanh năm chung 1 chế độ gió.,0.0714285714285714,geography,True
+4,2,0.0,geography,True
+"Vòm sông Chảy, Hoàng Liên Sơn, cánh cung Bắc Trường Sơn, khôi nhô Kon Tum.]","Vòm sông Chảy, Hoàng Liên Sơn, Bạch Mã, khối nhô Kon Tum.",0.6666666666666665,geography,False
+"Mảng nền sông Mã, mảng nền Pu Hoạt, mảng nền Kon Tum]","Việt Bắc, Hoàng Liên Sơn.",0.0,geography,True
+Giai đoạn Trầm tích hóa Permi (hay còn gọi là Giai đoạn Trầm tích hóa Khủng long),Giai đoạn Trung sinh,0.1904761904761904,geography,False
+70 loại,40 loại,0.5,geography,False
+Khí,Khí,1.0,geography,False
+Vừa và nhỏ],Nhỏ,0.5,geography,True
+"Việc khai thác và sử dụng tiết kiệm, hiệu quả nguồn tài nguyên khoáng sản giúp giảm thiểu lãng phí và bảo vệ môi trường.","Một số khoáng sản có nguy cơ cạn kiệt,",0.1176470588235294,geography,True
+"Đồng bằng sông Cửu Long không phải là nơi tập trung nhiều than bùn, vì vậy ta chọn một trong các lựa chọn còn lại. Tuy nhiên, trong các lựa chọn còn lại, Đồng bằng duyên hải miền Trung là nơi tập trung nhiều than bùn.",Đồng bằng Bắc Trung Bộ,0.1176470588235294,geography,True
+2,2,1.0,geography,False
+"Sự phát triển kinh tế, chất lượng cuộc sống; tài nguyên môi trường.]","Sự phát triển kinh tế, chất lượng cuộc sống.",0.8181818181818181,geography,False
+"79,7 triệu người","74,5 triệu người",0.6666666666666666,geography,False
+Rất cao],Thấp,0.0,geography,False
+27%,25%,0.0,geography,True
+"Sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của thị trường lao động, sự gia tăng của lực lượng lao động, sự thay đổi của công nghệ, sự thay đổi của",Nguồn lao động tăng nhanh,0.0262008733624454,geography,True
+Nông – Lâm – Ngư Nghiệp],Công nghiệp Xây dựng,0.2,geography,False
+"Giảm tỷ trọng các ngành công nghiệp và dịch vụ, tăng tỷ trọng ngành nông, lâm, ngư nghiệp.","Giảm tỉ trọng lao động trong ngành nông, lâm, ngư nghiệp, tăng tỉ trọng lao độgn trong ngành công nghiệp và dịch vụ.",0.3902439024390244,geography,True
+Chiếm tỉ trọng cao nhất và có xu hướng tăng lên.,Chiếm tỉ trọng cao nhưng xu hướng còn biến động.,0.5714285714285713,geography,True
+1986,1975,0.0,geography,False
+Dịch vụ,Dịch vụ,1.0,geography,False
+"Sự phân bố ngành kinh tế theo lãnh thổ thay đổi theo hướng tập trung hóa ở một số địa phương, đồng thời giảm dần ở các địa phương khác.","Giảm tỉ trọng khu vực nông, lâm, ngư nghiệp.",0.0512820512820512,geography,True
+"Tài nguyên sinh vật cung cấp thức ăn, nguyên liệu, thuốc trừ sâu và các sản phẩm khác phục vụ cho nông nghiệp.",Sinh vật là tư liệu sản xuất không thể thay thế được của nông nghiệp.,0.3157894736842105,geography,True
+Điều kiện tự nhiên và khí hậu,Tất cả các yếu tố trên,0.0,geography,True
+Đất phù sa],Phù sa,0.8,geography,True
+"Tăng tỉ trọng cây công nghiệp lâu năm, giảm tỉ trọng cây công nghiệp hàng năm.","Tăng tỉ trọng cây cây lương thực, giảm tỉ trọng cây công nghiệp.",0.6896551724137931,geography,False
+Xếp thứ hai thế giới.,Xếp thứ tư thế giới.,0.8000000000000002,geography,False
+Chưa có nhiều giống vật nuôi phù hợp với điều kiện khí hậu và đất đai của Việt Nam.,"Giống gia súc, gia cầm có chất lượng thấp.",0.0714285714285714,geography,True
+"Rừng sản xuất có thể tiến hành khai thác gỗ đi đôi với trồng mới, vì mục đích chính của loại rừng này là cung cấp gỗ và sản phẩm gỗ.",Tất cả các loại rừng trên.,0.1081081081081081,geography,True
+"Rừng sản xuất, rừng quốc gia và rừng phòng hộ","Rừng sản xuất, rừng sinh thái và rừng phòng hộ",0.8000000000000002,geography,True
+Rừng sản xuất công nghiệp,Rừng phòng hộ,0.25,geography,True
+Bình Phước,Tây Ninh,0.0,geography,True
+8,8,1.0,geography,False
+Đất badan và đất xám],Đát xám và đất phù sa,0.3636363636363636,geography,True
+"Dầu khí, điện tử, công nghệ cao","Chế biến lương thực- thực phẩm, cơ khí",0.1333333333333333,geography,True
+Cao su],Điều,0.0,geography,True
+50%,90%,0.0,geography,True
+Dầu thô không phải mặt hàng xuất khẩu chính của vùng Đông Nam Bộ],Vùng nhận được đầu tư nước ngoài chiếm tỉ lệ cao nhất cả nước,0.0714285714285714,geography,True
+Cảng Sài Gòn],Vũng Tàu,0.0,geography,True
+Rau quả,Hàng nông sản,0.0,geography,True
+"Có thể khai thác được tài nguyên nước và đất đai để phát triển nông nghiệp, đặc biệt là trồng lúa.]",Toàn bộ diện tích là đồng bằng,0.0714285714285714,geography,True
+Có mùa khô kéo dài,Xuất khẩu nông sản nhiều nhất,0.0,geography,True
+$40 000 km^{2}$,$20 000 km^{2}$,0.6666666666666666,geography,False
+Thiếu nước ngọt,Cháy rừng,0.0,geography,True
+Chăn nuôi,Giao thông,0.0,geography,True
+Chế biến thủy sản,Cơ khí,0.0,geography,True
+Đường bộ (hay còn gọi là giao thông đường bộ),Đường bộ,0.3333333333333333,geography,False
+Chợ nổi,Chợ gỗ,0.5,geography,True
+"Khơ me, Chăm, Hoa.","Gia Rai, Ê Đê, Ba Na.",0.0,geography,True
+200 hải lí tính từ đường cơ sở,212 hải lí tính từ giới hạn ngoài của lãnh hải,0.4210526315789474,geography,True
+"3 bộ phận (biển và các vùng nước nội địa như sông, hồ, đầm lầy)",3 bộ phận,0.3333333333333333,geography,False
+Phú Quốc,Cát Bà,0.0,geography,True
+Dân số là tổng số người sinh sống trong một khu vực hoặc địa phương trong một thời điểm nhất định.,Dân số là nguồn lao động.,0.2222222222222222,geography,True
+"6,1 tỉ người",5 tỉ người.,0.6666666666666666,geography,False
+Một biểu đồ pie (biểu đồ tròn),Một đường thẳng,0.2,geography,True
+0-18 tuổi,0-17 tuổi,0.5,geography,True
+"Cơ sở hạ tầng, nguồn nước, điện, giáo dục, y tế]","Thiếu nhà ở, thất nghiệp",0.0,geography,False
+Từ thế kỷ XX đến nay,Từ thế kỷ XX – nay.,0.8333333333333334,geography,False
+3%,250%.,0.0,geography,True
+"Không đều, tập trung chủ yếu ở các khu vực có điều kiện sống thuận lợi và có sự phát triển kinh tế, thương mại]",Đều,0.0769230769230769,geography,False
+"Đồng bằng, ven biển]",Nông thôn,0.0,geography,True
+Bắc Á.,Đông Nam Á.,0.4,geography,True
+màu da],bàn tay.,0.0,geography,True
+bản đồ dân số.,gia tăng dân số tự nhiên.,0.4,geography,True
+"Đông Nam Á, Đông Á, Bắc Phi]","Bắc Á, Bắc Phi, Đông Bắc Hoa Kì.",0.3999999999999999,geography,False
+"Đông Nam Á, Đông Á.","Đông Bắc Hoa Kì, Nam Á.",0.5454545454545454,geography,True
+"Da trắng, tóc thẳng hoặc xoăn.","Da vàng, tóc đen.",0.4,geography,True
+"Được xây dựng và phát triển dựa trên các yếu tố tự nhiên, văn hóa và kinh tế của cộng đồng]",Dân cư không tập trung với mật độ cao như thành thị,0.0,geography,True
+Năm loại hình,Năm loại hình.,1.0,geography,False
+"Sản xuất nông nghiệp, tiểu thủ công nghiệp",Sản xuất công nghiệp,0.6666666666666666,geography,False
+Thị trấn,Xã.,0.0,geography,True
+Trung Quốc,Nhật,0.0,geography,True
+Số lượng nam và nữ.],Các độ tuổi của dân số.,0.1818181818181818,geography,False
+"Tỉ lệ sinh cao, tỉ lệ tử giảm.","Tỉ lệ sinh giảm, tỉ lệ tử giảm.",0.875,geography,False
+Châu Phi.,Bắc Mĩ.,0.0,geography,True
+Châu Phi.,Châu Phi.,1.0,geography,False
+"9,7 tỉ người.",10 tỉ người.,0.6666666666666666,geography,False
+Châu Đại Dương.,Châu Phi.,0.4,geography,True
+Sự khác biệt giữa số trẻ sinh ra và số người chết đi trong một năm.,Sự tương quan giữa số trẻ sinh ra và số người từ nơi khác đến trong một năm.,0.7058823529411765,geography,False
+Sự tương quan giữa số trẻ sinh ra và số người từ nơi khác đến.],Sự tương quan giữa số trẻ sinh ra và số người chết đi.,0.7857142857142856,geography,False
+"vùng núi cao, vùng xa khu vực trung tâm.",các trục giao thông lớn.,0.0,geography,True
+Đặc điểm hình thái và thể lực],Vóc dáng,0.0,geography,True
+Năm,Năm.,1.0,geography,False
+"dễ dàng xây dựng và bảo vệ các công trình kiến trúc, giao thông.",ít chịu ảnh hưởng của thiên tai.,0.0,geography,True
+châu Á.,châu Phi.,0.5,geography,False
+Sự thay đổi khí hậu và điều kiện tự nhiên],tài nguyên thiên nhiên.,0.1428571428571428,geography,True
+châu Á.,châu Âu.,0.5,geography,False
+Xóm (là đơn vị dân cư ở nông thôn),Quận,0.0,geography,True
+Phát triển kinh tế nhanh chóng,Thất nghiệp,0.0,geography,True
+Hà Nội.,Thiên Tân.,0.0,geography,True
+Luân Đôn và Niu-I-oóc.,Pa-ri và Tô-ki-ô.,0.2857142857142857,geography,True
+"Vùng nước thuộc chủ quyền của quốc gia, bao gồm lãnh hải, nội thủy và vùng biển khác.",Vùng nước ở phía ngoài đường cơ sở với chiều rộng 12 hải lí.,0.1875,geography,False
+Ảnh hưởng của Biển Đông và các yếu tố khí hậu nhiệt đới - ẩm - gió mùa],"Sự phân hóa phức tạp của địa hình vùng núi, trung du và đồng bằng ven biển.",0.1212121212121212,geography,True
+"nằm ở phía tây bắc của Việt Nam, bao gồm các tỉnh Lai Châu, Sơn La, Yên Bái, Lào Cai và Hà Giang.",nằm ở phía nam dãy Bạch Mã,0.2666666666666666,geography,True
+Nước ta nằm trong khu vực châu Á gió mùa và có nhiều đồi núi thấp chiếm ưu thế.,Nước ta nằm tiếp giáp Biển Đông.,0.2307692307692307,geography,True
+ngập mặn],"lũ ống, lũ quét      ",0.0,geography,True
+Cao hơn và bằng phẳng hơn,Cao hơn và ít bằng phẳng hơn,0.923076923076923,geography,False
+Sự tương tác giữa đại dương và khí quyển],Địa hình,0.0,geography,True
+Vịnh Bắc Bộ và vùng biển phía Bắc của Biển Đông.  ,Vịnh Thái Lan.,0.1428571428571428,geography,True
+có mùa mưa và mùa khô rõ ràng,"trong năm, Mặt Trời luôn đứng cao trên đường chân trời",0.0,geography,True
+Miền núi Bắc Bộ.,Duyên Hải Nam Trung Bộ.,0.2222222222222222,geography,True
+Có nhiều sông lớn và phụ lưu nhiều.,Mật độ sông lớn,0.3333333333333333,geography,False
+xâm thực - mài mòn - bồi tụ,xói mòn – rửa trôi,0.1818181818181818,geography,False
+Đất phù sa,Đất xám      ,0.4,geography,True
+Đới rừng cận xích đạo gió mùa.],Đới rừng nhiệt đới ẩm gió mùa.,0.5714285714285714,geography,True
+Hệ sinh thái rừng nhiệt đới gió mùa chân núi.,Hệ sinh thái rừng nhiệt đới thường xanh trên đá vôi.,0.5714285714285713,geography,False
+chủ yếu chảy theo hướng vòng cung và tây bắc – đông nam,chảy theo hướng tây - đông,0.5555555555555556,geography,False
+"sự kết hợp của các yếu tố như giáo dục, đào tạo, phát triển công nghệ và nâng cao trình độ dân trí]",việc tăng cường xuất khẩu lao động sang các nước phát triển.,0.1714285714285714,geography,True
+có vốn đầu tư nước ngoài],tư nhân.,0.25,geography,True
+"tạo ra sự chuyển dịch cơ cấu kinh tế, từ nông nghiệp sang công nghiệp và dịch vụ, đồng thời thúc đẩy quá trình công nghiệp hóa, hiện đại hóa.",tăng cường cơ sở vật chất kĩ thuật.,0.0526315789473684,geography,True
+Tỷ lệ dân số đô thị hóa chưa đạt được mức cao như các nước phát triển khác.,Nếp sống đô thị và nông thôn còn xen lẫn vào nhau.,0.1333333333333333,geography,True
+"Tăng tỉ trọng của dịch vụ nông nghiệp và giảm tỉ trọng của ngành trồng trọt là đúng, nhưng tăng tỉ trọng của ngành chăn nuôi và giảm tỉ trọng của ngư nghiệp không phải là đặc điểm chung của sự chuyển dịch cơ cấu nội bộ ngành nông nghiệp.","Giảm tỉ trọng cây lương thực thực, tăng tỉ trọng cây công nghiệp.",0.2222222222222222,geography,True
+"tăng tỉ trọng khu vực III, giảm tỉ trọng khu vực I.","giảm tỉ trọng khu vực I, giảm tỉ trọng khu vực II.",0.75,geography,False
+"Người nông dân sản xuất cho thị trường, chủ yếu để bán sản phẩm nông nghiệp, chứ không phải để tiêu dùng tại chỗ.]","Sản xuất nhỏ, công cụ thủ công",0.1290322580645161,geography,True
+"Mỗi địa phương đều sản xuất nhiều loại sản phẩm, phần lớn để tiêu dùng tại chỗ]",Gắn liền với công nghiệp chế biến và dịch vụ nông nghiệp,0.0,geography,True
+nhu cầu thị trường và sự quan tâm của người dân.,nhiều giống gia cầm cho năng suất cao.,0.0,geography,True
+Từ đất hoang hóa sang đất nông nghiệp hoặc đất chuyên dùng. ,Từ đất lâm nghiệp sang nông nghiệp. ,0.5263157894736842,geography,False
+Cải tạo để trồng lúa và nuôi thủy sản nước ngọt,Tiếp tục trồng rừng và mở rộng diện tích rừng,0.1904761904761905,geography,True
+Vũng Áng – Hà Tĩnh,Hải Phòng- Nam Định,0.0,geography,True
+Tây Nguyên.,duyên hải Nam Trung Bộ.,0.0,geography,True
+Đồng bằng sông Cửu Long.     ,Bắc Trung Bộ.,0.0,geography,True
+Công nghiệp khai thác và chế biến khoáng sản,Công nghiệp sành sứ và thủy tinh,0.375,geography,True
+"Vùng núi và vùng sâu, vùng xa]",Đồng bằng sông Hồng      ,0.0,geography,False
+"Cung cấp năng lượng cho các ngành công nghiệp, giao thông, và sinh hoạt hàng ngày",Làm nguyên liệu cho sản xuất phân đạm,0.0833333333333333,geography,True
+"Là ngành công nghiệp có tính chất tự nhiên và có thể bị ảnh hưởng bởi các yếu tố tự nhiên như thời tiết, địa chất, v.v.",Có cơ sở vật chất kĩ thuật hiện đại,0.1111111111111111,geography,True
+"Trung du và miền núi Bắc Bộ, Tây Nguyên]",Đồng bằng sông Hồng và đồng bằng song Cửu Long,0.1052631578947368,geography,True
+"Đường ô tô, đường sắt, đường sông. ","Đường sông, đường hàng không, đường biển. ",0.4285714285714285,geography,True
+"Sự kiện ít ảnh hưởng đến ngoại thương nước ta là cuộc bầu cử tổng thống Hoa Kì năm 2016, vì nó không trực tiếp ảnh hưởng đến chính sách thương mại của Hoa Kì.]",Cộng đồng kinh tế ASEAN ( AEC) được thành lập,0.0,geography,True
+"Theo hướng mở rộng và đa dạng hóa, bao gồm cả các nước xã hội chủ nghĩa cũ và các nước Mĩ La Tinh",Nhưng chưa có quan hệ với các nước Tây Âu,0.1176470588235294,geography,True
+"than đá, sắt, apatit, đá vôi, quặng chì, quặng kẽm.","han bùn, dầu khí, thiếc, bô xít.",0.0,geography,True
+"khí hậu ôn đới, có mùa đông lạnh và mùa hè nóng.","thường xảy ra bão, lụt, nạn cát bay, gió Lào.",0.0,geography,True
+3,3,1.0,geography,False
+Mặt Trời,Mặt Đất,0.5,geography,True
+253 người/km2,312 người/m2,0.0,geography,True
+"Tác động của các yếu tố văn hóa, xã hội và kinh tế - xã hội, như trình độ phát triển kinh tế - xã hội, thu nhập, giáo dục, cơ hội việc làm, điều kiện sống, v.v.]",Phong tục tập quán và tâm lí xã hội,0.1333333333333333,geography,True
+"Tiến bộ về y tế và khoa học, kĩ thuật]","Điều kiện sống, mức sống ,thu nhập được cải thiện",0.0,geography,True
+Châu Á,Châu Phi,0.5,geography,False
+Cơ cấu dân số theo tuổi là sự tập hợp những nhóm người sắp xếp theo độ tuổi nhất định],Cơ cấu dân số theo tuổi là sự tập hợp một nhóm người sắp xếp theo độ tuổi nhất định,0.95,geography,False
+Có dạng mở rộng ở phần đỉnh và thu hẹp ở phần đáy,"Đáy tháp rộng, phình to ở giữa, đỉnh tháp nhọn",0.2608695652173913,geography,True
+"Cơ cấu ngành kinh tế, lãnh thổ kinh tế, thành phần kinh tế, khu vực kinh tế","Cơ cấu ngành kinh tế, khu vực kinh tế trong nước, toàn cầu và khu vực",0.5454545454545455,geography,False
+"0,1%","0,5%0",0.0,geography,True
+"Đất, nước, khí hậu, biển, sinh vật, khoáng sản]","Đất, nước, khí hậu, vốn, biển,sinh vật",0.6250000000000001,geography,False
+Nguồn nước ngầm ở các đồng bằng thường phong phú hơn nhiều với nguồn nước ngầm ở miền núi],"Ở những khu vực địa hình dốc, nước mưa được giữ lại rất ít dưới dạng nước ngầm, phần lớn chảy tràn trên bề mặt ngay sau khi mưa",0.125,geography,True
+Sự thay đổi có qui luật của các thành phần địa lí và cảnh quan địa lí theo vĩ độ,Sự thay đổi có qui luật của các thành phần địa lí và cảnh quan địa lí theo kinh độ,0.95,geography,True
+Các chất dinh dưỡng và khoáng chất,Hữu cơ,0.0,geography,False
+Dân số trung bình ở cùng thời điểm,Những người có nguy cơ tử vong cao trong xã hội ở cùng thời điểm,0.3478260869565218,geography,True
+Sự hình thành băng và tuyết ở các vĩ độ cao,Gío Tây ôn đới,0.0,geography,True
+Sự tương tác giữa các mảng kiến tạo (có thể bao gồm cả sự dịch chuyển và tiếp xúc),Được hình thành ở những vùng bất ổn cảu Trái Đất,0.0,geography,True
+"Nhiệt độ, độ ẩm của không khí",Sức ép của không khí khác nhau,0.4285714285714285,geography,True
+"Cứng, nặng, không di chuyển được","Nhẹ, cứng, không di chuyển được",0.8333333333333334,geography,False
+Sinh đẻ và di cư],Sinh đẻ và di cư,1.0,geography,True
+Số phụ nữ trong độ tuổi từ 18 – 40 ở cùng thời điểm],Số người trong độ tuổi sinh đẻ ở cùng thời điểm,0.64,geography,False
+Làm di chuyển các mảng kiến tạo],"Sinh ra các hoạt động động đất, núi lửa",0.125,geography,True
+Nhiệt được giải phóng từ sự phân hủy năng lượng của Mặt Trời trong các phản ứng hóa học trên bề mặt Trái Đất],nhận bức xạ trực tiếp của Mặt Trời,0.1875,geography,True
+kinh tuyến 0 (kinh tuyến Greenwich),tất cả đều sai,0.0,geography,True
+A và P],P và T,0.3333333333333333,geography,True
+sự hiểu biết và chấp nhận của người dân đối với các dịch vụ,mức độ tập trung ngành dịch vụ,0.1904761904761904,geography,True
+Giáo dục,Bảo hiểm,0.0,geography,True
+Sự phát triển và phân bố các ngành kinh tế quốc dân và điều kiện tự nhiên.,Phân bố dân cư,0.2857142857142857,geography,True
+Tình hình kinh tế - xã hội và sự phát triển của các ngành kinh tế.,Phân bố dân cư và mạng lưới quần cư,0.0833333333333333,geography,True
+Giao thông đường sắt],Đường ô tô,0.2857142857142857,geography,True
+sự chuyên chở người và hàng hóa],đường xá và xe cộ,0.1666666666666666,geography,True
+Đó là ngành công nghiệp],Sản phẩm là sự chuyên chở người và hàng hóa,0.1333333333333333,geography,True
+Phát triển kinh tế và xã hội,Tạo điều kiện hình thành các vùng sản xuất chuyên môn hóa,0.0,geography,True
+Khí hậu],Khí hậu,1.0,geography,True
+Có thể vận chuyển hàng hóa và người trên quy mô quốc tế],An toàn,0.0,geography,True
+"Hoa Kì, Liên Bang Nga, Anh, Nhật","Hoa Kì, Anh, Pháp, CHLB Đức",0.4615384615384615,geography,True
+Điều kiện tự nhiên],Trình độ kỹ thuật,0.0,geography,True
+"Đường thủy (xà lan, tàu thuyền)",Đường thủy,0.5,geography,False
+"Giao thông đường bộ, cụ thể là giao thông đường ôtô]",Đường sắt,0.1538461538461538,geography,False
+Đường sắt,Đường sắt,1.0,geography,False
+"Tất cả đều phục vụ nhu cầu cơ bản của con người như cung cấp nước, dầu mỏ, khí đốt, hóa chất, v.v.]",Đây là ngành có tốc độ phát triển nhanh nhất,0.0,geography,True
+"Hoa Kì, Ca-na-đa và Nga]",Những nước ở Châu Âu nhờ vào hệ thống sông Đa-nuýp và Rai-nơ,0.1111111111111111,geography,True
+Đại Tây Dương là một trong những khu vực có giao thông đường biển và hàng hải phát triển mạnh nhất thế giới],Nối liền hai trung tâm kinh tế lớn là Hoa Kì và Nhật Bản,0.1081081081081081,geography,True
+Quan hệ so sánh giữa khối lượng hàng xuất khẩu và nhập khẩu với nhau],Quan hệ so sánh giữa xuất khẩu và nhập khẩu,0.8,geography,False
+nhập khẩu lớn hơn xuất khẩu,xuất khẩu lớn hơn nhập khẩu,0.6666666666666666,geography,False
+Cảng Sài Gòn,Kô-bê,0.0,geography,True
+"Hoạt động tìm hiểu, phân tích và đáp ứng nhu cầu của khách hàng để tạo ra và duy trì sự khác biệt cho sản phẩm hoặc dịch vụ.]",Giới thiệu sản phẩm hàng hóa đến người tiêu dùng,0.1025641025641025,geography,True
+"có xu hướng tăng, kích thích mở rộng sản xuất]","có xu hướng giảm, sản xuất có nguy cơ đình đốn",0.4761904761904761,geography,False
+Dựa vào chu kỳ của Mặt Trăng (thường được gọi là chu kỳ trăng).,Dựa vào sự di chuyển của Mặt Trăng và Mặt Trời.,0.4,history,False
+Dương lịch,Âm lịch,0.5,history,True
+Chu kì Mặt Trăng (hay còn gọi là chu kì Mặt Trăng hoặc chu kỳ Mặt Trăng) là khoảng thời gian mà Mặt Trăng quay quanh Trái Đất một lần.,Cả A và B đều sai,0.0,history,True
+2127 năm,2126 năm,0.5,history,False
+"Hang động, mái đá, những túp lều bằng cành cây hoặc có khô.]","Những túp lều bằng cành cây, có khô.",0.761904761904762,history,True
+Rau quả và súc vật.,"Rau, bầu, bí và gia cầm.",0.3636363636363636,history,True
+hai cách,ba cách,0.5,history,True
+rất bấp bênh,định cư tại một nơi.,0.0,history,True
+"Lưỡng Hà (tên gọi khác là Mesopotamia), nơi lưu vực sông Tigris và sông Euphrat nằm.","Hi lạp, Rô-ma, Ấn Độ, Lưỡng Hà.",0.1739130434782608,history,True
+hình thành trên các châu thổ các con sông lớn và lấy nông nghiệp làm cơ sở kinh tế chủ yếu.],hình thành trên bán đảo.,0.2307692307692307,history,True
+"xây dựng và bảo vệ các công trình công cộng (như đền thờ, thành quách, kênh mương,...)",làm nghề thủ công nghiệp,0.0909090909090909,history,True
+Chữ tượng hình.,Chữ La tính. ,0.3333333333333333,history,True
+Giấy Papirus],Thẻ tre,0.0,history,True
+"Di cốt tìm thấy ở Đông Dương (Việt Nam, Lào, Campuchia)",Ở Tây Âu,0.1428571428571428,history,True
+Quân chủ chuyên chế,Quân chủ lập hiến,0.5,history,True
+"Phải tính toán và xây dựng các công trình kiến trúc như tháp, đền thờ và các công trình khác để thể hiện quyền lực và uy tín của vua và các vị thần.",Phải tính toán các công trình kiến trúc.,0.3809523809523809,history,True
+Mesopotamia (tên gọi khác của Lưỡng Hà),Ai Cập - Sông Nin,0.0,history,False
+"Để theo dõi và dự đoán các hiện tượng thiên nhiên như vị trí của các ngôi sao, Mặt Trăng và Mặt trời, từ đó có thể lập kế hoạch cho các hoạt động nông nghiệp và tôn giáo.",Để phục vụ yêu cầu học tập.,0.0434782608695652,history,True
+sự phát triển của các nền văn hóa và thương mại.,sớm sử dụng công cụ bằng sắt.,0.0,history,True
+"Có bộ não nhỏ, cơ thể thấp, chân và tay ngắn, đầu lớn]",Đôi tay khéo léo hơn,0.1111111111111111,history,True
+Tăng cường sự kiểm soát và thống trị của Trung Quốc đối với lãnh thổ và dân cư của Âu Lạc.,Nhằm giúp nhân dân ta tổ chức lại bộ máy chính quyền.,0.0606060606060606,history,True
+Vùng đất Bắc Bộ - Bắc Trung Bộ đến Quảng Trị.,Vùng đất Bắc Bộ - Bắc Trung Bộ đến Quảng Trị.,1.0,history,False
+Trung Quốc.,Văn Lang.,0.0,history,True
+Tăng cường sự thống trị và kiểm soát của Trung Quốc đối với vùng lãnh thổ mới sáp nhập],Cai quản cho dễ,0.0,history,True
+Quân lính và quan lại.,"Địa chủ, quan lại.",0.4444444444444445,history,False
+Vì lúc này nhà Hán thực hiện chính sách bành trướng lãnh thổ về phía Tây và phía Bắc.],Lúc này nhà Hán phải lo đối phó với các cuộc đấu tranh của nhân dân Trung Quốc.,0.2162162162162162,history,True
+Cát Vàng],Cẩm Khê,0.0,history,True
+"Bốn vạn quân, hai nghìn xe thuyền các loại.",Ba vạn quân. hai nghìn xe thuyền các loại.,0.8888888888888888,history,False
+"Thợ giỏi về nghề nông, nghề thủ công, nghề nghệ tinh để làm việc cho nhà nước Trung Quốc.","Cống nộp vàng bạc, châu báu, lâm hải sản quý hiếm.",0.0,history,True
+Thuế ruộng và thuế thân.,Thuế chợ và thuế đò.,0.6,history,False
+"Thứ sử là người Hán, huyện lệnh là người Việt.","Thái thú là người Hán, trực tiếp cai quản các huyện. ",0.380952380952381,history,False
+Lí Bí,Mai Hắc Đế,0.0,history,True
+Núi Cô Tô (Quảng Bình).,"Núi Nưa (Hậu Lộc, Thanh Hóa).",0.1818181818181818,history,False
+8000 quân,7000 quân,0.5,history,False
+Địa chủ Hán.,"Lạc tướng, Bồ chính.",0.0,history,True
+"Sáu châu (Giao Châu, Ái Châu, Đức Châu, Lợi Châu, Minh Châu, Hoàng Châu).","Ba quận (Giao Chỉ, Cửu Chân và Nhật Nam).",0.0869565217391304,history,True
+"Bất bình, từ chối chức vụ.",Tập hợp lực lượng chống lại nhà Lương.,0.0,history,True
+544,543,0.0,history,False
+nhà Trần,nhà Tần,0.5,history,True
+Lý Nam Đế.,Lý Đông Đế.,0.6666666666666666,history,False
+Một cuộc cải cách theo hướng tư bản chủ nghĩa.,Một cuộc chiến tranh giải phóng dân tộc.,0.2222222222222222,history,False
+"Cách mạng đã giải phóng giai cấp tư sản khỏi sự chi phối của chế độ phong kiến, đồng thời đã giải phóng giai cấp công nhân khỏi sự bóc lột của chế độ phong kiến và giai cấp tư sản.",Thiết lập được nền cộng hoà tư sản,0.0816326530612245,history,True
+Cách mạng tư sản Anh.],Cách mạng tư sản Hà Lan.,0.7272727272727272,history,False
+"Ngày 26 tháng 3 năm 1792, Quốc hội Pháp thông qua bản tuyên ngôn về quyền tự do, dân chủ và nhân quyền, được gọi là Tuyên ngôn nhân quyền và dân quyền của Pháp.]",Quốc dân quân đánh chiếm các trụ sở của Chính phủ lâm thời.,0.125,history,True
+"Chống lại sự xâm lược và bành trướng của phát xít Đức, Ý và Nhật Bản trên toàn thế giới.]",Trả thù sự tấn công của Nhật vào hạm đội Mĩ.,0.1935483870967741,history,True
+12 lần,5 lần,0.5,history,True
+"Khủng bố, bạo lực và áp bức.",Thi hành chính sách “ngu dân”.,0.0,history,True
+Cộng hòa tổng thống,Quân chủ lập hiến,0.0,history,True
+Năm 1937,Năm 1931,0.5,history,True
+Đẳng cấp quý tộc.,Đẳng cấp quý tộc.,1.0,history,True
+Thế kỉ XII,Thế kỉ XII,1.0,history,False
+1839- 1842,1840- 1844,0.0,history,True
+"Việt Nam, Lào, Campuchia, Thái Lan và các nước khác ở Đông Nam Á.","Việt Nam, Lào, Cam-pu-chia, Xin-ga-po.",0.4210526315789473,history,False
+"Tăng cường sự cạnh tranh và đối đầu giữa các cường quốc, dẫn đến sự hình thành của các khối chính trị mới như Liên Xô và Liên Hợp Quốc.",Sự khủng hoảng về chính trị,0.1666666666666666,history,True
+"Phát triển và ứng dụng rộng rãi các phương tiện giao thông quân sự như xe ngựa, xe pháo, xe tăng...",Chiến hạm chân vịt có trọng tải lớn.,0.0,history,True
+Quốc hội lập hiến thông qua Tuyên ngôn Nhân quyền và Dân quyền (hay còn gọi là Tuyên ngôn nhân quyền và dân quyền của Pháp).,Quốc hội lập hiến tuyên bố xóa bỏ mọi nghĩa vụ của nông dân.,0.3,history,True
+3 năm chiến tranh đế quốc và 4 nội chiến,5 chiến tranh đế quốc và 3 nội chiến,0.7368421052631577,history,False
+Hiệp định Giơ-ne-vơ (Treaty of Paris)],Hòa ước Mác xây.,0.0,history,True
+"Sự kết hợp giữa các yếu tố như công nghệ tiên tiến, quản lý hiệu quả, đầu tư vào giáo dục và nghiên cứu khoa học, cũng như sự ổn định và an ninh chính trị.]","Việc đẩy mạnh công nghiệp hóa, tập trung công nghiệp, thương nghiệp và ngân hàng",0.0784313725490196,history,True
+"Khủng hoảng trầm trọng về kinh tế, chính trị, xã hội.","Nạn thất nghiệp tăng nhanh, nạn đói xảy ra trầm trọng.",0.1818181818181818,history,True
+Nền sản xuất nước Anh đã trở thành một nền sản xuất tư bản chủ nghĩa với sự áp dụng rộng rãi của máy móc và máy hơi nước,"Quan hệ sản xuất tư bản chủ nghĩa ở Anh đã phát triển cả trong công nghiệp, nông nghiệp và thương nghiệp.",0.2745098039215686,history,True
+"Nông nghiệp nước Pháp phát triển mạnh theo hướng sản xuất tư bản chủ nghĩa, hỗ trợ cho công nghiệp.]","Nền kinh tế Pháp ở thế kỉ XVII đã phát triển khá mạnh, nhất là về công nghiệp và thương nghiệp",0.2926829268292683,history,True
+Là cuộc cách mạng tư sản triệt để nhất trong lịch sử],Giải phóng nhân dân các thuộc địa Anh khỏi ách thống trị thực dân,0.0,history,True
+Khẳng định sự thắng lợi của chế độ cộng sản,"Thúc đẩy quá trình tìm kiếm thị trường, xâm lược thuộc địa.",0.0,history,True
+Nửa cuối thế kỉ XIX,Nửa đầu thế kỉ XVIII,0.6,history,False
+Giúp Trung Quốc tránh được nguy cơ bị xâm lược từ các cường quốc thực dân phương Tây],"Lật đổ triều đại Mãn Thanh, chấm dứt chế độ quân chủ chuyên chế",0.0,history,True
+"Sự hình thành và phát triển các thuộc địa, sự áp bức và bóc lột các dân tộc yếu thế.",mâu thuẫn xã hội gay gắt,0.0,history,True
+Xây dựng một cộng đồng anh em giữa các dân tộc],Sự bình đẳng về mọi mặt giữa các dân tộc,0.380952380952381,history,True
+Không phù hợp với lợi ích chung của các dân tộc trên đất nước Xô viết (đây là ý nghĩa không đúng đắn),"Tạo điều kiện cho sự phát triển nhanh chóng về kinh tế, xã hội của tất cả các nước Cộng hoà",0.1363636363636363,history,True
+"Thực hiện cải cách kinh tế theo hướng tập trung, thống nhất, kế thừa và phát triển những thành tựu của kinh tế thị trường",Chủ trương xây dựng nền kinh tế tập trung do Nhà nước quản lí,0.2051282051282051,history,True
+Không có truyền thống văn hóa và lịch sử lâu đời,Nằm trên tuyến đường biển huyết mạch,0.0,history,True
+"Tôn trọng và duy trì các thể chế và truyền thống địa phương, đồng thời áp dụng các chính sách cai trị của thực dân để duy trì quyền lực và kiểm soát.",Thiết lập nền thống trị bằng hình thức giống nhau,0.0930232558139535,history,True
+"Chiến lược công nghiệp hoá nông nghiệp, đẩy mạnh xuất khẩu",Chiến lược công nghiệp hoá hướng về xuất khẩu,0.7000000000000001,history,False
+Năm 1917],Năm 1918,0.5,history,True
+N. Xô - chốp,N. Khơ - rút - xốp,0.2857142857142857,history,True
+Một số nước ở châu Á và khu vực Mỹ la tinh],Đông Âu và một số nước Châu Á,0.5,history,False
+Năm 1986,Năm 1982,0.5,history,True
+Tăng từ vị trí thứ 12 lên vị trí thứ hai trên thế giới,Đứng vị trí thứ tám trên thế giới,0.5454545454545454,history,False
+"Miến Điện (Mi-an-ma) không phải là đúng, vì Miến Điện đã trở thành thuộc địa của Anh.",Xin-ga-po,0.0,history,True
+Xoá bỏ chế độ phong kiến và hình thành các quốc gia dân chủ,Giải quyết vấn đề ruộng đất cho nông dân,0.0869565217391304,history,True
+"Sự hình thành và phát triển các thuộc địa, sự áp bức và bóc lột các dân tộc yếu thế.",mâu thuẫn xã hội gay gắt,0.0,history,True
+"xây dựng và củng cố nhà nước Xô viết, đảm bảo sự ổn định và an ninh cho đất nước",ban hành Hiến pháp mới,0.0,history,True
+Năm 1918,Năm 1919,0.5,history,True
+"Nga, U-crai-na, Bê-lô-rút-xi-a và Ngoại Cáp-ca-dơ]","Nga, U -crai - na, Bê - lô - rút- xi-a và Lít - va",0.2352941176470588,history,False
+Xây dựng một cộng đồng anh em giữa các dân tộc],Sự bình đẳng về mọi mặt giữa các dân tộc,0.380952380952381,history,True
+"Tháng 12 - 1922 (Lần thứ hai, sau khi Liên bang Xô viết được thành lập lần đầu vào tháng 1/1922, nhưng nó được đổi tên thành Liên bang Cộng hoà xã hội chủ nghĩa Xô viết vào tháng 12/1922)",Tháng 1 - 1924,0.0476190476190476,history,True
+"Tăng cường sự thống nhất và ổn định trong nước, tạo điều kiện cho sự phát triển kinh tế và xã hội",Phù hợp với lợi ích chung của các dân tộc trên đất nước Xô viết,0.054054054054054,history,True
+"Không phù hợp với ý nghĩa quốc tế của việc thành lập Liên bang Cộng hoà xã hội chủ nghĩa Xô viết, vì các ý nghĩa khác (A, C, D) đều phản ánh đúng ý nghĩa quốc tế của sự kiện này.","Cổ vũ, lôi cuốn mạnh mẽ phong trào giải phóng dân tộc ở những nước thuộc địa",0.0,history,True
+N. Xô - chít - chốp,Bre - giơ - nhép,0.0,history,True
+"Ghi nhận việc thành lập một nhà nước Liên bang với các nước Cộng hoà Xô viết có quan hệ đối nội và đối ngoại chặt chẽ, không thể nói là hợp tác trên cơ sở tự nguyện]",Phân định các quyền của Liên bang và của các nước Cộng hoà,0.2352941176470588,history,True
+Châu Âu và khu vực Mỹ la tinh,một số nước Châu Á và khu vực Mỹ la tinh,0.7368421052631579,history,True
+từ những nước nghèo đã trở thành các quốc gia công - nông nghiệp phát triển],từ những nước nghèo đã trở thành những nước công nghiệp mới (NIsC),0.6428571428571429,history,True
+Cộng hòa Nhân dân Trung Hoa,Cộng hoà xã hội chủ nghĩa Trung Hoa,0.4285714285714285,history,False
+Năm 1986,Năm 1982,0.5,history,True
+Tăng từ vị trí thứ 12 lên vị trí thứ hai trên thế giới,Đứng vị trí thứ tám trên thế giới,0.5454545454545454,history,False
+Tháng 12 - 1991],Tháng 12 - 1989,0.6666666666666666,history,False
+"Sự suy yếu về mặt kinh tế và chính trị của Liên Xô và các nước Đông Âu, dẫn đến mất lòng tin của nhân dân và sự sụp đổ của chế độ.",Sự chống phá của các thế lực thù địch ở trong và ngoài nước,0.1702127659574468,history,True
+"Thực hiện cải cách kinh tế theo hướng tự do, thị trường và tư bản hóa.","Chú trọng đến các ngành nghề mới như: công nghiệp du lịch, công nghệ sinh học, khai thác dầu khí,...",0.0,history,True
+Không có thành tựu về công nghiệp điện hạt nhân đáng kể,Xây dựng hệ thống định vị vệ tinh Bắc Đẩu,0.0,history,True
+Ra-ma V],Ra-ma IV,0.5,history,True
+"Tăng tốc độ và hiệu quả của quá trình sản xuất, dẫn đến sự phát triển kinh tế và xã hội nhanh chóng.",Sự giao lưu quốc tế ngày càng được mở rộng.,0.1212121212121212,history,True
+Quan hệ đối đầu do bất đồng về quan hệ kinh tế.,Quan hệ đối thoại.,0.375,history,True
+Sự lãnh đạo của Đảng Cộng sản và sự hỗ trợ của Liên Xô.,Sự hợp tác giữa các nước Đông Âu.,0.0909090909090909,history,True
+1953-1957,1953-1957,1.0,history,False
+"Việt Nam, Mi-an-ma, In-đô-nê-xi-a.","In-đô-nê-xi-a, Xin-ga-po, Thái Lan.",0.25,history,True
+Thời kỳ đầu của phong trào cách mạng lao động và phong trào đấu tranh của giai cấp công nhân Việt Nam.,Chủ nghĩa thực dân cũ.,0.0,history,True
+"Các nước châu Á đã trải qua quá trình công nghiệp hóa và phát triển kinh tế nhanh chóng, dẫn đến sự tăng trưởng kinh tế và cải thiện đời sống của người dân.",Tất cả các câu trên.,0.0512820512820512,history,True
+15/9/1977,11/1987,0.0,history,True
+"Chủ nghĩa xã hội không phù hợp và không thể áp dụng được trong thực tế, dẫn đến sự bất mãn và mất lòng tin của người dân]","Nhà nước nhân dân Xô viết, nhận thấy CNXH không tiến bộ nên muốn thay đổi chế độ.",0.0434782608695652,history,True
+"Tăng cường hợp tác và an ninh chung giữa Mỹ và Nhật Bản, nhằm đối phó với các mối đe dọa chung và duy trì ổn định trong khu vực.",Nhật Bản muốn lợi dụng vốn kĩ thuật của Mĩ để phát triển kinh tế.,0.0888888888888888,history,True
+03/10/1990.,03/11/1990.,0.0,history,False
+Một tổ chức liên minh chính trị và quân sự của các nước XHCN ở châu Âu.,Một tổ chức liên minh phòng thủ về quân sự của các nước XHCN ở châu Âu.,0.8235294117647058,history,False
+"Bị ảnh hưởng bởi chiến tranh lạnh và xung đột quân sự, đặc biệt là cuộc chiến tranh Triều Tiên (1950-1953) và cuộc chiến tranh Việt Nam (1955-1975).",Ổn định và phát triển.,0.0606060606060606,history,True
+"Năm 1945, Liên Xô giải phóng các nước Đông Âu khỏi sự chiếm đóng của Đức Quốc xã.","Năm 1961, Liên Xô là nước đầu tiên phóng thành công tàu vũ trụ có người lái.",0.2285714285714285,history,False
+Chủ nghĩa thực dân cũ và mới.,Chủ nghĩa thực dân cũ.,0.8333333333333333,history,False
+Một cuộc cách mạng dân tộc dân chủ do giai cấp vô sản lãnh đạo.,Một cuộc cách mạng giải phóng dân tộc.,0.5217391304347827,history,False
+"Bị Mỹ và Liên Xô áp đặt chế độ chiếm đóng theo Điều 27 của Hiệp định Potsdam, trong đó Mỹ chiếm đóng chính thức và thực tế, Liên Xô chiếm đóng ở miền Bắc và Đông Bắc Nhật Bản.","Nạn thất nghiệp, thiếu lương thực, thực phẩm.",0.0416666666666666,history,True
+"Chính sách ""Hòa bình và an ninh"" (hay còn gọi là ""Chính sách hòa bình"") với mục tiêu duy trì sự ổn định và an ninh cho Liên Xô, đồng thời ngăn chặn sự bành trướng của các nước khác.",Chỉ làm bạn với các nước xã hội chủ nghĩa.,0.12,history,True
+1995],1990,0.0,history,True
+1914],1914,1.0,history,True
+Châu Phi],Mĩ La-tinh.,0.0,history,True
+7 năm (1985-1992).,4 năm (1985-1989).,0.3333333333333333,history,True
+Một khu vực ổn định và phát triển.],Một khu vực phồn thịnh.,0.4615384615384615,history,True
+Fidél Castró,A-gien-đê,0.0,history,True
+"Đưa vào miền Nam, Campuchia và Lào hàng chục vạn bộ đội, hàng vạn thanh niên xung phong, cán bộ chuyên môn, nhân viên kĩ thuật.","Đưa vào Sài Gòn – Gia Định hàng trục vạn bộ đội, hàng vạn thanh niên xung phong, cán bộ chuyên môn, nhân viên kĩ thuật.",0.7692307692307693,history,True
+An Nam cộng sản Đảng và Đông Dương cộng sản liên đoàn.,Cả ba ý trên đều sai.,0.0,history,True
+"Chủ nghĩa Mác-Lê nin với phong trào dân tộc, dân chủ và phong trào công nhân.",Chủ nghĩa Mác-Lê nin với phong trào công nhân và phong trào nông dân.,0.6666666666666666,history,False
+Quyền tự quyết định vận mệnh của nhân dân Việt Nam],Quyền tổ chức Tổng tuyển cử tự do.,0.2105263157894737,history,True
+Tân Tráng (Cao Bằng).,Ma Cao (Trung Quốc).,0.25,history,True
+Do chính quyền Ngô Đình Diệm suy yếu.],Do nội bộ chính quyền ngụy mâu thuẫn.,0.375,history,True
+"""Dân vận và quân vận""",Bình định mở rộng địa bàn chiếm đóng.,0.0,history,True
+“Độc lập đân tộc” và “Ruộng đất dân cày”],“Tự do dân chủ” và “ Cơm áo hòa bình”.,0.1052631578947368,history,True
+"Mĩ, Anh, Pháp, Trung Quốc.","Liên Xô, Việt Nam, Lào, Cam-pu-chia.",0.0,history,False
+Cố gắng ngăn chặn hoặc phá hoại hiệp định Pari.,Khắc phục hậu quả chiến tranh do Mĩ  gây ra ở miền Nam.,0.0,history,True
+5/6/1911,8/5/1911,0.0,history,True
+Chiến tranh du kích hoặc chiến tranh dân tộc giải phóng],Chiến tranh một phía,0.2666666666666666,history,True
+"Trận đánh tại khu vực Đông Khê và Thất Khê có thể được xem là ác liệt và có ý nghĩa nhất, nhưng nếu phải chọn một trong hai, thì có thể là Thất Khê.",Phục kích đánh địch từ Cao Bằng rút chạy. ,0.0454545454545454,history,True
+"Tăng cường sự hiểu biết và đồng cảm giữa hội viên và quần chúng, giúp họ hiểu rõ hơn về cuộc sống và khó khăn của nhân dân.",Rèn luyện tính kỷ luật cho hội viên.,0.1111111111111111,history,True
+Hồ Chí Minh,Trường Chinh,0.0,history,True
+"Toàn dân, toàn diện, trường kỳ, tự lực cánh sinh, tranh thủ sự ủng hộ của quốc tế.",Kháng chiến toàn diện.,0.1818181818181818,history,True
+1936-1939 (thời kỳ kháng chiến chống thực dân Pháp),1933-1934.,0.0,history,True
+Đem lại độc lập tự do cho dân tộc và cổ vũ cho phong trào cách mạng thế giới.],Lật đổ ngai vàng phong kiến đã ngự trị hàng chục thế kỉ trên đất nước ta.,0.1111111111111111,history,True
+Nguyễn Ái Quốc (Lê Nin)],Lê Hồng Sơn.,0.25,history,True
+"Chiến tranh cục bộ là chiến tranh do nhân dân tự đứng lên, tự chiến đấu, tự giải phóng, tự xây dựng, trong khi chiến tranh đặc biệt là chiến tranh do quân đội và chính quyền Mỹ đứng ra tổ chức, chỉ huy và thực hiện.",Sử dụng quân đội Sài Gòn  và cố vấn Mĩ.,0.1052631578947368,history,True
+Làm nghĩa vụ quốc tế đối với Campuchia.,Làm nghĩa vụ quốc tế đối với Trung Quốc.,0.823529411764706,history,False
+"**Chế độ chiếm hữu nô lệ La Mã chấm dứt, chế độ phong kiến ở Tây Âu bắt đầu.**","Chế độ phong kiến chấm dứt, thời kì tư bản chủ nghĩa bắt đầu ở Tây Âu.",0.3888888888888889,history,False
+"Đường biển và đường bộ (nhờ sự phát triển của kỹ thuật và công nghệ, các nhà phát kiến đã sử dụng cả đường biển và đường bộ để khám phá và chinh phục các vùng đất mới).",Đường sông.,0.05,history,True
+Cuộc đấu tranh của phong trào “Triết học Ánh sáng” của Pháp.,Các cuộc chiến tranh nông dân ở Tây Âu.,0.1904761904761905,history,True
+Nhà Minh.,Nhà Hán.,0.5,history,True
+Năm 322 TCN dưới sự thống nhất của Chandragupta Maurya.,Cuối thế kỉ III TCN.,0.1333333333333333,history,True
+Vương quốc Srivijaya.,Vương quốc Ha-ri-pun-giay-a.,0.6666666666666666,history,False
+Người Lào.,Người Khơ-me.,0.5,history,True
+Thế kỉ VI.],Thế kỉ V.,0.6666666666666666,history,False
+"Ngô Quyền đã tổ chức quân đội và xây dựng nền kinh tế để chuẩn bị cho cuộc chiến chống quân xâm lược, nhưng không phản ánh đúng việc làm của Ngô Quyền để khôi phục nền độc lập dân tộc.]",Bỏ chức tiết độ sứ của phong kiến phương Bắc.,0.0784313725490196,history,True
+Xây dựng và hoàn thiện hệ thống chính quyền phong kiến.,"Đặt tên nước là Đại Cổ Việt, đặt niên hiệu là Thái Bình.",0.0,history,True
+Lý Thôi.,Hoằng Tháo.,0.0,history,True
+Trần.,Trần.,1.0,history,True
+Thái Lan,Ấn Độ và Trung Quốc,0.0,history,False
+"Vương quốc triệu ngà (ngà là một loại ngà voi, nhưng cũng có thể hiểu là ngà của những con voi trong vương quốc).",Niềm vui lớn.,0.0,history,True
+Ấn Độ],Trung Quốc.,0.0,history,False
+"Đúc được những chiếc bình bằng đồng và sắt có độ bền cao, không gỉ]",Chế tạo kim hoàn và các tác phẩm nghệ thuật khắc trên ngà voi.,0.0689655172413793,history,True
+"Nho giáo đã được sử dụng để duy trì và bảo vệ quyền lực của giai cấp phong kiến, đồng thời tạo ra một hệ thống xã hội phân cấp và ổn định.",Mang tính giáo dục cao về rèn luyện phẩm chất con người.,0.0444444444444444,history,True
+"Phong trào Văn hóa Phục hưng đã mang lại những đóng góp quan trọng trong các lĩnh vực như nghệ thuật, triết học, khoa học, và văn học, tạo ra một bước ngoặt trong lịch sử văn hóa châu Âu.]","Mở ra những vùng đất mới, con đường mới và những dân tộc mới.",0.074074074074074,history,True
+"Bồ Đào Nha, Hà Lan","Anh, Pháp",0.0,history,True
+Quý tộc quân sự và tăng lữ.,Nô lệ được giải phóng.,0.0,history,True
+Hội đồng Thê Lâu,Bình Than,0.0,history,True
+"Để ngăn chặn và tiêu diệt viện binh của giặc, bảo vệ thành Đông Quan]",Để chủ động đón đoàn quân địch,0.0909090909090909,history,True
+Ngày 3 tháng 1 năm 1428 (ngày 15 tháng 12 năm 1427 theo lịch âm lịch),Ngày 1 tháng 3 năm 1428,0.3636363636363636,history,True
+"tiến quân ra Bắc và giành nhiều thắng lợi, đồng thời có những chiến công nổi bật như trận Thắng Lợi, trận Vạn Kiếp, trận Thừa Thiên, trận Quảng Bình, trận Quảng Trị, trận Đông Hà, trận Đông Xuân, trận Lệ Thủy, trận Hương Hóa, trận Hương Trà, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương Cảng, trận Hương Sơn, trận Hương Hóa, trận Hương Điền, trận Hương C",mở rộng địa bàn hoạt động vào phía Nam,0.0,history,True
+Kim Liên,Thành Trà Lân,0.0,history,True
+Nguyễn Xí,Trần Nguyên Hãn,0.0,history,True
+"Sự lãnh đạo của Lê Lợi và Nguyễn Trãi, cũng như sự đoàn kết và quyết tâm của nhân dân ta",Nghĩa quân Lam Sơn có tinh thần kĩ thuật cao và chiến đấu dũng cảm,0.0555555555555555,history,True
+Nguyễn Trãi.,Lê Lai.,0.0,history,True
+Tháng 1 năm 1428.,Tháng 10 năm 1426.,0.5,history,False
+Quân Minh nhận thấy chiến dịch xâm lược của họ đã không đạt được mục tiêu và chấp nhận tạm hòa để rút quân về nước và tái tổ chức lực lượng.,quân Minh đang tập trung lực lượng đánh Champa,0.1951219512195122,history,True
+Tháng 9 năm 1427,Tháng 10 năm 1426,0.5,history,True
+Thanh Hóa,Tất cả các vùng trên,0.0,history,True
+1) Xương Giang 2) Đầu hàng không điều kiện,1) Chi Lăng 2) thua đau,0.2666666666666666,history,True
+Quân Minh gặp khó khăn trong nước phải tạm dừng cuộc chiến tranh xâm lược Đại Việt.],"Nhân dân ta có tinh thần yêu nước, ý chí bất khuất, đoàn kết chiến đấu.",0.1212121212121212,history,True
+Nguyễn Hữu Dật,Trần Nguyên Hãn,0.0,history,True
+Ngô Quang,Lý Khánh,0.0,history,True
+Gần 5 vạn],Gần 10 vạn,0.6666666666666666,history,True
+"Là sự kiện đánh dấu sự ra đời và phát triển của nhà Hậu Lê, mở ra một thời kỳ mới trong lịch sử Việt Nam.",Kết thúc chiến tranh và buộc nhà Minh bồi thường chiến tranh cho nước ta.,0.0975609756097561,history,True
+trận Tốt Động – Chúc Động và trận Ngọc Hồi – Đống Đa.,trận Tây Kết và trận Đông Bộ Đầu.,0.2857142857142857,history,True
+"Giản phóng Tân Bình, Thuận Hóa]","tiến quân ra Bắc, mở rộng phạm vi hoạt động",0.0,history,True
+Tiêu diệt tận gốc chủ nghĩa phát xít Đức và quân phiệt Nhật.],Sử dụng bom nguyên tử để tiêu diệt phát xít Nhật.,0.4166666666666666,history,True
+Liên hợp quốc,Hội nghị I-an-ta,0.0,history,True
+"Chậm sửa chữa, thay đổi trước những biến động của tình hình thế giới và hoạt động chống phá của các thế lực chống chủ nghĩa xã hội.]","Do xây dựng mô hình chủ nghĩa xã hội chưa khoa học, chưa nhân văn.",0.2325581395348837,history,True
+"Thực hiện chiến tranh lạnh bằng nhiều phương thức khác nhau, bao gồm cả chiến tranh kinh tế, chiến tranh thông tin, chiến tranh tâm lý và các hình thức chiến tranh khác.",Lôi kéo các nước đồng minh chống lại Liên Xô.,0.0465116279069767,history,True
+1964,1973,0.0,history,True
+Tháng 9 - 1948.,Tháng 10 - 1945.,0.3333333333333333,history,False
+Tại Băng Cốc (Thái Lan).,Tại Oa-sinh-tơn (Mĩ).,0.25,history,True
+Xây dựng và phát triển nền kinh tế thị trường,Nhiều nước có tốc độ phát triển khá nhanh,0.2105263157894737,history,True
+Khu vực Bắc Phi.,Khu vực Tây Phi.,0.75,history,False
+Đế quốc Đức,Đế quốc Nhật,0.6666666666666666,history,False
+Mỹ,Nhật,0.0,history,True
+Mĩ],Anh,0.0,history,True
+một trong ba trung tâm công nghiệp - quốc phòng lớn của thế giới.,"khối kinh tế tư bản, đứng thứ hai thế giới",0.1739130434782608,history,True
+12,2,0.0,history,True
+"Tài nguyên khoáng sản không nhiều, nợ nước ngoài do bồi thường chi phí chiến tranh.]","Nhật nằm trong vùng thường xảy ra thiên tai, động đất, sóng thần.",0.0689655172413793,history,True
+Mĩ và Liên Xô],Anh,0.0,history,True
+"Xây dựng và bảo vệ hệ thống chủ nghĩa tư bản toàn cầu, ngăn chặn sự lan rộng của chủ nghĩa xã hội và bảo vệ lợi ích của Mĩ trên toàn thế giới.",Tiêu diệt phong trào công nhân ở các nước tư bản chủ nghĩa.,0.1702127659574468,history,True
+"Ngày 3 tháng 10 năm 1990, khi Đức thống nhất, hoặc ngày 9 tháng 11 năm 1989, khi Berlin Thứ Bảy xảy ra, hoặc ngày 26 tháng 9 năm 1989, khi Liên Xô bãi bỏ quy định cấm người dân Đông Âu rời khỏi nước họ.",Tháng 12/1991.,0.0416666666666666,history,True
+Máy tính điều khiển tự động (PLC).,Hệ thống máy tự động.,0.5,history,False
+Bắt đầu cuộc nội chiến Trung Quốc giữa Đảng Cộng sản Trung Quốc và Quốc dân Đảng Trung Quốc.,"Trung Quốc thực hiện đường lối ""ba ngọn cờ hồng"".",0.1379310344827586,history,True
+Đảng Bolshevik (còn được gọi là Đảng Công nhân xã hội dân chủ Nga).,Đảng Công nhân xã hội dân chủ Pháp.,0.6363636363636364,history,True
+Giai cấp tư sản dân tộc do yếu kém về kinh tế nên ươn hèn về chính trị; tầng lớp tiểu tư sản do điều kiện kinh tế bấp bênh nên không thể lãnh đạo phong trào cách mạng.],"Hệ tư tưởng dân chủ tư sản đã trở nên lỗi thời, lạc hậu.",0.1886792452830188,history,True
+"Sự ra đời của Đảng Cộng sản Việt Nam là do tác động của các yếu tố trong nước và quốc tế, nhưng không phải là sự ra đời của Đảng Cộng sản Việt Nam là do tác động của sự phát triển của phong trào yêu nước Việt Nam.",Sự phát triển tự giác phong trào công nhân Việt Nam.,0.2295081967213114,history,False
+Đế quốc Pháp còn mạnh.],Giai cấp tư sản dân tộc lãnh đạo.,0.0,history,True
+Đánh giá đúng khả năng cách mạng của các giai cấp trong xã hội Việt Nam.],Nêu cao vấn đề dân tộc lên hàng đâu.,0.0,history,True
+Tháng 2 - 1930],Tháng 5 - 1930.,0.6666666666666666,history,False
+Thành lập Mặt trận dân tộc thống nhất chống phát xít ở các nước.,Thành lập Đảng Cộng sản ở mỗi nước.,0.3636363636363636,history,True
+"Bị ảnh hưởng bởi cuộc khủng hoảng kinh tế thế giới, dẫn đến suy thoái kinh tế, giảm doanh thu và thu nhập.","Chịu cảnh tô cao, thuế nặng, đời sổng hết sức bấp bênh.",0.0,history,True
+"Ba sự kiện này đều thể hiện tinh thần yêu nước, quyết tâm đấu tranh chống lại kẻ thù xâm lược và bảo vệ độc lập, tự do của dân tộc Việt Nam.",Mở ra một thời kì đấu tranh mới.,0.0975609756097561,history,True
+Mặt trận Việt Minh.,Mặt trận dân chủ Đông Dương.,0.4,history,False
+Vì chiến lược đánh Pháp không mang lại kết quả như mong đợi và chuyển sang chiến lược hoà hoãn nhân nhượng Pháp để tìm kiếm sự hợp tác và hỗ trợ từ Pháp.,Vì ta tránh tình trạng một lúc đối phó với nhiều kẻ thù.,0.0425531914893617,history,True
+Trần Huy Liệu.,Phạm Văn Đồng.,0.0,history,True
+Tháng 9/1950.,Tháng 9/1949.  ,0.5,history,True
+"Sự kết hợp hoàn hảo giữa chiến lược và chiến thuật của quân đội ta, cũng như sự hỗ trợ của dân chúng địa phương.",Do sự giúp đỡ nhiệt tình của các nước xã hội chủ nghĩa trên thế giới.,0.097560975609756,history,True
+Để đáp trả và ngăn chặn sự xâm nhập của quân đội Trung Quốc vào miền Bắc Việt Nam.,Để đánh bại kế hoạch Rơ-ve.,0.08,history,True
+"Phát động phong trào ""Mỗi gia đình một kế hoạch, mỗi người một nhiệm vụ"" để xây dựng nông thôn mới.","Cuộc vận động lao động sản xuất, thực hành tiết kiệm.",0.0625,history,True
+"Đánh vào những nơi ta cho là chắc thắng, tiêu diệt một bộ phận sinh lực địch buộc chúng phân tán lực lượng]","Tiêu diệt một bộ phận sinh lực địch, phân tán lực lượng địch.",0.6666666666666667,history,False
+Ngày 8 - 3 - 1954.],Ngày 26 – 4 - 1954. ,0.4444444444444445,history,True
+"Thực hiện chính sách ""Diệt cộng"" và ""Tố cộng"", bao gồm việc thi hành ""Luật 10-59"" và các biện pháp đàn áp đối với người dân miền Nam.",Gạt hết quân Pháp để độc chiếm miền Nam.,0.1621621621621621,history,True
+Cải tạo ruộng đất.,Khôi phục kinh tế. ,0.0,history,True
+hiện thực lịch sử,nhận thức lịch sử,0.5,history,True
+"quá khứ của loài người, tập trung vào các sự kiện, phong tục, tập quán, truyền thống, văn hóa và lịch sử của con người.",các hành tinh trong hệ Mặt Trời,0.0625,history,True
+"nghiên cứu và phân tích những sự kiện, phong tục, tập quán, truyền thống và văn hóa của các dân tộc trong quá khứ",những gì đang diễn ra ở hiện tại,0.0625,history,True
+"khoa học nghiên cứu về quá khứ của loài người và các sự kiện, phong tục, tập quán, văn hóa, kinh tế, chính trị, xã hội của loài người",tất cả những gì đã và đang diễn ra ở hiện tại,0.048780487804878,history,True
+Là những dự đoán về tương lai.,Là một khoa học nghiên cứu về quá khứ của con người,0.2105263157894737,history,True
+"quá trình thu thập, tìm kiếm, sưu tầm và tập hợp những tài liệu, thông tin liên quan đến đối tượng nghiên cứu, tìm hiểu lịch sử.",công đoạn cuối cùng của nghiên cứu lịch sử,0.2222222222222222,history,True
+"Học tập, khám phá lịch sử giúp chúng ta hiểu rõ hơn về quá khứ, nhận ra giá trị và bài học từ những sự kiện lịch sử, từ đó có thể áp dụng vào cuộc sống hiện tại và tương lai.]","Hiểu được kinh nghiệm, rút ra bài học có giá trị lịch sử từ các nước khác, tránh được sai lầm",0.2222222222222222,history,True
+Những thông tin về quá khứ của chính con người và xã hội loài người,"Hiểu biết về quá khứ, hiện tại và tương lai",0.32,history,True
+"Giúp con người hiểu biết và học hỏi từ những bài học của quá khứ, từ đó có thể đưa ra quyết định sáng suốt và xây dựng tương lai tốt đẹp hơn.",Cho biết về quá trình sinh trưởng và phát triển của các loài sinh vật,0.125,history,True
+hiểu được những bài học quý giá từ quá khứ để ứng dụng vào hiện tại và tương lai.,sáng tạo và làm phong phú thêm hiện thực lịch sử,0.0666666666666666,history,True
+"Sử học là một phần của các ngành khoa học xã hội và nhân văn, và ngược lại, các ngành khoa học xã hội và nhân văn cũng thường xuyên sử dụng và áp dụng các kết quả của Sử học để làm giàu thêm cho các ngành khoa học xã hội và nhân văn.","Quan hệ một chiều, không tác động qua lại",0.0625,history,True
+4 chiều,4 chiều,1.0,history,False
+Để có thể giải thích và hiểu được các hiện tượng lịch sử phức tạp và đa dạng,Để lịch sử thú vị hơn,0.25,history,True
+"Tìm hiểu, phân tích và đánh giá vai trò của các ngành khoa học trong quá trình phát triển xã hội.",Tạo nên sự chuyển biến cho từng ngành để cùng hội nhập quốc tế,0.1142857142857142,history,True
+"Tâm lí học, Ngôn ngữ học, Nhân học, Khoa học chính trị]","Triết học, Địa lí nhân văn, Văn hoá học, Công tác xã hội",0.24,history,True
+sản phẩm nghệ thuật và văn hóa.,phương pháp trình bày lịch sử,0.0,history,True
+"Đảm bảo tính nguyên trạng, ""Yếu tố gốc cấu thành di tích"", ""tính xác thực"", ""tính toàn vẹn"", ""giá trị nổi bật""","Đảm bảo tính nguyên trạng, ""giá trị nổi bật"", mà di tích lịch sử-văn hóa vốn có",0.4615384615384615,history,True
+Tăng cường nhận thức và tham gia của cộng đồng trong bảo tồn di sản,Tu bổ và phục hồi di sản thường xuyên,0.25,history,True
+Phát triển du lịch văn hóa hoặc sản xuất các sản phẩm lưu niệm có liên quan đến lịch sử],Xuất bản,0.0909090909090909,history,True
+"tạo ra nguồn thu nhập cho các địa điểm di tích lịch sử và di sản văn hóa, từ đó khuyến khích việc bảo tồn và bảo vệ chúng.",giúp con người hưởng thụ giá trị của di sản thiên nhiên và di sản văn hóa,0.2608695652173913,history,True
+Văn minh là tổng thể những giá trị vật chất và tinh thần gắn liền với lịch sử loài người],Văn minh là tổng thể những giá trị vật chất và tinh thần do con người sáng tạo ra trong quá trình lịch sử,0.6818181818181818,history,False
+"Văn minh là tổng thể các giá trị, kiến thức, kỹ năng, nghệ thuật, tín ngưỡng, phong tục, tập quán và các sản phẩm vật chất của con người trong một thời kỳ lịch sử nhất định",Văn minh là sự tiến bộ về vật chất của xã hội loài người,0.2745098039215686,history,False
+Hy Lạp và Ai Cập,La Mã và A-rập,0.2222222222222222,history,True
+sản xuất nông nghiệp và chăn nuôi],sản xuất thủ công nghiệp,0.5,history,True
+Văn hóa,Văn tự,0.5,history,True
+Năm 3200 TCN],Năm 3000 TCN,0.6666666666666666,history,False
+"Đất Cổ, Mesopotamia (nơi lưu vực sông Tigris và Euphrate)]",Ấn Độ,0.0,history,True
+Người Hung Nô,Người Choang,0.4,history,True
+Có sự phát triển và đa dạng hóa của các tôn giáo và tín ngưỡng,"sự phân biệt về sắc tộc, chủng tộc rất sâu sắc",0.0769230769230769,history,True
+Phật giáo,Phật giáo,1.0,history,True
+Chữ Hy Lạp (do người La Mã chịu ảnh hưởng từ văn hóa Hy Lạp),Chữ Phạn,0.1176470588235294,history,True
+"Là nền tảng của những thành tựu khoa học, kĩ thuật phương Tây cổ đại",Đưa loài người bước vào kỉ nguyên công nghiệp hóa và hiện đại hóa,0.0689655172413793,history,True
+Giáo hội Công giáo La Mã],Phật giáo,0.25,history,True
+I-ta-li-a,Pháp,0.0,history,True
+Đéc-kê Sếch-xpia,Đan-tê A-li-ghê-ri,0.0,history,True
+Nước Anh không có Cách mạng tư sản sớm và thành công như các nước khác ở châu Âu.,Có nguồn tích lũy vốn và nhân công lớn,0.2142857142857142,history,True
+Tạo ra cơ hội để công nghiệp hóa và hiện đại hóa các ngành sản xuất.,Làm thay đổi bộ mặt xã hội của nước Anh,0.0769230769230769,history,True
+Những phát minh trong ngành công nghiệp hóa chất và luyện kim,"Những phát minh trong ngành công nghiệp nặng, chủ yếu là luyện kim và hoá chất",0.6428571428571429,history,False
+"Giêm Lợi (Giêm Lợi là tên con gái của Giêm Oát, người sáng chế ra máy kéo sợi)",Xli-phen-xơn,0.0,history,True
+“Công xưởng của thế giới”,“Nước công nghiệp hiện đại”,0.0,history,True
+Đông Nam Á lục địa và Đông Nam Á hải đảo,Đông Nam Á đất liền và Đông Nam Á ven biển,0.6363636363636364,history,False
+11 quốc gia],10 quốc gia,0.6666666666666666,history,False
+Từ thiên niên kỉ III TCN đến thế kỉ I Công nguyên,Từ thế kỉ VII đến thế kỉ XV,0.5,history,False
+"Chữ Chữ Quốc Ngữ (chữ Hán được thay thế bằng chữ Latinh, nhưng vẫn dựa trên cơ sở chữ Hán)",Chữ Miến cổ,0.0869565217391304,history,True
+nông nghiệp lúa nước và thủ công nghiệp,thương nghiệp đường bộ,0.1666666666666666,history,True
+Cuối thế kỉ XX và đầu thế kỉ XXI,Nửa đầu thế kỉ XX,0.4285714285714285,history,False
+Từ những năm cuối thế kỉ XX,Từ những năm đầu thế kỉ XX,0.8571428571428571,history,False
+Mĩ,Pháp,0.0,history,True
+Thuyết lượng tử,Thuyết di truyền,0.3333333333333333,history,True
+"Giúp việc kết nối, chia sẻ thông tin trở nên dễ dàng, hiệu quả và toàn cầu",Đảm bảo sự an toàn tuyệt đối trong việc lưu trữ thông tin,0.2,history,True
+Cận nhiệt gió mùa],Hàn đới,0.0,history,True
+Tín ngưỡng Kitô giáo,Tín ngưỡng thờ cúng tổ tiên,0.4,history,False
+Trung Quốc và Ấn Độ,Ba Tư và Ấn Độ,0.6,history,True
+Con đường giao lưu văn hóa và thương mại,Con đường bành trướng xâm lược,0.2666666666666666,history,True
+phát triển mạnh mẽ của văn minh Đông Nam Á],hình thành nền văn minh Đông Nam Á,0.5555555555555556,history,False
+Có nhiều nguồn nước và đất đai phù hợp cho sản xuất nông nghiệp,Có hệ thống sông ngòi dày đặc,0.0952380952380952,history,True
+lúa gạo],cá,0.0,history,True
+Văn hóa Đông Sơn,Văn hóa Óc Eo,0.5,history,True
+chăn nuôi và nông nghiệp,chăn nuôi gia súc lớn,0.4000000000000001,history,True
+Hùng Vương,lạc tướng,0.0,history,True
+Văn minh Ấn Độ và Trung Quốc,Văn minh Ai Cập,0.3636363636363636,history,True
+Sambhuvarman,Tượng Lâm,0.0,history,True
+"Chữ Bát-đinh (chữ Bát-đinh là hệ thống chữ viết của người Chăm, được sử dụng để viết tiếng Chăm cổ)",Chữ La-tinh,0.0909090909090909,history,True
+"thờ thần núi, thần sông, thần rừng, thần gió, thần lửa",thờ Thành Hoàng,0.1428571428571428,history,True
+Tháp Po Nagar (Khánh Hòa),Tháp Cánh Tiên (Bình Định),0.2,history,True
+"sự kế thừa và phát triển những thành tựu của văn minh Văn Lang - Âu Lạc và sự tiếp thu, thích nghi những thành tựu của các nền văn minh khác]",quá trình áp đặt về kinh tế lên các quốc gia láng giềng,0.0454545454545454,history,True
+"Các triều đại phong kiến Việt Nam khuyến khích và hỗ trợ phát triển nông nghiệp, chứ không xóa bỏ chế độ tư hữu ruộng đất]",Chú trọng khai hoang mở rộng diện tích canh tác,0.0,history,True
+Hội An,Hội An,1.0,history,True
+"Quân chủ absolut (quân chủ chuyên chế là một trong các thể chế quân chủ, nhưng ở Việt Nam, các triều đại phong kiến thường được gọi là quân chủ absolut vì tính chất chuyên chế và không có sự hạn chế nào đối với quyền lực của vua)",Dân chủ đại nghị,0.0754716981132075,history,False
+Hồng Đức (triều đại Lê trung hưng),Trần,0.0,history,True
+Nhà Hồ,Nhà Nguyễn,0.5,history,True
+Chữ Nôm,Chữ Quốc ngữ,0.4,history,True
+Văn học hiện đại (vì hiện đại là thể loại văn học xuất hiện sau thế kỷ XV),Văn học chữ Nôm,0.1818181818181818,history,True
+Quốc sử quán,Nội mệnh phủ,0.0,history,True
+Lương Thế Vinh,Phan Huy Chú,0.0,history,True
+Dân tộc - dân cư và dân tộc - dân tộc bản địa,Dân tộc miền núi và dân tộc đồng bằng,0.5,history,False
+"Ba nhóm (Kinh, dân tộc thiểu số và dân tộc chưa xác định)",Ba nhóm,0.2666666666666667,history,False
+54 dân tộc],50 dân tộc,0.6666666666666666,history,False
+"Năm (ngũ ngữ hệ Việt Nam bao gồm: ngữ hệ Nam Á, ngữ hệ Hán-Tạng, ngữ hệ Tai-Kadai, ngữ hệ Austronesia và ngữ hệ Hmong-Mien)",Sáu,0.0,history,False
+Bảy,Sáu,0.0,history,False
+Làm các đồ thủ công],Nặn những con giống bằng đất màu.,0.0,literature,True
+"Pho tượng sống động đến lạ lùng, giống như một người sống vậy.",Pho tượng sống động đến lạ lùng giống như một người sống vậy.,1.0,literature,True
+Là một người say mê nghệ thuật có tính kiên nhẫn và sáng tạo.,Là một người yêu thích sự hoàn hảo.,0.2727272727272727,literature,True
+Bà cụ cho rằng những đốm tàn nhang của cậu bé là đẹp và đáng yêu.,Những đốm tàn nhang nhỏ đã tạo nên nét đẹp riêng của cậu bé.,0.4666666666666667,literature,False
+Khuân mặt của cậu bé có rất nhiều mụn,Khuân mặt rất trắng.,0.4615384615384615,literature,True
+"Cậu bé nhận ra rằng những nếp nhăn trên mặt bà là đẹp và có giá trị, thay vì chỉ nhìn vào những đốm tàn nhang trên mặt mình.]",Hãy luôn nói những lời tốt đẹp để an ủi người khác,0.0975609756097561,literature,True
+"Đó là mùa của những cánh diều no gió, của những tâm hồn khát vọng tuổi thơ.]",Đó là mùa với những kỉ niệm chơi đùa cũng các bạn trên cánh đồng lộng gió,0.3529411764705882,literature,True
+Gợi cho tác giả nhớ về những kí ức và niềm yêu thích của tuổi thơ,Gợi cho tác giả nhớ về những buổi trưa hè oi ả,0.5,literature,False
+Những kí ức tuổi thơ và cảm xúc sâu sắc mà tiếng sáo diều mang lại cho tác giả.,Tiếng sao diều chính là tiếng gọi của mùa hè.,0.1379310344827586,literature,False
+4],2,0.0,literature,False
+Giữ những phẩm chất đẹp đẽ của tiếng Việt nhưng cũng cần vay mượn để làm tăng lên từ vựng và phong phú trong ngữ pháp của tiếng Việt.],"Là không pha tạp những yếu tố lai căng, pha tạp trong khi vẫn dung nạp những yếu tố tích cực ",0.08,literature,True
+Nguyễn Văn Linh,Hồ Chí Minh,0.0,literature,False
+"Giới thiệu, đánh giá và nhìn nhận tài năng nghệ thuật xuất chúng của tác giả Nguyễn Đình Chiểu]","Liệt kê những tác phẩm nổi tiếng, có giá trị của Nguyễn Đình Chiểu để lại trong kho tàng văn học Việt Nam.",0.238095238095238,literature,True
+"Mỗi câu văn là một đơn vị cung cấp thông tin, thông tin chính xác, có nguồn gốc dựa trên những chứng cứ khoa học","Câu đầu nêu luận điểm khái quát, các câu sau nêu luận cứ đều là các tư liệu thực tế.",0.0888888888888888,literature,True
+Sự kì thị và và phân biệt đối xử với người HIV/AIDS sẽ khiến các mục tiêu phòng chống căn bệnh này còn rất lâu mới có thể hoàn thành],Sự kì thị và và phân biệt đối xử với người HIV/AIDS đã bị xóa bỏ,0.5217391304347827,literature,False
+"Tác giả đã thể hiện sự đồng cảm, ủng hộ và ca ngợi tinh thần yêu nước, sự hy sinh của lính Tây Tiến.",Quang Dũng đã làm đại đội trưởng ở đơn vị Tây Tiến rồi chuyển sang đơn vị khác.,0.1428571428571428,literature,True
+Sự trở về với cuộc sống bình thường sau khi hoàn thành nhiệm vụ.,Sự hi sinh của người lính là hóa thân vào non sông đất nước.,0.0714285714285714,literature,True
+Nhớ quê hương,Nhớ bạn bè,0.3333333333333333,literature,True
+Người đàn ông đang nhổ sắn.,Con người trên đèo cao với dao cài thắt lưng,0.125,literature,True
+"Nguyễn Đình Thi là nhà thơ trưởng thành trong kháng chiến chống Pháp, không phải chống Mỹ.]",Ông sinh năm 1924,0.0,literature,True
+Thơ ông không có những thay đổi rõ rệt sau Cách mạng.,"Phong cách thơ Chế Lan Viên rất rõ nét và độc đáo, nổi bật nhất là ""chất suy tưởng triết lí mang vẻ đẹp trí tuệ và sự đa dạng, phong phú của hình ảnh thơ được sáng tạo bởi một ngòi bút thông minh, tài hoa.",0.0677966101694915,literature,True
+"Không có sự kết hợp hài hòa giữa cái duyên dáng, trữ tình với chất thế sự đậm đặc.",Trầm tĩnh và giàu chiêm nghiệm,0.0,literature,True
+"Ước muốn để trở thành một phần của thiên nhiên vĩ đại, trường tồn với thời gian và không gian.","Ước muốn viễn vông, phi thực tế.",0.1481481481481481,literature,True
+"Nói giảm, nói tránh]",Nói quá.,0.3333333333333333,literature,True
+Các cánh rừng hai bên bờ sông.],Các mỏ quặng dưới lòng đất.,0.1538461538461538,literature,True
+Nguyễn Trọng Tráng],Tố Hữu,0.0,literature,True
+"Văn bản kể lại lịch sử hình thành tên gọi của dòng sông Hương, từ khi được đặt tên bởi người xưa cho đến khi được sử dụng trong thi ca và văn học.","Văn bản miêu tả dòng sông Hương ở hai trạng thái cơ bản: mãnh liệt, dữ dội đầy sức mạnh ở thượng lưu và êm đềm, dịu dàng, trầm mặc khi xuôi về đồng bằng và nhất là khi vào thành phố Huế.",0.1818181818181818,literature,True
+"Tính dán tộc được thể hiện qua việc sử dụng ngôn ngữ, hình ảnh, cảm xúc và suy nghĩ của người dân tộc Tày, thể hiện sự gắn kết và thống nhất của cộng đồng.",Sử dụng sáng tạo đại từ Ta - Mình đưa người đọc vào không gian cùa kỉ niệm ân tình.,0.1111111111111111,literature,True
+"Thanh sắc, thanh hỏi, thanh ngã, thanh nặng","Thanh ngã, thanh hỏi, thanh ngang, thanh huyền",0.625,literature,True
+Hình ảnh A Sử đi chơi.],Bát rượu ngày xuân mà Mị uống.,0.0,literature,True
+Bị chia cắt với người thân yêu và phải sống xa gia đình.,"Bị hành hạ, đày đoạ, vùi dập tàn bạo.",0.0909090909090909,literature,True
+"Phong cách nghệ thuật của Tô Hoài mang đậm dấu ấn của chủ nghĩa hiện thực, với sự thể hiện chân thực và sâu sắc về cuộc sống và con người.",Văn phong vừa đậm chất trí tuệ vừa hiện đại,0.1463414634146341,literature,True
+đám người đói và lá cờ đỏ bay phấp phới vẫn ám ảnh trong óc Tràng.,"bữa cháo cám chát đắng, nghẹn ứ trong cổ và nỗi tủi hờn hiện ra trên nét mặt mọi người.",0.0555555555555555,literature,True
+1965],1960,0.0,literature,True
+"Tnú đã từng là một người mạnh mẽ, thông minh và có tài, nhưng đã bị những khó khăn và thử thách đẩy đến bờ vực của sự tuyệt vọng và đau thương.]",Cha mẹ chết sớm.,0.0,literature,True
+"bật khóc và nói ""Thằng con tôi đã chết rồi, tại sao chánh án Đẩu nhắc tới?""",phản ứng mạnh mẽ với vị chánh án.,0.1599999999999999,literature,True
+"Xin quý tòa xét xử công bằng, cho lão chồng độc ác vào tù.]",Xin tha tội cho người chồng vũ phu.,0.2727272727272727,literature,True
+Nghĩa tường minh là phần thông tin chính được diễn đạt trực tiếp bằng từ ngữ trong câu.,Nghĩa tường minh là phần thông báo được diễn đạt trực tiếp bằng lời nói trong câu.,0.7999999999999999,literature,False
+Hàm ý là phần của nội dung được diễn đạt trực tiếp bằng từ ngữ trong câu.,Hàm ý là phần thông báo tuy không được diễn đạt trực tiếp bằng từ ngữ trong câu nhưng có thể suy ra từ những từ ngữ ấy.,0.6222222222222222,literature,False
+"Lỗ Tấn nhận ra rằng viết văn có thể giúp ông thể hiện ý kiến và quan điểm của mình, cũng như mang lại một hình thức tự do và sáng tạo mà các nghề khác không thể cung cấp.]",Vì muốn nhanh chóng có tên tuổi.,0.0425531914893617,literature,True
+"Khát vọng sống đẹp, khát vọng tự giải phóng cho tâm hồn thanh cao của Hồn Trương Ba. Đó là khát vọng tự hoàn thiện nhân cách]",Người và thần tiên luôn luôn bất đồng quan điểm sống,0.0526315789473684,literature,True
+"Người hiếu thuận, biết ơn cha mẹ.","Người nông dân thiển cận, ít suy nghĩ.",0.1333333333333333,literature,True
+"Phát biểu tự do là trình bày bằng miệng về một chủ đề mà người phát biểu tự chọn, không có nội dung đã chuẩn bị trước và không báo trước hướng vào một đề tài cụ thể nào.",Tất cả các ý kiến trên.,0.0,literature,True
+1925,1965,0.0,literature,True
+Xô-cô-lốp đã mất đi niềm vui sướng và niềm hi vọng cuối cùng khi vợ và hai con gái bị giết hại và sau đó là cái chết của con trai A-na-tô-ni trong ngày Chiến thắng],"Để chiến thắng phát xít Đức, 25 triệu người Xô-viết, non một phần mười dân số thời đó đã hi sinh. Chỉ khoảng ba phần trăm thanh niên từ măt trận trở về. Vì độc lập dân tộc và sự sống còn của nhân dân, Xô-cô-lốp đã-chịu đựng những mất mát ghê gớm.",0.0898876404494382,literature,True
+Báo cáo tình hình sản xuất hàng tháng,Tường trình ,0.0,literature,True
+Quan hệ giữa những người có địa vị khác nhau với nhau về địa vị xã hội,Quan hệ giữa người có địa vị thấp với người có địa vị cao.,0.6451612903225806,literature,True
+Người vợ.,Nghệ sĩ Phùng.,0.0,literature,True
+Mị phải sống kiếp tù nhân và mất dần ý thức của con người.],Qua không gian sống để tô đậm nỗi khổ của nhân vật.,0.1538461538461538,literature,True
+Hồ Chí Minh,Nguyễn Thị Minh Khai,0.2857142857142857,literature,True
+"Các bạn học sinh vui sướng, hớn hở, tự hào vì được học tập trong ngôi trường mới của đất nước độc lập","cảnh tượng nhốn nháo, lạc quan, các bạn học sinh òa khóc trong vòng tay thầy cô, bè bạn",0.238095238095238,literature,True
+Đại học Quốc gia Hà Nội,Đại học Hà Nội,0.8,literature,False
+"Quốc gia (cả A và D đều có nghĩa tương tự như vậy, nhưng câu trả lời phù hợp nhất là A. Quốc gia)",Quốc Nghiệp,0.0769230769230769,literature,True
+chiến tranh,thanh bình,0.0,literature,True
+giữ gìn,hòa bình,0.0,literature,True
+cánh đồng,nghìn đồng,0.5,literature,False
+"Họ bị áp bức, bóc lột, không được hưởng quyền và lợi ích như công dân da trắng.]",Người da đen bị đối xử vô cùng thậm tệ.,0.0714285714285714,literature,True
+"Lưỡi là bộ phận cơ thể giúp chúng ta nói và nuốt thức ăn, nên câu này là câu dùng từ lưỡi với nghĩa gốc.",Lưỡi rìu vung lên chỉ ba nhát là cái cây đã đổ ầm xuống đất,0.1,literature,True
+"Quý nhất là trí tuệ vì theo Qúy trí tuệ là thứ quý giá nhất, nó giúp con người hiểu biết, sáng tạo và giải quyết vấn đề.",quý nhất là sức khỏe vì theo Qúy chỉ cần khỏe mạnh thì có thể làm ra được mọi thứ,0.2916666666666667,literature,True
+"Quý nhất là thì giờ, vì theo Nam thì giờ là thứ có thể giúp con người thực hiện được những việc quan trọng và đáng nhớ, tạo ra giá trị và ý nghĩa trong cuộc sống.","Quý nhất là thì giờ, vì theo Nam thì giờ là thứ tôn tại bất biến, không bao giờ biến mất, ai cũng phải trân trọng.",0.4126984126984127,literature,True
+tình yêu,vàng,0.0,literature,False
+"và ở chân trời, sau rặng tre đen của",ở..... của..... mà,0.3333333333333333,literature,True
+trong,ở,0.0,literature,True
+mặc dù],nên,0.0,literature,True
+Tả ngoại hình và tính cách của người],Kể lại diễn biến câu chuyện,0.0,literature,True
+vất vả,nắm,0.0,literature,True
+bay,lơn,0.0,literature,True
+"tặng cho người cha của mình, vì trong Kinh Thánh, người cha của Gioan đã không có trong cuộc đời của cô bé, nhưng người cha đã được nhắc đến trong câu chuyện về Gioan là người cha hiền lành và yêu thương.",tặng cho người cô họ đang nằm điều trị bệnh trong bệnh viện,0.1785714285714285,literature,True
+"Cày đồng đang buổi ban trưa, Mồ hôi thánh thót như mưa ruộng cày.]","Người ta đi cấy lấy công,/ Tôi nay đi cấy còn trông nhiều bẽ.",0.0,literature,True
+Tôi chảy trong mình dòng máu đỏ da vàng,"Anh hỏi thật lạ, tôi là người Việt Nam",0.1111111111111111,literature,True
+Rút về ngay Hà Nội để chuẩn bị cho việc di chuyển thủ đô.,Một số cá nhân được cử làm giáo viên cho lớp học xóa mù chữ.,0.0689655172413793,literature,True
+"Các đại biểu đứng dậy, chào Bác Hồ theo nghi thức",Các đại biểu vẫn còn bàn tán sôi nổi không hề biết đến sự xuất hiện của Bác,0.2758620689655172,literature,True
+người anh thì lười biếng lại tham lam,có một người anh,0.3333333333333333,literature,True
+"Chức quan cao cấp, thường là người có uy tín và kinh nghiệm, đứng đầu triều đình, tham gia quyết định các vấn đề quan trọng của quốc gia.",Một chức quan nhỏ trong huyện,0.1142857142857143,literature,True
+Nhà Lý,Nhà Nguyễn,0.5,literature,True
+Muốn tiến cử cháu gái làm phi tần trong cung,Muốn xin một mảnh đất trong ngự hoa viên để trồng hoa,0.1818181818181818,literature,True
+Ông là một nhà tri thức nổi tiếng nhưng được nhiều người kính phục,Là một nhà tư sản lớn ở Hà Nội,0.2608695652173913,literature,True
+Vì không thuộc bài nên,Nếu ...... thì,0.0,literature,True
+"Tìm hiểu và thu thập thông tin về phong tục, tập quán và đời sống của nhân dân để làm tư liệu cho việc xây dựng và hoàn thiện bộ luật.",Đấu trí với sứ thần nhà Trung Quốc đang có mặt ở nước ta,0.0,literature,True
+Thám hoa],Tiến sĩ,0.0,literature,True
+Tên,Tên,1.0,literature,False
+"Vùng biển có nhiều tôm cá, thuận tiện cho việc đánh bắt và khai thác.",Không phải ba đáp án trên,0.0,literature,True
+"Năm nhân vật: Nhụ, bố của Nhụ, mẹ của Nhụ, ông của Nhụ và cô của Nhụ","Năm nhân vật: Nhụ, bố mẹ Nhụ, ông của Nhụ và anh của Nhụ",0.8387096774193549,literature,False
+Bàn chuyện chuyển nhà lên núi],Bàn chuyện lấy vợ cho người anh trai của Nhụ,0.25,literature,True
+Lời nói dễ vỡ,Nhường cơm sẻ áo,0.0,literature,True
+Thanh ray],Thanh chắn,0.5,literature,True
+Cậu là Hoa có phải không?,Cậu là Hoa có phải không.,1.0,literature,False
+Dầu khí,Dầu khí,1.0,literature,False
+Vai trò,Trách nhiệm,0.0,literature,True
+"Triều Lê, Trịnh, Mạc","Triều Lê, Trịnh, Tây Sơn",0.6666666666666665,literature,False
+Kêu gọi những người có tài năng và lòng hiếu nghĩa ra giúp đỡ triều đình Tây Sơn,Kêu gọi những người giỏi võ ra giúp nước,0.4444444444444444,literature,True
+Khi Trịnh Sâm bị lật đổ và Nguyễn Huệ lên ngôi vua,Khi triều đại Tây Sơn sụp đổ,0.2105263157894737,literature,True
+Người ra làm quan thì giữ mình không dám nói thẳng,Nhiều người có tài năng còn chưa chịu ra giúp nước,0.1818181818181818,literature,True
+Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên tri thức Bắc Hà tham gia chống lại quân Thanh và bảo vệ đất nước.,Tác phẩm là một văn kiện quan trọng thể hiện chủ trương đúng đắn của Nguyễn Huệ nhằm động viên quân Bắc Hà đi thi ra làm quan,0.6984126984126985,literature,False
+Sự hình thành và phát triển của phong trào Thơ mới,Chủ nghĩa hiện thực Việt Nam.,0.0,literature,True
+Nguyễn Trãi,Ngô Thì Sĩ,0.0,literature,True
+"Sinh năm 1909, mất năm 1982.]","Sinh năm 1915, mất năm 1951.",0.6666666666666666,literature,False
+Nguyễn Trãi,Lưu Trọng Lư,0.0,literature,True
+Tố Hữu,Hàn Mặc Tử,0.0,literature,False
+"Tại đài tưởng niệm Lin-cơn ngày 28/8/1963 (đúng là ngày 28/8/1963, nhưng không phải là ngày 29/8/1963)",Tại đài tưởng niệm Lin-cơn ngày 28/8/1964,0.5,literature,False
+Tố Hữu,Tố Hữu,1.0,literature,True
+Tố Hữu,Lưu Trọng Lư,0.0,literature,True
+Tố Hữu,Hàn Mặc Tử,0.0,literature,True
+"Người có tài và đức, nhưng đặc biệt nhấn mạnh vào đức hạnh]",Người ăn ở hiền lành,0.1111111111111111,literature,True
+Nguyễn Tuân,Vic-to Huy-gô,0.0,literature,True
+"Người hiền hiếm có như sao trên trời, đề cao vị trí, vai trò của người hiền tài.",Người hiền theo Quang Trung rất nhiều như sao trời,0.3571428571428571,literature,True
+"Bước đến tự do, Câu chuyện Mon-ga-mo- ri- Montgomery",Người đàn ông của chúng tôi ở Havana,0.0,literature,True
+Phong cách lãnh đạo và phong cách cá nhân của Chủ tịch Hồ Chí Minh,Tình cảm của người dân Việt Nam đối với Chủ tịch Hồ Chí Minh,0.4137931034482759,literature,True
+Phương châm về hình ảnh],Phương châm lịch sự,0.4444444444444445,literature,False
+Chiến tranh.,Chiến tranh hạt nhân.,0.6666666666666666,literature,True
+"Người phụ nữ xinh đẹp, tài giỏi, nết na; người phụ nữ khát khao hạnh phúc gia đình; người phụ nữ chịu nỗi oan khuất nghiệt ngã.","Người phụ nữ có tài ăn nói, nết na; người phụ nữ khát khao hạnh phúc gia đình; người phụ nữ chịu nỗi oan khuất nghiệt ngã.",0.8888888888888888,literature,False
+Những ngày không gặp nhau/ Biển bạc đầu thương nhớ /Những ngày xa cách nhau /Lòng thuyền đau rạn vỡ.,"Cha mẹ cho em sang chuyến đò nghiêng /Thuyền chòng chành đôi mạn, em ôm duyên trở về.",0.0526315789473684,literature,True
+Nguyễn Huy Tú,Lê Hữu Trác,0.0,literature,False
+"Là một vị vua tài giỏi, dũng cảm, thông minh và có khả năng lãnh đạo xuất sắc.","Trí tuệ sáng suốt, mẫn cán, điều binh khiển tướng tài tình.",0.0666666666666666,literature,True
+Nghĩa Hán Việt vì đây là từ mượn],Nghĩa gốc chỉ mùa xuân,0.1538461538461538,literature,True
+"Từ một tác phẩm thơ ca của Nguyễn Du, được viết vào thế kỷ 18.",Từ cuộc đời một người con gái có tên là Tiểu Thanh.,0.1481481481481481,literature,True
+"Tác phẩm cũng phản ánh sâu sắc hiện thực xã hội đương thời với bộ mặt tàn bạo của tầng lớp thống trị và lễ giáo phong kiến khắc nghiệt đã đẩy người phụ nữ vào cảnh oan trái, tàn khốc.","Tác phẩm cũng thể hiện rõ số phận của những con người bị áp bức, đặc biệt là số phận bi kịch của người phụ nữ.",0.2388059701492537,literature,True
+"Có vẻ đẹp hình dáng bên ngoài và có sự thông minh, sắc sảo.]","Có tài cầm, kì, thi, họa.",0.1,literature,True
+"Thể hiện vẻ đẹp riêng của mùa xuân: mới mẻ tinh khôi, giàu sức sống, khoáng đạt, trong trẻo, nhẹ nhàng thanh khiết.",Màu sắc cảnh xuân có sự hài hoà đến tuyệt diệu.,0.0588235294117647,literature,True
+"Không gian, thời gian khép kín nhấn mạnh tình cảnh cô đơn, buồn bã của Thúy Kiều.","Kiều bị giam lỏng ở lầu Ngưng Bích, không gian xung quanh quạnh vắng, cô đơn, trơ trọi.",0.2285714285714285,literature,True
+"Thể hiện sự đau khổ, tuyệt vọng và buồn rầu của Kiều khi bị bắt bán làm vợ cho Mã Giám Sinh.","Nói lên tâm trạng buồn bã, lo âu của Kiều.",0.1874999999999999,literature,True
+"Thể hiện sự báo đáp công bằng và công lí trong cuộc sống, qua đó thể hiện tinh thần nhân văn và nhân đạo của tác giả.","Thể hiện sự hèn nhát, nhu nhược của Thúc Sinh.",0.2162162162162162,literature,True
+So sánh],Nói quá,0.0,literature,True
+Miêu tả hành động của Trịnh Hâm khi phát hiện ra Vân Tiên đang bị đe dọa.,Miêu tả cảnh mọi người cứu Lục Vân Tiên.,0.3076923076923076,literature,True
+Trong kháng chiến chống Mĩ,Sau đại thắng mùa xuân năm 1975,0.0,literature,True
+"Có vẻ đẹp của sự hi sinh, hy sinh vì Tổ quốc",Có những niềm vui sôi nổi của tuổi trẻ trong tình đồng đội,0.16,literature,True
+Thơ kể,Nghị luận,0.0,literature,True
+So sánh],Nhân hóa,0.0,literature,True
+"Sự đấu tranh giữa con người và thiên nhiên, cũng như cuộc sống và cái chết]",Người trí thức,0.1052631578947368,literature,True
+Cô gái],Tác giả,0.0,literature,True
+"Thật sự bất ngờ, ngạc nhiên và vui sướng khi thấy đứa con trai đang chơi trước sân nhà","Ân hận vì đã xa nhà quá lâu, không chăm sóc cho vợ con",0.0606060606060606,literature,True
+Nguyễn Duy],Xuân Diệu,0.0,literature,True
+Thơ lục bát,Song thất lục bát,0.5714285714285715,literature,True
+Những người ở cùng nhà],Những người ở cùng một làng.,0.7272727272727272,literature,False
+1976,1976,1.0,literature,True
+Biện luận so sánh kết hợp với bình luận],Bình luận.,0.3636363636363636,literature,True
+"Câu ""Ngày mai tôi phải đi xa rồi"" không có thành phần gọi - đáp vì nó không có câu hỏi.","Ngủ ngoan a-kay ơi, ngủ ngoan a-kay hỡi!",0.0,literature,True
+"Vũ Khoan, nhà hoạt động chính trị","Vũ Khoan, nhà văn nổi tiếng",0.4615384615384615,literature,True
+Biểu tượng cho sự kiên nhẫn và vượt qua khó khăn],Biểu tượng cho cuộc sống khó nhọc trước kia,0.3999999999999999,literature,False
+"Hình ảnh chó sói và cừu trong thơ La Phông-ten chỉ là một hình ảnh đơn giản, không mang bóng dáng cuộc sống con người.]",La Phông-ten không chỉ dựa vào đặc tính chủng loại mà còn dùng tưởng tượng phóng khoáng và lòng thương cảm để miêu tả chó sói và cừu.,0.1509433962264151,literature,True
+"Các đoạn văn phải được liên kết với nhau bằng các yếu tố như từ đồng nghĩa, từ đối lập, từ chỉ thời gian, không gian, sự kiện,...",Các đoạn văn trong văn bản cũng như các câu trong một đoạn văn phải liên kết chặt chẽ với nhau về nội dung và hình thức.,0.2909090909090909,literature,True
+Cảm xúc về vẻ đẹp và sự đơn giản của mùa xuân,Cảm xúc về thời điểm lịch sử đáng nhớ của dân tộc,0.3333333333333333,literature,True
+Nguyễn Tuân,Trần Đăng Khoa,0.0,literature,True
+Sông Hồng.,Sông Trường Giang.,0.4,literature,True
+Cuộc sống đời thường và tình yêu đôi lứa],Chiến tranh.,0.0,literature,True
+"Là thành phần chính trong câu, thường chỉ về các bản chất, hành động, tính chất, đặc điểm của sự vật, sự việc.",Kể về các câu chuyện có chưa các nhân vật dân gian hư cấu.,0.1621621621621621,literature,True
+Suốt từ chiều hôm qua],Nước,0.0,literature,True
+5,4,0.0,literature,False
+Là các từ có cấu trúc bằng phương pháp ghép 2 từ hoặc hơn hai từ lại với nhau.,Là từ do một tiếng có nghĩa tạo nên.,0.2142857142857142,literature,True
+Mỏng manh,Lùm dứa dại,0.0,literature,True
+"Yên ả, trong lành, mát mẻ và rất đẹp.","Nóng nực, yên tĩnh.",0.1538461538461538,literature,True
+Nguyễn Tuân.,Thế Lữ.,0.0,literature,True
+"đưa mùi hương ngọt lan ra, phảng phất khắp rừng",gió đưa mùi,0.3076923076923076,literature,True
+từ ghép,từ láy,0.5,literature,True
+"tạo ra cảm giác phong phú và đa dạng về cảm nhận của người đọc, giúp họ hình dung và cảm nhận được vẻ đẹp của hoa tràm.",miêu tả cây tràm,0.0625,literature,True
+"bầu trời đêm trong sáng, lấp lánh bởi những ngôi sao đang làm việc chăm chỉ.",bầu trời đen không trăng và nhiều mây,0.1666666666666666,literature,True
+"chiếc vó bằng vàng cất những mẻ tôm, cua",đen và ít sao.,0.0,literature,True
+Truyện về cuộc sống khó khăn và hy vọng của trẻ em],truyện về gia đình,0.25,literature,True
+vần chân.,vần ôm,0.5,literature,True
+"Trở nên u buồn, cô đơn và mất đi niềm tin vào giấc mơ giảng đường đại học]","giản dị, khắc khổ",0.0,literature,True
+"là biện pháp tu từ dùng để miêu tả sự vật, hiện tượng, khái niệm một cách quá mức, phóng đại, nhằm tạo ấn tượng mạnh mẽ và sâu sắc hơn.","là biện pháp tu từ dùng sự vật, sự việc này đối chiếu với sự vật, sự việc khác có nét tương đồng nhằm tăng thêm sức gợi hình, gợi tả trong cách biểu đạt.",0.2727272727272727,literature,True
+Biện pháp tu từ nói thẳng nói thật,Biện pháp tu từ liệt kê,0.5714285714285715,literature,False
+"Câu nói dân gian thường được sử dụng để diễn đạt một chân lý, nguyên tắc hay kinh nghiệm sống",Nước chảy đá mòn,0.0,literature,True
+"Câu tục ngữ ""Ăn quả nhớ kẻ trồng cây"" nói về việc ghi nhớ và đánh giá những đóng góp của người khác, không trực tiếp nói về kinh nghiệm trong lao động sản xuất.","Ăn kĩ no lâu, cày sâu tốt lúa",0.0465116279069767,literature,True
+Thuyết minh],Miêu tả,0.0,literature,True
+Hãy biết biết quý trọng con người hơn của cải,Đừng nên coi trọng của cải,0.3749999999999999,literature,True
+Người ta là hoa của đất,"Người làm ra của, của không làm ra người",0.2666666666666666,literature,True
+"Dù khó khăn, chúng ta vẫn phải giữ gìn phẩm giá và trong sạch]","Khi đói cần giữ cho quần áo sạch sẽ, thơm tho",0.16,literature,True
+Mô tả một hiện tượng thiên nhiên.,Gia đình là điểm tựa của mỗi người. Ý kiến của em về vấn đề này,0.0,literature,True
+Xác định mối quan hệ giữa câu tục ngữ và thực tế cuộc sống],Vì sao nhân dân ta lại khuyên phải thương người như thể thương thân?,0.0,literature,True
+Thơ,Thuyết minh,0.0,literature,False
+Lòng yêu nước có thể biểu hiện rõ ràng hoặc âm thầm kín đáo,Ca ngợi lòng yêu nước là các thứ của quý,0.25,literature,True
+Giúp người đọc nhận thức được tinh thần yêu nước của nhân dân ta.,"Bố cục chặt chẽ, rành mạch",0.0,literature,True
+"Tất cả các câu đều đặc biệt vì chúng đều có cấu trúc và nội dung đơn giản, gần gũi với cuộc sống của trẻ em]",Hai,0.0,literature,False
+"Chứng minh mối quan hệ giữa việc ăn quả và nhớ người trồng cây, hoặc chỉ ra ý nghĩa của câu tục ngữ này.]",Giải thích câu tục ngữ,0.2068965517241379,literature,True
+Nguyễn Văn Đạo,Hoài Thanh,0.0,literature,True
+"Thể hiện sự tự hào, yêu mến và khát vọng bảo vệ tiếng Việt",Tự sự,0.125,literature,True
+"Hôm sau, mới tờ mờ sáng]",Không có,0.0,literature,True
+Câu mở rộng thành phần],Câu rút gọn,0.25,literature,True
+Thảo luận,Phân tích,0.0,literature,True
+Thầy giáo đã được học sinh khen,Nó được mẹ dắt đi chơi,0.1538461538461538,literature,True
+Công dụng của văn chương],Nguồn gốc của văn chương,0.6,literature,False
+18,7,0.0,literature,True
+9,11,0.0,literature,True
+7,6,0.0,literature,False
+Bà mẹ uống nước mưa trong cái sọ dừa rồi bà có mang.,Bà mẹ uống nước mưa trong bầu nước rồi bà có mang.,0.8,literature,False
+Lê Lợi,Nghĩa quân Lam Sơn,0.0,literature,True
+Giải thích nguồn gốc tên gọi Hồ Gươm và ý nghĩa của nó],Về mối quan hệ giữa Lê Lợi và Lê Thận,0.0869565217391304,literature,True
+Màu sắc,Đi đứng,0.0,literature,True
+"Cảm giác vui vẻ, hứng khởi và phấn chấn như trong dịp Tết nguyên đán.",Vui vì thấy cảnh vật có sự thay đổi,0.0833333333333333,literature,True
+"trời đất, không gì, hạt gạo]",1,0.0,literature,False
+"Bánh chưng và bánh giầy được làm từ gạo và các nguyên liệu khác, không liên quan đến Lang Liêu nằm mộng thấy vị thần.]",Lang Liêu lên ngôi vua.,0.1333333333333333,literature,True
+Từ đơn là từ gồm một tiếng.,Từ đơn là từ có nhiều hơn hai tiếng,0.6250000000000001,literature,False
+"Bất chấp, dũng cảm.","Tinh tế, vị tha.",0.0,literature,True
+Ăn quả nhớ kẻ trồng cây,"Có công mài sắt, có ngày nên kim.",0.0,literature,True
+"Xác định cảm xúc, thái độ của vua quan khi nghe sứ thần trình bày mục đích cuộc đi sứ.",Xác định cách thức.,0.1666666666666666,literature,True
+So sánh],Ẩn dụ,0.0,literature,True
+"Bức chân dung của con người Việt Nam kiên cường, bất khuất","Bức chân dung của con người Việt Nam chịu thương, chịu khó.",0.6666666666666666,literature,False
+Hình ảnh],Nhân hóa,0.0,literature,False
+Dế Mèn và Dế Choắt cùng ăn uống.,Dế Choắt bị chị Cốc mổ.,0.2857142857142857,literature,True
+Cụm tính từ (đẹp rạng ngời là cụm tính từ mở rộng vị ngữ),Cụm động từ,0.2352941176470588,literature,False
+Người chơi bóng đá giỏi.,Đôi chân,0.0,literature,False
+"Dựa trên mối quan hệ tương đồng giữa các sự vật, hiện tượng.","Dựa trên mối quan hệ tương phản giữa các sự vật, hiện tượn",0.8461538461538461,literature,False
+Lầm lũi,Bữa tối,0.0,literature,True
+"Văn miêu tả không chỉ bộc lộ rõ tâm trạng của người, vật được miêu tả mà còn giúp người đọc hình dung được những đặc điểm nổi bật của một sự vật, sự việc, con người.",Bộc lộ rõ năng lực quan sát của người viết,0.2127659574468085,literature,True
+Màu xanh lá cây],Màu xanh lá mạ,0.75,literature,True
+Nguyễn Huy Tưởng,Nguyễn Duy,0.4,literature,True
+Sáng,Tối,0.0,literature,True
+Trăng bập bùng như [ánh đèn] đêm đông.,Trăng sáng dịu dàng như ánh sáng của ngọn đèn đường,0.4210526315789474,literature,True
+"Lời người em, ngôi thứ nhất","Lời người dẫn truyện, ngôi thứ hai",0.6153846153846153,literature,False
+Tả cảnh sông nước miền Tây,Tả cảnh quan vùng cực nam của Tổ quốc,0.2666666666666666,literature,True
+"Nhân hóa thiên nhiên (nhân hóa chòm sao, sao)",Cả 3 đáp án trên,0.0,literature,True
+Trong thời kì kháng chiến chống thực dân Pháp ở Việt Nam (1946-1954),Khi đất nước hòa bình,0.0,literature,True
+Thể bát nhã,Thể tứ tuyệt,0.3333333333333333,literature,True
+Ẩn dụ chuyển đổi cảm giác,Ẩn dụ phẩm chất,0.4,literature,True
+Biểu cảm kết hợp với tự sự và miêu tả,Biểu cảm,0.3333333333333333,literature,True
+"Biểu tượng sự kiên cường, quyết tâm và lòng yêu nước của người lao động trước thiên tai","Bố là người dũng cảm, can trường",0.08,literature,True
+Phép hoán dụ lấy cái cụ thể để gọi tên cái trừu tượng,Phép hoán dụ lấy vật chứa đựng để gọi vật bị chứa đựng,0.4615384615384615,literature,False
+"Lấy cụ thể để chỉ trừu tượng (hoán dụ ở đây là lấy cụ thể để chỉ trừu tượng, cụ thể là ""trái tim lớn lao"" và ""khối óc lớn"" để chỉ trừu tượng là ""con người"")",Lấy dấu hiệu để gọi đối tượng,0.1363636363636363,literature,True
+Thể tự sự,Thể truyện ngắn,0.3333333333333333,literature,True
+"Đi học là động từ trong câu ""Đi học là niềm vui của trẻ em"".",Nắng e ấp trên các cành cây còn ướt đẫm hơi sương.,0.0,literature,True
+Bình dị],Giản dị,0.5,literature,True
+"Câu kể hoặc câu hành động, vì nó mô tả một hành động cụ thể của nhân vật.]",Có một con ếch sống lâu trong giếng cạn,0.074074074074074,literature,True
+Thiếu tính từ hoặc trạng ngữ để mô tả tính từ,Thiếu cả chủ ngữ và vị ngữ,0.2222222222222222,literature,True
+"Câu chuyện thường có yếu tố siêu nhiên, kì ảo, hoặc không thể xảy ra trong thực tế",Nhân vật xuất hiện theo hàng trạng nhân vật,0.0,literature,True
+"Đề cao vai trò của thần linh trong việc cứu giúp con người và bài học nhân sinh về chính – tà, thiện ác]","Ca ngợi tinh thần khảng khái, cương trực, dám đấu tranh chống lại cái ác trừ hại cho dân",0.0930232558139535,literature,True
+Truyện cổ,Cổ tích,0.5,literature,True
+Thần thoại về các vị thần; Thần thoại về các vị anh hùng; Thần thoại về các hiện tượng thiên nhiên,Thần thoại suy nguyên; Thần thoại về các vị anh hùng,0.5625,literature,False
+Thời gian tuần hoàn,Thời gian cụ thể,0.5,literature,True
+Các vị thần hoặc các nhân vật siêu nhiên khác,Bán thần,0.1666666666666666,literature,True
+"Câu chuyện phức tạp, đa dạng và phong phú","Giá trị nội dung, tư tưởng",0.0,literature,False
+Truyện cổ,Truyện thơ,0.5,literature,True
+Văn bản thần thoại,Truyện ngụ ngôn,0.0,literature,True
+"Ông Đếm sao, ông Tát bể, ông Kể sao, ông Đào sông, ông Xây rú, ông Trụ Trời","Ông Tát bể, ông Kể sao, ông Đào sông, ông Xây rú, ông Trụ Trời",0.9090909090909092,literature,False
+Ngọc Hoàng,Trời,0.0,literature,True
+Đều mang tính giáo dục và có thể có yếu tố huyền bí,"Đều sử dụng ngôn ngữ có vần, nhịp",0.1904761904761905,literature,True
+Thần thoại,Truyện thơ,0.0,literature,True
+Khi ra tù,Trong tù ở Thái Lan,0.25,literature,True
+Những người đàn ông,Chiếc lư đồng mắt cua,0.0,literature,True
+"Sử dụng ngôn ngữ nghệ thuật, hình ảnh, chi tiết để thể hiện nội dung và tạo ra hiệu ứng nghệ thuật","Khắc họa tính cách nhân vật - nhân vật được dựng lên bằng bút pháp lý tưởng hóa cảm hứng lãng mạn, ngôn ngữ giàu tính tạo hình",0.1224489795918367,literature,True
+"Thể hiện quan niệm về cái đẹp, khẳng định sự bất tử của cái đẹp]","Khắc họa thành công hình tượng Huấn Cao – một con người tài hoa, có cái tâm trong sáng và khí phách hiên ngang bất khuất",0.0975609756097561,literature,True
+So sánh,Chứng minh,0.0,literature,True
+"Bài văn nghị luận tác phẩm phải có sự khách quan, không được mang tính cá nhân quá mức và không được chỉ trích tác giả.","Bài nghị luận về một tác phẩm truyện ( hoặc đoạn trích) cần có bố cục mạch lạc, có lời văn chính xác, gợi cảm",0.24,literature,True
+5 phần,5 phần,1.0,literature,False
+Tóm tắt nội dung chính của tác phẩm (hoặc đoạn trích) để giúp người đọc hiểu rõ hơn về nội dung và ý nghĩa của tác phẩm.,Khẳng định giá trị của tác phẩm,0.1764705882352941,literature,True
+"Ba nhóm: thần thoại phương Đông, thần thoại phương Tây và thần thoại Ấn Độ]",1,0.0,literature,True
+"Thần thoại suy nguyên, thần thoại sáng tạo, thần thoại địa lý","Thần thoại sáng tạo, thần thoại anh hùng",0.6,literature,False
+"Người mới tham gia một lĩnh vực hoặc hoạt động nào đó, thường trong bối cảnh quân sự hoặc thể thao.",Con người mới,0.1666666666666666,literature,True
+Bốn,Bốn,1.0,literature,False
+vững âu vàng,Ngựa đá,0.0,literature,True
+"Thi nhân, hậu đãi","Hậu tạ, cường quốc, thiên thư, tái phạm",0.1666666666666666,literature,True
+Là những từ được cấu tạo bằng cách kết hợp yếu tố Hán Việt và yếu tố Việt,Cả A và B đều đúng,0.0833333333333333,literature,True
+"Bài văn nghị luận tác phẩm truyện hoặc đoạn trích không phải là trình bày những nhận xét, đánh giá của mình về tác giả, thời gian, địa điểm sáng tác tác phẩm","Những nhận xét, đánh gái phải xuất phát từ nội dung và tính cách, số phận nhân vật, và nghệ thuật trong tác phẩm",0.2105263157894737,literature,True
+5 phần,5 phần,1.0,literature,False
+"Tạo sự tò mò, thu hút người đọc và dẫn dắt người đọc vào nội dung của bài viết.",Tất cả các phương án trên,0.0,literature,True
+"Tóm tắt lại nội dung và ý nghĩa của tác phẩm, đồng thời nêu được ý kiến đánh giá của người viết về tác phẩm.",Nêu các luận điểm chính về nội dung và nghệ thuật,0.1666666666666666,literature,True
+Trình bày rõ ý kiến của tác giả,Vận dụng các phép lập luận phù hợp,0.0,literature,True
+Giới thiệu về tác phẩm Lão Hạc,Giới thiệu về Lão Hạc,0.8333333333333333,literature,False
+"Mô tả tác phẩm (tác giả, thời gian, địa điểm, bối cảnh, nhân vật, cốt truyện,...)","Phân tích, chứng minh bằng các luận cứ tiêu biểu và xác thực",0.0,literature,True
+"Có tính khoa học, khách quan và phù hợp với nội dung của bài viết.",Phải tìm những nhận xét của các chuyên gia để đưa vào bài làm,0.1379310344827586,literature,True
+"Cảm hứng, ý nghĩa, giá trị nghệ thuật, chủ đề, vấn đề tác phẩm]",Chủ đề,0.25,literature,True
+"Tóm tắt lại nội dung và nghệ thuật của tác phẩm, nêu ý nghĩa của tác phẩm",Giới thiệu tác phẩm và ý kiến đánh giá sơ bộ,0.2142857142857142,literature,True
+"Một trong những nhà văn hóa, chính trị nổi tiếng của Việt Nam, được biết đến với vai trò là nhà thơ, nhà sử học và nhà chính trị trong thời kỳ nhà Hồ và nhà Lê sơ thế kỷ 15.",Hy Văn,0.0465116279069767,literature,True
+Nguyễn Trãi đỗ tiến sĩ dưới triều Trần,Thân mẫu là Trần Thị Thái - con quan Tư đồ Trần Nguyên Đán,0.0952380952380952,literature,True
+Lê Lợi,Nguyễn Huệ,0.0,literature,True
+"Bài văn nghị luận được vua chúa, thủ lĩnh dùng để công bố những việc trọng đại đến muôn dân",Bài văn nghị luận được viết bằng văn biền ngẫu có độ dài và dung lượng lớn,0.2702702702702702,literature,True
+(1) – (2) – (3) – (4),(1) – (4) – (2) – (3),0.7142857142857143,literature,False
+"Bài văn nghị luận được vua chúa, thủ lĩnh dùng để công bố những việc trọng đại đến muôn dân]","Bài văn nghị luận được vua chúa, thủ lĩnh dùng để công bố một việc, một vấn đề gì đó",0.7,literature,False
+Chủ trương xâm lược và áp bức,Tội ác của giặc,0.0,literature,True
+"Tuyên truyền và cổ vũ tinh thần yêu nước, kêu gọi nhân dân tham gia cuộc kháng chiến chống quân Minh",Tố cáo tội ác của quân xâm lược,0.0689655172413793,literature,True
+Lúc tác giả đang ra sức giúp vua Lê xây dựng đất nước,Khi cuộc kháng chiến chống quân Minh vừa kết thúc thắng lợi,0.0,literature,True
+Bạch Liên],Tụng giá hoàn kinh sư,0.0,literature,True
+Dẽ có Ngu cầm đàn một tiếng là muốn có cây đàn của vua Ngu để đánh một tiếng đàn.,Thật là khó để có được cây đàn của vua Ngu,0.4516129032258064,literature,False
+"Người có trách nhiệm, có đạo đức và có lòng nhân ái",Người đại diện chính nghĩa,0.1176470588235294,literature,True
+"Người có tư tưởng và cá tính hiện thực, lãng mạn.",Người có khả năng tưởng tượng độc đáo,0.3157894736842105,literature,True
+Hạnh phúc,Thong thả,0.0,literature,True
+Hạnh phúc và xúc động],Thanh đã nhớ đến đến câu chuyện của tuổi thơ ngày mà Thanh thường hay chơi dưới gốc nhặt hoa,0.0,literature,True
+"Khi nhìn thấy Nga đang mặc áo có hình hoa hoàng lan, Thanh đã nghĩ đến Nga và gọi vui vẻ",Kỷ niệm đáng nhớ là ngày cả hai cùng nhặt hoàng lan rơi: Thanh hỏi cô Nga có còn hay đi nhặt hoàng lan rơi nữa không,0.1666666666666666,literature,True
+"Cây hoàng lan tượng trưng cho sự giàu có, thịnh vượng và quyền lực, trong khi bóng của nó tượng trưng cho sự che chở, bảo vệ và sự an toàn.]","Đây là loài cây có trong vườn nhà Thanh, gắn với tuổi thơ của Thanh. “Dưới bóng hoàng lan” là dưới gốc cây ấy, trong làn hương hoa ấy, có người bà vẫn yêu thương Thanh, có cô Nga",0.1142857142857143,literature,True
+Việt Nam,Việt Nam,1.0,literature,True
+Nguyễn Tuân],Bunin,0.0,literature,True
+Truyện cười,Nghị luận,0.0,literature,True
+Loài người,Đa dạng sinh học,0.0,literature,True
+"Một năm (khoảng 365,25 ngày)",Hai năm rưỡi,0.25,literature,True
+"Trái Đất sẽ trở thành một hành tinh vô sinh, không có sự sống",Trái Đất sẽ biến thành sao Hỏa,0.3809523809523809,literature,True
+Cải lương,Tuồng,0.0,literature,False
+Tính cộng đồng và tương tác,Tính biểu cảm,0.2222222222222222,literature,True
+Đạo Nho giáo,Đạo Hòa Hảo,0.3333333333333333,literature,True
+Tín ngưỡng dân gian,Tín ngưỡng thờ Thành Hoàng,0.4444444444444445,literature,False
+Bà Nguyễn Thi,Ông Đào Duy Từ,0.0,literature,True
+"Biểu trưng cho sự trung thực, trung thành và có trách nhiệm",Biểu trưng cho sự sống lâu,0.4444444444444444,literature,False
+Di truyền và văn hóa,Lịch sử,0.0,literature,True
+Việt Nam,Brazil,0.0,literature,True
+Cáo Lấm],Bunin,0.0,literature,True
+"Hình ảnh rừng, núi, sông, biển, v.v.]",Ngôi nhà là hình ảnh được sử dụng để nói về mối quan hệ giữa con người và không tự nhiên,0.1428571428571428,literature,False
+Việt Nam,Brazil,0.0,literature,True
+Puskin],Bunin,0.0,literature,True
+Sự lựa chọn trong cuộc sống,Chiều hướng,0.0,literature,True
+"Nhan đề Con đường không chọn tạo được ấn tượng, làm cho người đọc tò mò, đồng thời tạo tính gợi cho nội dung bài thơ, như một cách thể hiện tình cảm, cảm xúc với con đường mà mình cũng rất muốn chọn, rất muốn đi nhưng đã không chọn nó","Nếu đặt tên là Con đường tôi chọn, người đọc sẽ có cảm nhận bài thơ mang tính cá nhân mà không phổ quát",0.2368421052631578,literature,True
+"Giới thiệu hai lựa chọn khác nhau cho người đọc, thể hiện sự linh hoạt và đa dạng trong cuộc sống]","“Tiếc rằng ta không thể chọn cả hai” nên nhà thơ sau khi “đứng một thời gian dài” đã chọn lối gần là con “đường nhiều cỏ, lối mòn như chưa có”",0.0377358490566037,literature,True
+"Ngỗng mẹ dẫn đàn con đi dạo chơi, sau đó có trận mưa đá đổ xuống và ngỗng mẹ che phủ đàn con của mình.",Một con cáo tấn công đàn con,0.1875,literature,True
+"Đàn ngỗng con chạy đến bên mẹ, nhưng quên cả hỏi mẹ xem có chuyện gì, chỉ có một chú ngỗng bé bỏng hỏi thăm mẹ]",Dẫn ngỗng mẹ đi gặp bác sĩ,0.1212121212121212,literature,True
+"Mẹ là người luôn yêu thương, bảo vệ chúng ta nên chúng ta phải biết quan tâm, chăm sóc mẹ, đáp lại tình thương đó]",Không cần quan tâm đến cảm xúc của người khác,0.1142857142857142,literature,True
+"đặc điểm của ngỗng mẹ sau khi che phủ đàn con của mình là [ướt đẫm, lông rụng tả tơi]","xanh non, thấp, chạy nhảy, bé nhỏ",0.0,literature,True
+Vàng ươm],"Chăm sóc, ngôi nhà, quan tâm, chăm chỉ",0.0,literature,True
+Mùa đông],Mùa xuân,0.5,literature,True
+],Xà xuống,0.0,literature,True
+Những dải sỏi cuội nhẵn nhụi và sạch sẽ,Những dải sỏi cuội dính đất,0.5333333333333333,literature,True
+Khua lao xao trước khi từ giã thân mẹ đơn sơ,Khua xào xạc trước khi từ giã thân mẹ đơn sơ,0.8181818181818182,literature,True
+Những tàu lá vắt vẻo mềm mại như cái đuôi mèo,Những tàu lá vắt vẻo mềm mại như cái đuôi gà,0.9090909090909092,literature,True
+Mặc dù thời tiết mùa đông khắc nghiệt nhưng cảnh làng Dạ vẫn đẹp và đầy sức sống],Cảnh làng Dạ đẹp và đầy sức sống trong mùa xuân,0.5517241379310345,literature,True
